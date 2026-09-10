@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 10:32",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ບິນຢາມິນ ມາລູກ ຊີມາຣິຢາ.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "ບິນຢາມິນ"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "ມາລູກ"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "ຊີມາຣິຢາ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:29:26.098239599Z",
+  "model": "glm-5.3"
+}

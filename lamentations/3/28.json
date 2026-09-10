@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ຈົ່ງນັ່ງຢູ່ໂດດດ່ຽວ ແລະຈົ່ງເງຽບເພາະວ່າມັນຖືກວາງໃສ່ເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "ຈົ່ງນັ່ງ"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "ໂດດດ່ຽວ"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "ແລະຈົ່ງເງຽບ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະວ່າ"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "ມັນຖືກວາງ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ໃສ່ເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:42:55.341792769Z",
+  "model": "glm-5.3"
+}

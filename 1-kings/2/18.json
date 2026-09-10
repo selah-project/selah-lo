@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະບາດເຊບາກ່າວວ່າ: ດີ, ຂ້ອຍຈະເວົ້າເພື່ອເຈົ້າຕໍ່ກະສັດ.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ແລະນາງກ່າວ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ບາດ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ເຊບາ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ຂ້ອຍ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ຈະເວົ້າ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ເພື່ອເຈົ້າ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ກະສັດ"
+    }
+  ],
+  "timestamp": "2026-09-10T00:04:41.071053376Z",
+  "model": "glm-5.3"
+}

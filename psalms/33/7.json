@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 33,
+  "translation": "ເພິ່ນຮວບຮວມນ້ຳຂອງທະເລເປັນກອງ ເພິ່ນວາງນ້ຳເລິກໄວ້ໃນຄັງ.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "ຜູ້ຮວບຮວມ"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "ຄືກອງ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ຂອງທະເລ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ຜູ້ວາງໄວ້"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "ໃນຄັງ"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ນ້ຳເລິກ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:00:13.615786729Z",
+  "model": "glm-5.3"
+}

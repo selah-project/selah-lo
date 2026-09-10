@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ຮູບຮ່າງຂອງສັດທຸກໂຕທີ່ຢູ່ໃນແຜ່ນດິນໂລກ ຮູບຮ່າງຂອງນົກປີກທຸກໂຕທີ່ບິນຢູ່ໃນຟ້າສະຫວັນ",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "ຮູບຮ່າງຂອງ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ສັດ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ຢູ່ໃນແຜ່ນດິນໂລກ"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ຮູບຮ່າງຂອງ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ນົກ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ປີກ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "ບິນ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ຢູ່ໃນຟ້າສະຫວັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:55:10.937600563Z",
+  "model": "glm-5.3"
+}

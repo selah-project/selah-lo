@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ແລະໂກເຮນອອກຈາກເຮືອນໄປທາງປະຕູຂອງເຮືອນ ແລະປິດ⟨את⟩ເຮືອນໄວ້ເຈັດວັນ.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ແລະໂກເຮນອອກ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ໂກເຮນ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ເຮືອນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ໄປທາງ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ປະຕູ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ຂອງເຮືອນ"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ແລະປິດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເຮືອນ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ເຮືອນ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ເຈັດ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ວັນ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:27:26.300131771Z",
+  "model": "glm-5.3"
+}

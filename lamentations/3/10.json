@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ເພິ່ນ⟨ເປັນ⟩ໝີທີ່ແອບຮ້ອງຕໍ່ຂ້ອຍ ສິງຢູ່ໃນບ່ອນລັບ.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "ໝີ"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "ແອບຮ້ອງ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ຕໍ່ຂ້ອຍ"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ສິງ"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "ໃນບ່ອນລັບ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:23:33.020035924Z",
+  "model": "glm-5.3"
+}

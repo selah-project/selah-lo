@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ໃນປີທີ່ກະສັດອາຄາສ ຕາຍ ຄຳທຳນາຍອັນນີ້ໄດ້ມາ",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ໃນປີ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ຄວາມຕາຍຂອງ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ອາຄາສ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ໄດ້ມາ"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "ຄຳທຳນາຍອັນນີ້"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ນີ້"
+    }
+  ],
+  "timestamp": "2026-09-08T23:20:55.600782896Z",
+  "model": "glm-5.3"
+}

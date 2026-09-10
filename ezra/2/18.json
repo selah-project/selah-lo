@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 2:18",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ລູກຫຼານຂອງໂຢຣາ ໜຶ່ງຮ້ອຍສິບສອງຄົນ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "ໂຢຣາ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ໜຶ່ງຮ້ອຍ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ແລະສິບ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສອງ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:17:54.616108572Z",
+  "model": "glm-5.3"
+}

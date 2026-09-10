@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 26:31",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ແລະອັດຣິເອນ ວົງອັດຣິເອນ; ແລະເຊເຄມ ວົງເຊເຄມ.",
+  "tokens": [
+    {
+      "surface": "ואשריאל",
+      "gloss": "ແລະອັດຣິເອນ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ວົງ"
+    },
+    {
+      "surface": "האשראלי",
+      "gloss": "ອັດຣິເອນ"
+    },
+    {
+      "surface": "ושכם",
+      "gloss": "ແລະເຊເຄມ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ວົງ"
+    },
+    {
+      "surface": "השכמי",
+      "gloss": "ເຊເຄມ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:27:22.764769001Z",
+  "model": "glm-5.3"
+}

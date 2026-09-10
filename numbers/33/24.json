@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 33:24",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 33,
+  "translation": "ແລະພວກເຂົາໄດ້ອອກຈາກພູເຊັບເຟນ ແລະພວກເຂົາຕັ້ງຄ່າຍຢູ່ຮາຣາດ.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ໄດ້ອອກຈາກ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ຈາກພູ"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "ເຊັບເຟນ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ຕັ້ງຄ່າຍ"
+    },
+    {
+      "surface": "בחרדה",
+      "gloss": "ຢູ່ຮາຣາດ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:12:31.084859284Z",
+  "model": "glm-5.3"
+}

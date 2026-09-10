@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 27:44",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 27,
+  "translation": "ແລະຢູ່ກັບເພິ່ນບາງວັນ ຈົນວາຄວາມໂກດຂອງອ້າຍເຈົ້າກັບຄືນ.",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "ຢູ່ກັບ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ບາງວັນ"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "ຈຳນວນໜຶ່ງ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ຈົນວາ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ເມື່ອ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ກັບຄືນ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ຄວາມໂກດ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ຂອງອ້າຍເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:45:05.949999400Z",
+  "model": "glm-5.3"
+}

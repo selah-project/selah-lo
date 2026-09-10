@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 27:26",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 27,
+  "translation": "ແລະເໜືອພວກເຮັດວຽກໃນທົ່ງນາເພື່ອການນາດິນ ມີເອຊຣີນະລູກຂອງກະລູບ",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ແລະເໜືອ"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ພວກເຮັດ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ວຽກ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ໃນທົ່ງນາ"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "ເພື່ອການນາ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ດິນ"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ເອຊຣີ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ນະລູກຂອງ"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "ກະລູບ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:49:37.831357772Z",
+  "model": "glm-5.3"
+}

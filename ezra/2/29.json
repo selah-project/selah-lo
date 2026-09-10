@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezra 2:29",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ລູກຫຼານຂອງນີໂບ ຫ້າສິບແລະສອງຄົນ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "ນີໂບ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ຫ້າສິບ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ແລະສອງ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:16:17.454727957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 30:22",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ແລະຢາເວກ່າວຕໍ່ໂມເຊວ່າ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ແລະເພິ່ນກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:55:31.910988577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 7:9",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ເມກສິ້ນໄປແລະໄປຄືຜູ້ລົງເຊໂອນບໍ່ຈະຂຶ້ນອີກ.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "ສິ້ນໄປ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ເມກ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ແລະໄປ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ຄື"
+    },
+    {
+      "surface": "יורד",
+      "gloss": "ຜູ້ລົງ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ເຊໂອນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ຈະຂຶ້ນອີກ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:08:26.515418593Z",
+  "model": "glm-5.3"
+}

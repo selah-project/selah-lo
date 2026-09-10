@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 9:13",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ແລະນ້ຳໜັກຂອງຄຳທີ່ມາຫາເຊໂລໂມໃນໜຶ່ງປີແມ່ນຫົກຮ້ອຍຫົກສິບຫົກກ້ອນຄຳ",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະເປັນ"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "ນ້ຳໜັກ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ຂອງຄຳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ມາ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ຫາເຊໂລໂມ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ໃນປີ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ຫົກ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ແລະຫົກສິບ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ແລະຫົກ"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "ກ້ອນ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ຄຳ"
+    }
+  ],
+  "timestamp": "2026-09-09T10:06:05.437921552Z",
+  "model": "glm-5.3"
+}

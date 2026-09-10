@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ໄດ້ໃຫ້ກຳນິດລູກຊາຍແກ່ເພິ່ນ⟨את⟩ເຢູຊແລະ⟨את⟩ເຊມາຣິຢາແລະ⟨את⟩ຊາຮາມ.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ໄດ້ໃຫ້ກຳນິດ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ແກ່ເພິ່ນ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ລູກຊາຍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເຢູຊ"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "ເຢູຊ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ເຊມາຣິຢາ"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "ເຊມາຣິຢາ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ຊາຮາມ"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "ຊາຮາມ"
+    }
+  ],
+  "timestamp": "2026-09-09T10:07:57.179723962Z",
+  "model": "glm-5.3"
+}

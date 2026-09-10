@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 22,
+  "translation": "ຈົ່ງຢ່າໃຫ້ຜູ້ເວດມົນຕີມີຊີວິດ.",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "ຜູ້ເວດມົນຕີ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ໃຫ້ມີຊີວິດ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:46:08.957902054Z",
+  "model": "glm-5.3"
+}

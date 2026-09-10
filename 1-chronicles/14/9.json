@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 14:9",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ມິດສະຣາຢິມມາ ແລະຂະຫຍາຍຕົວໃນຮ່ອມພູຣະຟາອິມ.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "ມິດສະຣາຢິມ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ມາ"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "ແລະຂະຫຍາຍຕົວ"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ໃນຮ່ອມພູ"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "ຣະຟາອິມ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:29:15.997864333Z",
+  "model": "glm-5.3"
+}

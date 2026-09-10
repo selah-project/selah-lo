@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 23:4",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ຢ່າອິດເມື່ອຍທີ່ຈະຮັ່ງມີ ຈົງຢຸດຈາກຄວາມຄິດຂອງເຈົ້າ",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תיגע",
+      "gloss": "ອິດເມື່ອຍ"
+    },
+    {
+      "surface": "להעשיר",
+      "gloss": "ທີ່ຈະຮັ່ງມີ"
+    },
+    {
+      "surface": "מבינתך",
+      "gloss": "ຈາກຄວາມຄິດຂອງເຈົ້າ"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "ຈົງຢຸດ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:52:25.161571154Z",
+  "model": "glm-5.3"
+}

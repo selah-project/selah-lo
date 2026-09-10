@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ຄົນໂງ່ກອດ⟨את⟩ມືຂອງເພິ່ນແລະກິນ⟨את⟩ເນື້ອຂອງເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "ຄົນໂງ່"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "ກອດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ມືຂອງເພິ່ນ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ມືຂອງເພິ່ນ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ແລະກິນ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເນື້ອຂອງເພິ່ນ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ເນື້ອຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:22:51.969444336Z",
+  "model": "glm-5.3"
+}

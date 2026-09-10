@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 2:27",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ຊາຍຄົນຂອງມິກມາດ ໜຶ່ງຮ້ອຍຊາວສອງຄົນ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ຊາຍຄົນຂອງ"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "ມິກມາດ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ໜຶ່ງຮ້ອຍ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ຊາວ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ສອງ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:17:14.858850734Z",
+  "model": "glm-5.3"
+}

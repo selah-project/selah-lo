@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 40:1",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 40,
+  "translation": "ແລະຢາເວຕອບ⟨את⟩ອິຢູບແລະກ່າວວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ແລະຕອບ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ອິຢູບ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ອິຢູບ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະກ່າວວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:50:38.349306147Z",
+  "model": "glm-5.3"
+}

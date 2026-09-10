@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 27:20",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 27,
+  "translation": "ເດດານ ເປັນພໍ່ຄ້າຂອງເຈົ້າ ໃນພົມຜ້າ ສຳລັບຂີ່.",
+  "tokens": [
+    {
+      "surface": "דדן",
+      "gloss": "ເດດານ"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "ເປັນພໍ່ຄ້າຂອງເຈົ້າ"
+    },
+    {
+      "surface": "בבגדי",
+      "gloss": "ໃນຜ້າປູ"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "ພົມ"
+    },
+    {
+      "surface": "לרכבה",
+      "gloss": "ສຳລັບຂີ່"
+    }
+  ],
+  "timestamp": "2026-09-09T17:47:00.600379797Z",
+  "model": "glm-5.3"
+}

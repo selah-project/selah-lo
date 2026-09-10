@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 2:18",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ດ້ວຍວ່າ ເຮືອນຂອງນາງໄດ້ຕົກລົງສູ່ຄວາມຕາຍ ແລະທາງຂອງນາງ ສູ່ຣາຟາອິມ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ດ້ວຍວ່າ"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "ໄດ້ຕົກລົງ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ສູ່"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ຄວາມຕາຍ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ເຮືອນຂອງນາງ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ແລະສູ່"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "ຣາຟາອິມ"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "ທາງຂອງນາງ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:27:33.922385107Z",
+  "model": "glm-5.3"
+}

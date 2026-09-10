@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 16:11",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 16,
+  "translation": "ແລະຢາເວກ່າວຕໍ່ໂມເຊວ່າ",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ແລະກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-10T01:53:34.562486724Z",
+  "model": "glm-5.3"
+}

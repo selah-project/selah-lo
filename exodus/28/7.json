@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 28:7",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ສອງຫົວບ່າຕໍ່ກັນ ເປັນຂອງມັນ ຕໍ່ສອງຂອບຂອງມັນ ແລະຖືກຕໍ່ກັນ.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "ຫົວບ່າ"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "ຕໍ່ກັນ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ເປັນ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ຂອງມັນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "ຂອບຂອງມັນ"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "ແລະຖືກຕໍ່ກັນ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:53:50.029120780Z",
+  "model": "glm-5.3"
+}

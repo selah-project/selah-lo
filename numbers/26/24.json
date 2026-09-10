@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 26:24",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ຂອງຢາຊູບ ຕະກູນຢາຊູບິ ຂອງຊິມຣອນ ຕະກູນຊິມຣອນິ.",
+  "tokens": [
+    {
+      "surface": "לישוב",
+      "gloss": "ຂອງຢາຊູບ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ຕະກູນ"
+    },
+    {
+      "surface": "הישובי",
+      "gloss": "ຢາຊູບິ"
+    },
+    {
+      "surface": "לשמרן",
+      "gloss": "ຂອງຊິມຣອນ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ຕະກູນ"
+    },
+    {
+      "surface": "השמרני",
+      "gloss": "ຊິມຣອນິ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:25:05.358376243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 24:26",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ລູກຫຼານຂອງເມຣາຣິຄືມາຄະລີແລະມູຊິ; ລູກຫຼານຂອງຢາອາຊິຢາຫູຄືບີໂນ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "ເມຣາຣິ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "ມາຄະລີ"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "ແລະມູຊິ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "יעזיהו",
+      "gloss": "ຢາອາຊິຢາຫູ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ບີໂນ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:17:57.768595892Z",
+  "model": "glm-5.3"
+}

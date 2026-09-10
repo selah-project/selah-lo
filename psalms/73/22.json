@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 73,
+  "translation": "ແລະຂ້ອຍຂຽບ ແລະບໍ່ຮູ້ ຂ້ອຍ⟨ເປັນ⟩ສັດຢູ່ກັບເຈົ້າ.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ແລະຂ້ອຍ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ຂຽບ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ຮູ້"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "ສັດ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "⟨ເປັນ⟩"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ຢູ່ກັບເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:31:44.917710028Z",
+  "model": "glm-5.3"
+}

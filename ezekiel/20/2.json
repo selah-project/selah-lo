@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 20:2",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ແລະຄຳຂອງຢາເວໄດ້ມາຫາຂ້ອຍເພື່ອກ່າວວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະເກີດຂຶ້ນ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຂອງຢາເວ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ມາຫາຂ້ອຍ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ເພື່ອກ່າວວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T01:21:53.095032451Z",
+  "model": "glm-5.3"
+}

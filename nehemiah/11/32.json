@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 11:32",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ອານາໂທດ ໂນບ ອານານະຢາ",
+  "tokens": [
+    {
+      "surface": "ענתות",
+      "gloss": "ອານາໂທດ"
+    },
+    {
+      "surface": "נב",
+      "gloss": "ໂນບ"
+    },
+    {
+      "surface": "ענניה",
+      "gloss": "ອານານະຢາ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:55:12.197245102Z",
+  "model": "glm-5.3"
+}

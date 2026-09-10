@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ຈົນຢາເວທອດເບິ່ງລົງມາແລະເຫັນຈາກຟ້າສະຫວັນ.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ຈົນ"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "ທອດເບິ່ງລົງມາ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ແລະເຫັນ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ຈາກຟ້າສະຫວັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:08:51.329499429Z",
+  "model": "glm-5.3"
+}

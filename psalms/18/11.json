@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 18,
+  "translation": "ແລະເພິ່ນຂີ່ຄູບຢູ່ເທິງເຄຣູບແລະບິນ ແລະເພິ່ນລອຍຢູ່ເທິງປີກຂອງລົມ.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "ແລະຂີ່"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຢູ່ເທິງ"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "ເຄຣູບ"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "ແລະບິນ"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "ແລະລອຍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຢູ່ເທິງ"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "ປີກຂອງ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ລົມ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:46:50.029426473Z",
+  "model": "glm-5.3"
+}

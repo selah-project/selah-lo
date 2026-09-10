@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 8:1",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະບິນດາດຊູຮີໄດ້ຕອບແລະເວົ້າວ່າ",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ແລະໄດ້ຕອບ"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "ບິນດາດ"
+    },
+    {
+      "surface": "השוחי",
+      "gloss": "ຊູຮີ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະເວົ້າວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:11:51.084018420Z",
+  "model": "glm-5.3"
+}

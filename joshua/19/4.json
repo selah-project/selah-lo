@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ແລະເອນໂທລາດ ແລະເບທູນ ແລະຮອຣມາ.",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "ແລະເອນໂທລາດ"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "ແລະເບທູນ"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "ແລະຮອຣມາ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:39:22.598534160Z",
+  "model": "glm-5.3"
+}

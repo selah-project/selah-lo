@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ພາລະທີ່ຮາບາກຖຸກຜູ້ພະຍາກສາເຫັນໃນນິມິດ.",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "ພາລະ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ເຫັນໃນນິມິດ"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "ຮາບາກຖຸກ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ຜູ້ພະຍາກສາ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:00:22.406369267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 12:17",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ຂອງອາບິຢາ ຊິຄຣີ; ຂອງມິນິຢາມິນ ຂອງໂມອາດິຢາ ປິນໄຕ.",
+  "tokens": [
+    {
+      "surface": "לאביה",
+      "gloss": "ຂອງອາບິຢາ"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "ຊິຄຣີ"
+    },
+    {
+      "surface": "למנימין",
+      "gloss": "ຂອງມິນິຢາມິນ"
+    },
+    {
+      "surface": "למועדיה",
+      "gloss": "ຂອງໂມອາດິຢາ"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "ປິນໄຕ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:05:52.715541005Z",
+  "model": "glm-5.3"
+}

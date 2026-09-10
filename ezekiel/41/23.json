@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 41:23",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 41,
+  "translation": "ແລະມີສອງປະຕູສຳລັບວິຫານ ແລະສຳລັບສະຖານບໍລິສຸດ.",
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "ແລະສອງ"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ປະຕູ"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "ສຳລັບວິຫານ"
+    },
+    {
+      "surface": "ולקדש",
+      "gloss": "ແລະສຳລັບສະຖານບໍລິສຸດ"
+    }
+  ],
+  "timestamp": "2026-09-09T01:54:54.408992051Z",
+  "model": "glm-5.3"
+}

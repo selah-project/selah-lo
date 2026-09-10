@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ຂອງສັນລາຍ ຄັນລາຍ ຂອງອາໂມກ ເອເບຣ.",
+  "tokens": [
+    {
+      "surface": "לְסַלַּ֥י",
+      "gloss": "ຂອງສັນລາຍ"
+    },
+    {
+      "surface": "קַלָּ֖י",
+      "gloss": "ຄັນລາຍ"
+    },
+    {
+      "surface": "לְעָמ֥וֹק",
+      "gloss": "ຂອງອາໂມກ"
+    },
+    {
+      "surface": "עֵֽבֶר",
+      "gloss": "ເອເບຣ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:09:10.500317860Z",
+  "model": "glm-5.3"
+}

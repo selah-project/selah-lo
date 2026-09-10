@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 16:7",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 16,
+  "translation": "ທູດອົງໜຶ່ງຂອງຢາເວພົບນາງຢູ່ທີ່ນ້ຳພຸໜຶ່ງໃນກາງຫາວ ຢູ່ທີ່ນ້ຳພຸນັ້ນໃນທາງໄປຊູຣ.",
+  "tokens": [
+    {
+      "surface": "וימצאה",
+      "gloss": "ພົບນາງ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ທູດ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຢູ່ທີ່"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ນ້ຳພຸ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ຂອງນ້ຳ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ໃນກາງຫາວ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຢູ່ທີ່"
+    },
+    {
+      "surface": "העין",
+      "gloss": "ນ້ຳພຸ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ໃນທາງ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ຊູຣ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:28:59.433773731Z",
+  "model": "glm-5.3"
+}

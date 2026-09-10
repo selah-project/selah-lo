@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ຢ່າກິນ⟨את⟩ອາຫານຂອງຄົນຕາຊົ່ວ ແລະຢ່າປາຖະໜາຕໍ່ອາຫານແຊບຂອງເພິ່ນ",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "ກິນ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ອາຫານຂອງຄົນຕາຊົ່ວ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ອາຫານ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ຊົ່ວ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ຕາ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ແລະຢ່າ"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ປາຖະໜາ"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "ຕໍ່ອາຫານແຊບຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:16:50.465608381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ຈົ່ງຈື່⟨את⟩ວັນຊັບບາດ ເພື່ອວາງບໍລິສຸດ.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ຈົ່ງຈື່"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ວັນຊັບບາດ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ຊັບບາດ"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ເພື່ອວາງບໍລິສຸດ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:43:02.248925042Z",
+  "model": "glm-5.3"
+}

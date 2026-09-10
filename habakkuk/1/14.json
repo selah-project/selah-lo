@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 1:14",
+  "book": "habakkuk",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ແລະເຈົ້າເຮັດມະນຸດໃຫ້ເປັນຄືປາຂອງທະເລ ຄືສັດທີ່ຄານ ທີ່ບໍ່ມີຜູ້ປົກຄອງມັນ.",
+  "tokens": [
+    {
+      "surface": "ותעשה",
+      "gloss": "ແລະເຈົ້າເຮັດ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ມະນຸດ"
+    },
+    {
+      "surface": "כדגי",
+      "gloss": "ຄືປາ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ຂອງທະເລ"
+    },
+    {
+      "surface": "כרמש",
+      "gloss": "ຄືສັດທີ່ຄານ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ຜູ້ປົກຄອງ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T22:59:26.598267798Z",
+  "model": "glm-5.3"
+}

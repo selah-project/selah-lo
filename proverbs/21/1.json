@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ຫຼາຍນ້ຳນ້ອຍ, ໃຈຂອງກະສັດ⟨ເປັນ⟩ຢູ່ໃນມືຂອງຢາເວ ຕໍ່ທັງໝົດທີ່ເພິ່ນປະສົງ ເພິ່ນໂນ້ມມັນ.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "ຫຼາຍນ້ຳນ້ອຍ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ໃຈ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ໃນມື"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "ປະສົງ"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "ໂນ້ມມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:48:51.050512840Z",
+  "model": "glm-5.3"
+}

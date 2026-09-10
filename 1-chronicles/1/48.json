@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 1:48",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ແລະສາມລາຕາຍ ແລະຊາອູນຈາກຣີໂຮໂບທຂອງແມ່ນ້ຳຄອງແທນເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ແລະຕາຍ"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "ສາມລາ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ແລະຄອງ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ແທນເພິ່ນ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ຊາອູນ"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "ຈາກຣີໂຮໂບທ"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ຂອງແມ່ນ້ຳ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:31:22.573209657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 93,
+  "translation": "ບັນລັງຂອງເຈົ້າຕັ້ງຄົງແຕ່ນັ້ນ ແຕ່ໄພສານເຈົ້າຢູ່",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ຕັ້ງຄົງ"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ບັນລັງຂອງເຈົ້າ"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ແຕ່ນັ້ນ"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ແຕ່ໄພສານ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ເຈົ້າຢູ່"
+    }
+  ],
+  "timestamp": "2026-09-09T04:50:47.760206642Z",
+  "model": "glm-5.3"
+}

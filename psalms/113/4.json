@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 113,
+  "translation": "ຢາເວສູງເໜືອຊົນຊາດທັງຫຼາຍ ແລະສະຫງ່າຂອງເພິ່ນເໜືອຟ້າສະຫວັນ.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "ສູງ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງຫຼາຍ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ຊົນຊາດ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ຟ້າສະຫວັນ"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ສະຫງ່າຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:59:27.325292950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ຢ່າເຄື່ອນເສ້ນກຳນົດໂບຮານ ແລະຢ່າເຂົ້າໄປໃນທົ່ງນາຂອງເດັກກຳພອີ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "ເຈົ້າຈະເຄື່ອນ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ເສ້ນກຳນົດ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ໂບຮານ"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "ແລະໃນທົ່ງນາຂອງ"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "ເດັກກຳພອີ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ເຂົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:51:19.990649191Z",
+  "model": "glm-5.3"
+}

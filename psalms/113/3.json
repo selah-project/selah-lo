@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 113,
+  "translation": "ຈາກຕາເວັນອອກຮອດການຕົກຂອງມັນ ຊື່ຂອງຢາເວຄວນສົມສູງ.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "ຈາກຕາເວັນອອກ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ດວງອາທິດ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ຮອດ"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "ການຕົກຂອງມັນ"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "ຄວນສົມສູງ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ຊື່"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:59:27.323334074Z",
+  "model": "glm-5.3"
+}

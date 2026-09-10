@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ນົກຂອງຟ້າສະຫວັນ ແລະປາຂອງທະເລ ຜູ້ທີ່ຜ່ານທາງຂອງທະເລ.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "ນົກ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ຟ້າສະຫວັນ"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "ແລະປາ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ທະເລ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ຜູ້ທີ່ຜ່ານ"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ທາງ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ທະເລ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:25:32.163527186Z",
+  "model": "glm-5.3"
+}

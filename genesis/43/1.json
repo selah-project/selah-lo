@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 43,
+  "translation": "ຄວາມອຶດຫຍຸ້ງໜັກຢູ່ໃນແຜ່ນດິນ.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "ແລະຄວາມອຶດຫຍຸ້ງ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ໜັກ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ໃນແຜ່ນດິນ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:05:23.098306860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ເພາະຜູ້ທີ່ສືບຫາເລືອດຈື່⟨את⟩ພວກເຂົາ ບໍ່ລືມສຽງຮ້ອງຂອງຄົນທຸກຍາກ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ສືບຫາ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ເລືອດ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ພວກເຂົາ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ຈື່"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "ລືມ"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "ສຽງຮ້ອງ"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ຄົນທຸກຍາກ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:42:27.516411415Z",
+  "model": "glm-5.3"
+}

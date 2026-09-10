@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ເອເຊຣຜູ້ນຳ ໂອບາດຢາທີສອງ ເອລີອາບທີສາມ.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "ເອເຊຣ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ຜູ້ນຳ"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "ໂອບາດຢາ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ທີສອງ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ເອລີອາບ"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "ທີສາມ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:23:55.679124903Z",
+  "model": "glm-5.3"
+}

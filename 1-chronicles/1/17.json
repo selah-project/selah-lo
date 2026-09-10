@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 1:17",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ລູກຂອງເຊມ ເຢລາມ ອັດຊູຣ ອາຣະພັກຊັດ ລູດ ອາຣາມ ອູດ ໂຮນ ເກທຣ ແລະມີຊັກ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ເຊມ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ເຢລາມ"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "ອັດຊູຣ"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "ອາຣະພັກຊັດ"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "ລູດ"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "ອາຣາມ"
+    },
+    {
+      "surface": "ועוץ",
+      "gloss": "ອູດ"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "ໂຮນ"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "ເກທຣ"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "ແລະມີຊັກ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:03:24.971058268Z",
+  "model": "glm-5.3"
+}

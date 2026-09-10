@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 61,
+  "translation": "ຈົ່ງເພີ່ມວັນເທິງວັນຂອງກະສັດ ປີຂອງເພິ່ນຄືຊົ່ວລຸ້ນແລະຊົ່ວລຸ້ນ.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ວັນຂອງ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "ຈົ່ງເພີ່ມ"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "ປີຂອງເພິ່ນ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ຄື"
+    },
+    {
+      "surface": "דר",
+      "gloss": "ຊົ່ວລຸ້ນ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ແລະຊົ່ວລຸ້ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:43:24.117767778Z",
+  "model": "glm-5.3"
+}

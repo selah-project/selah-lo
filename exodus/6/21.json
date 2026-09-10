@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ແລະລູກຊາຍຂອງຢິດສະຮາຣ: ໂຄຣາຮ ນະເຟັກ ແລະຊິກຣີ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ແລະລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ຢິດສະຮາຣ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ໂຄຣາຮ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "ນະເຟັກ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "ແລະຊິກຣີ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:20:37.673068513Z",
+  "model": "glm-5.3"
+}

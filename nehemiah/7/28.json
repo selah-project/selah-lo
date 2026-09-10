@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ຜູ້ຊາຍຂອງບິດອາຊະມາວທ ສີ່ສິບແລະສອງຄົນ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ຜູ້ຊາຍຂອງ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ບິດ"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "ອາຊະມາວທ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ສີ່ສິບ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ແລະສອງ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:47:05.807300902Z",
+  "model": "glm-5.3"
+}

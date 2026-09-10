@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 26:17",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ຄືຄົນຈັບໃບຫູຂອງຫົວ, ຄົນຜ່ານເຂົ້າໄປຍຸດຕໍ່ຄວາມຂັດແຍ່ງທີ່ບໍ່ແມ່ນຂອງໃນເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "מחזיק",
+      "gloss": "ຈັບ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ໃບຫູຂອງ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ຫົວ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ຜ່ານ"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "ເຂົ້າໄປຍຸດ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ຄວາມຂັດແຍ່ງ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ໃນເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:55:45.786129033Z",
+  "model": "glm-5.3"
+}

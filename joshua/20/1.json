@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ແລະຢາເວເວົ້າກັບເຢໂຮຊູອາ (ໂຢຊວຍ) ວ່າ",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ແລະເວົ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ເຢໂຮຊູອາ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:41:39.577711746Z",
+  "model": "glm-5.3"
+}

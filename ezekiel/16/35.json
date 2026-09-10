@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 16,
+  "translation": "ດັ່ງນັ້ນ ແມ່ຂານໂຕ ຈົ່ງຟັງຄໍາຂອງຢາເວ.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ດັ່ງນັ້ນ"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "ແມ່ຂານໂຕ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ຈົ່ງຟັງ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄໍາ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T01:16:18.063915378Z",
+  "model": "glm-5.3"
+}

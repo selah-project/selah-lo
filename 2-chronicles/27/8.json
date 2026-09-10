@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 27:8",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 27,
+  "translation": "ອາຍຸຊາວຫ້າປີເພິ່ນມີໃນຕອນຂຶ້ນຄອງ ແລະສິບຫົກປີເພິ່ນຄອງຢູ່ເຢຣູຊາລາຢິມ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ອາຍຸ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ຊາວ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ແລະຫ້າ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ເພິ່ນມີ"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ໃນຕອນຂຶ້ນຄອງ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ແລະຫົກ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ເພິ່ນຄອງ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ຢູ່ເຢຣູຊາລາຢິມ"
+    }
+  ],
+  "timestamp": "2026-09-10T00:33:24.139661757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 7:18",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ໃນວັນທີສອງ ນາທານເອນລູກຊາຍຂອງສຸອາຣ ຫົວໜ້າຂອງຢິສະຊາກາຣ ໄດ້ຖວາຍ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ໃນວັນ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ທີສອງ"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "ໄດ້ຖວາຍ"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "ນາທານເອນ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "ສຸອາຣ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ຫົວໜ້າ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ຢິສະຊາກາຣ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:59:11.447233429Z",
+  "model": "glm-5.3"
+}

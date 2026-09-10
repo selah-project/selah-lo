@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ຢ່າຂ້າຄົນ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ຢ່າບໍ່"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "ຂ້າຄົນ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:44:07.097165443Z",
+  "model": "glm-5.3"
+}

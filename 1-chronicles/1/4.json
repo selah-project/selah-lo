@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 1:4",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ໂນາຮ, ເຊມ, ຮາມ ແລະຢາເຟທ.",
+  "tokens": [
+    {
+      "surface": "נח",
+      "gloss": "ໂນາຮ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ເຊມ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ຮາມ"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "ແລະ ຢາເຟທ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:02:34.314651859Z",
+  "model": "glm-5.3"
+}

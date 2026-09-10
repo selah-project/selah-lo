@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ໃນເພງພວກເຂົາບໍ່ດື່ມເຫຼົ້າ ເຫຼົ້າແຮງຈະຂົມຂື່ນຕໍ່ຜູ້ດື່ມມັນ.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "ໃນເພງ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "ດື່ມ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ເຫຼົ້າ"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "ຈະຂົມຂື່ນ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ເຫຼົ້າແຮງ"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "ຕໍ່ຜູ້ດື່ມມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T16:29:07.483429755Z",
+  "model": "glm-5.3"
+}

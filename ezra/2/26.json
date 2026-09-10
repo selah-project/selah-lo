@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 2:26",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ລູກຫຼານຂອງຮາມາ ແລະກາບອາ ຫົກຮ້ອຍຊາວໜຶ່ງຄົນ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "ຮາມາ"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "ແລະກາບອາ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ຫົກ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ຊາວ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ໜຶ່ງ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:17:14.858723415Z",
+  "model": "glm-5.3"
+}

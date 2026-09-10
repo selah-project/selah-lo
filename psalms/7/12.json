@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ເອໂລຮິມຜູ້ພິພາກຊອບທຳ ແລະເອນຜູ້ໃຫ້ຄວາມໂກດເກງໃນທຸກວັນ.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ເອໂລຮິມ"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "ຜູ້ພິພາກ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ຊອບທຳ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ແລະ ເອນ"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ຜູ້ໃຫ້ຄວາມໂກດເກງ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ໃນທຸກ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ວັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:32:33.425769903Z",
+  "model": "glm-5.3"
+}

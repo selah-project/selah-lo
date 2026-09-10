@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ຈົ່ງຍົກຫົວໃຈຂອງພວກເຮົາຕໍ່ຝາມືທັງສອງ ຕໍ່ເອນຢູ່ຟ້າສະຫວັນ",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "ຈົ່ງຍົກ"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "ຫົວໃຈຂອງພວກເຮົາ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "ຝາມືທັງສອງ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເອນ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ຢູ່ຟ້າສະຫວັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:42:45.166707280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 69,
+  "translation": "ເອໂລຮິມຈົ່ງຊ່ວຍຂ້ອຍ ຍ້ອນວ່ານ້ຳໄດ້ມາຮອດຊີວິດ.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "ຈົ່ງຊ່ວຍຂ້ອຍ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ເອໂລຮິມ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ຍ້ອນວ່າ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ໄດ້ມາ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ຮອດ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ຊີວິດ"
+    }
+  ],
+  "timestamp": "2026-09-10T01:11:33.689491316Z",
+  "model": "glm-5.3"
+}

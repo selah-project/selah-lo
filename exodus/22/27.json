@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 22,
+  "translation": "ຈົ່ງຢ່າດ່າຕິເອໂລຮິມ ແລະຈົ່ງຢ່າສາບາດນາຍໃນປະຊາຊົນຂອງເຈົ້າ.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ເອໂລຮິມ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "ດ່າຕິ"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ແລະນາຍ"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "ໃນປະຊາຊົນຂອງເຈົ້າ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ສາບາດ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:43:13.973613127Z",
+  "model": "glm-5.3"
+}

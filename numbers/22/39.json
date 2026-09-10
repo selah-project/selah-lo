@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 22:39",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 22,
+  "translation": "ບິລອາມໄປກັບບາລາກ ແລະພວກເຂົາມາຮອດຄິຣຢາດຫູໂຊດ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ໄປ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ບິລອາມ (ບາລາມ)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ບາລາກ (ບາລັກ)"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ແລະພວກເຂົາມາຮອດ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ຄິຣຢາດ"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "ຫູໂຊດ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:55:43.029411520Z",
+  "model": "glm-5.3"
+}

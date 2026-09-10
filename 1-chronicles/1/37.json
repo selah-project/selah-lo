@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 1:37",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ລູກຊາຍຂອງຣະອູເອນ: ນາຮັດ ເຊຣາກ ຊາມາ ແລະມີຊາ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "ຣະອູເອນ"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ນາຮັດ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ເຊຣາກ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ຊາມາ"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "ແລະມີຊາ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:01:09.296050654Z",
+  "model": "glm-5.3"
+}

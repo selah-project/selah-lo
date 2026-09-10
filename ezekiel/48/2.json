@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 48,
+  "translation": "ແລະຕິດກັບຊາຍແດນຂອງດານ ຈາກຂອບທິດຕາເວັນອອກ ຈົນເຖິງຂອບທິດທະເລ ອາເຊີ ໜຶ່ງ.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ແລະຕິດກັບ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ຊາຍແດນຂອງ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ດານ"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ຈາກຂອບທິດ"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ຕາເວັນອອກ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ຈົນເຖິງ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ຂອບທິດ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ທະເລ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ອາເຊີ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    }
+  ],
+  "timestamp": "2026-09-09T02:08:17.926487163Z",
+  "model": "glm-5.3"
+}

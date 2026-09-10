@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແຕ່ເຮົາໄດ້ຕັ້ງກະສັດຂອງເຮົາເທິງຊີໂອນ ພູບູຊາຂອງເຮົາ.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ແຕ່ເຮົາ"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "ໄດ້ຕັ້ງ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ກະສັດຂອງເຮົາ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ຊີໂອນ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ພູ"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ບູຊາຂອງເຮົາ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:03:43.926473183Z",
+  "model": "glm-5.3"
+}

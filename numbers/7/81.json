@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "numbers 7:81",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ວັບໜຶ່ງໂຕ ລູກຂອງຝູງໂຕ, ແກະຜູ້ໜຶ່ງໂຕ, ລູກແກະໜຶ່ງໂຕ ລູກຂອງປີໜຶ່ງ, ເປັນເຜົາບູຊາ.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ວັບ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ຂອງຝູງໂຕ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ແກະຜູ້"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ລູກແກະ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ຂອງປີ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ເປັນເຜົາບູຊາ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:04:12.548107253Z",
+  "model": "glm-5.3"
+}

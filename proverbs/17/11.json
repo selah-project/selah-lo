@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 17:11",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 17,
+  "translation": "ແທ້ແທ້ ຄວາມກະບົດຊອກຫາຄວາມຊົ່ວ ແລະທູດອົງດຸລົນຖືກສົ່ງໄປໃສ່ເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ແທ້ແທ້"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "ຄວາມກະບົດ"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ຊອກຫາ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ຄວາມຊົ່ວ"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "ແລະທູດອົງ"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "ດຸລົນ"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ສົ່ງ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ໃສ່ເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:41:22.030271095Z",
+  "model": "glm-5.3"
+}

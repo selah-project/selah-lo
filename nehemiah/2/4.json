@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 2:4",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະກະສັດກ່າວແກ່ຂ້ອຍວ່າ: ເຈົ້າຂໍຫຍັງ ແລະຂ້ອຍອະທິຖານຕໍ່ເອໂລຮິມຂອງຟ້າສະຫວັນ",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະເພິ່ນກ່າວ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ແກ່ຂ້ອຍ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເຖິງ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ຫຍັງ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ເຈົ້າ"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ຂໍ"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "ແລະຂ້ອຍອະທິຖານ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ເອໂລຮິມ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ຂອງຟ້າສະຫວັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:35:38.284787961Z",
+  "model": "glm-5.3"
+}

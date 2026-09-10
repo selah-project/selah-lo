@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 13:9",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ຕະກູນບິນຢາມິນ: ປັລຕິລູກຊາຍຂອງຣາຟູ.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ຕະກູນ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ບິນຢາມິນ"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "ປັລຕິ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "רפוא",
+      "gloss": "ຣາຟູ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:07:41.147956159Z",
+  "model": "glm-5.3"
+}

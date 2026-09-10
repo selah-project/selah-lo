@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ຄຳສອນສຳນຶກຂອງເຊໂລໂມລູກຂອງດາວິດກະສັດຂອງອິສະຣາເອນ.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "ຄຳສອນສຳນຶກ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ເຊໂລໂມ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ດາວິດ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:25:41.343745427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 7:22",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ແລະຢາເວກ່າວຕໍ່ໂມເຊວ່າ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ແລະກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-10T01:01:49.903757828Z",
+  "model": "glm-5.3"
+}

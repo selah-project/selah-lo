@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ແລະໂນອາ (ໂນອາ) ໄດ້ເຮັດຕາມທັງພວກທີ່ຢາເວໄດ້ສັ່ງເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ແລະໄດ້ເຮັດ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ໂນອາ (ໂນອາ)"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ຕາມທັງພວກ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ໄດ້ສັ່ງເພິ່ນ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T10:59:38.513100443Z",
+  "model": "glm-5.3"
+}

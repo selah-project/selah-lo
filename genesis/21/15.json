@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ນ້ຳໝົດຈາກຖົງໜັງ ນາງກໍຖິ້ມ⟨את⟩ເດັກນ້ອຍໄວ້ຂ້າງໜຶ່ງໃນພຸ່ມໄມ້.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "ໝົດແລ້ວ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "ຖົງໜັງ"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "ນາງຖິ້ມ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເດັກນ້ອຍ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ເດັກນ້ອຍ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ຂ້າງຂ້າງໃຕ້"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງໃນ"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "ພຸ່ມໄມ້"
+    }
+  ],
+  "timestamp": "2026-09-08T16:26:56.940482663Z",
+  "model": "glm-5.3"
+}

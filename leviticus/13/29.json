@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ແລະຖ້າຜູ້ຊາຍຫຼືຜູ້ຍິງມີແຜໃນຫົວຫຼືໃນໜວດ",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ແລະຜູ້ຊາຍ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ຜູ້ຍິງ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ວ່າຖ້າ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ໃນຕົວຂອງເພິ່ນ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ແຜ"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "ໃນຫົວ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "ໃນໜວດ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:29:46.571209091Z",
+  "model": "glm-5.3"
+}

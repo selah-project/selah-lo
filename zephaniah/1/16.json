@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ວັນຂອງແຂນເປົ່າແລະສຽງອຸທະຫານ ຕໍ່ເມືອງທີ່ມີກຳແພງ ແລະຕໍ່ຫໍຄອຍສູງ.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ແຂນເປົ່າ"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "ແລະສຽງອຸທະຫານ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ເມືອງ"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "ທີ່ມີກຳແພງ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ແລະຕໍ່"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "ຫໍຄອຍ"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "ສູງ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:05:07.783236737Z",
+  "model": "glm-5.3"
+}

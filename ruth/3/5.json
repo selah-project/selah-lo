@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ນາງເວົ້າກັບນາງວ່າ ທຸກຢ່າງທີ່ເຈົ້າເວົ້າ ຂ້ອຍເຮັດ.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ນາງເວົ້າ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ກັບນາງ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກຢ່າງ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "ເຈົ້າເວົ້າ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ຂ້ອຍເຮັດ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:02:10.937089111Z",
+  "model": "glm-5.3"
+}

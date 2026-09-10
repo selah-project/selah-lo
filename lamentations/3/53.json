@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ພວກເຂົາຕັດຊີວິດຂອງຂ້ອຍໃນຂຸມ ແລະພວກເຂົາຖິ້ມຫີນໃສ່ຂ້ອຍ.",
+  "tokens": [
+    {
+      "surface": "צָֽמְת֤וּ",
+      "gloss": "ພວກເຂົາຕັດ"
+    },
+    {
+      "surface": "בַבּוֹר֙",
+      "gloss": "ໃນຂຸມ"
+    },
+    {
+      "surface": "חַיָּ֔י",
+      "gloss": "ຊີວິດຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "וַיַּדּ֖וּ",
+      "gloss": "ແລະພວກເຂົາຖິ້ມ"
+    },
+    {
+      "surface": "אֶ֖בֶן",
+      "gloss": "ຫີນ"
+    },
+    {
+      "surface": "בִּֽי",
+      "gloss": "ໃສ່ຂ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:42:59.833639338Z",
+  "model": "glm-5.3"
+}

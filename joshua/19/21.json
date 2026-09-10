@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ແລະຣາເມດ ແລະເອນກັນິມ ແລະເອນຮັດດາ ແລະເບດພັດເສດ.",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "ແລະຣາເມດ"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ແລະເອນ"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "ກັນິມ"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ແລະເອນ"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "ຮັດດາ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ແລະເບດ"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "ພັດເສດ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:40:02.959097483Z",
+  "model": "glm-5.3"
+}

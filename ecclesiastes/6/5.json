@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ກວ່ານີ້ດວງຕາເວັນກໍບໍ່ເຄີຍເຫັນ ແລະບໍ່ເຄີຍຮູ້ ຄວາມສະບາຍຂອງອັນນີ້ຫຼາຍກວ່າອັນນັ້ນ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ກວ່ານີ້"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ດວງຕາເວັນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ເຄີຍເຫັນ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ເຄີຍຮູ້"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ຄວາມສະບາຍ"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "ຂອງອັນນີ້"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ຫຼາຍກວ່າອັນນັ້ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:28:16.060465806Z",
+  "model": "glm-5.3"
+}

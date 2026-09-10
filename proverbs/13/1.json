@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ລູກຊາຍຜູ້ມີປັນຍາຟັງການຕັດເຕືອນຂອງພໍ່ ແຕ່ຜູ້ປະທະປະທານບໍ່ຟັງຄຳຕຳນານ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ຜູ້ມີປັນຍາ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ການຕັດເຕືອນ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ຂອງພໍ່"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "ແຕ່ຜູ້ປະທະປະທານ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ຟັງ"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "ຄຳຕຳນານ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:39:46.994198402Z",
+  "model": "glm-5.3"
+}

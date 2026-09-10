@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 22:26",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 22,
+  "translation": "ແລະຢາເວກ່າວກັບໂມເຊວ່າ",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ແລະຢາເວກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:40:33.387058610Z",
+  "model": "glm-5.3"
+}

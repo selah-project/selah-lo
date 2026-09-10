@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 9:13",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ແມ່ຍິງຂອງຄວາມໂງ່ອຶກອັກ, ງ່າຍຕໍ່ການລໍ່ລວ່າງ ແລະບໍ່ຮູ້ຫຍັງ.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "ແມ່ຍິງ"
+    },
+    {
+      "surface": "כסילות",
+      "gloss": "ຂອງຄວາມໂງ່"
+    },
+    {
+      "surface": "המיה",
+      "gloss": "ອຶກອັກ"
+    },
+    {
+      "surface": "פתיות",
+      "gloss": "ງ່າຍຕໍ່ການລໍ່ລວ່າງ"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "ຮູ້"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ຫຍັງ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:33:32.604197930Z",
+  "model": "glm-5.3"
+}

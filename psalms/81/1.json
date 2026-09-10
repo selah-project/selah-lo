@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 81,
+  "translation": "ແກ່ຜູ້ຄວບຄຸມ, ບົນທຳນຽມກິດທິດ, ແກ່ອາຊາບ (ອາຊາບ).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ແກ່ຜູ້ຄວບຄຸມ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ບົນທຳນຽມ"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "ກິດທິດ"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ແກ່ອາຊາບ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:40:03.268426221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ແລະ⟨את⟩ອາໂດຣາຢິມ ແລະ⟨את⟩ລາຄິຊ ແລະ⟨את⟩ອາເຊກາ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ອາໂດຣາຢິມ"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "ອາໂດຣາຢິມ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ລາຄິຊ"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "ລາຄິຊ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ອາເຊກາ"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "ອາເຊກາ"
+    }
+  ],
+  "timestamp": "2026-09-10T00:32:44.693827764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ລູກຫຼານຂອງຮາມ ຄູຊ ແລະມິດຣາຢິມ ປູດ ແລະຄະນາອານ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ຮາມ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ຄູຊ"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "ແລະມິດຣາຢິມ"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "ປູດ"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "ແລະຄະນາອານ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:01:42.618019361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 9:2",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ຈິງແທ້ຂ້ອຍຮູ້ວ່າແນວນັ້ນແຕ່ມະນຸດຈະຊອບທຳແນວໃດກັບເອນ.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "ຈິງແທ້"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ຂ້ອຍຮູ້"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ແນວນັ້ນ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ແລະແນວໃດ"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "ຈະຊອບທຳ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ມະນຸດ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:24:25.533706158Z",
+  "model": "glm-5.3"
+}

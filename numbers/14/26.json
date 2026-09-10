@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 14:26",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ຢາເວເວົ້າກັບໂມເຊແລະກັບອາຮາໂຣນວ່າ",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ຢາເວເວົ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ແລະກັບ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ອາຮາໂຣນ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:00:46.573342288Z",
+  "model": "glm-5.3"
+}

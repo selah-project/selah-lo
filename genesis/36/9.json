@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 36,
+  "translation": "ແລະເຫຼົ່ານີ້ວົງວານຂອງເອຊາວບິດາຂອງເອໂດມ ເທິງພູເຊອີຣ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ແລະເຫຼົ່ານີ້"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "ວົງວານ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ເອຊາວ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ບິດາຂອງ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ເອໂດມ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ເທິງພູ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ເຊອີຣ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:49:09.072418449Z",
+  "model": "glm-5.3"
+}

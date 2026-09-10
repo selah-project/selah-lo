@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 1:26",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ເສຣູກ, ນາໂຄຣ, ເທຣາກ.",
+  "tokens": [
+    {
+      "surface": "שרוג",
+      "gloss": "ເສຣູກ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ນາໂຄຣ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ເທຣາກ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:01:14.510490003Z",
+  "model": "glm-5.3"
+}

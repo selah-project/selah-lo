@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 14:9",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "⟨את⟩ນີ້ພວກເຈົ້າຈະກິນ ຈາກທັງໝົດທີ່ຢູ່ໃນນ້ຳ: ທັງໝົດທີ່ມີຄີປາ ແລະເກັດປາ ພວກເຈົ້າຈະກິນ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ນີ້"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ພວກເຈົ້າຈະກິນ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ຈາກທັງໝົດ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ຢູ່ໃນນ້ຳ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ຂອງມັນ"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "ຄີປາ"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "ແລະເກັດປາ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ພວກເຈົ້າຈະກິນ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:54:37.503586008Z",
+  "model": "glm-5.3"
+}

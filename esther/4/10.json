@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ແລະເອສເທີເວົ້າກັບຮາທັກ ແລະສັ່ງເພິ່ນຕໍ່ມາຣດຄາຍ.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ແລະເວົ້າ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ເອສເທີ"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "ກັບຮາທັກ"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "ແລະສັ່ງເພິ່ນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ມາຣດຄາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:33:31.510547586Z",
+  "model": "glm-5.3"
+}

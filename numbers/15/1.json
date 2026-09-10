@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 15:1",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 15,
+  "translation": "ແລະຢາເວເວົ້າຕໍ່ໂມເຊວ່າ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ແລະຢາເວເວົ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:15:12.215288047Z",
+  "model": "glm-5.3"
+}

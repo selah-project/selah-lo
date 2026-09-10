@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 104,
+  "translation": "ນ້ຳເລິກຄືເຄື່ອງນຸ່ງ ເຈົ້າກຸ່ມມັນ ເທິງພູ ນ້ຳຢືນ",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "ນ້ຳເລິກ"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "ຄືເຄື່ອງນຸ່ງ"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "ເຈົ້າກຸ່ມມັນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ພູ"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ຢືນ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ນ້ຳ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:54:21.247119200Z",
+  "model": "glm-5.3"
+}

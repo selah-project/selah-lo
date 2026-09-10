@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ໂອ້ຍຜູ້ກະບົດຕໍ່າແລະມີມົນ ເມືອງຜູ້ຂົ່ມເຫັງ.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ໂອ້ຍ"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ຜູ້ກະບົດຕໍ່າ"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "ແລະມີມົນ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ເມືອງ"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ຜູ້ຂົ່ມເຫັງ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:19:32.443270769Z",
+  "model": "glm-5.3"
+}

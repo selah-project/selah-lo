@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ຂໍຢາເວຈົ່ງຕັດ ຮິດມ່ານທຸກ ພ້ອມລີ້ທີ່ເວົ້າຄວາມໃຫຍ່ຫຼວງ",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "ຈົ່ງຕັດ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ຮິດ"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "ມ່ານ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ລີ້"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "ເວົ້າ"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ຄວາມໃຫຍ່ຫຼວງ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:41:07.198929114Z",
+  "model": "glm-5.3"
+}

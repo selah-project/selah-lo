@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 24:22",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ເພາະຖ້າຄາຍນຈະຖືກເຜົາ, ຈົນເຖິງເວລາໃດ ອັສຊູຣຈະຈຳເຈົ້າໄປເປັນຊະຕາ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ຖ້າ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ຈະເປັນ"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "ເພື່ອຖືກເຜົາ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "ຄາຍນ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ຈົນເຖິງ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ເວລາໃດ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ອັສຊູຣ"
+    },
+    {
+      "surface": "תשבך",
+      "gloss": "ຈະຈຳເຈົ້າໄປ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:23:15.168794380Z",
+  "model": "glm-5.3"
+}

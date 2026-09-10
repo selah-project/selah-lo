@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ໃນເດືອນທຳອິດ ວັນທີສິບສີ່ຂອງເດືອນ ລະຫວ່າງຄ່ຳຄືນ ⟨ເປັນ⟩ເປສາຂອງຢາເວ.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "ໃນເດືອນ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ທຳອິດ"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ສີ່"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ຂອງເດືອນ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ລະຫວ່າງ"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ຄ່ຳຄືນ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ເປສາ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ຂອງຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:44:30.153169718Z",
+  "model": "glm-5.3"
+}

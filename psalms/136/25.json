@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 136,
+  "translation": "ໃຫ້ຂະໜົມແກ່ເນື້ອທຸກດຽວ ເພາະຕະຫຼອດໄປເຮເສດຂອງເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "ໃຫ້"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ຂະໜົມ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ແກ່ທຸກ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ເນື້ອ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ຕະຫຼອດໄປ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ເຮເສດຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:16:55.703714401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 7:7",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ແລະຂ້ອຍເຫັນໃນພວກໂງ່ ຂ້ອຍຮັບຮູ້ໃນພວກລູກຫຼານ ໜຸ່ມຄົນໜຶ່ງຂາດໃຈ.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "ແລະຂ້ອຍເຫັນ"
+    },
+    {
+      "surface": "בפתאים",
+      "gloss": "ໃນພວກໂງ່"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "ຂ້ອຍຮັບຮູ້"
+    },
+    {
+      "surface": "בבנים",
+      "gloss": "ໃນພວກລູກຫຼານ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ໜຸ່ມ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ຂາດ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ໃຈ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:07:48.094958924Z",
+  "model": "glm-5.3"
+}

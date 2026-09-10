@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ແລະ⟨את⟩ກາດແລະ⟨את⟩ມາເຣຊາແລະ⟨את⟩ຊີບ",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ກາດ"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ກາດ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ມາເຣຊາ"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "ມາເຣຊາ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ຊີບ"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ຊີບ"
+    }
+  ],
+  "timestamp": "2026-09-09T10:04:25.414289799Z",
+  "model": "glm-5.3"
+}

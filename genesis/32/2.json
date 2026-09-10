@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 32,
+  "translation": "ແລະຢາອາໂຄບໄປຕາມທາງຂອງເພິ່ນແລະທູດຂອງເອໂລຮິມພົບເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "ແລະຢາອາໂຄບ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ໄປຕາມ"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "ທາງຂອງເພິ່ນ"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "ແລະພົບ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "ທູດຂອງ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ເອໂລຮິມ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:46:53.185350816Z",
+  "model": "glm-5.3"
+}

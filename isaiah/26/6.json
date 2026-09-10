@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ຕີນຈະຂີ່ມັນລົງ, ຕີນຂອງຄົນທຸກຍາກ ກ້າວຂອງຄົນອົດສຸ.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "ຂີ່ມັນລົງ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ຕີນ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ຕີນຂອງ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ຄົນທຸກຍາກ"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ກ້າວຂອງ"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ຄົນອົດສຸ"
+    }
+  ],
+  "timestamp": "2026-09-09T16:30:14.162594462Z",
+  "model": "glm-5.3"
+}

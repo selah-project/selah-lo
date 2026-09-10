@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 30:1",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ຄຳທີ່ເກີດມາຕໍ່ຢິຣເມຢາຮູ (ເຢເຣມີ) ຈາກ⟨את⟩ຢາເວວ່າ:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ເກີດມາ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ຢິຣເມຢາຮູ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ຈາກ⟨את⟩",
+      "marks": "ຢາເວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:29:22.998967139Z",
+  "model": "glm-5.3"
+}

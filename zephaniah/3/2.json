@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 3:2",
+  "book": "zephaniah",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ນາງບໍ່ຟັງສຽງ ນາງບໍ່ຮັບການຕັດສອນ ໃນຢາເວນາງບໍ່ວາງໃຈ ນາງບໍ່ເຂົ້າໃກ້ຫາເອໂລຮິມຂອງນາງ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ຟັງ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ສຽງ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "ຮັບ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ການຕັດສອນ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ໃນຢາເວ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "בטחה",
+      "gloss": "ວາງໃຈ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "ເອໂລຮິມຂອງນາງ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "ເຂົ້າໃກ້"
+    }
+  ],
+  "timestamp": "2026-09-09T18:19:32.443528771Z",
+  "model": "glm-5.3"
+}

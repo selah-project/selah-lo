@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ແລະ⟨את⟩ເດດານ ແລະ⟨את⟩ເທີມາ ແລະ⟨את⟩ບູສ ແລະ⟨את⟩ທັງຫຼາຍຜູ້ຕັດຂອບຜົມ",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ເດດານ"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "ເດດານ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ເທີມາ"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "ເທີມາ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ບູສ"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "ບູສ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ທັງຫຼາຍຜູ້ຕັດຂອບຜົມ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງຫຼາຍ"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "ຜູ້ຕັດ"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "ຂອບຜົມ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:20:15.825960200Z",
+  "model": "glm-5.3"
+}

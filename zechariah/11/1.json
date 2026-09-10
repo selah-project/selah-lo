@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ຈົ່ງເປີດປະຕູເຈົ້າ, ເລບານອນ: ໄຟຈະກິນຕົ້ນສີງຂອງເຈົ້າ.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "ຈົ່ງເປີດ"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ເລບານອນ"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "ປະຕູເຈົ້າ"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ຈະກິນ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ໄຟ"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "ຕົ້ນສີງຂອງເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:23:39.247409404Z",
+  "model": "glm-5.3"
+}

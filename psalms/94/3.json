@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 94,
+  "translation": "ຮອດຄາວໃດ, ຢາເວ, ພວກຄົນຊົ່ວ? ຮອດຄາວໃດ ພວກຄົນຊົ່ວຊົມຊື່ນ?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ຮອດ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ຄາວໃດ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ພວກຄົນຊົ່ວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ຮອດ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ຄາວໃດ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ພວກຄົນຊົ່ວ"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "ຊົມຊື່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:54:03.693043360Z",
+  "model": "glm-5.3"
+}

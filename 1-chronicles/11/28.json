@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 11:28",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ອີຣາ ລູກຊາຍຂອງ ອິກເກດ ທິໂຄອິ, ອາບິເອເຊຣ ອານາໂທທິ.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ອີຣາ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ອິກເກດ"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "ທິໂຄອິ"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "ອາບິເອເຊຣ"
+    },
+    {
+      "surface": "הענתותי",
+      "gloss": "ອານາໂທທິ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:14:38.534159071Z",
+  "model": "glm-5.3"
+}

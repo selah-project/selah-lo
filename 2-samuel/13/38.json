@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 13:38",
+  "book": "2-samuel",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ອາບຊາໂລມໜີ ແລະໄປຫາເກຊູຣ ແລະຢູ່ທີ່ນັ້ນ ສາມປີ.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "ອາບຊາໂລມ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ໜີ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ແລະໄປ"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "ເກຊູຣ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ຢູ່"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ທີ່ນັ້ນ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ສາມ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ປີ"
+    }
+  ],
+  "timestamp": "2026-09-09T15:14:14.115132381Z",
+  "model": "glm-5.3"
+}

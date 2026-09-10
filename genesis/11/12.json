@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ແລະອາຣະຟັກຊາດມີຊີວິດຫ້າແລະສາມສິບປີ ແລະມີລູກ⟨את⟩ເຊລາຮ.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "ແລະອາຣະຟັກຊາດ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ມີຊີວິດ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ຫ້າ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ແລະສາມສິບ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ແລະມີລູກ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເຊລາຮ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ເຊລາຮ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:11:39.433734246Z",
+  "model": "glm-5.3"
+}

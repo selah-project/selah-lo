@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 10:27",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ແລະ ອາຮິຢາ ຮານານ ອານານ",
+  "tokens": [
+    {
+      "surface": "וַאֲחִיָּה",
+      "gloss": "ແລະ ອາຮິຢາ"
+    },
+    {
+      "surface": "חָנָן",
+      "gloss": "ຮານານ"
+    },
+    {
+      "surface": "עָנָן",
+      "gloss": "ອານານ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:51:57.808825306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 60,
+  "translation": "ໃຜພາຂ້ອຍໄປເມືອງທີ່ປ້ອງກັນໜາ? ໃຜນຳຂ້ອຍຈົນຮອດເອດົມ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "ພາຂ້ອຍ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ເມືອງ"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ທີ່ປ້ອງກັນໜາ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ນຳຂ້ອຍ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ຈົນຮອດ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ເອດົມ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:22:30.879673372Z",
+  "model": "glm-5.3"
+}

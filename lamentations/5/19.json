@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ເຈົ້າ ຢາເວ ນັ່ງຕະຫຼອດນິດຕະລະ ບັນລັງຂອງເຈົ້າຮຸ່ນແລ້ວຮຸ່ນ.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ເຈົ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ຕະຫຼອດນິດຕະລະ"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ນັ່ງ"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ບັນລັງຂອງເຈົ້າ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ຮຸ່ນແລ້ວ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ຮຸ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:18:20.388193363Z",
+  "model": "glm-5.3"
+}

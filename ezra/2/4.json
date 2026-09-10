@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 2:4",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ບັດຫຼານຂອງຊາຟັດຢາ ສາມຮ້ອຍເຈັດສິບສອງຄົນ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ບັດຫຼານຂອງ"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "ຊາຟັດຢາ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ສາມ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ເຈັດສິບ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ແລະສອງ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:19:49.631175273Z",
+  "model": "glm-5.3"
+}

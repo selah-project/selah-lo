@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ສາຍລູກເພັດທອງ ພວກເຮົາຈະເຮັດໃຫ້ເຈົ້າ ພ້ອມຈຸ່ມເງົາ",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "ສາຍລູກ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ເພັດທອງ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ພວກເຮົາຈະເຮັດ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ໃຫ້ເຈົ້າ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ພ້ອມ"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "ຈຸ່ມ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ເງົາ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:53:11.617032624Z",
+  "model": "glm-5.3"
+}

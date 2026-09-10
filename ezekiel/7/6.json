@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ຂວດປາຍ ມາແລ້ວ, ຂວດປາຍ ມາແລ້ວ, ມັນຕື່ນຂຶ້ນຕໍ່ເຈົ້າ, ເບິ່ງແມ ມັນມາ.",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "ຂວດປາຍ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ມາແລ້ວ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ມາແລ້ວ"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "ຂວດປາຍ"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "ຕື່ນຂຶ້ນ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ຕໍ່ເຈົ້າ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ເບິ່ງແມ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ມາ"
+    }
+  ],
+  "timestamp": "2026-09-09T17:32:15.415965263Z",
+  "model": "glm-5.3"
+}

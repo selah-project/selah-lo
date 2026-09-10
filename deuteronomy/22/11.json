@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 22,
+  "translation": "ຢ່ານຸ່ງຜ້າປະສົມ ຂົນແກະ ແລະເສົ້າປະສົງ ຮ່ວມກັນ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "ນຸ່ງ"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "ຜ້າປະສົມ"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "ຂົນແກະ"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "ແລະເສົ້າປະສົງ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ຮ່ວມກັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:35:28.423404671Z",
+  "model": "glm-5.3"
+}

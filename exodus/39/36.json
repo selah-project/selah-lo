@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 39,
+  "translation": "⟨את⟩ໂຕະ ⟨את⟩ທຸກອຸປະກອນຂອງມັນ ແລະ⟨את⟩ເຂົ້າຂອງໜ້າ",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ໂຕະ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ໂຕະ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ທຸກອຸປະກອນຂອງມັນ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ອຸປະກອນຂອງມັນ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ເຂົ້າຂອງໜ້າ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ເຂົ້າ"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "ຂອງໜ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:22:52.359347928Z",
+  "model": "glm-5.3"
+}

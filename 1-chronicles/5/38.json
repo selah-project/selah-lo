@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ແລະອາຮິຕູບມີລູກ⟨את⟩ຊາໂດກ ແລະຊາໂດກມີລູກ⟨את⟩ຊາລູມ.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "ແລະ ອາຮິຕູບ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ມີລູກ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຊາໂດກ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ຊາໂດກ"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ແລະ ຊາໂດກ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ມີລູກ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຊາລູມ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ຊາລູມ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:08:43.360760584Z",
+  "model": "glm-5.3"
+}

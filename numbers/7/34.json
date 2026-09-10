@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 7:34",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ແກະຜູ້ຂອງແກະໜຶ່ງໂຕ ເປັນບູຊາບາບ",
+  "tokens": [
+    {
+      "surface": "שְׂעִיר",
+      "gloss": "ແກະຜູ້"
+    },
+    {
+      "surface": "עִזִּים",
+      "gloss": "ຂອງແກະ"
+    },
+    {
+      "surface": "אֶחָד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "לְחַטָּאת",
+      "gloss": "ເປັນບູຊາບາບ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:00:07.594712359Z",
+  "model": "glm-5.3"
+}

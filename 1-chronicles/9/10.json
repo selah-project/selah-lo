@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ແລະຈາກໂກເຮນ: ເຢດາຢາ ເຢໂຮຢາຣິບ ແລະຢາຄິນ.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ແລະຈາກ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ໂກເຮນ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "ເຢດາຢາ"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "ເຢໂຮຢາຣິບ"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "ຢາຄິນ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:21:46.536930830Z",
+  "model": "glm-5.3"
+}

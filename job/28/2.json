@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 28:2",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ເຫຼັກຖືກເອົາຈາກຝຸ່ນດິນ ແລະຫີນຖືກຫຼໍ້ເປັນທອດ",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "ເຫຼັກ"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "ຈາກຝຸ່ນດິນ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ຖືກເອົາ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ແລະຫີນ"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "ຖືກຫຼໍ້"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "ທອດ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:21:40.611465847Z",
+  "model": "glm-5.3"
+}

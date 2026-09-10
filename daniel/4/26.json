@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 4:26",
+  "book": "daniel",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ໃນທ້າຍສິບສອງເດືອນ ເພິ່ນຍ່າງຢູ່ເທິງວິຫານອານາຈັກຂອງບາເວນ.",
+  "tokens": [
+    {
+      "surface": "לקצת",
+      "gloss": "ໃນທ້າຍ"
+    },
+    {
+      "surface": "ירחין",
+      "gloss": "ເດືອນ"
+    },
+    {
+      "surface": "תרי",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ວິຫານ"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "ອານາຈັກ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ຂອງ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ບາເວນ"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "ຍ່າງ"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "ຢູ່"
+    }
+  ],
+  "timestamp": "2026-09-09T07:58:11.614234586Z",
+  "model": "glm-5.3"
+}

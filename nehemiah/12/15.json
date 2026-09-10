@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 12:15",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ຂອງຮາຣິມ ອັດນາ; ຂອງເມຣາໂຢດ ເຮລກາຍ.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "ຂອງຮາຣິມ"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "ອັດນາ"
+    },
+    {
+      "surface": "למריות",
+      "gloss": "ຂອງເມຣາໂຢດ"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "ເຮລກາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:54:59.872659765Z",
+  "model": "glm-5.3"
+}

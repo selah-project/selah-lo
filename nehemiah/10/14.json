@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 10:14",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ໂຮດິຢາ ບານີ ເບນິນູ.",
+  "tokens": [
+    {
+      "surface": "הודיה",
+      "gloss": "ໂຮດິຢາ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ບານີ"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "ເບນິນູ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:53:28.913565098Z",
+  "model": "glm-5.3"
+}

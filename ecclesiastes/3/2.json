@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ເວລາໃຫ້ເກີດ ແລະເວລາຕາຍ ເວລາປູກ ແລະເວລາຖອນສິ່ງທີ່ປູກໄວ້.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ເວລາ"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "ໃຫ້ເກີດ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ແລະເວລາ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ຕາຍ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ເວລາ"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "ປູກ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ແລະເວລາ"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "ຖອນ"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "ສິ່ງທີ່ປູກໄວ້"
+    }
+  ],
+  "timestamp": "2026-09-09T07:20:31.593110118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ເພາະສຳລັບທຸກຄວາມປາຖະໜາມີເວລາ ແລະຄຳຕັດສິນ ເພາະຄວາມຊົ່ວຂອງມະນຸດຫຼາຍເໜືອເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ສຳລັບທຸກ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ຄວາມປາຖະໜາ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ເວລາ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ແລະຄຳຕັດສິນ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ຄວາມຊົ່ວ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ຂອງມະນຸດ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ຫຼາຍ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ເໜືອເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:29:38.702804546Z",
+  "model": "glm-5.3"
+}

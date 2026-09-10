@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 102,
+  "translation": "ແລະເຈົ້າ⟨ເປັນ⟩ຄືເດີມ ແລະປີຂອງເຈົ້າບໍ່ຈະໝົດ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ແລະເຈົ້າ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ຄືເດີມ"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "ແລະປີຂອງເຈົ້າ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "ຈະໝົດ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:55:46.034196539Z",
+  "model": "glm-5.3"
+}

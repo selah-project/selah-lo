@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ເພາະຜູ້ໃດທີ່ຖືກເລືອກກັບທັງໝົດຄົນມີຊີວິດທັງຫຼາຍ ມີຄວາມຫວັງ ເພາະໝາມີຊີວິດມັນດີກວ່າສິງທີ່ຕາຍ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ຜູ້ໃດ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "ຖືກເລືອກ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ຄົນມີຊີວິດທັງຫຼາຍ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "ຄວາມຫວັງ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ໝາ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ມີຊີວິດ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ກວ່າ"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "ສິງ"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ຕາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:31:05.145016977Z",
+  "model": "glm-5.3"
+}

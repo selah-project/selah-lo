@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 31:47",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 31,
+  "translation": "ແລະລາບານຂານຊື່ມັນເຢກາຊາຮາດູຖາ ແລະຢາອາໂຄບຂານຊື່ມັນກິລະອາດ.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ແລະລາບານຂານຊື່"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ລາບານ"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "ເຢກາ"
+    },
+    {
+      "surface": "שהדותא",
+      "gloss": "ຊາຮາດູຖາ"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ແລະຢາອາໂຄບ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ຂານຊື່"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ກິລະອາດ"
+    }
+  ],
+  "timestamp": "2026-09-09T11:26:05.566739773Z",
+  "model": "glm-5.3"
+}

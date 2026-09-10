@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ຄວາມອຸດົມຂອງມະນຸດທັງຫຼາຍແມ່ນເພື່ອປາກຂອງເພິ່ນ ແລະວິນຍານກໍບໍ່ເຕັມ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ທັງຫຼາຍ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ຄວາມອຸດົມ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ຂອງມະນຸດ"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "ເພື່ອປາກຂອງເພິ່ນ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ແລະ...ກໍ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ວິນຍານ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ເຕັມ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:44:19.325558478Z",
+  "model": "glm-5.3"
+}

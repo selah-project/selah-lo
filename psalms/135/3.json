@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 135,
+  "translation": "ຈົ່ງສັນລະເສນຢາ ເພາະຢາເວດີ ຈົ່ງດົນຕີຕໍ່ຊື່ຂອງເພິ່ນ ເພາະມັນງາມ",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ຈົ່ງສັນລະເສນ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ຢາ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ຈົ່ງດົນຕີ"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "ຕໍ່ຊື່ຂອງເພິ່ນ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ງາມ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:15:53.732078765Z",
+  "model": "glm-5.3"
+}

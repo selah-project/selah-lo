@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 95,
+  "translation": "ເພາະຢາເວ ⟨ເປັນ⟩ ເອນໃຫຍ່, ກະສັດໃຫຍ່ເໜືອພະທັງຫຼາຍທັງປວງ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເອນ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ໃຫຍ່"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ແລະກະສັດ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ໃຫຍ່"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງປວງ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ພະທັງຫຼາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:50:11.531439626Z",
+  "model": "glm-5.3"
+}

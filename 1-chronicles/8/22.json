@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 8:22",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະ ອິຊປານ ແລະ ເອເບຣ ແລະ ເອລີເອນ.",
+  "tokens": [
+    {
+      "surface": "וישפן",
+      "gloss": "ແລະ ອິຊປານ"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "ແລະ ເອເບຣ"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "ແລະ ເອລີເອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:11:18.372264335Z",
+  "model": "glm-5.3"
+}

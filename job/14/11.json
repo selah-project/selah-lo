@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 14:11",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ຄືນ້ຳຫາຍໄປຈາກທະເລ ແລະແມ່ນ້ຳກໍແຫ້ງຜ່າງ ແລະຫຍ້າແຫ້ງ",
+  "tokens": [
+    {
+      "surface": "אזלו",
+      "gloss": "ຫາຍໄປ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ທະເລ"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "ແລະແມ່ນ້ຳ"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "ແຫ້ງຜ່າງ"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ແລະຫຍ້າແຫ້ງ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:19:10.836952350Z",
+  "model": "glm-5.3"
+}

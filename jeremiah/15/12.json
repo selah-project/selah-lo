@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 15:12",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 15,
+  "translation": "ເຫຼັກຈະຫັກໄດ້ບໍ — ເຫຼັກຈາກພາກເໜືອ ແລະທອງແດງ?",
+  "tokens": [
+    {
+      "surface": "הירע",
+      "gloss": "ຈະຫັກໄດ້ບໍ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ເຫຼັກ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ເຫຼັກ"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ຈາກພາກເໜືອ"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ແລະທອງແດງ"
+    }
+  ],
+  "timestamp": "2026-09-09T17:06:18.554030112Z",
+  "model": "glm-5.3"
+}

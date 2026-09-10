@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 23:23",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ແລະຢາເວກ່າວກັບໂມເຊວ່າ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ແລະເພິ່ນກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:45:28.975870366Z",
+  "model": "glm-5.3"
+}

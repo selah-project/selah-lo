@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 119,
+  "translation": "ນີ້ສຳລັບຂ້ອຍ, ຍ້ອນວ່າຂ້ອຍໄດ້ຮັກສາ ບັນຍັດຂອງເຈົ້າ.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ສຳລັບ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ຂ້ອຍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ຍ້ອນວ່າ"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "ບັນຍັດຂອງເຈົ້າ"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ຂ້ອຍໄດ້ຮັກສາ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:02:28.512288689Z",
+  "model": "glm-5.3"
+}

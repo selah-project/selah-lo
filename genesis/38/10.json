@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 38,
+  "translation": "ສິ່ງທີ່ເພິ່ນເຮັດບັງຄັບໃນຕາຂອງຢາເວ ແລະເພິ່ນຕາຍກໍ⟨את⟩ເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ແລະບັງຄັບ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ໃນຕາຂອງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ສິ່ງທີ່"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ເພິ່ນເຮັດ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ແລະຕາຍ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ກໍ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ເພິ່ນ",
+      "marks": "ເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:57:53.493667274Z",
+  "model": "glm-5.3"
+}

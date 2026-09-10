@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ແລະແສງຫວານ ແລະດີຕໍ່ຕາ ໃນການເບິ່ງ⟨את⟩ດວງຕາເວັນ",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "ແລະຫວານ"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ແສງ"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ແລະດີ"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "ຕໍ່ຕາ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ໃນການເບິ່ງ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ດວງຕາເວັນ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ຕາເວັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:47:19.119075899Z",
+  "model": "glm-5.3"
+}

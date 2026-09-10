@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 14:6",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ແລະໂນກາ ແລະເນເຟັກ ແລະຢາຟີອາ.",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "ແລະໂນກາ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "ແລະເນເຟັກ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "ແລະຢາຟີອາ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:30:07.223496781Z",
+  "model": "glm-5.3"
+}

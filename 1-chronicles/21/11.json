@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ແລະກາດມາຫາດາວິດ ແລະເວົ້າກັບເພິ່ນວ່າ ດັ່ງນີ້ຢາເວກ່າວ: ຈົ່ງຮັບເອົາໃຫ້ເຈົ້າ",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ແລະມາຫາ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ກາດ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ດາວິດ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະເພິ່ນເວົ້າ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ກັບເພິ່ນ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ດັ່ງນີ້"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ຈົ່ງຮັບເອົາ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ໃຫ້ເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:41:51.212193195Z",
+  "model": "glm-5.3"
+}

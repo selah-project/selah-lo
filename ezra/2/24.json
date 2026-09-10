@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 2:24",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ລູກຫຼານຂອງອາຊະມາໂວດ ສີ່ສິບສອງຄົນ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "ອາຊະມາໂວດ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ສີ່ສິບ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ແລະສອງ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:13:39.189658840Z",
+  "model": "glm-5.3"
+}

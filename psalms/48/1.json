@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 48,
+  "translation": "ເພງບົດປະພັນຂອງລູກຫຼານຂອງໂຄຣາກ.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ເພງ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ບົດປະພັນ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ຂອງລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ໂຄຣາກ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:14:46.870699180Z",
+  "model": "glm-5.3"
+}

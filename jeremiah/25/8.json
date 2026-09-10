@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ດັ່ງນັ້ນ ຢາເວ ເສວາໂອດ ກ່າວດັ່ງນີ້ ຍ້ອນວ່າພວກເຈົ້າບໍ່ໄດ້ຟັງ⟨את⟩ຄຳຂອງຂ້ອຍ.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ດັ່ງນັ້ນ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ດັ່ງນີ້"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ເສວາໂອດ"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ຍ້ອນວ່າ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "ພວກເຈົ້າຟັງ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຄຳຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ຄຳຂອງຂ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T17:10:08.027591148Z",
+  "model": "glm-5.3"
+}

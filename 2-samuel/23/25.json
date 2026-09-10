@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 23:25",
+  "book": "2-samuel",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ຊາມມາຊາຣາດ, ເອນິຄາຊາຣາດ.",
+  "tokens": [
+    {
+      "surface": "שַׁמָּה",
+      "gloss": "ຊາມມາ"
+    },
+    {
+      "surface": "הַחֲרֹדִי",
+      "gloss": "ຊາຣາດ"
+    },
+    {
+      "surface": "אֱלִיקָא",
+      "gloss": "ເອນິຄາ"
+    },
+    {
+      "surface": "הַחֲרֹדִי",
+      "gloss": "ຊາຣາດ"
+    }
+  ],
+  "timestamp": "2026-09-09T15:26:22.754721374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະອາບິກາຍຄອດ⟨את⟩ອາມາຊາ ແລະພໍ່ຂອງອາມາຊາ ⟨ເປັນ⟩ ເຢເທຣ ຄົນຢິຊະມະເອນ.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "ແລະອາບິກາຍ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ຄອດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ອາມາຊາ"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "ອາມາຊາ"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "ແລະພໍ່ຂອງ"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "ອາມາຊາ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ເຢເທຣ"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "ຄົນຢິຊະມະເອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:06:31.243359305Z",
+  "model": "glm-5.3"
+}

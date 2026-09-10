@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 108,
+  "translation": "ໃຜຈະພາຂ້ອຍເຂົ້າເມືອງທີ່ມີກຳແພງ ໃຜຈະນຳຂ້ອຍເຖິງເອດໂອມ",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "ຈະພາຂ້ອຍເຂົ້າ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ເມືອງ"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "ທີ່ມີກຳແພງ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ຈະນຳຂ້ອຍ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ເຖິງ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ເອດໂອມ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:00:58.301929863Z",
+  "model": "glm-5.3"
+}

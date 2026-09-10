@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 84,
+  "translation": "ແກ່ຜູ້ຄວບຄຸມ ເທິງກິດທິດ ຂອງລູກຫຼານຂອງຄໍຣາຮ໌ ມິຊມໍຣ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ແກ່ຜູ້ຄວບຄຸມ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "ກິດທິດ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ຂອງລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ຄໍຣາຮ໌"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ມິຊມໍຣ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:52:09.340372659Z",
+  "model": "glm-5.3"
+}

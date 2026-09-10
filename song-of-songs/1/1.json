@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ບົດເພງຂອງບົດເພງທັງຫຼາຍ ທີ່ເປັນຂອງເຊໂລໂມ (ໂຊໂລໂມນ).",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ບົດເພງ"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "ຂອງບົດເພງທັງຫຼາຍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່ເປັນຂອງ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ເຊໂລໂມ (ໂຊໂລໂມນ)"
+    }
+  ],
+  "timestamp": "2026-09-09T19:39:10.876259905Z",
+  "model": "glm-5.3"
+}

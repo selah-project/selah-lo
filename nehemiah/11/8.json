@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ແລະຕໍ່ຈາກເພິ່ນ ກາບາຍ ຊາລາຍ ເກົ້າຮ້ອຍຊາວແປດຄົນ.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "ແລະຕໍ່ຈາກເພິ່ນ"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "ກາບາຍ"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "ຊາລາຍ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ເກົ້າ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ຊາວ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ແລະແປດ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:54:37.746517447Z",
+  "model": "glm-5.3"
+}

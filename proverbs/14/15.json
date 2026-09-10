@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 14:15",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ຄົນງ່າຍເຊື່ອທຸກຄຳ ແລະຄົນສະຫຼາດພິຈານາທາງຂອງຕົນ.",
+  "tokens": [
+    {
+      "surface": "פתי",
+      "gloss": "ຄົນງ່າຍ"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "ເຊື່ອ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "ແລະຄົນສະຫຼາດ"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ພິຈານາ"
+    },
+    {
+      "surface": "לאשרו",
+      "gloss": "ທາງຂອງຕົນ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:39:01.341992052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ແລະອິສະຣາເອນກະບົດຕໍ່ເຮືອນຂອງດາວິດຮອດມື້ນີ້.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "ກະບົດ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ຕໍ່ເຮືອນຂອງ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ດາວິດ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ຮອດ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ມື້"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ນີ້"
+    }
+  ],
+  "timestamp": "2026-09-09T10:03:14.536550745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ແລະສວກ່າວວ່າ ເບິ່ງແມ ຂ້ອຍໄປຕາຍ ແລ້ວສິ່ງນີ້ຈະເປັນຫຍັງແກ່ຂ້ອຍ ສິດບັດທິລະດາ",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະກ່າວ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ສວ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ເບິ່ງແມ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ຂ້ອຍ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ໄປ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ຕາຍ"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ແລະເປັນຫຍັງ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ແກ່ຂ້ອຍ"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "ສິດບັດທິລະດາ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:32:58.665576994Z",
+  "model": "glm-5.3"
+}

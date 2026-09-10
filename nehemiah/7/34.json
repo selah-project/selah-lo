@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 7:34",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ລູກຫຼານຂອງເອລາມອື່ນ ໜຶ່ງພັນ ສອງຮ້ອຍ ຫ້າສິບສີ່ຄົນ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ເອລາມ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ອື່ນ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ໜຶ່ງພັນ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ສອງຮ້ອຍ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ຫ້າສິບ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ສີ່"
+    }
+  ],
+  "timestamp": "2026-09-09T08:46:07.243954537Z",
+  "model": "glm-5.3"
+}

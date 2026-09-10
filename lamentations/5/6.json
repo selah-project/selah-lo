@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ມິດສະຣາຢິມ ພວກເຮົາຍື່ນມື, ແລະອາຊູຣ, ເພື່ອອີ່ມທ້ອນດ້ວຍຂ້າວເຂົ້າ.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "ມິດສະຣາຢິມ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ພວກເຮົາຍື່ນ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ມື"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ອາຊູຣ"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "ເພື່ອອີ່ມທ້ອນ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ຂ້າວເຂົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:18:13.580865254Z",
+  "model": "glm-5.3"
+}

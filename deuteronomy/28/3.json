@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ຖືກອວຍພອນເຈົ້າຢູ່ໃນເມືອງ ແລະຖືກອວຍພອນເຈົ້າຢູ່ໃນນາ",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ຖືກອວຍພອນ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ເຈົ້າ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ຢູ່ໃນເມືອງ"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ແລະຖືກອວຍພອນ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ເຈົ້າ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ຢູ່ໃນນາ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:13:01.114090490Z",
+  "model": "glm-5.3"
+}

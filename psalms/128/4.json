@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 128,
+  "translation": "ເບິ່ງແມ ແທ້ຈິງ ດັ່ງນີ້ ຊາຍຜູ້ຍໍເຄົາລົບຢາເວຮັບພອນ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ເບິ່ງແມ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ແທ້ຈິງ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ດັ່ງນີ້"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ຮັບພອນ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ຊາຍ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ຜູ້ຍໍເຄົາລົບ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:04:19.300421948Z",
+  "model": "glm-5.3"
+}

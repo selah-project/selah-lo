@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 29:35",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 29,
+  "translation": "ໃນວັນທີ່ແປດຈະມີການຊຸມນຸມສຳລັບພວກເຈົ້າ ວຽກການຮັບໃຊ້ທຸກຢ່າງ ຢ່າທຳ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ໃນວັນ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ທີ່ແປດ"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "ການຊຸມນຸມ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ຈະມີ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ສຳລັບພວກເຈົ້າ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ວຽກ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ການຮັບໃຊ້"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ທຳ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:32:05.272279417Z",
+  "model": "glm-5.3"
+}

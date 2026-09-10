@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 24:21",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ຂອງຣະຮັບຢາ ຂອງບັດຂອງຣະຮັບຢາຫົວໜ້າຢິຊິຢາ",
+  "tokens": [
+    {
+      "surface": "לרחביהו",
+      "gloss": "ຂອງຣະຮັບຢາ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ຂອງບັດຂອງ"
+    },
+    {
+      "surface": "רחביהו",
+      "gloss": "ຣະຮັບຢາ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ຫົວໜ້າ"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "ຢິຊິຢາ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:42:41.781637063Z",
+  "model": "glm-5.3"
+}

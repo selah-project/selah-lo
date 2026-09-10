@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 14:34",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ຄວາມຊອບທຳຍົກຊາດໃຫ້ສູງ ແລະເຮເສດຂອງປະຊາຊົນ ⟨ເປັນ⟩ ບາບ",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "ຄວາມຊອບທຳ"
+    },
+    {
+      "surface": "תרומם",
+      "gloss": "ຍົກໃຫ້ສູງ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ຊາດ"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "ແລະ ເຮເສດ"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ຂອງປະຊາຊົນ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ບາບ"
+    }
+  ],
+  "timestamp": "2026-09-10T01:54:29.018110663Z",
+  "model": "glm-5.3"
+}

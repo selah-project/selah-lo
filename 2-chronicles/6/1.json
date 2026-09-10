@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ໃນຄັ້ງນັ້ນເຊໂລໂມກ່າວວ່າ: ຢາເວກ່າວວ່າຈະຢູ່ໃນຄວາມມືດ.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ໃນຄັ້ງນັ້ນ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ກ່າວ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ເຊໂລໂມ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ກ່າວວ່າ"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "ຈະຢູ່"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "ໃນຄວາມມືດ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:21:49.806756066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ໂຊມຣອນຖືກທຳລາຍ ກະສັດຂອງນາງຄືຟອງເທິງໜ້າຂອງນ້ຳ.",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "ຖືກທຳລາຍ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ໂຊມຣອນ"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ກະສັດຂອງນາງ"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "ຄືຟອງ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ໜ້າຂອງ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ນ້ຳ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:04:31.551749547Z",
+  "model": "glm-5.3"
+}

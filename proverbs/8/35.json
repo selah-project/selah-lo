@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 8:35",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ເພາະຜູ້ທີ່ພົບເຮົາພົບຊີວິດ ແລະໄດ້ຮັບຄວາມພໍໃຈຈາກຢາເວ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "ຜູ້ທີ່ພົບເຮົາ"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "ພົບ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ຊີວິດ"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "ແລະໄດ້ຮັບ"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ຄວາມພໍໃຈ"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ຈາກຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:32:10.961819143Z",
+  "model": "glm-5.3"
+}

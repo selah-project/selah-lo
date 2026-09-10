@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 66,
+  "translation": "ຖ້າຂ້ອຍເຫັນຄວາມຊົ່ວໃນໃຈຂອງຂ້ອຍ ອາໂດນາຍຈະບໍ່ຟັງ.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "ຄວາມຊົ່ວ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ຖ້າ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ຂ້ອຍເຫັນ"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "ໃນໃຈຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ຈະຟັງ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ອາໂດນາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:44:13.869585694Z",
+  "model": "glm-5.3"
+}

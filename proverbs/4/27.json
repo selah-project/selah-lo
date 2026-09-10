@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ຢ່າອ້າງຂວາແລະຊ້າຍ ຈົ່ງຫັນຕີນຂອງເຈົ້າພົ້ນຈາກຄວາມຊົ່ວ",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תט",
+      "gloss": "ອ້າງ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ຂວາ"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ແລະຊ້າຍ"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "ຈົ່ງຫັນພົ້ນ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ຕີນຂອງເຈົ້າ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ຈາກຄວາມຊົ່ວ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:27:26.577994278Z",
+  "model": "glm-5.3"
+}

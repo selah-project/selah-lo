@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 3:16",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ແລະມັນເກີດຂຶ້ນ ເມື່ອຄົບສິ້ນເຈັດວັນ ວ່າ ຄຳຂອງຢາເວມາຫາຂ້ອຍ ໂດຍກ່າວວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະມັນເກີດຂຶ້ນ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ຄົບສິ້ນ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ເຈັດ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ມາຫາຂ້ອຍ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ໂດຍກ່າວວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T17:34:14.603463323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 41,
+  "translation": "ແລະມັນເກີດຂຶ້ນໃນມື້ທີສອງ ແລັດຂ້າ⟨את⟩ເກດາລະຢາຮູ ແລະບໍ່ມີໃຜຮູ້.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະມັນເກີດຂຶ້ນ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ໃນມື້"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ທີສອງ"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ແລັດຂ້າ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເກດາລະຢາຮູ"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "ເກດາລະຢາຮູ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ແລະບໍ່ມີໃຜ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ຮູ້"
+    }
+  ],
+  "timestamp": "2026-09-09T17:24:27.636795226Z",
+  "model": "glm-5.3"
+}

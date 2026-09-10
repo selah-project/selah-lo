@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 26:32",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ແລະເຊມິດາ ວົງເຊມິດາ; ແລະເຮເຟຣ ວົງເຮເຟຣ.",
+  "tokens": [
+    {
+      "surface": "ושמידע",
+      "gloss": "ແລະເຊມິດາ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ວົງ"
+    },
+    {
+      "surface": "השמידעי",
+      "gloss": "ເຊມິດາ"
+    },
+    {
+      "surface": "וחפר",
+      "gloss": "ແລະເຮເຟຣ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ວົງ"
+    },
+    {
+      "surface": "החפרי",
+      "gloss": "ເຮເຟຣ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:27:22.764892373Z",
+  "model": "glm-5.3"
+}

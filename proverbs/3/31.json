@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 3:31",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ຢ່າອິດສາຄົນຜູ້ມີຄວາມຮຸນແຮງ ແລະຢ່າເລືອກໃນທຸກທາງຂອງເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ອິດສາ"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ຄວາມຮຸນແຮງ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ແລະ ຢ່າ"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "ເລືອກ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ໃນທຸກ"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ທາງຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:13:54.471300236Z",
+  "model": "glm-5.3"
+}

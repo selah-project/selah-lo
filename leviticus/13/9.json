@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ບາດແຜໂຣກຜິວເມື່ອມັນເກີດຢູ່ໃນຄົນ, ຄົນນັ້ນຈະຖືກນຳມາຫາໂກເຮນ (ປະໂລຫິດ).",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "ບາດແຜ"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ໂຣກຜິວ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເມື່ອ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ເກີດ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ໃນຄົນ"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "ຖືກນຳມາ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ໂກເຮນ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:27:31.571190118Z",
+  "model": "glm-5.3"
+}

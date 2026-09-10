@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ແລະເກີດຂຶ້ນຄ່ຳ ແລະເກີດຂຶ້ນຕອນເຊົ້າ ວັນທີຫ້າ",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະເກີດຂຶ້ນ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ຄ່ຳ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະເກີດຂຶ້ນ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ຕອນເຊົ້າ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "ທີຫ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:29:31.155067126Z",
+  "model": "glm-5.3"
+}

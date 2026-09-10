@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 16:25",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 16,
+  "translation": "ເພາະຢາເວໃຫຍ່ ແລະຖືກສັນລະເສີນຫຼາຍ ແລະເພິ່ນໜ້າຢ້ານກົວເໜືອພະທັງຫຼາຍທັງປວງ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ໃຫຍ່"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ແລະຖືກສັນລະເສີນ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ຫຼາຍ"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ແລະໜ້າຢ້ານກົວ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງປວງ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ພະທັງຫຼາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:15:39.497475953Z",
+  "model": "glm-5.3"
+}

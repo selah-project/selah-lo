@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ນາໂຮຣໄດ້ມີຊີວິດເກົ້າປີແລະຊາວປີ ແລະໄດ້ມີລູກ⟨את⟩ທະຣາກ",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ໄດ້ມີຊີວິດ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ນາໂຮຣ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ເກົ້າ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ແລະຊາວ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ໄດ້ມີລູກ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ທະຣາກ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ທະຣາກ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:09:55.174148878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 15:37",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 15,
+  "translation": "ແລະຢາເວກ່າວຕໍ່ໂມເຊວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະເພິ່ນກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:15:25.150424513Z",
+  "model": "glm-5.3"
+}

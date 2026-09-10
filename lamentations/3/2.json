@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ເພິ່ນຂັບ⟨את⟩ຂ້ອຍແລະພາຂ້ອຍໄປໃນຄວາມມືດແລະບໍ່ແມ່ນແສງ.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "ຂ້ອຍ"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "ຂັບ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ແລະພາໄປ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ໃນຄວາມມືດ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ແສງ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:23:55.023105805Z",
+  "model": "glm-5.3"
+}

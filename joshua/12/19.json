@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 12:19",
+  "book": "joshua",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ກະສັດຂອງມາໂດນ ໜຶ່ງ ກະສັດຂອງຮາໂຊຣ ໜຶ່ງ",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "ມາໂດນ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ຮາໂຊຣ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:57:51.096748775Z",
+  "model": "glm-5.3"
+}

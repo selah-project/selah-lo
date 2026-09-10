@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ໃນປີໂຢເບລນີ້ພວກເຈົ້າຈະກັບຄືນຄົນຕໍ່ຊັບສິນຂອງຕົນ",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ໃນປີ"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "ໂຢເບລ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "ພວກເຈົ້າຈະກັບຄືນ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "ຊັບສິນຂອງຕົນ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:47:13.855508662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ວ່າບັນຍັດນີ້ ທີ່ເຮົາບັນຍັດເຈົ້າ ມື້ນີ້ ບໍ່ຍິ່ງໃຫຍ່ເກີນຈາກເຈົ້າ ແລະບໍ່ໄກຈາກເຈົ້າ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ບັນຍັດ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ເຮົາ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ບັນຍັດເຈົ້າ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ມື້ນີ້"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "ຍິ່ງໃຫຍ່ເກີນ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ຈາກເຈົ້າ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "ໄກ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T22:02:58.060795712Z",
+  "model": "glm-5.3"
+}

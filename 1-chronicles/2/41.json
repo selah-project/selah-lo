@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະຊາລູມມີລູກ⟨את⟩ຢິກັມຢາ ແລະຢິກັມຢາມີລູກ⟨את⟩ເອລິຊາມາ.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "ແລະຊາລູມ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ມີລູກ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຢິກັມຢາ"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "ຢິກັມຢາ"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "ແລະຢິກັມຢາ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ມີລູກ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເອລິຊາມາ"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "ເອລິຊາມາ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:01:23.129915196Z",
+  "model": "glm-5.3"
+}

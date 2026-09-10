@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "daniel 5:24",
+  "book": "daniel",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ຂະນະນັ້ນ ຈາກໜ້າເພິ່ນ ຝາມືຖືກສົ່ງມາ ແລະຂໍ້ຄວາມນີ້ຖືກຂຽນ.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "ຂະນະນັ້ນ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "ໜ້າເພິ່ນ"
+    },
+    {
+      "surface": "שליח",
+      "gloss": "ຖືກສົ່ງມາ"
+    },
+    {
+      "surface": "פסא",
+      "gloss": "ຝາມື"
+    },
+    {
+      "surface": "די",
+      "gloss": "ຂອງ"
+    },
+    {
+      "surface": "ידא",
+      "gloss": "ມື"
+    },
+    {
+      "surface": "וכתבא",
+      "gloss": "ແລະຂໍ້ຄວາມ"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "ຖືກຂຽນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:53:58.519187053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 5:26",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ເພາະໃຜໃນຊີ້ນໜັງທັງປວງຜູ້ຟັງສຽງຂອງເອໂລຮິມຜູ້ມີຊີວິດກ່າວຈາກທ່າມກາງໄຟຄືພວກເຮົາ ແລະມີຊີວິດ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງປວງ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ຊີ້ນໜັງ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ຜູ້"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ຟັງ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ສຽງ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ເອໂລຮິມ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ຜູ້ມີຊີວິດ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ກ່າວ"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ຈາກທ່າມກາງ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ໄຟ"
+    },
+    {
+      "surface": "כמנו",
+      "gloss": "ຄືພວກເຮົາ"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "ແລະມີຊີວິດ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:54:06.369324206Z",
+  "model": "glm-5.3"
+}

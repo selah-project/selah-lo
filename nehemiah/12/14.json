@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 12:14",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ຂອງມະລິກິ ໂຢນາທານ; ຂອງເຊບານິຢາ ໂຢເຊັບ.",
+  "tokens": [
+    {
+      "surface": "למלוכי",
+      "gloss": "ຂອງມະລິກິ"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "ໂຢນາທານ"
+    },
+    {
+      "surface": "לשבניה",
+      "gloss": "ຂອງເຊບານິຢາ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ໂຢເຊັບ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:54:59.872504060Z",
+  "model": "glm-5.3"
+}

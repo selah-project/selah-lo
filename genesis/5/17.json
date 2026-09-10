@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 5:17",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ທັງໝົດວັນຂອງມາຮາລາລານ ⟨ເປັນ⟩ ຫ້າແລະເກົ້າສິບປີ ແລະແປດຮ້ອຍປີ ແລະເພິ່ນຕາຍ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ເປັນ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ວັນຂອງ"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "ມາຮາລາລານ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ຫ້າ"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "ແລະເກົ້າສິບ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ແລະແປດ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ແລະເພິ່ນຕາຍ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:02:19.195000027Z",
+  "model": "glm-5.3"
+}

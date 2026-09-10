@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 16,
+  "translation": "ຄົນຈະສ້າງພະໃຫ້ຕົນເອງບໍ ແລະພວກມັນບໍ່⟨ເປັນ⟩ພະ.",
+  "tokens": [
+    {
+      "surface": "הֲיַעֲשֶׂה",
+      "gloss": "ຈະສ້າງບໍ"
+    },
+    {
+      "surface": "ל֥וֹ",
+      "gloss": "ໃຫ້ຕົນເອງ"
+    },
+    {
+      "surface": "אָדָ֖ם",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "אֱלֹהִ֑ים",
+      "gloss": "ພະ"
+    },
+    {
+      "surface": "וְהֵ֖מָּה",
+      "gloss": "ແລະພວກມັນ"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "אֱלֹהִֽים",
+      "gloss": "ພະ"
+    }
+  ],
+  "timestamp": "2026-09-09T17:07:43.617125190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 2:13",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ຜູ້ທີ່ປະຖິ້ມເສັ້ນທາງຄວາມຊອບທຳ ເພື່ອຍ່າງໃນທາງຄວາມມືດ",
+  "tokens": [
+    {
+      "surface": "העזבים",
+      "gloss": "ຜູ້ທີ່ປະຖິ້ມ"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ເສັ້ນທາງ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ຄວາມຊອບທຳ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ເພື່ອຍ່າງ"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ໃນທາງ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ຄວາມມືດ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:26:46.118537306Z",
+  "model": "glm-5.3"
+}

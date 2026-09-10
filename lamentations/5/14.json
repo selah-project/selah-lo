@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ຜູ້ເຖົ້າໝົດໄປຈາກປະຕູ ໄວໜຸ່ມຈາກດົນຕີຂອງພວກເຂົາ.",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "ຜູ້ເຖົ້າ"
+    },
+    {
+      "surface": "משער",
+      "gloss": "ຈາກປະຕູ"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "ໝົດໄປ"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "ໄວໜຸ່ມ"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "ຈາກດົນຕີຂອງພວກເຂົາ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:23:40.711205062Z",
+  "model": "glm-5.3"
+}

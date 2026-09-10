@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 36,
+  "translation": "ແລະມີລູກຊາຍຂອງເອລິຟາຊ: ທີມານ, ອູມານ, ເສໂຟ, ແລະກາຕາມ, ແລະເກນາຊ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ແລະມີ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ເອລິຟາຊ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "ທີມານ"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "ອູມານ"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "ເສໂຟ"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "ແລະກາຕາມ"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "ແລະເກນາຊ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:49:09.072900733Z",
+  "model": "glm-5.3"
+}

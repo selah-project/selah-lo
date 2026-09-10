@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ລູກຜູ້ຖືກຜູ້ກຳເນີດແກ່ພວກເຂົາ ຊົ່ວຄົນທີສາມ ຈະເຂົ້າແກ່ພວກເຂົາໃນຊຸມຊົນຂອງຢາເວ.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "ລູກ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ຜູ້ທີ່"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "ຖືກຜູ້ກຳເນີດ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ແກ່ພວກເຂົາ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ຊົ່ວຄົນ"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "ທີສາມ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ຈະເຂົ້າ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ແກ່ພວກເຂົາ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ໃນຊຸມຊົນ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:06:19.769734093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 9:37",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ແລະເກດອນ ແລະອາຮິໂວ ແລະຊາຄາຣິຢາ ແລະມິກໂລດ.",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "ແລະເກດອນ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ແລະອາຮິໂວ"
+    },
+    {
+      "surface": "וזכריה",
+      "gloss": "ແລະຊາຄາຣິຢາ"
+    },
+    {
+      "surface": "ומקלות",
+      "gloss": "ແລະມິກໂລດ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:22:48.292944923Z",
+  "model": "glm-5.3"
+}

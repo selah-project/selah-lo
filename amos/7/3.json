@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ຢາເວໄດ້ປ່ຽນໃຈຕໍ່ສິ່ງນີ້: ມັນຈະບໍ່ເປັນ ຢາເວກ່າວວ່າ.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "ໄດ້ປ່ຽນໃຈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ສິ່ງນີ້"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ຈະເປັນ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ກ່າວວ່າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T02:40:41.530511852Z",
+  "model": "glm-5.3"
+}

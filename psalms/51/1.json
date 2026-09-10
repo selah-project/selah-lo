@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 51,
+  "translation": "ແກ່ຜູ້ຄວບຄຸມ ບົດຮ້ອງປະກອບດົນຕີ ຂອງດາວິດ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ແກ່ຜູ້ຄວບຄຸມ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ບົດຮ້ອງປະກອບດົນຕີ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ຂອງດາວິດ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:40:50.642020191Z",
+  "model": "glm-5.3"
+}

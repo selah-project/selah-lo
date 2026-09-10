@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 5:11",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ຜູ້ຍິງໃນຊີໂອນຖືກຂົ່ມຂູດ ນາງພັນສົນໃນຕົວເມືອງຂອງເຢຮູດາ.",
+  "tokens": [
+    {
+      "surface": "נשים",
+      "gloss": "ຜູ້ຍິງ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ໃນຊີໂອນ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ຖືກຂົ່ມຂູດ"
+    },
+    {
+      "surface": "בתלת",
+      "gloss": "ນາງພັນສົນ"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "ໃນຕົວເມືອງຂອງ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ເຢຮູດາ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:18:09.413852685Z",
+  "model": "glm-5.3"
+}

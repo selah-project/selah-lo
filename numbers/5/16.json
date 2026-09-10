@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ໂກເຮນແລະນຳສະເໜີ⟨את⟩ນາງ ແລະຕັ້ງນາງໃຫ້ຢືນໜ້າຢາເວ.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ແລະນຳສະເໜີ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ນາງ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ໂກເຮນ"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "ແລະຕັ້ງນາງໃຫ້ຢືນ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ໜ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:53:18.899607044Z",
+  "model": "glm-5.3"
+}

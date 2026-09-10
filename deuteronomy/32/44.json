@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 32:44",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 32,
+  "translation": "ແລະໂມເຊໄດ້ມາ ແລະໄດ້ເວົ້າ⟨את⟩ທຸກຄຳຂອງເພງນີ້ ໃນຫູຂອງຊາວຊົນ ເພິ່ນ ແລະໂຮເຊອາລູກຊາຍຂອງນູນ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ແລະໄດ້ມາ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ແລະໄດ້ເວົ້າ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ທຸກຄຳຂອງເພງນີ້"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ຂອງເພງ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ໃນຫູຂອງ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ຊາວຊົນ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "והושע",
+      "gloss": "ແລະໂຮເຊອາ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "נון",
+      "gloss": "ນູນ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:16:03.184624056Z",
+  "model": "glm-5.3"
+}

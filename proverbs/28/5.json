@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ຄົນຊົ່ວບໍ່ເຂົ້າໃຈຄວາມຍຸຕິທຳ ແລະຜູ້ທີ່ຊອກຫາຢາເວ ເຂົ້າໃຈທຸກສິ່ງ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ຄົນຂອງ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ຊົ່ວ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ເຂົ້າໃຈ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ຄວາມຍຸຕິທຳ"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "ແລະຜູ້ທີ່ຊອກຫາ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ເຂົ້າໃຈ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກສິ່ງ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:59:06.962691928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 37,
+  "translation": "ລາວໄດ້ກັບຫາອ້າຍນ້ອງຂອງລາວແລະກ່າວວ່າເດັກບໍ່ມີແລ້ວແລະຂ້ອຍຈະໄປໃສ.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ໄດ້ກັບ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ອ້າຍນ້ອງຂອງລາວ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະກ່າວ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ເດັກ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ບໍ່ມີແລ້ວ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ແລະຂ້ອຍ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ໄປໃສ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ຂ້ອຍ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ຈະໄປ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:56:30.583206303Z",
+  "model": "glm-5.3"
+}

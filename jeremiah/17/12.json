@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 17:12",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 17,
+  "translation": "ບັນລັງສະຫງ່າ ສູງແຕ່ເບື້ອງຕົ້ນ ແມ່ນບ່ອນວິຫານຂອງພວກເຮົາ.",
+  "tokens": [
+    {
+      "surface": "כסא",
+      "gloss": "ບັນລັງ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ສະຫງ່າ"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ສູງ"
+    },
+    {
+      "surface": "מראשון",
+      "gloss": "ແຕ່ເບື້ອງຕົ້ນ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ບ່ອນ"
+    },
+    {
+      "surface": "מקדשנו",
+      "gloss": "ວິຫານຂອງພວກເຮົາ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:12:09.104188204Z",
+  "model": "glm-5.3"
+}

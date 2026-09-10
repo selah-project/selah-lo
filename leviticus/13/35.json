@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ແລະຖ້າຮອຍພູມຄານຂະຫຍາຍແທ້ໃນຜິວຫຼັງການຊຳລະຂອງເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ແລະຖ້າ"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "ຂະຫຍາຍແທ້"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "ຂະຫຍາຍ"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ຮອຍພູມຄານ"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ໃນຜິວ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ຫຼັງ"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "ການຊຳລະຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:27:48.083377536Z",
+  "model": "glm-5.3"
+}

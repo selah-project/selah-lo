@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 40:2",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 40,
+  "translation": "ແລະຟາໂຣໂກດໃສ່ຂ້າລາຊະການສອງຄົນຂອງເພິ່ນ ຄືນາຍຝ່າຍເຫຼົ້າ ແລະນາຍຝ່າຍຂົ້ວ.",
+  "tokens": [
+    {
+      "surface": "ויקצף",
+      "gloss": "ແລະໂກດ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ຟາໂຣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ໃສ່"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "ຂ້າລາຊະການຂອງເພິ່ນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຄື"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ນາຍ"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "ຝ່າຍເຫຼົ້າ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ແລະຄື"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ນາຍ"
+    },
+    {
+      "surface": "האופים",
+      "gloss": "ຝ່າຍຂົ້ວ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:01:11.911099573Z",
+  "model": "glm-5.3"
+}

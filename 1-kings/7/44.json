@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ແລະ⟨את⟩ທະເລໜຶ່ງອັນ ແລະ⟨את⟩ງົວສິບສອງໂຕ ໃຕ້ທະເລ",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ທະເລ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ທະເລ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ງົວ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ງົວ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ໃຕ້"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ທະເລ"
+    }
+  ],
+  "timestamp": "2026-09-09T15:32:30.530019423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ຈົນເຖິງເມື່ອດວງຕາເວັນບໍ່ມືດລົງ ແລະແສງ ແລະດວງຈັນ ແລະດວງດາວ ແລະເມກກັບຄືນຫຼັງຝົນ.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ຈົນເຖິງ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ເມື່ອ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "ມືດລົງ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ດວງຕາເວັນ"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "ແລະແສງ"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "ແລະດວງຈັນ"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "ແລະດວງດາວ"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ແລະກັບຄືນ"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "ເມກ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ຫຼັງ"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ຝົນ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:33:13.944704512Z",
+  "model": "glm-5.3"
+}

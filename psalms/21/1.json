@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ແກ່ຜູ້ອຳນວຍ ມິຊມໍ ຂອງດາວິດ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ແກ່ຜູ້ອຳນວຍ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ມິຊມໍ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ຂອງດາວິດ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:32:18.317608617Z",
+  "model": "glm-5.3"
+}

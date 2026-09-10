@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ຂ້ອຍໄດ້ຮຽກຊື່ຂອງເຈົ້າ ຢາເວ ຈາກຂຸມຊັ້ນຕ່ຳ.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "ຂ້ອຍໄດ້ຮຽກ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ຊື່ຂອງເຈົ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "ຂຸມ"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "ຊັ້ນຕ່ຳ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:43:09.901451333Z",
+  "model": "glm-5.3"
+}

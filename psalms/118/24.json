@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 118,
+  "translation": "ວັນນີ້ ຢາເວໄດ້ສ້າງ; ຈົ່ງຊົມຢາດ ຈົ່ງຍິນດີໃນມັນ.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ໄດ້ສ້າງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "ຈົ່ງຊົມຢາດ"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "ຈົ່ງຍິນດີ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ໃນມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:59:14.955700878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 15:17",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 15,
+  "translation": "ຢາເວໄດ້ກ່າວກັບໂມເຊວ່າ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ໄດ້ກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:14:00.530353477Z",
+  "model": "glm-5.3"
+}

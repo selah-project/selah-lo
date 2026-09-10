@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 13:13",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ຜູ້ດູຖູກຄຳຖືກຜູກພັນໄວ້ ແລະຜູ້ຢ້ານຽມບັນຍັດ ເພິ່ນຖືກຕອບແທນ.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "ດູຖູກ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "ຖືກຜູກພັນໄວ້"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ຂອງເຂົາ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ແລະຜູ້ຢ້ານຽມ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ບັນຍັດ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ຖືກຕອບແທນ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:38:03.025046038Z",
+  "model": "glm-5.3"
+}

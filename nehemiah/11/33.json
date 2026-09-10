@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 11:33",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ຫາໂສຣ, ຣາມາ, ກິທາຢິມ.",
+  "tokens": [
+    {
+      "surface": "חצור",
+      "gloss": "ຫາໂສຣ"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ຣາມາ"
+    },
+    {
+      "surface": "גתים",
+      "gloss": "ກິທາຢິມ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:56:10.543357082Z",
+  "model": "glm-5.3"
+}

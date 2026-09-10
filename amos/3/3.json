@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ສອງຄົນຈະຍ່າງໄປດົນກັນບໍ ຖ້າບໍ່ໄດ້ນັດໝາຍກັນ?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "ຈະຍ່າງ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ສອງຄົນ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ດົນກັນ"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ຖ້າ"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "ນັດໝາຍກັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T02:29:14.185498616Z",
+  "model": "glm-5.3"
+}

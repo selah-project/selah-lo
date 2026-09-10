@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ເປັນຫຍັງເຈົ້າລືມພວກເຮົາຕະຫຼອດນິດຕະລະ ປະຖິ້ມພວກເຮົາດົນນານຫຼາຍວັນ.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ເປັນຫຍັງ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ຕະຫຼອດນິດຕະລະ"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "ລືມພວກເຮົາ"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "ປະຖິ້ມພວກເຮົາ"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "ດົນນານ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ຫຼາຍວັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:18:20.388301162Z",
+  "model": "glm-5.3"
+}

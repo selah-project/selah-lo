@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 4:24",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ຍ້ອນວ່າຢາເວ ເອໂລຮິມຂອງເຈົ້າ ⟨ເປັນ⟩ ໄຟໄພເຜົາ ເພິ່ນ ⟨ເປັນ⟩ ເອນອິດສາ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ຍ້ອນວ່າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ເອໂລຮິມຂອງເຈົ້າ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ໄຟ"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "ໄພເຜົາ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເອນ"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ອິດສາ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:20:33.854251106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 16:1",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 16,
+  "translation": "ຄຳຂອງຢາເວມາຫາຂ້ອຍອີກເວົ້າວ່າ",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ອີກ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ມາຫາຂ້ອຍ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ເວົ້າວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T01:11:47.075531156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ວັນຂອງເຕຣາຮກໍເປັນຫ້າປີ ແລະສອງຮ້ອຍປີ ແລະເຕຣາຮໄດ້ຕາຍຢູ່ຮາຣັນ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ກໍເປັນ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ວັນຂອງ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ເຕຣາຮ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ຫ້າ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ແລະສອງຮ້ອຍ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ແລະໄດ້ຕາຍ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ເຕຣາຮ"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "ຢູ່ຮາຣັນ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:14:47.431181783Z",
+  "model": "glm-5.3"
+}

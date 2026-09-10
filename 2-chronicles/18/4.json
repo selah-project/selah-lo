@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 18,
+  "translation": "ແລະເຢໂຮຊູອາຟາດກ່າວຕໍ່ກະສັດອິສະຣາເນນວ່າ ຈົ່ງຊອກຫາເຖີດ ຄືມື້ນີ້ ⟨את⟩ຄຳຂອງຢາເວ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະເພິ່ນກ່າວ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "ເຢໂຮຊູອາຟາດ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເນນ"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ຊອກຫາ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ເຖີດ"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ຄືມື້ນີ້"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຄຳຂອງຢາເວ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:25:54.214215310Z",
+  "model": "glm-5.3"
+}

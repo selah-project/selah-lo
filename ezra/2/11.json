@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ລູກຫຼານຂອງເບບາຍຫົກຮ້ອຍຊາວສາມຄົນ",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "ເບບາຍ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ຫົກ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ຊາວ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ສາມ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:17:48.635248322Z",
+  "model": "glm-5.3"
+}

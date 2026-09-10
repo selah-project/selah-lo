@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 10:26",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ຣະຮູນ ຮາຊັບນາຮາ ມາອາເສຍາ",
+  "tokens": [
+    {
+      "surface": "רְחוּם",
+      "gloss": "ຣະຮູນ"
+    },
+    {
+      "surface": "חֲשַׁבְנָה",
+      "gloss": "ຮາຊັບນາຮາ"
+    },
+    {
+      "surface": "מַעֲשֵׂיָה",
+      "gloss": "ມາອາເສຍາ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:51:57.808734959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 129,
+  "translation": "ຈົ່ງອັດອາຍ ແລະຈົ່ງຖອຍຫຼັງ ທັງປວງຜູ້ຊັງຊີໂອນ.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ຈົ່ງອັດອາຍ"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "ແລະຈົ່ງຖອຍຫຼັງ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ຫຼັງ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງປວງ"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ຜູ້ຊັງ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ຊີໂອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:13:09.786238980Z",
+  "model": "glm-5.3"
+}

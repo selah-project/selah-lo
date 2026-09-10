@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ພອນກະຕິກຂອງເຈົ້າ ແລະຊາມນວດແປ້ງຂອງເຈົ້າ.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ພອນ"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "ກະຕິກຂອງເຈົ້າ"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "ແລະຊາມນວດແປ້ງຂອງເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:38:24.215331179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 10:3",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ຊຣາຢາ ອາຊາຣາຢາ ຢິຣະມີຢາ.",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "ຊຣາຢາ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ອາຊາຣາຢາ"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "ຢິຣະມີຢາ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:06:40.921745339Z",
+  "model": "glm-5.3"
+}

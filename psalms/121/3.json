@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 121,
+  "translation": "ຢ່າໃຫ້ຕີນຂອງເຈົ້າສັ້ນລົ້ມ ຢ່າໃຫ້ຜູ້ຮັກສາເຈົ້າງວຍ",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ໃຫ້"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "ສັ້ນລົ້ມ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ຕີນຂອງເຈົ້າ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ງວຍ"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ຜູ້ຮັກສາເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:11:51.428704711Z",
+  "model": "glm-5.3"
+}

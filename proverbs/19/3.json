@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ຄວາມໂງ່ຂອງມະນຸດບິດເບືອນທາງຂອງເພິ່ນ ແລະໃຈຂອງເພິ່ນໃໝ້ຕໍ່ຢາເວ.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "ຄວາມໂງ່"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ມະນຸດ"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "ບິດເບືອນ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ທາງຂອງເພິ່ນ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ແລະຕໍ່"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "ໃໝ້"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ໃຈຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:14:43.343083039Z",
+  "model": "glm-5.3"
+}

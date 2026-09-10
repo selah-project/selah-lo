@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ແລະ⟨את⟩ເຢວູສີ ແລະ⟨את⟩ອາໂມຣີ ແລະ⟨את⟩ກິຣກາຊີ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ເຢວູສີ"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "ເຢວູສີ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ອາໂມຣີ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ອາໂມຣີ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ກິຣກາຊີ"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ກິຣກາຊີ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:02:16.365929420Z",
+  "model": "glm-5.3"
+}

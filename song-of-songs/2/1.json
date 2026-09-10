@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ຂ້ອຍເປັນດອກໄມ້ຂອງຊາຣໂອນ ດອກຝ້າຍຂອງແອ່ມທັງຫຼາຍ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ຂ້ອຍ"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "ດອກໄມ້"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "ຂອງຊາຣໂອນ"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "ດອກຝ້າຍ"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "ຂອງແອ່ມທັງຫຼາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:56:03.726723659Z",
+  "model": "glm-5.3"
+}

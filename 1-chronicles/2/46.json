@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະເຟາຮ ເມຍນ້ອຍຂອງຄາເລບ ເກີດ⟨את⟩ຮຣານແລະ⟨את⟩ໂມສາແລະ⟨את⟩ກາຊັດ ແລະຮຣານ ກຳເນີດ⟨את⟩ກາຊັດ.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "ແລະເຟາຮ"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "ເມຍນ້ອຍ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ຄາເລບ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ເກີດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຮຣານ"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "ຮຣານ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ໂມສາ"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "ໂມສາ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ກາຊັດ"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "ກາຊັດ"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "ແລະຮຣານ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ກຳເນີດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ກາຊັດ"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "ກາຊັດ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:04:39.652058374Z",
+  "model": "glm-5.3"
+}

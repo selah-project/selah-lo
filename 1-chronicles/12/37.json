@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 12:37",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ແລະຈາກອາເຊຣຜູ້ອອກທັບຈັດລຳດັບສົງຄາມສີ່ສິບພັນຄົນ.",
+  "tokens": [
+    {
+      "surface": "ומאשר",
+      "gloss": "ແລະຈາກອາເຊຣ"
+    },
+    {
+      "surface": "יוצאי",
+      "gloss": "ຜູ້ອອກໄປ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ທັບ"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "ຈັດລຳດັບ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ສົງຄາມ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ສີ່ສິບ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ພັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:30:59.643307893Z",
+  "model": "glm-5.3"
+}

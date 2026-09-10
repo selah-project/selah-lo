@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ຈົ່ງຟັງ ແລະໃຫ້ຫູຟັງ ຢ່າອວດອວົງ ຍ້ອນວ່າຢາເວໄດ້ກ່າວ.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ຟັງ"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "ໃຫ້ຫູຟັງ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "ອວດອວົງ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ຍ້ອນວ່າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ໄດ້ກ່າວ"
+    }
+  ],
+  "timestamp": "2026-09-09T17:05:08.558292860Z",
+  "model": "glm-5.3"
+}

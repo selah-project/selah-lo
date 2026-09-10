@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 7:14",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ຈອກຄຳ ໜຶ່ງອັນ ສິບຊັບຶກ ເຕັມດ້ວຍເຄື່ອງຫອມ.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ຈອກ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ເຕັມ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ເຄື່ອງຫອມ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:58:58.815369513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 19:14",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ນີ້ຄືທຳ ຄົນເມື່ອຕາຍໃນເຕັນ ທຸກຄົນທີ່ເຂົ້າໄປໃນເຕັນ ແລະທຸກສິ່ງທີ່ຢູ່ໃນເຕັນ ຈະມົວເຈັດວັນ.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ຄືທຳ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເມື່ອ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ຕາຍ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ໃນເຕັນ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "ຜູ້ທີ່ເຂົ້າ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ໄປໃນ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ເຕັນ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ແລະທຸກ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ສິ່ງທີ່"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ໃນເຕັນ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ຈະມົວ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ເຈັດ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ວັນ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:20:25.010826617Z",
+  "model": "glm-5.3"
+}

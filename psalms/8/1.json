@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແກ່ຜູ້ຄວບຄຸມເທິງກິດທິດບົດຮ້ອງຂອງດາວິດ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ແກ່ຜູ້ຄວບຄຸມ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "ກິດທິດ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ບົດຮ້ອງ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ຂອງດາວິດ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:03:25.180280126Z",
+  "model": "glm-5.3"
+}

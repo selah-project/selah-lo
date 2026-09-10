@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 48,
+  "translation": "ໃນລົມພາກຕາເວັນອອກ ເຈົ້າທຳລາຍເຮືອຂອງທາຣຊິຊ.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "ໃນລົມ"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ພາກຕາເວັນອອກ"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "ເຈົ້າທຳລາຍ"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ເຮືອ"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "ທາຣຊິຊ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:13:45.783067911Z",
+  "model": "glm-5.3"
+}

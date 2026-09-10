@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 52,
+  "translation": "ລີຂອງເຈົ້າຄິດການທຳລາຍ ຄືມີດຊັບຄົມ ຜູ້ເຮັດການຫຼອກລວງ.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "ການທຳລາຍ"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "ຄິດ"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "ລີຂອງເຈົ້າ"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "ຄືມີດ"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "ຊັບຄົມ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ຜູ້ເຮັດ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ການຫຼອກລວງ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:19:53.794443734Z",
+  "model": "glm-5.3"
+}

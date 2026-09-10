@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 6:37",
+  "book": "1-kings",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ຫຼັກຂອງຢາເວຖືກວາງໃນປີທີສີ່ໃນເດືອນຊິວ.",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "ໃນປີ"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "ທີສີ່"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "ວາງຫຼັກ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ຫຼັງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "ໃນເດືອນ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ຊິວ"
+    }
+  ],
+  "timestamp": "2026-09-08T22:17:18.004566990Z",
+  "model": "glm-5.3"
+}

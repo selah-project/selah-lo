@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ຊາໂດກ ລູກຂອງເພິ່ນ, ອາຮິມາອັດ ລູກຂອງເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "ຊາໂດກ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ລູກຂອງເພິ່ນ"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "ອາຮິມາອັດ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ລູກຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:11:45.882704623Z",
+  "model": "glm-5.3"
+}

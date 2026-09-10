@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ແລະ⟨את⟩ທະເລວາງຈາກແປຂວາທິດຕາເວັນອອກ ຢູ່ຕໍ່ໜ້າທິດໃຕ້",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ທະເລ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ທະເລ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ວາງ"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "ຈາກແປ"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "ຂວາ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ທິດຕາເວັນອອກ"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "ຢູ່ຕໍ່ໜ້າ"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "ທິດໃຕ້"
+    }
+  ],
+  "timestamp": "2026-09-09T09:57:38.758785091Z",
+  "model": "glm-5.3"
+}

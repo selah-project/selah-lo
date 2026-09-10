@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 10:11",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ແລະພີ່ນ້ອງຂອງເຂົາ: ຊະບັນຢາ ໂຮດິຢາ ເກລິຕາ ເປລາຢາ ຮານານ",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "ແລະພີ່ນ້ອງຂອງເຂົາ"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "ຊະບັນຢາ"
+    },
+    {
+      "surface": "הודיה",
+      "gloss": "ໂຮດິຢາ"
+    },
+    {
+      "surface": "קליטא",
+      "gloss": "ເກລິຕາ"
+    },
+    {
+      "surface": "פלאיה",
+      "gloss": "ເປລາຢາ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ຮານານ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:52:05.682269192Z",
+  "model": "glm-5.3"
+}

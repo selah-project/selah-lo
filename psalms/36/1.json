@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 36,
+  "translation": "ແກ່ຜູ້ຄວບຄຸມ ຂອງຜູ້ຮັບໃຊ້ຢາເວ ຂອງດາວິດ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ແກ່ຜູ້ຄວບຄຸມ"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ຂອງຜູ້ຮັບໃຊ້"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ຂອງດາວິດ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:36:17.058253953Z",
+  "model": "glm-5.3"
+}

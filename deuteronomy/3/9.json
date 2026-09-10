@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ຊາວເມືອງຊິໂດນເອີ້ນເຮີມອນວ່າຊິຣິໂອນ ແລະຄົນອາໂມຣິເອີ້ນມັນວ່າເຊນີຣ.",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "ຊາວເມືອງຊິໂດນ"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ເອີ້ນ"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "ເຮີມອນ"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "ຊິຣິໂອນ"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ແລະຄົນອາໂມຣິ"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ເອີ້ນ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "ເຊນີຣ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:44:09.692348693Z",
+  "model": "glm-5.3"
+}

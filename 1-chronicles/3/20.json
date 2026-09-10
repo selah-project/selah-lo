@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ແລະຫາຊູບາຮ ໂອເຮນ ເບເຣັດຄິຢາຮ ຫາຊັດດາຢາຮ ຢູຊາບເຮເສດ ຫ້າໂຕ.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "ແລະຫາຊູບາຮ"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "ໂອເຮນ"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "ເບເຣັດຄິຢາຮ"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "ຫາຊັດດາຢາຮ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ຢູຊາບ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ເຮເສດ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ຫ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:10:35.451121784Z",
+  "model": "glm-5.3"
+}

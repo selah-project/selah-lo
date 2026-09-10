@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 5:5",
+  "book": "judges",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ພູໄຫຼຕໍ່ໜ້າຢາເວ ອັນນີ້ຄືຊີນາຍ ຕໍ່ໜ້າຢາເວ ເອໂລຮິມຂອງອິສະຣາເອນ.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "ພູ"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "ໄຫຼ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ຕໍ່ໜ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ອັນນີ້"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ຊີນາຍ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ຕໍ່ໜ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ເອໂລຮິມຂອງ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T14:12:43.984583583Z",
+  "model": "glm-5.3"
+}

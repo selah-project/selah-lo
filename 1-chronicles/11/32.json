@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ຮູຣາຍຈາກລຳນ້ຳກາອາຊ ອາບີເອນອາຣະບາດ.",
+  "tokens": [
+    {
+      "surface": "חוּרַי",
+      "gloss": "ຮູຣາຍ"
+    },
+    {
+      "surface": "מִנַּחֲלֵי",
+      "gloss": "ຈາກລຳນ້ຳ"
+    },
+    {
+      "surface": "גַּעַשׁ",
+      "gloss": "ກາອາຊ"
+    },
+    {
+      "surface": "אֲבִיאֵל",
+      "gloss": "ອາບີເອນ"
+    },
+    {
+      "surface": "הָעַרְבָתִי",
+      "gloss": "ອາຣະບາດ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:24:15.851997690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ແລະອະບິຊູອາໄດ້ກຳເນດ⟨את⟩ບຸກກີ ແລະບຸກກີໄດ້ກຳເນດ⟨את⟩ອຸຊີ.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "ແລະອະບິຊູອາ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ໄດ້ກຳເນດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ບຸກກີ"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "ບຸກກີ"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "ແລະບຸກກີ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ໄດ້ກຳເນດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ອຸຊີ"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ອຸຊີ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:11:44.989825213Z",
+  "model": "glm-5.3"
+}

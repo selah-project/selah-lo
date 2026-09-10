@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 16:2",
+  "book": "joshua",
+  "lang": "lo",
+  "chapter": 16,
+  "translation": "ແລະອອກຈາກເບັດ-ເອນ ຫາລູຊ ແລະຜ່ານໄປຫາຊາຍແດນຂອງອາຣະກີ ອາຕາໂຣດ",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ແລະອອກ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ຈາກເບັດ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເອນ"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "ຫາລູຊ"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "ແລະຜ່ານ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ໄປຫາ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ຊາຍແດນ"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "ຂອງອາຣະກີ"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "ອາຕາໂຣດ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:57:32.612454165Z",
+  "model": "glm-5.3"
+}

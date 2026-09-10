@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 6:28",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ລູກຊາຍຂອງຢາຮດ ລູກຊາຍຂອງເກຣຊົມ ລູກຊາຍຂອງເລວີ",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ຢາຮດ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ເກຣຊົມ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ເລວີ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:16:51.510571481Z",
+  "model": "glm-5.3"
+}

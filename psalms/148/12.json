@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 148,
+  "translation": "ໜຸ່ມຊາຍ ແລະທັງສາວພົວ ຜູ້ເຖົ້າ ພ້ອມດ້ວຍເດັກນ້ອຍ",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "ໜຸ່ມຊາຍ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ແລະທັງ"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "ສາວພົວ"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ຜູ້ເຖົ້າ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ພ້ອມດ້ວຍ"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ເດັກນ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:22:17.809491180Z",
+  "model": "glm-5.3"
+}

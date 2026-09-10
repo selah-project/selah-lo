@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 69,
+  "translation": "ແກ່ຜູ້ຄວບຄຸມ ເທິງຊໍຊັນນິມ ຂອງດາວິດ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ແກ່ຜູ້ຄວບຄຸມ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "ຊໍຊັນນິມ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ຂອງດາວິດ"
+    }
+  ],
+  "timestamp": "2026-09-10T01:11:33.689239101Z",
+  "model": "glm-5.3"
+}

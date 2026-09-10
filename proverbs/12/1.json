@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ຜູ້ຮັກຄວາມຝຶກຫຼ້າສອນຮັກຄວາມຮູ້ ແລະຜູ້ຊັງການຕິຕຽນເປັນຄົນໂງ່.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ຮັກ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ຄວາມຝຶກຫຼ້າສອນ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ຮັກ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ຄວາມຮູ້"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "ແລະຊັງ"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ການຕິຕຽນ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ໂງ່"
+    }
+  ],
+  "timestamp": "2026-09-09T05:38:20.961480593Z",
+  "model": "glm-5.3"
+}

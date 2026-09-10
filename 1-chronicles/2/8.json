@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 2:8",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະບຸດຊາຍຂອງເອທານ: ອາຊາຣະຢາ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ແລະບຸດຊາຍຂອງ"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ເອທານ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ອາຊາຣະຢາ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:01:30.410804474Z",
+  "model": "glm-5.3"
+}

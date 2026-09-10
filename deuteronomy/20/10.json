@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ເມື່ອເຈົ້າເຂົ້າໃກ້ນະຄອນໜຶ່ງເພື່ອຮົບກັບມັນ ເຈົ້າຈະຮຽກສັນຕິພາບຫາມັນ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເມື່ອ"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "ເຈົ້າເຂົ້າໃກ້"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ນະຄອນໜຶ່ງ"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ເພື່ອຮົບ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ກັບມັນ"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "ເຈົ້າຈະຮຽກ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ຫາມັນ"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ສັນຕິພາບ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:00:59.196167837Z",
+  "model": "glm-5.3"
+}

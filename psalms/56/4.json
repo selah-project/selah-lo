@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 56,
+  "translation": "ມື້ທີ່ຂ້ອຍຢ້ານ ຂ້ອຍວາງໃຈໃນເຈົ້າ",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ມື້"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ຂ້ອຍຢ້ານ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ຂ້ອຍ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ໃນເຈົ້າ"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ຂ້ອຍວາງໃຈ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:07:10.424755846Z",
+  "model": "glm-5.3"
+}

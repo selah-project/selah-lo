@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 6:15",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ແລະສຳເລັດຫຼັງນີ້ ເຖິງວັນ ສາມ ເດືອນ ອາດາຣ ຄືມັນ ເປັນປີ ຫົກ ແຫ່ງການຄອງ ຂອງ ດາຣຢາເວດ ກະສັດ.",
+  "tokens": [
+    {
+      "surface": "ושיציא",
+      "gloss": "ແລະສຳເລັດ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ຫຼັງ"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ເຖິງ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "תלתה",
+      "gloss": "ສາມ"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "ເດືອນ"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "ອາດາຣ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ຄື"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ຫົກ"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "ແຫ່ງການຄອງ"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "ດາຣຢາເວດ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ກະສັດ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:23:47.534254075Z",
+  "model": "glm-5.3"
+}

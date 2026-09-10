@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ເພາະໜາວຄົນຂີ້ເກີດບໍ່ຄົດດິນ ເພິ່ນຈະຂໍໃນເວລາເກັບກູ້ ແລະບໍ່ມີ",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "ເພາະໜາວ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ຄົນຂີ້ເກີດ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "ຄົດດິນ"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "ຈະຂໍ"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "ໃນເວລາເກັບກູ້"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ແລະບໍ່ມີ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:48:45.768951569Z",
+  "model": "glm-5.3"
+}

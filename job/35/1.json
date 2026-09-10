@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 35:1",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 35,
+  "translation": "ແລະເອລິຮູໄດ້ຕອບແລະໄດ້ກ່າວວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ແລະໄດ້ຕອບ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ເອລິຮູ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະໄດ້ກ່າວວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:42:25.507448736Z",
+  "model": "glm-5.3"
+}

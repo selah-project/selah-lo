@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ແລະດາວິດໄດ້ຍຶດ⟨את⟩ສິນທານຂອງຊີໂອນ ມັນຄືເມືອງຂອງດາວິດ.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "ແລະໄດ້ຍຶດ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ດາວິດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ສິນທານຂອງຊີໂອນ"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "ສິນທານຂອງ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ຊີໂອນ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ມັນຄື"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ເມືອງຂອງ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ດາວິດ"
+    }
+  ],
+  "timestamp": "2026-09-09T15:07:53.223073270Z",
+  "model": "glm-5.3"
+}

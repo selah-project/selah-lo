@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 29,
+  "translation": "ຈົ່ງຊາດ⟨את⟩ຜູ້ໜ້າຢາເວ ທາງເຂົ້າເຕັນແຫ່ງການນັດພົບ.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "ຈົ່ງຊາດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຜູ້"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ຜູ້"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ໜ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ທາງເຂົ້າ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ເຕັນ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ແຫ່ງການນັດພົບ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:56:06.525644886Z",
+  "model": "glm-5.3"
+}

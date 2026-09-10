@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ຄົນຂີ້ເກີດເຊື່ອງມືຂອງໃນຈານ, ເຖິງແມ່ນປາກຂອງກໍບໍ່ດຶງມັນກັບ.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "ເຊື່ອງ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ຄົນຂີ້ເກີດ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ມືຂອງ"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "ໃນຈານ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ເຖິງແມ່ນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ໄປຫາ"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ປາກຂອງ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "ດຶງມັນກັບ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:15:16.353419491Z",
+  "model": "glm-5.3"
+}

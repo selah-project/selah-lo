@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 105,
+  "translation": "ພວກເຂົາຍ້າຍໄປຈາກຊົນຊາດຫາຊົນຊາດ ຈາກອານາຈັກຫາປະຊາຊົນອື່ນ.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "ພວກເຂົາຍ້າຍໄປ"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ຈາກຊົນຊາດ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ຊົນຊາດ"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "ຈາກອານາຈັກ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ປະຊາຊົນ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ອື່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:57:40.923664215Z",
+  "model": "glm-5.3"
+}

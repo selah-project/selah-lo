@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ນາຊອນກຳເນີດ⟨את⟩ສາມາ ແລະສາມາກຳເນີດ⟨את⟩ໂບອາຊ.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "ນາຊອນ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ກຳເນີດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ສາມາ"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "ສາມາ"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "ແລະສາມາ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ກຳເນີດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ໂບອາຊ"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ໂບອາຊ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:03:28.196188490Z",
+  "model": "glm-5.3"
+}

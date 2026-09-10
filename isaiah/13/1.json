@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ພາລະຂອງບາບິໂລນທີ່ເອຊາຢາລູກຊາຍຂອງອາໂມດໄດ້ເຫັນ.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ພາລະ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ບາບິໂລນ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ໄດ້ເຫັນ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ເອຊາຢາ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "ອາໂມດ"
+    }
+  ],
+  "timestamp": "2026-09-09T16:24:46.223186666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 4:1",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ແລະອະລີຟັດຊາວທະເມນິຕອບແລະເວົ້າວ່າ",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ແລະຕອບ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ອະລີຟັດ"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "ຊາວທະເມນິ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະເວົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:18:16.133207280Z",
+  "model": "glm-5.3"
+}

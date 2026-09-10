@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 31,
+  "translation": "ແລະຄົນມະນຸດໜຶ່ງແສນຫົກພັນຄົນ.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "ແລະຄົນ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ມະນຸດ"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ຫົກ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ໜຶ່ງແສນ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:31:59.902709004Z",
+  "model": "glm-5.3"
+}

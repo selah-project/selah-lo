@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ປະຊາຊົນຢືນຢູ່ໄກ ແລະໂມເຊເຂັ້ມໄປຫາຄວາມມືດທີ່ເອໂລຮິມຢູ່ທີ່ນັ້ນ.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ຢືນ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ປະຊາຊົນ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ຢູ່ໄກ"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "ແລະໂມເຊ"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "ເຂັ້ມໄປຫາ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "ຄວາມມືດ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ຢູ່ທີ່ນັ້ນ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ເອໂລຮິມ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:05:03.016594809Z",
+  "model": "glm-5.3"
+}

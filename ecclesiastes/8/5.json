@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ຜູ້ຮັກສາຄຳສັ່ງບໍ່ຮູ້ສິ່ງຊົ່ວຮ້າຍ ແລະເວລາ ແລະຄຳຕັດສິນ ໃຈຂອງຄົນສະຫຼາດຮູ້.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "ຜູ້ຮັກສາ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ຄຳສັ່ງ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ຮູ້"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ສິ່ງ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ຊົ່ວຮ້າຍ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ແລະເວລາ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ແລະຄຳຕັດສິນ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ຮູ້"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ໃຈ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ຂອງຄົນສະຫຼາດ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:29:38.702586170Z",
+  "model": "glm-5.3"
+}

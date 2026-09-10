@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ຊົ່ວຮຸ່ນໜຶ່ງລຸ່ນມາ ແລະຊົ່ວຮຸ່ນໜຶ່ງມາຮອດ ແລະແຜ່ນດິນໂລກຢູ່ຄົງຕະຫຼອດໄປ",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ຊົ່ວຮຸ່ນ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ລຸ່ນມາ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ແລະຊົ່ວຮຸ່ນ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ມາຮອດ"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ແລະແຜ່ນດິນໂລກ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ຕະຫຼອດໄປ"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ຢູ່ຄົງ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:44:40.817018260Z",
+  "model": "glm-5.3"
+}

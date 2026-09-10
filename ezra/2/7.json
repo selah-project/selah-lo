@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ລູກຫຼານຂອງເອລາມ ໜຶ່ງພັນສອງຮ້ອຍຫ້າສິບ ແລະສີ່.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ເອລາມ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ໜຶ່ງພັນ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ສອງຮ້ອຍ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ຫ້າສິບ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ແລະສີ່"
+    }
+  ],
+  "timestamp": "2026-09-09T08:17:05.120845766Z",
+  "model": "glm-5.3"
+}

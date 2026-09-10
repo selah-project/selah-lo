@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ແມ່ນແທ້ເມື່ອຂ້ອຍຮ້ອງ ແລະຂ້ອຍຮ້ອງຂໍ ເພິ່ນອຸດຄຳອົດຖືການຂອງຂ້ອຍ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ແມ່ນແທ້"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເມື່ອ"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ຂ້ອຍຮ້ອງ"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "ແລະຂ້ອຍຮ້ອງຂໍ"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "ເພິ່ນອຸດ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ຄຳອົດຖືການຂອງຂ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:42:47.311037240Z",
+  "model": "glm-5.3"
+}

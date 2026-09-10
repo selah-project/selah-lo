@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະຂ້ອຍມາຮອດເຢຣູຊາລາມ ແລະຂ້ອຍຢູ່ຢູ່ທີ່ນັ້ນສາມວັນ.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "ແລະຂ້ອຍມາຮອດ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ເຢຣູຊາລາມ"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "ແລະຂ້ອຍຢູ່"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ຢູ່ທີ່ນັ້ນ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ສາມ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:39:16.744044456Z",
+  "model": "glm-5.3"
+}

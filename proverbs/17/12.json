@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 17:12",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 17,
+  "translation": "ຂໍໃຫ້ຫມີທີ່ສູນລູກພົບຄົນ ດີກວ່າຢ່າພົບຄົນໂງ່ໃນຄວາມໂງ່ຂອງເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "פגוש",
+      "gloss": "ພົບ"
+    },
+    {
+      "surface": "דב",
+      "gloss": "ຫມີ"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "ທີ່ສູນລູກ"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ຄົນໂງ່"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "ໃນຄວາມໂງ່ຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:41:22.030419506Z",
+  "model": "glm-5.3"
+}

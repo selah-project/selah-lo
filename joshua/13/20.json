@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 13:20",
+  "book": "joshua",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ເບດເປໂອຣ ລາດຕີນຂອງພິສກາ ແລະເບດຮາເຢຊິໂມດ.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ເບດ"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "ເປໂອຣ"
+    },
+    {
+      "surface": "ואשדות",
+      "gloss": "ລາດຕີນຂອງ"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "ພິສກາ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ແລະເບດ"
+    },
+    {
+      "surface": "הישמות",
+      "gloss": "ຮາເຢຊິໂມດ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:32:41.844089245Z",
+  "model": "glm-5.3"
+}

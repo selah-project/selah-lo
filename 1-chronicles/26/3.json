@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 26:3",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ເອລາມທີຫ້າ, ເຢໂຮຮານັນທີຫົກ, ເອລິໂຮເອນາຍທີເຈັດ.",
+  "tokens": [
+    {
+      "surface": "עילם",
+      "gloss": "ເອລາມ"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ທີຫ້າ"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "ເຢໂຮຮານັນ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ທີຫົກ"
+    },
+    {
+      "surface": "אליהועיני",
+      "gloss": "ເອລິໂຮເອນາຍ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ທີເຈັດ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:47:44.559419866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ນ້ຳຂອງພວກເຮົາພວກເຮົາດື່ມດ້ວຍເງິນ, ໄມ້ຂອງພວກເຮົາມາດ້ວຍລາຄາ.",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "ນ້ຳຂອງພວກເຮົາ"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ດ້ວຍເງິນ"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "ພວກເຮົາດື່ມ"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "ໄມ້ຂອງພວກເຮົາ"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "ດ້ວຍລາຄາ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ມາ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:18:12.198776394Z",
+  "model": "glm-5.3"
+}

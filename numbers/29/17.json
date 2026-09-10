@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 29:17",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 29,
+  "translation": "ແລະໃນວັນທີສອງ ງົວລູກຂອງຝູງງົວ 12 ໂຕ ແກະຜູ້ 2 ໂຕ ແກະອ່ອນລູກຂອງປີ 14 ໂຕ ບໍ່ມີຕຳຫຼິດ.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ແລະໃນວັນ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ທີສອງ"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ງົວ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ຝູງງົວ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ແກະຜູ້"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ແກະອ່ອນ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ສີ່"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "ບໍ່ມີຕຳຫຼິດ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:30:03.891057132Z",
+  "model": "glm-5.3"
+}

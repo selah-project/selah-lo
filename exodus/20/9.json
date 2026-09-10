@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ຫົກວັນເຈົ້າທຳວຽກ ແລະເຮັດວຽກຂອງເຈົ້າທັງໝົດ.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "ຫົກ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ເຈົ້າທຳວຽກ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ແລະເຮັດ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "ວຽກຂອງເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:43:10.727394434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ສຽງຂອງຄົນຮັກຂອງຂ້ອຍ! ເບິ່ງແມ, ຄົນນີ້ມາ, ກ້າບໂດດເທິງພູທັງຫຼາຍ ໂດດເທິງພູນ້ອຍທັງຫຼາຍ.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ສຽງ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ຂອງຄົນຮັກຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ເບິ່ງແມ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ຄົນນີ້"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ມາ"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "ກ້າບໂດດ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ພູທັງຫຼາຍ"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "ໂດດ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ພູນ້ອຍທັງຫຼາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:57:10.388750902Z",
+  "model": "glm-5.3"
+}

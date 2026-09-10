@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 23:1",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ແລະຊີວິດຂອງຊາຣາເປັນໜຶ່ງຮ້ອຍປີ ແລະຊາວປີ ແລະເຈັດປີ ປີຂອງຊີວິດຂອງຊາຣາ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ແລະເປັນ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ຊີວິດຂອງ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ຊາຣາ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ໜຶ່ງຮ້ອຍ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ແລະຊາວ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ແລະເຈັດ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ປີຂອງ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ຊີວິດຂອງ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ຊາຣາ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:43:06.749388091Z",
+  "model": "glm-5.3"
+}

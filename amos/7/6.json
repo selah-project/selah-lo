@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ຢາເວໄດ້ຜ່ອນຈາກສິ່ງນີ້: „ສິ່ງນີ້ກໍຈະບໍ່⟨ເປັນ” ອາໂດນາຍ ຢາເວກ່າວ.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "ໄດ້ຜ່ອນ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ສິ່ງນີ້"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ກໍ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ສິ່ງນີ້"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨ເປັນ⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ກ່າວ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ອາໂດນາຍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:10:23.850267482Z",
+  "model": "glm-5.3"
+}

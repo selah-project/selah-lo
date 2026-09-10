@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ຮານານບຸດມາອາຄາແລະໂຢຊາຟາດຄົນມິທນິ",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "ຮານານ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ບຸດ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ມາອາຄາ"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "ແລະໂຢຊາຟາດ"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "ຄົນມິທນິ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:31:09.004141130Z",
+  "model": "glm-5.3"
+}

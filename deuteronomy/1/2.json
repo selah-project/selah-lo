@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ສິບເອັດມື້ ຈາກໂຮຣີບ ຕາມທາງພູເຊອີຣ ຈົນເຖິງຄາເດຊບາຣ໌ເນອ",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ມື້"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ຈາກໂຮຣີບ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ທາງ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ພູ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ເຊອີຣ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ຈົນເຖິງ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ຄາເດຊ"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "ບາຣ໌ເນອ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:56:47.198480676Z",
+  "model": "glm-5.3"
+}

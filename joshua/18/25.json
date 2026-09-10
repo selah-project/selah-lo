@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 18:25",
+  "book": "joshua",
+  "lang": "lo",
+  "chapter": 18,
+  "translation": "ກິບໂອນ (ກິໂບນ) ແລະຣາມາ ແລະເບໂອຣົດ",
+  "tokens": [
+    {
+      "surface": "גִּבְע֥וֹן",
+      "gloss": "ກິບໂອນ"
+    },
+    {
+      "surface": "וְהָֽרָמָ֖ה",
+      "gloss": "ແລະຣາມາ"
+    },
+    {
+      "surface": "וּבְאֵרֽוֹת",
+      "gloss": "ແລະເບໂອຣົດ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:39:33.340677804Z",
+  "model": "glm-5.3"
+}

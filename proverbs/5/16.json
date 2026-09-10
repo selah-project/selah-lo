@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 5:16",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ຈົ່ງໃຫ້ນ້ຳພຸຂອງເຈົ້າພົບອອກນອກ ໃນຖະໜົນລຳຮົ່ວຂອງນ້ຳ.",
+  "tokens": [
+    {
+      "surface": "יפוצו",
+      "gloss": "ຈົ່ງພົບອອກ"
+    },
+    {
+      "surface": "מעינתיך",
+      "gloss": "ນ້ຳພຸຂອງເຈົ້າ"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "ນອກ"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "ໃນຖະໜົນ"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "ລຳຮົ່ວ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ຂອງນ້ຳ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:28:36.911842663Z",
+  "model": "glm-5.3"
+}

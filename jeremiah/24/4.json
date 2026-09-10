@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 24:4",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ແລະຄຳຂອງຢາເວມາຫາຂ້ອຍວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະເກີດຂຶ້ນ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ຫາຂ້ອຍ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T22:42:25.601965851Z",
+  "model": "glm-5.3"
+}

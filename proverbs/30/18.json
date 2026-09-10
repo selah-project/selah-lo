@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 30:18",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ສາມສິ່ງພວກນີ້ປະຫຼາດເກີນຂ້ອຍ ແລະສີ່ສິ່ງທີ່ຂ້ອຍບໍ່ຮູ້.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "ສາມ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ສິ່ງພວກນີ້"
+    },
+    {
+      "surface": "נפלאו",
+      "gloss": "ປະຫຼາດເກີນ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ຂ້ອຍ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ແລະສີ່"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ידעתים",
+      "gloss": "ຂ້ອຍຮູ້"
+    }
+  ],
+  "timestamp": "2026-09-09T23:15:39.443238755Z",
+  "model": "glm-5.3"
+}

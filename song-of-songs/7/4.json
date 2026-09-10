@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 7:4",
+  "book": "song-of-songs",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ນົມທັງສອງຂອງເຈົ້າຄືລູກກວຽງສອງໂຕ ຝາແຝດຂອງກວາງຍິງ",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "ນົມຂອງເຈົ້າ"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "ຄືສອງ"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "ລູກກວຽງ"
+    },
+    {
+      "surface": "תאמי",
+      "gloss": "ຝາແຝດ"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "ຂອງກວາງຍິງ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:00:47.451568181Z",
+  "model": "glm-5.3"
+}

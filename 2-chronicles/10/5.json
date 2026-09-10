@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ແລະເພິ່ນກ່າວກັບພວກເຂົາວ່າ: ອີກສາມວັນ ຈົ່ງກັບມາຫາຂ້ອຍ ແລະປະຊາຊົນໄດ້ໄປ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະເພິ່ນກ່າວ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ກັບພວກເຂົາ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ອີກ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ສາມ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "ຈົ່ງກັບມາ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ຫາຂ້ອຍ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ແລະໄດ້ໄປ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ປະຊາຊົນ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:24:37.586114255Z",
+  "model": "glm-5.3"
+}

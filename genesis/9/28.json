@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ແລະໂນຄມີຊີວິດຫຼັງນ້ຳຖ້ວມ ສາມຮ້ອຍປີ ແລະຫ້າສິບປີ.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ແລະມີຊີວິດ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ໂນຄ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ຫຼັງ"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "ນ້ຳຖ້ວມ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ສາມ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ແລະຫ້າສິບ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:04:54.260695369Z",
+  "model": "glm-5.3"
+}

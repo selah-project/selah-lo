@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 1:51",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ຮາດາດຕາຍແລ້ວ ແລະຫົວໜ້າຂອງເອໂດມ⟨ເປັນ⟩ ຫົວໜ້າທິມນາ ຫົວໜ້າອັລວາ ຫົວໜ້າເຢເທັດ.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ແລະຕາຍແລ້ວ"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ຮາດາດ"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ແລະເປັນ"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "ຫົວໜ້າຂອງ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ເອໂດມ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ຫົວໜ້າ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ທິມນາ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ຫົວໜ້າ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ອັລວາ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ຫົວໜ້າ"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "ເຢເທັດ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:02:47.432964590Z",
+  "model": "glm-5.3"
+}

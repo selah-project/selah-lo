@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະເອນອາຊາກຳເນີດ⟨את⟩ສິສະມາຍ ແລະສິສະມາຍກຳເນີດ⟨את⟩ຊາລູມ.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "ແລະເອນອາຊາ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ກຳເນີດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ສິສະມາຍ"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "ສິສະມາຍ"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "ແລະສິສະມາຍ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ກຳເນີດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຊາລູມ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ຊາລູມ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:03:06.257865274Z",
+  "model": "glm-5.3"
+}

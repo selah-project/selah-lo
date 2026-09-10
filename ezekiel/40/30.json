@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 40:30",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 40,
+  "translation": "ແລະມຸມເສົາອ້ອມຂ້າງ ອ້ອມຂ້າງ ຍາວຊາວ ແລະຫ້າສອກ ຄວາມກວ້າງຫ້າສອກ.",
+  "tokens": [
+    {
+      "surface": "ואלמות",
+      "gloss": "ແລະມຸມເສົາ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ອ້ອມຂ້າງ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ອ້ອມຂ້າງ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ຄວາມຍາວ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ຫ້າ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ແລະຊາວ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ສອກ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ແລະຄວາມກວ້າງ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ຫ້າ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ສອກ"
+    }
+  ],
+  "timestamp": "2026-09-09T01:54:59.026684454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ແລະຢິດຫູດ ແລະລູກຫຼານຂອງບາຣາກ ແລະກາດຣິໂມນ.",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "ແລະຢິດຫູດ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ແລະລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "ບາຣາກ"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "ແລະກາດ"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ຣິໂມນ"
+    }
+  ],
+  "timestamp": "2026-09-09T14:04:00.152005293Z",
+  "model": "glm-5.3"
+}

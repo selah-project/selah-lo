@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ແລະຢາເວລົງມາເທິງພູຊິນາຍເຖິງຍອດຂອງພູ ແລະຢາເວຮຽກໂມເຊເຖິງຍອດຂອງພູ ແລະໂມເຊຂຶ້ນ.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ແລະລົງມາ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ພູ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ຊິນາຍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເຖິງ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ຍອດ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ຂອງພູ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ແລະຮຽກ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເຖິງ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ຍອດ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ຂອງພູ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ແລະຂຶ້ນ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:01:46.474697564Z",
+  "model": "glm-5.3"
+}

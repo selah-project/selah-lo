@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 23:32",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ທ້າຍສຸດທ້າຍຂອງມັນຈະກັດຄືງູ ແລະຈະພົ່ນພິດຄືງູພິດ.",
+  "tokens": [
+    {
+      "surface": "אחריתו",
+      "gloss": "ທ້າຍສຸດທ້າຍຂອງມັນ"
+    },
+    {
+      "surface": "כנחש",
+      "gloss": "ຄືງູ"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ຈະກັດ"
+    },
+    {
+      "surface": "וכצפעני",
+      "gloss": "ແລະຄືງູພິດ"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "ຈະພົ່ນພິດ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:54:17.558588937Z",
+  "model": "glm-5.3"
+}

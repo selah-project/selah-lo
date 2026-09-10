@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "⟨ເພິ່ນ⟩ລຸກຂຶ້ນ ແລະໄປ ເຢໂຮນາທານມາຫາເມືອງ.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ແລະລຸກຂຶ້ນ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ແລະໄປ"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ເຢໂຮນາທານ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ມາຫາ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ເມືອງ"
+    }
+  ],
+  "timestamp": "2026-09-08T21:35:13.866934880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 8:18",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະຢິຊເມຣາຍ ແລະຢິດສະລີຢາຮ ແລະໂຢບາບ ລູກຫຼານຂອງເອນປາອາ",
+  "tokens": [
+    {
+      "surface": "וישמרי",
+      "gloss": "ແລະຢິຊເມຣາຍ"
+    },
+    {
+      "surface": "ויזליאה",
+      "gloss": "ແລະຢິດສະລີຢາຮ"
+    },
+    {
+      "surface": "ויובב",
+      "gloss": "ແລະໂຢບາບ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "ເອນປາອາ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:17:31.260705073Z",
+  "model": "glm-5.3"
+}

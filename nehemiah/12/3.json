@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 12:3",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ເຊຄານະຢາຮາ ຣາຮູມ ເມຣະໂມດ.",
+  "tokens": [
+    {
+      "surface": "שכניה",
+      "gloss": "ເຊຄານະຢາຮາ"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ຣາຮູມ"
+    },
+    {
+      "surface": "מרמת",
+      "gloss": "ເມຣະໂມດ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:56:31.635132855Z",
+  "model": "glm-5.3"
+}

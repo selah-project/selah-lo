@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ໂມເຊໄດ້ຂຶ້ນໄປບົນພູ ແລະເມກໄດ້ກວມ⟨את⟩ພູ.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ໄດ້ຂຶ້ນ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ໄປບົນ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ພູ"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "ແລະໄດ້ກວມ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ເມກ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ພູ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ພູ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:09:54.241500544Z",
+  "model": "glm-5.3"
+}

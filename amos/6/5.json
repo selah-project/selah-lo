@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 6:5",
+  "book": "amos",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ຜູ້ດີດນີນຕາມປາກຂອງນີນຄືດາວິດຄິດແທ້ແກ່ຕົນເຄື່ອງຮ້ອງເພງ.",
+  "tokens": [
+    {
+      "surface": "הפרטים",
+      "gloss": "ຜູ້ດີດນີນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຕາມ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ປາກຂອງ"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "ນີນ"
+    },
+    {
+      "surface": "כדויד",
+      "gloss": "ຄືດາວິດ"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "ຄິດແທ້"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ແກ່ຕົນ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ເຄື່ອງ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ຮ້ອງເພງ"
+    }
+  ],
+  "timestamp": "2026-09-10T00:17:20.190516861Z",
+  "model": "glm-5.3"
+}

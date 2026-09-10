@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 17:14",
+  "book": "1-samuel",
+  "lang": "lo",
+  "chapter": 17,
+  "translation": "ດາວິດ⟨ເປັນ⟩ຜູ້ນ້ອຍ, ແລະສາມຄົນຜູ້ໃຫຍ່ໄດ້ໄປຕາມຊາອູນ.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "ແລະດາວິດ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ຜູ້ນ້ອຍ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ແລະສາມ"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "ຜູ້ໃຫຍ່"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ໄດ້ໄປຕາມ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ຕາມ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ຊາອູນ"
+    }
+  ],
+  "timestamp": "2026-09-09T14:51:03.623888705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 8:26",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະຊຳເຊຣາຍ ແລະເຊຮາຣີຢາຮ ແລະອາທາລີຢາຮ.",
+  "tokens": [
+    {
+      "surface": "ושמשרי",
+      "gloss": "ແລະຊຳເຊຣາຍ"
+    },
+    {
+      "surface": "ושחריה",
+      "gloss": "ແລະເຊຮາຣີຢາຮ"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "ແລະອາທາລີຢາຮ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:18:34.976087521Z",
+  "model": "glm-5.3"
+}

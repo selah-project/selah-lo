@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 22,
+  "translation": "ແລະຖ້າຄຳນີ້ ⟨ເປັນ⟩ ຄວາມຈິງ ຄວາມບໍລິສຸດບໍ່ຖືກພົບແກ່ຍິງນ້ອຍ",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ແລະຖ້າ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ຄວາມຈິງ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ເປັນ⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "ຖືກພົບ"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "ຄວາມບໍລິສຸດ"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ແກ່ຍິງນ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:36:51.745615781Z",
+  "model": "glm-5.3"
+}

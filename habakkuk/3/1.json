@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ຄຳອະທິຖາຂອງຮາບາກຸກຜູ້ພະຍາກອນເທິງຊິກະໂຍນົດ",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "ຄຳອະທິຖາ"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "ຂອງຮາບາກຸກ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ຜູ້ພະຍາກອນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "ຊິກະໂຍນົດ"
+    }
+  ],
+  "timestamp": "2026-09-10T00:19:36.583067735Z",
+  "model": "glm-5.3"
+}

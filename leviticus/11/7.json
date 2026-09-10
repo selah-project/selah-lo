@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ແລະ⟨את⟩ໝູ ເພາະມັນແຍກຕີນຕີນ ແລະຕີນຂອງມັນແຕກເປັນຮອຍແຕກຕີນ ແລະມັນບໍ່ຍ້ອນອາຫານເຄີຍ ມັນເປື້ອນຕໍ່ພວກເຈົ້າ",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ໝູ"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "ໝູ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "ແຍກຕີນ"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "ຕີນ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "ແລະແຕກ"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "ຮອຍແຕກ"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "ຕີນ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ແລະມັນ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ອາຫານເຄີຍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "ຍ້ອນ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ເປື້ອນ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ຕໍ່ພວກເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:32:53.173517558Z",
+  "model": "glm-5.3"
+}

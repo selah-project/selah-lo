@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ແລະໂກເຮນເບິ່ງ⟨את⟩ບາດແຜ ແລະປິດກັ້ນ⟨את⟩ບາດແຜນັ້ນໄວ້ ເຈັດວັນ.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ແລະເບິ່ງ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ໂກເຮນ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ບາດແຜ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ບາດແຜ"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ແລະປິດກັ້ນ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ບາດແຜ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ບາດແຜ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ເຈັດ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ວັນ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:27:41.275699552Z",
+  "model": "glm-5.3"
+}

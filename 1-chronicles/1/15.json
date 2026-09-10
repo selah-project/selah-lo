@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ແລະ⟨את⟩ຮິວີ ແລະ⟨את⟩ອາຣັກີ ແລະ⟨את⟩ສິນີ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ຮິວີ"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ຮິວີ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ອາຣັກີ"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "ອາຣັກີ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ສິນີ"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "ສິນີ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:02:16.366092379Z",
+  "model": "glm-5.3"
+}

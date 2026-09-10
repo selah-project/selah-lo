@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 78,
+  "translation": "ແລະເພິ່ນເລືອກ⟨את⟩ຊົນເຜົ່າຂອງຢູດາ ⟨את⟩ພູຊີໂອນທີ່ເພິ່ນຮັກ.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "ເລືອກ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຊົນເຜົ່າຂອງຢູດາ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ຊົນເຜົ່າຂອງ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ຢູດາ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ພູຊີໂອນ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ພູ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ຊີໂອນ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ຮັກ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:36:14.656340363Z",
+  "model": "glm-5.3"
+}

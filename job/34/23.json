@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 34:23",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 34,
+  "translation": "ເພາະເພິ່ນບໍ່ຕັ້ງຕໍ່ຄົນອີກໃຫ້ໄປຫາເອນໃນຄຳພິພາກ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ຕັ້ງ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ອີກ"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "ໃຫ້ໄປ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເອນ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ໃນຄຳພິພາກ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:33:47.311199410Z",
+  "model": "glm-5.3"
+}

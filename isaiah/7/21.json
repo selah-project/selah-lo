@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 7:21",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ຈະເປັນໃນວັນນັ້ນ ຄົນໜຶ່ງຈະລ້ຽງຍ່າງສາວຂອງຄວາຍຍ່າງໜຶ່ງໂຕ ແລະແກະສອງໂຕ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ຈະເປັນ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ໃນວັນ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ນັ້ນ"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ຈະລ້ຽງ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນໜຶ່ງ"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "ຍ່າງສາວ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ຂອງຄວາຍ"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ແລະສອງ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ແກະ"
+    }
+  ],
+  "timestamp": "2026-09-08T23:14:45.213640985Z",
+  "model": "glm-5.3"
+}

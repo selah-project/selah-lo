@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 40,
+  "translation": "ແລະເພິ່ນຈຸດດວງໄຟຢູ່ໜ້າຢາເວ ດັ່ງທີ່ຢາເວໄດ້ສັ່ງ⟨את⟩ໂມເຊ.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ແລະເພິ່ນຈຸດ"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "ດວງໄຟ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ຢູ່ໜ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ດັ່ງທີ່"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ໄດ້ສັ່ງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ໂມເຊ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:24:33.715006815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "ezra 2:49",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ລູກຫຼານຂອງອູຊາ ລູກຫຼານຂອງປາສາຮ ລູກຫຼານຂອງເບສາຍ",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ອູຊາ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ປາສາຮ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "ເບສາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:20:17.999565578Z",
+  "model": "glm-5.3"
+}

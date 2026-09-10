@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ແລະ⟨את⟩ຮາໂດຣານແລະ⟨את⟩ອູຊານແລະ⟨את⟩ດິກລາ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ຮາໂດຣານ"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "ຮາໂດຣານ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ອູຊານ"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "ອູຊານ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ດິກລາ"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "ດິກລາ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:01:07.928195312Z",
+  "model": "glm-5.3"
+}

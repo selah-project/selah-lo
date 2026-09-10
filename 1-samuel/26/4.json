@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ດາວິດໄດ້ສົ່ງຄົນສາຍລັບ ແລະໄດ້ຮູ້ວ່າຊາອູນມາຫາແທ້ຈິງ",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ໄດ້ສົ່ງ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ດາວິດ"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "ຄົນສາຍລັບ"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ແລະໄດ້ຮູ້"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ມາ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ຊາອູນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ແທ້ຈິງ"
+    }
+  ],
+  "timestamp": "2026-09-08T21:41:46.420421273Z",
+  "model": "glm-5.3"
+}

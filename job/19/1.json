@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 19:1",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ແລະໂຢບຕອບແລະເວົ້າວ່າ",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ແລະຕອບ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ໂຢບ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະເວົ້າວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:28:09.353479246Z",
+  "model": "glm-5.3"
+}

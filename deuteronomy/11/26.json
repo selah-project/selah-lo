@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ຈົ່ງເບິ່ງ, ເຮົາວາງຄວາມຈະເລີນພອນ ແລະຄຳສາບແຊກໄວ້ໜ້າພວກເຈົ້າ ວັນນີ້.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ຈົ່ງເບິ່ງ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ເຮົາ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ວາງ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ໄວ້ໜ້າພວກເຈົ້າ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ວັນນີ້"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "ຄວາມຈະເລີນພອນ"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "ແລະຄຳສາບແຊກ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:51:47.118842446Z",
+  "model": "glm-5.3"
+}

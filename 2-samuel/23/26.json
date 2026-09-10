@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 23:26",
+  "book": "2-samuel",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ເຮເລດຟາລັດ, ອີຣາລູກຂອງອິກເກດເທໂຄາຍ.",
+  "tokens": [
+    {
+      "surface": "חֶלֶץ",
+      "gloss": "ເຮເລດ"
+    },
+    {
+      "surface": "הַפַּלְטִי",
+      "gloss": "ຟາລັດ"
+    },
+    {
+      "surface": "עִירָא",
+      "gloss": "ອີຣາ"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "עִקֵּשׁ",
+      "gloss": "ອິກເກດ"
+    },
+    {
+      "surface": "הַתְּקוֹעִי",
+      "gloss": "ເທໂຄາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T15:26:22.755022883Z",
+  "model": "glm-5.3"
+}

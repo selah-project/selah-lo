@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 34:4",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 34,
+  "translation": "ແຕ່ຈົ່ງຟັງຄຳຢາເວ ຊິດກີຢາຮູກະສັດຢູດາ ດັ່ງນີ້ຢາເວກ່າວຕໍ່ເຈົ້າ ເຈົ້າຈະບໍ່ຕາຍດ້ວຍດາບ",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ແຕ່"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ຈົ່ງຟັງ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ຊິດກີຢາຮູ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ຢູດາ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ດັ່ງນີ້"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ຕໍ່ເຈົ້າ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ເຈົ້າຈະຕາຍ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ດ້ວຍດາບ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:35:24.772017502Z",
+  "model": "glm-5.3"
+}

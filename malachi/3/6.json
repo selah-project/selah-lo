@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ເພາະເຮົາ ຢາເວ ບໍ່ໄດ້ປ່ຽນ ແລະພວກເຈົ້າ ລູກຫຼານຂອງ ຢາອາໂຄບ ບໍ່ໄດ້ຖືກທຳລາຍ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ເຮົາ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "ໄດ້ປ່ຽນ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ແລະພວກເຈົ້າ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ຢາອາໂຄບ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "ໄດ້ຖືກທຳລາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:34:35.058688301Z",
+  "model": "glm-5.3"
+}

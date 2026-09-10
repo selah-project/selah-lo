@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 11:40",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ອີຣາ ຢິທຣີ ກາເຣບ ຢິທຣີ",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ອີຣາ"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ຢິທຣີ"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "ກາເຣບ"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ຢິທຣີ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:12:48.840945964Z",
+  "model": "glm-5.3"
+}

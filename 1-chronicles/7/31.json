@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ລູກຫຼານຂອງບຣິຢາ: ຮະບີຣ ແລະມັນຄິເອນ; ເພິ່ນເປັນພໍ່ຂອງບິຣຊາດ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "ບຣິຢາ"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ຮະບີຣ"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "ແລະມັນຄິເອນ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ເປັນພໍ່ຂອງ"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "ບິຣຊາດ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:20:55.546590245Z",
+  "model": "glm-5.3"
+}

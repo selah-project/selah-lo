@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ແລະລູກຊາຍຂອງຮາມ ⟨ເປັນ⟩ ກູຊ ມິດສະຣາຢິມ ຟູດ ແລະຄະນານ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ແລະລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ຮາມ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ກູຊ"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "ແລະມິດສະຣາຢິມ"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "ແລະຟູດ"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "ແລະຄະນານ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:07:15.440389172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ໂມເຊໄດ້ເອົາ⟨את⟩ຄັນຄ້ານຈາກຕໍ່ໜ້າຢາເວ ດັ່ງທີ່ເພິ່ນໄດ້ສັ່ງລາວ.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ໄດ້ເອົາ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຄັນຄ້ານ"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "ຄັນຄ້ານ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ຈາກຕໍ່ໜ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ດັ່ງທີ່"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ໄດ້ສັ່ງລາວ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:04:54.919066673Z",
+  "model": "glm-5.3"
+}

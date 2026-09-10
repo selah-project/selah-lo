@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ລູກຫຼານຂອງມັກບິດ ໜຶ່ງຮ້ອຍຫ້າສິບແລະຫົກຄົນ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "ມັກບິດ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ໜຶ່ງຮ້ອຍ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ຫ້າສິບ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ແລະຫົກ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:16:17.455025550Z",
+  "model": "glm-5.3"
+}

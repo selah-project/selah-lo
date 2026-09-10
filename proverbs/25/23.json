@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 25:23",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ລົມເໜືອພັດພາຝົນ ແລະໜ້າໂກດກຽດຕໍ່ລີ້ນເຊື່ອງ.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ລົມ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "תחולל",
+      "gloss": "ພັດພາ"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "ຝົນ"
+    },
+    {
+      "surface": "ופנים",
+      "gloss": "ແລະໜ້າ"
+    },
+    {
+      "surface": "נזעמים",
+      "gloss": "ໂກດກຽດ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ຕໍ່ລີ້ນ"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "ເຊື່ອງ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:51:17.648429422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ເຮືອນຂອງນາງ⟨ເປັນ⟩ທາງຂອງເຊໂອນ ລົງຫາຫ້ອງຊ້ຳຂອງຄວາມຕາຍ.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "ທາງຂອງ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ເຊໂອນ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ເຮືອນຂອງນາງ"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "ລົງ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "ຫ້ອງຊ້ຳຂອງ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ຄວາມຕາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:31:48.206342306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ທຸກນົກທີ່ສະອາດພວກເຈົ້າກິນໄດ້",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ນົກ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ທີ່ສະອາດ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ພວກເຈົ້າກິນໄດ້"
+    }
+  ],
+  "timestamp": "2026-09-08T19:54:50.525660057Z",
+  "model": "glm-5.3"
+}

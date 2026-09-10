@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 38:5",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 38,
+  "translation": "ໃຜວາງມາດວັດຂອງມັນ ວ່າເຈົ້າຮູ້ ຫຼືໃຜຂະຫຍາຍສາຍບັດເໜືອມັນ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ວາງ"
+    },
+    {
+      "surface": "ממדיה",
+      "gloss": "ມາດວັດຂອງມັນ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ເຈົ້າຮູ້"
+    },
+    {
+      "surface": "או",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ຂະຫຍາຍ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ເໜືອມັນ"
+    },
+    {
+      "surface": "קו",
+      "gloss": "ສາຍບັດ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:47:39.501053222Z",
+  "model": "glm-5.3"
+}

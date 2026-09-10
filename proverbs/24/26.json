@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ຈະຈູບຮິດຝີຜູ້ຕອບຄຳເວົ້າຊື່ຕົງ.",
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "ຮິດຝີ"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "ຈະຈູບ"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "ຜູ້ຕອບ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ຄຳເວົ້າ"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "ຊື່ຕົງ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:16:52.906580640Z",
+  "model": "glm-5.3"
+}

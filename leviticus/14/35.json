@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 14:35",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ແລະເຈົ້າຂອງເຮືອນນັ້ນມາ ແລະບອກແກ່ໂກເຮນ ວ່າ ຄືມີບາດແຜປາກົດຕໍ່ຂ້ອຍ ໃນເຮືອນ",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ແລະມາ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ຜູ້ທີ່"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ຂອງເພິ່ນ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ເຮືອນນັ້ນ"
+    },
+    {
+      "surface": "והגיד",
+      "gloss": "ແລະບອກ"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ແກ່ໂກເຮນ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "כנגע",
+      "gloss": "ຄືບາດແຜ"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ປາກົດ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ຕໍ່ຂ້ອຍ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ໃນເຮືອນ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:29:21.046804873Z",
+  "model": "glm-5.3"
+}

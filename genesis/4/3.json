@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ແລະເກີດວ່າໃນທ້າຍຂອງວັນ ໄຄນນຳມາຈາກໝາກຜົນຂອງດິນເປັນຂອງຖວາຍແກ່ຢາເວ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະເກີດວ່າ"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ໃນທ້າຍຂອງ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ນຳມາ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "ໄຄນ"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ຈາກໝາກຜົນ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ດິນ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ຂອງຖວາຍ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ແກ່ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:01:54.937001600Z",
+  "model": "glm-5.3"
+}

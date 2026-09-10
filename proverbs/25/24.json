@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 25:24",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ດີກວ່ານັ່ງຢູ່ເທິງມຸມຫຼັງຄາ ກວ່າກັບແມ່ຍິງຂັດແຍ່ງ ແລະເຮືອນຮ່ວມ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ດີກວ່າ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ນັ່ງຢູ່"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "ມຸມ"
+    },
+    {
+      "surface": "גג",
+      "gloss": "ຫຼັງຄາ"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "ກວ່າກັບແມ່ຍິງ"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "ຂັດແຍ່ງ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ແລະເຮືອນ"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ຮ່ວມ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:51:17.648598814Z",
+  "model": "glm-5.3"
+}

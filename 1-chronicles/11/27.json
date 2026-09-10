@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ຊາໂມດ ຮາໂຣຣິ, ເຮເລດ ພີໂລນິ.",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "ຊາໂມດ"
+    },
+    {
+      "surface": "ההרורי",
+      "gloss": "ຮາໂຣຣິ"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "ເຮເລດ"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "ພີໂລນິ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:14:38.533864915Z",
+  "model": "glm-5.3"
+}

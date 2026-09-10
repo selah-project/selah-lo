@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 27:17",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 27,
+  "translation": "ຕໍ່ລີວີ: ຫາຊັບຢາ ລູກຂອງເຄມູເອນ; ຕໍ່ອາຮອນ: ສາໂດກ.",
+  "tokens": [
+    {
+      "surface": "ללוי",
+      "gloss": "ຕໍ່ລີວີ"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ຫາຊັບຢາ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "ເຄມູເອນ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ຕໍ່ອາຮອນ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ສາໂດກ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:50:31.380044067Z",
+  "model": "glm-5.3"
+}

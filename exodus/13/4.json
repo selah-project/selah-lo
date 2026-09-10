@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ວັນນີ້ພວກເຈົ້າອອກມາ ໃນເດືອນອາບິບ.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "ວັນນີ້"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ພວກເຈົ້າ"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "ອອກມາ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ໃນເດືອນ"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "ອາບິບ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:36:39.290011425Z",
+  "model": "glm-5.3"
+}

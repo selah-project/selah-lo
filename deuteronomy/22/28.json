@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 22:28",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 22,
+  "translation": "ຖ້າຜູ້ຊາຍພົບເດັກຍິງຍິງບິດຜູ້ທີ່ບໍ່ຖືກໝັ້ນໝາຍໄວ້ ແລະຈັບນາງ ແລະນອນກັບນາງ ແລະຖືກພົບ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ຖ້າ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ພົບ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຜູ້ຊາຍ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ເດັກຍິງ"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "ຍິງບິດ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ຜູ້ທີ່"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ארשה",
+      "gloss": "ຖືກໝັ້ນໝາຍໄວ້"
+    },
+    {
+      "surface": "ותפשה",
+      "gloss": "ແລະຈັບ"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "ແລະນອນ"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ກັບນາງ"
+    },
+    {
+      "surface": "ונמצאו",
+      "gloss": "ແລະຖືກພົບ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:07:48.752759312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ບາລາກເວົ້າຕໍ່ບິລອາມວ່າ: ຈົ່ງບໍ່ສາບານນັ້ນເລີຍ ຈົ່ງບໍ່ອວຍພອນນັ້ນເລີຍ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ເວົ້າ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ບາລາກ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ບິລອາມ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ບໍ່ທັງ"
+    },
+    {
+      "surface": "קב",
+      "gloss": "ສາບານ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "ສາບານນັ້ນ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ບໍ່ທັງ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ອວຍພອນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "ອວຍພອນນັ້ນ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:24:21.485297483Z",
+  "model": "glm-5.3"
+}

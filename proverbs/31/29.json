@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 31:29",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 31,
+  "translation": "ລູກສາວຫຼາຍຄົນໄດ້ສະແດງຄວາມສາມາດ ແຕ່ເຈົ້າເລິກລອດກວ່າເໜືອທັງຫຼາຍ.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "ຫຼາຍ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ລູກສາວ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ໄດ້ສະແດງ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ຄວາມສາມາດ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະເຈົ້າ"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "ເລິກລອດກວ່າ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "ທັງຫຼາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:21:50.274471194Z",
+  "model": "glm-5.3"
+}

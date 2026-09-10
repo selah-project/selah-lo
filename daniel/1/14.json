@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ແລະເພິ່ນຟັງພວກເຂົາໃນເລື່ອງນີ້ ແລະລອງພວກເຂົາສິບວັນ.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ແລະເພິ່ນຟັງ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ພວກເຂົາ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ໃນເລື່ອງ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "ແລະລອງ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ສິບ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:44:44.560544805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ເພາະຄວາມຝັນມາໃນຄວາມຫຼາຍຂອງກິດຈະການ ແລະສຽງຂອງຄົນໂງ່ໃນຄວາມຫຼາຍຂອງຄຳ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ມາ"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ຄວາມຝັນ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ໃນຄວາມຫຼາຍ"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "ກິດຈະການ"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ແລະສຽງ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ຂອງຄົນໂງ່"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ໃນຄວາມຫຼາຍ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ຄຳ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:24:22.567809656Z",
+  "model": "glm-5.3"
+}

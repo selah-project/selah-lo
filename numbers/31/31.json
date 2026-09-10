@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 31:31",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 31,
+  "translation": "ໂມເຊ ແລະເອລາຊາຣ ໂກເຮນ ໄດ້ເຮັດດັ່ງທີ່ ຢາເວ ໄດ້ສັ່ງ⟨את⟩ໂມເຊ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ໄດ້ເຮັດ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "ແລະເອລາຊາຣ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ໂກເຮນ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ດັ່ງທີ່"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ໄດ້ສັ່ງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ໂມເຊ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:13:18.654344621Z",
+  "model": "glm-5.3"
+}

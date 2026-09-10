@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະເຊໂກບໄດ້ກຳເນີດ⟨את⟩ຢາອິຣ ແລະມີແກ່ຢາອິຣຊາວສາມເມືອງຢູ່ໃນແຜ່ນດິນກິນອາດ",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "ແລະເຊໂກບ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ໄດ້ກຳເນີດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຢາອິຣ"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ຢາອິຣ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະມີ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ແກ່ຢາອິຣ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ຊາວ"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "ແລະສາມ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ເມືອງ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ຢູ່ໃນແຜ່ນດິນ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ກິນອາດ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:10:43.765916543Z",
+  "model": "glm-5.3"
+}

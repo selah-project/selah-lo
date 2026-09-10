@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 5:7",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ແລະດຽວນີ້ ລູກທັງຫຼາຍ ຈົ່ງຟັງຂ້ອຍ, ຢ່າຫັນໜີຈາກຄຳຂອງປາກຂອງຂ້ອຍ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ແລະດຽວນີ້"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ລູກທັງຫຼາຍ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ຈົ່ງຟັງ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ຂ້ອຍ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "ຫັນໜີ"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "ຈາກຄຳ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ຂອງປາກຂອງຂ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:28:13.446590233Z",
+  "model": "glm-5.3"
+}

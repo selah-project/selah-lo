@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 28:17",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ຍັງອີກ ອາດູມິມມາ ຕີໃນຢາຮູດາ ແລະໄດ້ຈົງເຊົນໄປ",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "ຍັງອີກ"
+    },
+    {
+      "surface": "אדומים",
+      "gloss": "ອາດູມິມ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ມາ"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ແລະຕີ"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ໃນຢາຮູດາ"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ແລະໄດ້ຈົງ"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "ເຊົນ"
+    }
+  ],
+  "timestamp": "2026-09-09T10:31:13.227967495Z",
+  "model": "glm-5.3"
+}

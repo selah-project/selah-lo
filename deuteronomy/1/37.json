@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ຢາເວກໍໂກດຕໍ່ຂ້ອຍຍ້ອນພວກເຈົ້າວ່າ: ກໍເຈົ້າຈະບໍ່ເຂົ້າເທິງນັ້ນ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ກໍ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ຕໍ່ຂ້ອຍ"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "ໂກດ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "ຍ້ອນພວກເຈົ້າ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ກໍ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ເຈົ້າ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ຈະເຂົ້າ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ເທິງນັ້ນ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:41:02.337172733Z",
+  "model": "glm-5.3"
+}

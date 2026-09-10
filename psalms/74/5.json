@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 74,
+  "translation": "ຄົນຖືກຮູ້ຈັກຄືຜູ້ນຳຂຶ້ນສູງ ຂໍ້ຖົນໃນພຸ່ມໄມ້",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "ຄົນຖືກຮູ້ຈັກ"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "ຄືຜູ້ນຳຂຶ້ນ"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ສູງ"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "ໃນພຸ່ມໄມ້"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ໄມ້"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "ຂໍ້ຖົນ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:33:21.327017401Z",
+  "model": "glm-5.3"
+}

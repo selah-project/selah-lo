@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ຄົນຂອງເບັດ-ເອນ ແລະຮາອາຍ ໜຶ່ງຮ້ອຍຊາວສາມຄົນ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ຄົນຂອງ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ເບັດ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເອນ"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "ແລະຮາອາຍ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ໜຶ່ງຮ້ອຍ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ຊາວ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ແລະສາມ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:47:07.500342390Z",
+  "model": "glm-5.3"
+}

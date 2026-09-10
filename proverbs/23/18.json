@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ເພາະແທ້ຈິງແລ້ວມີອະນາຄົດ ແລະຄວາມຫວັງຂອງເຈົ້າຈະບໍ່ຖືກຕັດອອກ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ແທ້ຈິງ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ອະນາຄົດ"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "ແລະຄວາມຫວັງຂອງເຈົ້າ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "ຈະຖືກຕັດອອກ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:16:32.439414155Z",
+  "model": "glm-5.3"
+}

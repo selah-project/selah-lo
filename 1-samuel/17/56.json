@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "lo",
+  "chapter": 17,
+  "translation": "ແລະພະກະສັດກ່າວວ່າ: ເຈົ້າຖາມເບິ່ງເຖີດວ່າ ລູກຜູ້ໃດແມ່ນ ໜຸ່ມຄົນນີ້.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະກ່າວ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ພະກະສັດ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ຖາມ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ເຈົ້າ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ຜູ້ໃດ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ຄົນນີ້"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "ໜຸ່ມ"
+    }
+  ],
+  "timestamp": "2026-09-08T21:29:03.203338923Z",
+  "model": "glm-5.3"
+}

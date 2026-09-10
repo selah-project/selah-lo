@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 50:1",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 50,
+  "translation": "ພຣະຄຳທີ່ຢາເວໄດ້ກ່າວຕໍ່ບາເບລ ແລະຕໍ່ແຜ່ນດິນຂອງຄາສດິມ ໂດຍມືຂອງເຢເຣມີຢາ ຜູ້ພະຍານາວ.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ພຣະຄຳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ໄດ້ກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ບາເບລ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ແຜ່ນດິນ"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "ຂອງຄາສດິມ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ໂດຍມື"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ເຢເຣມີຢາ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ຜູ້ພະຍານາວ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:53:03.909992165Z",
+  "model": "glm-5.3"
+}

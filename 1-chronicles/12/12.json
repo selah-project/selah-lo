@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ອັດຕາຍທີຫົກ ເອລີເອນທີເຈັດ.",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "ອັດຕາຍ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ທີຫົກ"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "ເອລີເອນ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ທີເຈັດ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:23:55.679384922Z",
+  "model": "glm-5.3"
+}

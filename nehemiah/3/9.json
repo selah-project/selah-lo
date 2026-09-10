@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 3:9",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ຂ້າງຂອງພວກເຂົາ ເຣຟາຢາ ລູກຊາຍຂອງຮູນ ໄດ້ສ້ອມແປງ ນາຍຂອງເຄິ່ງເຂດຂອງເຢຣູຊາລາຢິມ.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ຂ້າງ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ຂອງພວກເຂົາ"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "ໄດ້ສ້ອມແປງ"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "ເຣຟາຢາ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "חור",
+      "gloss": "ຮູນ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ນາຍ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ເຄິ່ງ"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "ເຂດ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ເຢຣູຊາລາຢິມ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:03:23.660543113Z",
+  "model": "glm-5.3"
+}

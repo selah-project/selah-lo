@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 31,
+  "translation": "ຂ້ອຍຊັກຄວາມຜິດຜູ້ຮັກສາອາຍຂອງການລວງ ແຕ່ຂ້ອຍໄວ້ໃຈຕໍ່ຢາເວ.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "ຂ້ອຍຊັກຄວາມຜິດ"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "ຜູ້ຮັກສາ"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "ອາຍ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ຂອງການລວງ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ແຕ່ຂ້ອຍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ໄວ້ໃຈ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:57:22.191652449Z",
+  "model": "glm-5.3"
+}

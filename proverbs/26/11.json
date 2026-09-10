@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 26:11",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ຄືຫົວທີ່ກັບຄືນໄປຫາອາຈຂອງມັນ ຄົນໂງ່ກໍຊ້ຳຄືນຄວາມໂງ່ຂອງຕົນ.",
+  "tokens": [
+    {
+      "surface": "ככלב",
+      "gloss": "ຄືຫົວ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ກັບຄືນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ໄປຫາ"
+    },
+    {
+      "surface": "קאו",
+      "gloss": "ອາຈຂອງມັນ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ຄົນໂງ່"
+    },
+    {
+      "surface": "שונה",
+      "gloss": "ຊ້ຳຄືນ"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "ຄວາມໂງ່ຂອງຕົນ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:53:34.793941328Z",
+  "model": "glm-5.3"
+}

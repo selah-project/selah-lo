@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 21:33",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ແລະຖ້າຄົນໜຶ່ງເປີດຂຸມຫຼືຖ້າຄົນໜຶ່ງຂຸດຂຸມແລະບໍ່ປິດມັນແລະຄວາຍຫຼືງົວຕົກລົງໄປໃນນັ້ນ",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ແລະຖ້າ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ເປີດ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນໜຶ່ງ"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ຂຸມ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ຖ້າ"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "ຂຸດ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນໜຶ່ງ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ຂຸມ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "ປິດມັນ"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "ແລະຕົກລົງ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ໃນນັ້ນ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ງົວ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ຄວາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:42:44.247152762Z",
+  "model": "glm-5.3"
+}

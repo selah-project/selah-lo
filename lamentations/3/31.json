@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ຍ້ອນວ່າ ອາໂດນາຍຈະບໍ່ປະຖ້າມຖິ້ນຕະຫຼອດໄປ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ຍ້ອນວ່າ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "ຈະປະຖ້າມຖິ້ນ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ຕະຫຼອດໄປ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ອາໂດນາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:42:36.047570180Z",
+  "model": "glm-5.3"
+}

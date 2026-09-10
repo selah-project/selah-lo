@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 40:18",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 40,
+  "translation": "ໂຢເຊັບຕອບແລະເວົ້າວ່າ: ນີ້⟨ເປັນ⟩ຄວາມໝາຍ; ກະຕ່າສາມໜ່ວຍ ⟨ເປັນ⟩ ສາມວັນ.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ຕອບ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ໂຢເຊັບ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະເວົ້າ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "ຄວາມໝາຍ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ສາມ"
+    },
+    {
+      "surface": "הסלים",
+      "gloss": "ກະຕ່າ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ສາມ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ເປັນ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:00:07.438220220Z",
+  "model": "glm-5.3"
+}

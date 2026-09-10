@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 8:5",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ພວກງ່າຍ ຈົ່ງເຂົ້າໃຈຄວາມສະຫຼາດ ແລະພວກໂງ່ ຈົ່ງເຂົ້າໃຈໃຈ.",
+  "tokens": [
+    {
+      "surface": "הבינו",
+      "gloss": "ຈົ່ງເຂົ້າໃຈ"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "ພວກງ່າຍ"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "ຄວາມສະຫຼາດ"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "ແລະພວກໂງ່"
+    },
+    {
+      "surface": "הבינו",
+      "gloss": "ຈົ່ງເຂົ້າໃຈ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ໃຈ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:09:57.546189101Z",
+  "model": "glm-5.3"
+}

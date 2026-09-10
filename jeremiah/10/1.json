@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ຈົ່ງຟັງ⟨את⟩ຄຳທີ່ຢາເວເວົ້າຕໍ່ພວກເຈົ້າ, ວົງສານອິສະຣາເອນ.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ຟັງ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຄຳ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ເວົ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ຕໍ່ພວກເຈົ້າ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ວົງສານ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:09:31.773458241Z",
+  "model": "glm-5.3"
+}

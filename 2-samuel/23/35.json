@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ເຮດສໂຣ ກາມະລິ, ປາອາຣາຍ ອາຣະບິ.",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "ເຮດສໂຣ"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "ກາມະລິ"
+    },
+    {
+      "surface": "פערי",
+      "gloss": "ປາອາຣາຍ"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "ອາຣະບິ"
+    }
+  ],
+  "timestamp": "2026-09-08T22:09:54.591696930Z",
+  "model": "glm-5.3"
+}

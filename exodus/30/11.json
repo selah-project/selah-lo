@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 30:11",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ແລະຢາເວກ່າວຕໍ່ໂມເຊວ່າ.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ແລະຢາເວກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:47:33.958328407Z",
+  "model": "glm-5.3"
+}

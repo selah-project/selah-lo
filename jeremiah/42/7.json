@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 42,
+  "translation": "ແລະຄົບສິບວັນ ຄຳຂອງຢາເວມາຫາເຢເຣມີຢາຮ໌.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະເປັນ"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ຄົບ"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະເປັນ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ມາຫາ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ເຢເຣມີຢາຮ໌"
+    }
+  ],
+  "timestamp": "2026-09-09T17:21:21.407985042Z",
+  "model": "glm-5.3"
+}

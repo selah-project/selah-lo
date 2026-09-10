@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 21:21",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ດາວິດມາຮອດໂອຣະນານ ໂອຣະນານເບິ່ງແລະເຫັນ⟨את⟩ດາວິດ ແລະອອກມາຈາກລານນາ ແລະໄຫວ້ຕໍ່ດາວິດ ໜ້າຕິດດິນ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ມາ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ດາວິດ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ຮອດ"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ໂອຣະນານ"
+    },
+    {
+      "surface": "ויבט",
+      "gloss": "ເບິ່ງ"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ໂອຣະນານ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ແລະເຫັນ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ດາວິດ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ດາວິດ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ອອກມາ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "ລານນາ"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ແລະໄຫວ້"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ຕໍ່ດາວິດ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ໜ້າ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ຕິດດິນ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:18:14.373368050Z",
+  "model": "glm-5.3"
+}

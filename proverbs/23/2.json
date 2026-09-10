@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ແລະວາງມີດທີ່ຄໍຂອງເຈົ້າ ຖ້າເຈົ້າເປັນຜູ້ມີຄວາມຢາກອາຫານ",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ແລະວາງ"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "ມີດ"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "ທີ່ຄໍຂອງເຈົ້າ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ຖ້າ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ເຈົ້າຂອງ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ຄວາມຢາກ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:52:25.161243052Z",
+  "model": "glm-5.3"
+}

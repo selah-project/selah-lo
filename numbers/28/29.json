@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 28:29",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ໜຶ່ງໃນສິບ ໜຶ່ງໃນສິບ ຕໍ່ແກະໜຶ່ງໂຕ ຕໍ່ແກະທັງເຈັດໂຕ.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "ໜຶ່ງໃນສິບ"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "ໜຶ່ງໃນສິບ"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "ຕໍ່ແກະ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "ຕໍ່ເຈັດ"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "ແກະທັງຫຼາຍ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:29:00.045360691Z",
+  "model": "glm-5.3"
+}

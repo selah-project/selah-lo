@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 16,
+  "translation": "ມີທາງໜຶ່ງຊື່ຕໍ່ໜ້າຄົນ, ແລະທ້າຍຂອງມັນຄືທາງແຫ່ງຄວາມຕາຍ.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ທາງ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ຊື່"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ຕໍ່ໜ້າ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "ແລະທ້າຍຂອງມັນ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ທາງຂອງ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ຄວາມຕາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:14:46.467002777Z",
+  "model": "glm-5.3"
+}

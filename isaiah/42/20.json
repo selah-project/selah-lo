@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 42,
+  "translation": "ເຫັນຫຼາຍຢ່າງແລ້ວ ແຕ່ບໍ່ສັງເກດ ຫູທີ່ເປີດແລ້ວ ແຕ່ບໍ່ຟັງ",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "ເຫັນແລ້ວ"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ຫຼາຍຢ່າງ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແຕ່ບໍ່"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ສັງເກດ"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "ເປີດ"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "ຫູ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແຕ່ບໍ່"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ຟັງ"
+    }
+  ],
+  "timestamp": "2026-09-08T23:41:50.411321660Z",
+  "model": "glm-5.3"
+}

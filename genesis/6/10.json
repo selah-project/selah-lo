@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ແລະນູຮໄດ້ມີລູກຊາຍສາມຄົນ: ⟨את⟩ເຊັມ ⟨את⟩ຮາມ ແລະ⟨את⟩ເຢເຟັດ (ເຢຟາທ).",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ໄດ້ມີລູກ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ນູຮ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ສາມ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ລູກຊາຍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເຊັມ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ເຊັມ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຮາມ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ຮາມ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ເຢເຟັດ"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ເຢເຟັດ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:03:47.209324299Z",
+  "model": "glm-5.3"
+}

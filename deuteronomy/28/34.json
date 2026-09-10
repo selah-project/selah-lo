@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ແລະເຈົ້າຈະບ້າຈາກທັດສະນີຍະພາບຂອງຕາຂອງເຈົ້າທີ່ເຈົ້າຈະເຫັນ.",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "ແລະເຈົ້າຈະເປັນ"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "ບ້າ"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "ຈາກທັດສະນີຍະພາບ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ຂອງຕາຂອງເຈົ້າ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ເຈົ້າຈະເຫັນ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:12:34.379444273Z",
+  "model": "glm-5.3"
+}

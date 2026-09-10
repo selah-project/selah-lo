@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 24:2",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ພວກເຂົາຍ້າຍຊາຍແດນ ປູນຝູງສັດ ແລະລ້ຽງຝູງສັດນັ້ນ.",
+  "tokens": [
+    {
+      "surface": "גבלות",
+      "gloss": "ຊາຍແດນ"
+    },
+    {
+      "surface": "ישיגו",
+      "gloss": "ຍ້າຍ"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "ຝູງສັດ"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "ປູນ"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "ແລະລ້ຽງ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:17:35.843804148Z",
+  "model": "glm-5.3"
+}

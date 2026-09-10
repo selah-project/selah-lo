@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 10:27",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ຄວາມຢ້ານຢາເວເພີ່ມວັນ ແລະປີຂອງຄົນຊົ່ວຈະສັ້ນລົງ.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ຄວາມຢ້ານ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "ເພີ່ມ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "ແລະປີ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ຂອງຄົນຊົ່ວ"
+    },
+    {
+      "surface": "תקצרנה",
+      "gloss": "ຈະສັ້ນລົງ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:35:29.177599014Z",
+  "model": "glm-5.3"
+}

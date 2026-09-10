@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 2:11",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ຣາຟາອິມຖືກນັບວ່າເພິ່ນກໍຄືອານາກິມ ແລະຄົນໂມອາບເອີ້ນພວກເຂົາວ່າເອມິມ.",
+  "tokens": [
+    {
+      "surface": "רפאים",
+      "gloss": "ຣາຟາອິມ"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ຖືກນັບວ່າ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ກໍ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "ຄືອານາກິມ"
+    },
+    {
+      "surface": "והמאבים",
+      "gloss": "ແລະຄົນໂມອາບ"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ເອີ້ນ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ພວກເຂົາ"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "ເອມິມ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:17:31.834461152Z",
+  "model": "glm-5.3"
+}

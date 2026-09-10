@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ມັນກໍ່ເກີດຂຶ້ນ ຄົບເຈັດວັນ ນ້ຳຂອງນ້ຳຖ້ວມກໍຢູ່ເທິງແຜ່ນດິນໂລກ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ມັນກໍ່ເກີດຂຶ້ນ"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "ຄົບ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ເຈັດວັນ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ແລະນ້ຳ"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "ຂອງນ້ຳຖ້ວມ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ຢູ່"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ແຜ່ນດິນໂລກ"
+    }
+  ],
+  "timestamp": "2026-09-09T10:59:41.602647940Z",
+  "model": "glm-5.3"
+}

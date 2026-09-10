@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ແລະຕໍ່ມາຄີຣ ຂ້ອຍໄດ້ໃຫ້⟨את⟩ກິນອາດ.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "ແລະຕໍ່ມາຄີຣ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ຂ້ອຍໄດ້ໃຫ້"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ກິນອາດ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ກິນອາດ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:19:52.961414406Z",
+  "model": "glm-5.3"
+}

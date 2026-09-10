@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 22,
+  "translation": "ຄົນຂີ້ຄ້ານເວົ້າວ່າ ມີສິງຢູ່ນອກ ຂ້ອຍຈະຖືກຂ້າຢູ່ກາງຖະໜົນ",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ເວົ້າ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ຄົນຂີ້ຄ້ານ"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "ສິງ"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ນອກ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ກາງ"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "ຖະໜົນ"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "ຂ້ອຍຈະຖືກຂ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:15:59.704229263Z",
+  "model": "glm-5.3"
+}

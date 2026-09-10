@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 48:37",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 48,
+  "translation": "ເພາະວ່າທຸກຫົວລ້ອຍ ແລະທຸກໜວງຖືກຕັດ ເທິງທຸກແຂນມີບາດແຜ ແລະເທິງບໍລິເວນນຸ່ງຜ້າຂົ່ມ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະວ່າ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ຫົວ"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "ລ້ອຍ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ແລະທຸກ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ໜວງ"
+    },
+    {
+      "surface": "גרעה",
+      "gloss": "ຖືກຕັດ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ແຂນ"
+    },
+    {
+      "surface": "גדדת",
+      "gloss": "ບາດແຜ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ແລະເທິງ"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "ບໍລິເວນ"
+    },
+    {
+      "surface": "שק",
+      "gloss": "ຜ້າຂົ່ມ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:48:28.772703836Z",
+  "model": "glm-5.3"
+}

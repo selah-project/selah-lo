@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 19:1",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ຢາເວເວົ້າກັບໂມເຊວ່າ",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ຢາເວເວົ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:36:53.217606734Z",
+  "model": "glm-5.3"
+}

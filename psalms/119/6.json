@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 119,
+  "translation": "ຈຶ່ງຂ້ອຍຈະບໍ່ອາຍເມື່ອຂ້ອຍເບິ່ງທຸກຄຳສັ່ງຂອງເຈົ້າ",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ຈຶ່ງ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ອາຍ"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "ເມື່ອຂ້ອຍເບິ່ງ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ຄຳສັ່ງຂອງເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:06:07.920604482Z",
+  "model": "glm-5.3"
+}

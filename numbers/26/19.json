@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 26:19",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ລູກຊາຍຂອງຢູດາ ເອຣ ແລະອານານ ເອຣ ແລະອານານ ໄດ້ຕາຍ ໃນແຜ່ນດິນ ຄານາອານ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ຢູດາ"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ເອຣ"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "ແລະອານານ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ໄດ້ຕາຍ"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ເອຣ"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "ແລະອານານ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ໃນແຜ່ນດິນ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ຄານາອານ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:25:24.122041485Z",
+  "model": "glm-5.3"
+}

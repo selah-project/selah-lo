@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ແລະເອບຣອນ ຣີໂຮບ ຮາມອນ ແລະຄານາ ຈົນເຖິງສີໂດນອັນໃຫຍ່",
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "ແລະ ເອບຣອນ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ແລະ ຣີໂຮບ"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "ແລະ ຮາມອນ"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "ແລະ ຄານາ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ຈົນເຖິງ"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "ສີໂດນ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ອັນໃຫຍ່"
+    }
+  ],
+  "timestamp": "2026-09-08T20:40:31.822327179Z",
+  "model": "glm-5.3"
+}

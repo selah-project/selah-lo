@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 58,
+  "translation": "ຄວາມພິດຂອງມັນຄືຮູບຄວາມພິດຂອງງູ ຄືງູພິດໜວງປິດຫູຂອງມັນ.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "ຄວາມພິດ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ຂອງມັນ"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "ຄືຮູບ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ຄວາມພິດ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ງູ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ຄື"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "ງູພິດ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ໜວງ"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "ປິດ"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ຫູຂອງມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:42:01.420717750Z",
+  "model": "glm-5.3"
+}

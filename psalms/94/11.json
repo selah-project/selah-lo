@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 94,
+  "translation": "ຢາເວຮູ້ຄວາມຄິດຂອງມະນຸດ ວ່າພວກມັນ⟨ເປັນ⟩ອາຍ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ຮູ້"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "ຄວາມຄິດ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ມະນຸດ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ພວກມັນ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ອາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:53:24.643734286Z",
+  "model": "glm-5.3"
+}

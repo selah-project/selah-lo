@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 9:3",
+  "book": "zechariah",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ໂສຣໄດ້ສ້າງປ້ອມແກ່ຕົນ ແລະໄດ້ສັງສົມເງິນຄືຝຸ່ນ ແລະຄຳຄືໂຄນຂອງຖະໜົນ.",
+  "tokens": [
+    {
+      "surface": "ותבן",
+      "gloss": "ໄດ້ສ້າງ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ໂສຣ"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ປ້ອມ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ແກ່ຕົນ"
+    },
+    {
+      "surface": "ותצבר",
+      "gloss": "ໄດ້ສັງສົມ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ເງິນ"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "ຄືຝຸ່ນ"
+    },
+    {
+      "surface": "וחרוץ",
+      "gloss": "ແລະຄຳ"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "ຄືໂຄນ"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "ຂອງຖະໜົນ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:20:58.453376069Z",
+  "model": "glm-5.3"
+}

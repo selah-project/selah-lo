@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ຄົນຂາດພຽງຮັກຄວາມສຸກ, ຮັກເຫຼົ້າວານແລະນ້ຳມັນ, ຈະບໍ່ຮັ່ງມີ.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "ຂາດພຽງ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ຮັກ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ຄວາມສຸກ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ຮັກ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ເຫຼົ້າວານ"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ແລະນ້ຳມັນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "ຈະຮັ່ງມີ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:48:17.787063422Z",
+  "model": "glm-5.3"
+}

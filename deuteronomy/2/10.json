@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ອີມິມໃນອະດີດໄດ້ອາໄສຢູ່ໃນນັ້ນ ຊົນຜູ້ໃຫຍ່ ແລະຫຼາຍ ແລະສູງ ຄືພວກອານາກ.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "ອີມິມ"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ໃນອະດີດ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ອາໄສຢູ່"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ໃນນັ້ນ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ຊົນຜູ້"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ໃຫຍ່"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ແລະຫຼາຍ"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ແລະສູງ"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "ຄືພວກອານາກ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:16:31.080312308Z",
+  "model": "glm-5.3"
+}

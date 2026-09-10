@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 10:12",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ມີຄາ ຣໂຮບ ຮາຊັບຢາ",
+  "tokens": [
+    {
+      "surface": "מיכא",
+      "gloss": "ມີຄາ"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "ຣໂຮບ"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ຮາຊັບຢາ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:52:05.682393415Z",
+  "model": "glm-5.3"
+}

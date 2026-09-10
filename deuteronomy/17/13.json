@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 17:13",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 17,
+  "translation": "ແລະຄົນທັງປວງຈະຟັງ ແລະຈະຢ້ານກົວ ແລະຈະບໍ່ຫົວຮຸນແຮງອີກ",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ແລະຄົນທັງປວງ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ຄົນທັງປວງ"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ຈະຟັງ"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ແລະຈະຢ້ານກົວ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "יזידון",
+      "gloss": "ຈະຫົວຮຸນແຮງ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ອີກ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:03:22.471256384Z",
+  "model": "glm-5.3"
+}

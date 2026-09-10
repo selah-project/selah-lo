@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 37,
+  "translation": "ແລະຮິຊກິຢາຮວອະທິຖານຕໍ່ຢາເວວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "ແລະອະທິຖານ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ຮິຊກິຢາຮວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T23:37:44.628569093Z",
+  "model": "glm-5.3"
+}

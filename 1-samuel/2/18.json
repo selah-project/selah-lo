@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ຊາມູເອນຮັບໃຊ້ຢູ່⟨את⟩ໜ້າຢາເວ ເປັນເດັກນ້ອຍ ນຸ່ງອີຟັດຜ້າລິນ.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "ຊາມູເອນ"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "ຮັບໃຊ້"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ໜ້າ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ໜ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ເດັກນ້ອຍ"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "ນຸ່ງ"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ອີຟັດ"
+    },
+    {
+      "surface": "בד",
+      "gloss": "ຜ້າລິນ"
+    }
+  ],
+  "timestamp": "2026-09-09T14:34:12.545969230Z",
+  "model": "glm-5.3"
+}

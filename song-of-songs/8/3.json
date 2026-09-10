@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ມືຊ້າຍຂອງເພິ່ນຢູ່ໃຕ້ຫົວຂອງຂ້ອຍ ແລະມືຂວາຂອງເພິ່ນກອດຂ້ອຍ.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "ມືຊ້າຍຂອງເພິ່ນ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ຢູ່ໃຕ້"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ຫົວຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "ແລະມືຂວາຂອງເພິ່ນ"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "ກອດຂ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:00:35.043288309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ຂອງຢິຊາຊາການ ເນທັນເອນລູກຊາຍຂອງສູອາ.",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "ຂອງຢິຊາຊາການ"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "ເນທັນເອນ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "ສູອາ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:50:01.626506873Z",
+  "model": "glm-5.3"
+}

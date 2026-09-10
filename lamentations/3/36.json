@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ທີ່ຈະບິດເບືອນມະນຸດໃນຄະດີຂອງເພິ່ນ — ອາໂດນາຍບໍ່ຍອມຮັບ",
+  "tokens": [
+    {
+      "surface": "לעות",
+      "gloss": "ທີ່ຈະບິດເບືອນ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ມະນຸດ"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "ໃນຄະດີຂອງເພິ່ນ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ອາໂດນາຍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ຍອມຮັບ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:24:15.459479532Z",
+  "model": "glm-5.3"
+}

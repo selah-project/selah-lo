@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ແລະໃນວັນທີ່ແປດຫົວໜັງຄັນຂອງເນື້ອຂອງລາວຈະຖືກຕັດ.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ແລະໃນວັນ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ທີ່ແປດ"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "ຈະຖືກຕັດ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ເນື້ອ"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "ຫົວໜັງຄັນຂອງລາວ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:25:17.147153478Z",
+  "model": "glm-5.3"
+}

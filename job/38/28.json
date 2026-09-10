@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 38:28",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 38,
+  "translation": "ຝົນມີພໍ່ບໍ່? ຫຼືໃຜເປັນຜູ້ເກີດຢໍ້ານ້ຳຄ້າຍ?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "ມີບໍ່"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "ຝົນ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ພໍ່"
+    },
+    {
+      "surface": "או",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ເປັນຜູ້ເກີດ"
+    },
+    {
+      "surface": "אגלי",
+      "gloss": "ຢໍ້າ"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ນ້ຳຄ້າຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:47:42.247202088Z",
+  "model": "glm-5.3"
+}

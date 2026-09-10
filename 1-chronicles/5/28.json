@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 5:28",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ແລະລູກຫຼານຂອງເກຮາດ: ອາມຣາມ ຢິດສະຮາຣ ແລະເຮບຣອນ ແລະອຸຊີເອນ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ແລະລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ເກຮາດ"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "ອາມຣາມ"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ຢິດສະຮາຣ"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "ແລະເຮບຣອນ"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ແລະອຸຊີເອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:10:51.945507897Z",
+  "model": "glm-5.3"
+}

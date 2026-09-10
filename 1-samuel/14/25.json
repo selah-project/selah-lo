@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 14:25",
+  "book": "1-samuel",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ແລະທັງໝົດແຜ່ນດິນໄດ້ເຂົ້າປ່າ ແລະ⟨ເປັນ⟩ນ້ຳຜຶ້ງເໜືອໜ້າທົ່ງນາ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ແລະທັງໝົດ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ແຜ່ນດິນ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ໄດ້ເຂົ້າ"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "ປ່າ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະ⟨ເປັນ⟩"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "ນ້ຳຜຶ້ງ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ໜ້າ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ທົ່ງນາ"
+    }
+  ],
+  "timestamp": "2026-09-08T21:27:08.920032556Z",
+  "model": "glm-5.3"
+}

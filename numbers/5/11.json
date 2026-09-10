@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 5:11",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ແລະຢາເວໄດ້ກ່າວກັບໂມເຊວ່າ",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ແລະໄດ້ກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:59:08.637392549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ຕຳຫານກະບະຂອງເຈົ້າ ແລະຈຸ່ມແປ້ງຂອງເຈົ້າ.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ຕຳຫານ"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "ກະບະຂອງເຈົ້າ"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "ແລະຈຸ່ມແປ້ງຂອງເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:40:27.016251952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ຕໍ່ດານ: ອາຮິເອເຊຣລູກຊາຍຂອງອາມິຊັດດາຍ.",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "ຕໍ່ດານ"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "ອາຮິເອເຊຣ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "ອາມິຊັດດາຍ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:50:06.319185705Z",
+  "model": "glm-5.3"
+}

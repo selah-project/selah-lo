@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ດີທີ່ຫວັງແລະນິ້ງງຽບລໍຖ້າຕໍ່ຄວາມລອດຂອງຢາເວ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "ແລະຫວັງ"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "ແລະນິ້ງງຽບ"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "ຕໍ່ຄວາມລອດຂອງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:23:32.459798021Z",
+  "model": "glm-5.3"
+}

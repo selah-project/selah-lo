@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 83,
+  "translation": "ເຕັນຂອງເອໂດມ ແລະຢິຊະມາອີນ ໂມອາບ ແລະຮາກຣິມ.",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "ເຕັນຂອງ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ເອໂດມ"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "ແລະຢິຊະມາອີນ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ໂມອາບ"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "ແລະຮາກຣິມ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:40:29.927888403Z",
+  "model": "glm-5.3"
+}

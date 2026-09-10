@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ຄືຫາກທີ່ຂຶ້ນໃນມືຄົນເມົາ ສຳນວນກໍຢູ່ໃນປາກຂອງພວກໂງ່ຄືກັນ.",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "ຫາກ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ຂຶ້ນ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ໃນມື"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "ຄົນເມົາ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ແລະສຳນວນ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ໃນປາກ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ຂອງພວກໂງ່"
+    }
+  ],
+  "timestamp": "2026-09-09T05:53:34.793544411Z",
+  "model": "glm-5.3"
+}

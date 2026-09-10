@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 21:16",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ຄົນທີ່ຫຼົງຈາກທາງຂອງຄວາມຮັບຮູ້ ຈະພັກຜ່ອນໃນຊຸມຄົນຣາຟາຢິມ.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "תועה",
+      "gloss": "ທີ່ຫຼົງ"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ຈາກທາງ"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "ຂອງຄວາມຮັບຮູ້"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ໃນຊຸມຄົນ"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "ຣາຟາຢິມ"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ຈະພັກຜ່ອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:16:16.720439202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 21:1",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ແລະຢີໂອບຕອບແລະເວົ້າວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ແລະຢີໂອບຕອບ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ຢີໂອບ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະເວົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:28:19.082759588Z",
+  "model": "glm-5.3"
+}

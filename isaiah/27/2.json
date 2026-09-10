@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 27:2",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 27,
+  "translation": "ໃນວັນນັ້ນ ຈົ່ງຮ້ອງເພງຕໍ່ນາງວ່າ ສວນອະງຸວທີ່ໜ້າຍຳມີ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ໃນວັນ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ນັ້ນ"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ສວນອະງຸວ"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "ທີ່ໜ້າຍຳມີ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ຈົ່ງຮ້ອງເພງຕໍ່"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ນາງ"
+    }
+  ],
+  "timestamp": "2026-09-08T23:28:37.742082126Z",
+  "model": "glm-5.3"
+}

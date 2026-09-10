@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 46,
+  "translation": "ແກ່ຜູ້ຄົງຄອງ ເພື່ອລູກຫຼານຂອງຄໍຣາຮ ເທິງອາລາມໂອດ ເພງ",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ແກ່ຜູ້ຄົງຄອງ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ເພື່ອລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ຄໍຣາຮ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "ອາລາມໂອດ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ເພງ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:06:11.205674108Z",
+  "model": "glm-5.3"
+}

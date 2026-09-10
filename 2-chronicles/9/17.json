@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 9:17",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ແລະກະສັດໄດ້ເຮັດບັນລັງທະນະແຂ້ວໃຫຍ່ໜຶ່ງຫຼັງ ແລະໄດ້ປົກມັນດ້ວຍຄຳບໍລິສຸດ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ແລະໄດ້ເຮັດ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ບັນລັງ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ທະນະແຂ້ວ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ໃຫຍ່"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "ແລະໄດ້ປົກມັນ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ບໍລິສຸດ"
+    }
+  ],
+  "timestamp": "2026-09-10T01:16:54.395491725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະຖ້າຂອງຖວນຂອງຂອງເຈົ້າໃນໝໍ້ຕົ້ມມັນຖືກເຮັດຈາກແປ້ງລະອອດໃນນ້ຳມັນ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ແລະຖ້າ"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ຂອງຖວນ"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "ໝໍ້ຕົ້ມ"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "ຂອງຂອງເຈົ້າ"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ແປ້ງລະອອດ"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ໃນນ້ຳມັນ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ຖືກເຮັດ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:13:27.346068161Z",
+  "model": "glm-5.3"
+}

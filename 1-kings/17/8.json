@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "lo",
+  "chapter": 17,
+  "translation": "ແລະມັນເກີດຂຶ້ນວ່າຄຳຂອງຢາເວມາຫາເພິ່ນວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະມັນເກີດຂຶ້ນວ່າ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ມາຫາເພິ່ນ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T15:44:11.779283234Z",
+  "model": "glm-5.3"
+}

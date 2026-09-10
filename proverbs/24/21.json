@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ຈົ່ງຢ້ານ⟨את⟩ຢາເວ ລູກຂອງຂ້ອຍ ແລະກະສັດ ຢ່າປະສົມກັບຜູ້ປ່ຽນ.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "ຈົ່ງຢ້ານ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຢາເວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ແລະກະສັດ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "ຜູ້ປ່ຽນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "ຈົ່ງປະສົມ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:18:35.346649447Z",
+  "model": "glm-5.3"
+}

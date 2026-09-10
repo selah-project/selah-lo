@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 3:7",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ແລະໂນຄາ ແລະເນເພັກ ແລະຢາຟີອາ.",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "ແລະໂນຄາ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "ແລະເນເພັກ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "ແລະຢາຟີອາ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:09:20.122234776Z",
+  "model": "glm-5.3"
+}

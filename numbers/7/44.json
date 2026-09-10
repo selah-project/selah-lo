@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 7:44",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ຈອດຄຳໜຶ່ງອັນສິບຊິກ ເຕັມດ້ວຍຄວັນທູບ.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ຈອດຄຳ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ເຕັມ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ຄວັນທູບ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:58:07.875901517Z",
+  "model": "glm-5.3"
+}

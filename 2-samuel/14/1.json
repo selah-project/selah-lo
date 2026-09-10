@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ແລະໂຢອາບລູກຊາຍຂອງຊຣູຢາໄດ້ຮູ້ວ່າຫົວໃຈຂອງກະສັດຢູ່ໃສ່ອັບຊາໂລມ.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "ໄດ້ຮູ້"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ໂຢອາບ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "ຊຣູຢາ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ຫົວໃຈ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຢູ່ໃສ່"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ອັບຊາໂລມ"
+    }
+  ],
+  "timestamp": "2026-09-08T21:57:53.410256144Z",
+  "model": "glm-5.3"
+}

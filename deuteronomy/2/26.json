@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 2:26",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະຂ້ອຍໄດ້ສົ່ງທູດອົງ ຈາກທະເລຊາຍເກເດໂມດ ຫາສີໂຮນ ກະສັດແຫ່ງເຮັຊບອນ ຄຳສັນຕິພາບ ວ່າ:",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "ແລະຂ້ອຍໄດ້ສົ່ງ"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ທູດ"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ຈາກທະເລຊາຍ"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "ເກເດໂມດ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "ສີໂຮນ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ເຮັຊບອນ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ສັນຕິພາບ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:41:59.328957698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ແລະອິສະຣາເອນກະບົດຕໍ່ເຮືອນຂອງດາວິດ ຮອດວັນນີ້.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "ແລະກະບົດ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ຕໍ່ເຮືອນ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ດາວິດ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ຮອດ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ນີ້"
+    }
+  ],
+  "timestamp": "2026-09-08T22:27:20.899096116Z",
+  "model": "glm-5.3"
+}

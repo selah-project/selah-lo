@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 36,
+  "translation": "ເຫຼົ່ານີ້⟨ເປັນ⟩ລູກຊາຍຂອງເອດເຣ: ບິລຮານ ແລະຊາອານ ແລະອາການ.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ເຫຼົ່ານີ້"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "ເອດເຣ"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "ບິລຮານ"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "ແລະຊາອານ"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "ແລະອາການ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:48:04.786240394Z",
+  "model": "glm-5.3"
+}

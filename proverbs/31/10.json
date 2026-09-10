@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 31,
+  "translation": "ຍິງຜູ້ມີກຳລັງ ໃຜຈະພົບ? ແລະຄ່າຂອງນາງໄກກວ່າໄຂ່ມຸກ.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "ຍິງ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ຜູ້ມີກຳລັງ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ຈະພົບ"
+    },
+    {
+      "surface": "ורחק",
+      "gloss": "ແລະໄກກວ່າ"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "ໄຂ່ມຸກ"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "ຄ່າຂອງນາງ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:01:11.458631195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ຕໍ່ຜູ້ຄວບຄຸມ ມິຊະໂມຣຂອງດາວິດ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ຕໍ່ຜູ້ຄວບຄຸມ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ມິຊະໂມຣ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ຂອງດາວິດ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:50:07.870874561Z",
+  "model": "glm-5.3"
+}

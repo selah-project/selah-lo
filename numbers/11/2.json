@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ແລະປະຊາຊົນຮ້ອງຕໍ່ໂມເຊ ແລະໂມເຊອະທິຖານຕໍ່ຢາເວ ແລະໄຟຈົມລົງ.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ແລະຮ້ອງ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ປະຊາຊົນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "ແລະອະທິຖານ"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "ແລະມັນຈົມລົງ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ໄຟ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:59:57.531171480Z",
+  "model": "glm-5.3"
+}

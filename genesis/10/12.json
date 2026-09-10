@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ແລະ⟨את⟩ເຣເຊນ ລະຫວ່າງນີເນວາ ແລະລະຫວ່າງເກລາຮ ມັນ⟨ເປັນ⟩ນະຄອນໃຫຍ່.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ເຣເຊນ"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "ເຣເຊນ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ລະຫວ່າງ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ນີເນວາ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ແລະລະຫວ່າງ"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "ເກລາຮ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ນະຄອນ"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "ໃຫຍ່"
+    }
+  ],
+  "timestamp": "2026-09-09T11:00:53.845221650Z",
+  "model": "glm-5.3"
+}

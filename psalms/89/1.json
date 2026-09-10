@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 89,
+  "translation": "ບົດສອນຂອງອີທານ ຊາວເອຊະຣາຮິ.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "ບົດສອນ"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "ຂອງອີທານ"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "ຊາວເອຊະຣາຮິ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:46:06.421558852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 23:31",
+  "book": "2-samuel",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ອາບີອັລບອນຄົນອາຣະບາດ, ອັດມາເວດຄົນບາຣະຮູມ.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "ອາບີ"
+    },
+    {
+      "surface": "עלבון",
+      "gloss": "ອັລບອນ"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "ຄົນອາຣະບາດ"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "ອັດມາເວດ"
+    },
+    {
+      "surface": "הברחמי",
+      "gloss": "ຄົນບາຣະຮູມ"
+    }
+  ],
+  "timestamp": "2026-09-08T22:10:10.722233812Z",
+  "model": "glm-5.3"
+}

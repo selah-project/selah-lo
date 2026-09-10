@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 84,
+  "translation": "ດັ່ງຮັກຫຼາຍຫຼືອນ ດຸ່ນຂອງເຈົ້າ ຢາເວ ເສວາໂອດ.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ດັ່ງ"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "ຮັກຫຼາຍຫຼືອນ"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "ດຸ່ນຂອງເຈົ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ເສວາໂອດ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:52:09.340616912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 37:15",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 37,
+  "translation": "ແລະຄຳຂອງຢາເວ ມາຫາຂ້ອຍ ກ່າວວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະເກີດຂຶ້ນ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ມາຫາຂ້ອຍ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ກ່າວວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T01:51:55.724346587Z",
+  "model": "glm-5.3"
+}

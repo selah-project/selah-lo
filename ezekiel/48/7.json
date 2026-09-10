@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 48:7",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 48,
+  "translation": "ແລະຕິດຊາຍແດນຣາອູເບນ ຈາກຝ່າຍຕາເວັນອອກຈົນເຖິງຝ່າຍຕາເວັນຕົກ ຢູດາ ໜຶ່ງ.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ແລະຕິດ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ຊາຍແດນ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ຣາອູເບນ"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ຈາກຝ່າຍ"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ຕາເວັນອອກ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ຈົນເຖິງ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ຝ່າຍ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ຕາເວັນຕົກ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ຢູດາ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    }
+  ],
+  "timestamp": "2026-09-09T02:07:42.781751742Z",
+  "model": "glm-5.3"
+}

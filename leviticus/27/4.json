@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 27,
+  "translation": "ຖ້າເປັນຜູ້ຍິງ ຄ່າທີ່ເຈົ້າກໍານົດ ⟨ເປັນ⟩ ສາມສິບເຊເກນ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ຖ້າ"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ຜູ້ຍິງ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເປັນ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "⟨ເປັນ⟩"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "ຄ່າທີ່ເຈົ້າກໍານົດ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ສາມສິບ"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "ເຊເກນ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:52:45.301917868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ໂຢເອນອ້າຍຂອງນາທັນ ມິບຄາຣລູກຊາຍຂອງຮາກຣີ.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "ໂຢເອນ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ອ້າຍຂອງ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ນາທັນ"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "ມິບຄາຣ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "ຮາກຣີ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:14:26.241990459Z",
+  "model": "glm-5.3"
+}

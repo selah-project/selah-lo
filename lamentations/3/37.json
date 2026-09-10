@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ຜູ້ໃດຜູ້ນີ້ເວົ້າ ແລ້ວມັນເກີດຂຶ້ນ ເມື່ອອາໂດນາຍບໍ່ໄດ້ສັ່ງ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ຜູ້ໃດ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ຜູ້ນີ້"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ເວົ້າ"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ແລ້ວມັນເກີດຂຶ້ນ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ອາໂດນາຍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ໄດ້ສັ່ງ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:10:46.583689055Z",
+  "model": "glm-5.3"
+}

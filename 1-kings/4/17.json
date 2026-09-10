@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 4:17",
+  "book": "1-kings",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ເຢໂຮຊາຟາດລູກຊາຍຂອງປາຣູຮຢູ່ຢີສະຂາຣ.",
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "ເຢໂຮຊາຟາດ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "ປາຣູຮ"
+    },
+    {
+      "surface": "ביששכר",
+      "gloss": "ຢູ່ຢີສະຂາຣ"
+    }
+  ],
+  "timestamp": "2026-09-08T22:17:24.177514498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ເຊໂອນ ແລະຊໍາມົດ ແຜ່ນດິນບໍ່ອີ່ມນ້ຳ ແລະໄຟບໍ່ເວົ້າວ່າ ພໍແລ້ວ",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "ເຊໂອນ"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "ແລະມົດ"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ຊໍາ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ແຜ່ນດິນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ອີ່ມ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ແລະໄຟ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "ເວົ້າ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ພໍແລ້ວ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:00:41.496221102Z",
+  "model": "glm-5.3"
+}

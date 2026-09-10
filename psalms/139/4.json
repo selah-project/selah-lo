@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 139,
+  "translation": "ວ່າບໍ່ມີຄຳໃນລີ້ຂອງຂ້ອຍ, ເບິ່ງແມ ຢາເວ, ເຈົ້າໄດ້ຮູ້ທັງໝົດ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ບໍ່ມີ"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "ໃນລີ້ຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ເບິ່ງແມ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ເຈົ້າໄດ້ຮູ້"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ທັງໝົດ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:18:18.895898814Z",
+  "model": "glm-5.3"
+}

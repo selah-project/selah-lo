@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 13:19",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ແລະວ່າແຜ່ນດິນທີ່ເພິ່ນຢູ່ອາໄສໃນນັ້ນ ດີຫຼືຊົ່ວ ແລະວ່າເມືອງທີ່ເພິ່ນຢູ່ອາໄສໃນນັ້ນ ໃນຄ່າຍຫຼືໃນປ້ອມ.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "ແລະວ່າ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ແຜ່ນດິນ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ຢູ່ອາໄສ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ໃນນັ້ນ"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ຊົ່ວ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ແລະວ່າ"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ເມືອງ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ຢູ່ອາໄສ"
+    },
+    {
+      "surface": "בהנה",
+      "gloss": "ໃນນັ້ນ"
+    },
+    {
+      "surface": "הבמחנים",
+      "gloss": "ໃນຄ່າຍ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "במבצרים",
+      "gloss": "ໃນປ້ອມ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:10:26.089593749Z",
+  "model": "glm-5.3"
+}

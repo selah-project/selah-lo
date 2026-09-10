@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 38,
+  "translation": "ຢ່າປະຖິ້ມຂ້ອຍ, ຢາເວ ເອໂລຮິມຂອງຂ້ອຍ, ຢ່າຢູ່ໄກຈາກຂ້ອຍ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ປະຖິ້ມຂ້ອຍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ເອໂລຮິມຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ຢູ່ໄກ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ຈາກຂ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:36:00.159376918Z",
+  "model": "glm-5.3"
+}

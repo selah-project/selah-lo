@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ໃນວັນທຳອິດ ການຊຸມຊົນບໍລິສຸດ ⟨ເປັນ⟩ ແກ່ພວກເຈົ້າ ທຸກວຽກແຮງງານ ຢ່າເຮັດ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ໃນວັນ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ທຳອິດ"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "ການຊຸມຊົນ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ບໍລິສຸດ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨ເປັນ⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ແກ່ພວກເຈົ້າ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ວຽກ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ແຮງງານ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ເຮັດ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:42:34.441284430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 5:12",
+  "book": "song-of-songs",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ຕາຂອງເພິ່ນຄືນົກເຂົ້າຢູ່ຝັ່ງນ້ຳ, ຊັກຢູ່ໃນນົມ, ນັ່ງຢູ່ໃນຄວາມເຕັມ.",
+  "tokens": [
+    {
+      "surface": "עיניו",
+      "gloss": "ຕາຂອງເພິ່ນ"
+    },
+    {
+      "surface": "כיונים",
+      "gloss": "ຄືນົກເຂົ້າ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຢູ່"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "ຝັ່ງ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "רחצות",
+      "gloss": "ຊັກ"
+    },
+    {
+      "surface": "בחלב",
+      "gloss": "ໃນນົມ"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "ນັ່ງ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຢູ່ໃນ"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "ຄວາມເຕັມ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:54:00.074322732Z",
+  "model": "glm-5.3"
+}

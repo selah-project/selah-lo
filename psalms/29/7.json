@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 29,
+  "translation": "ສຽງຂອງຢາເວຕັດເປລເພີມຂອງໄຟ.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ສຽງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "ຕັດ"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "ເປລເພີມ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ໄຟ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:53:16.076928931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 18,
+  "translation": "ສ່ວນຄືສ່ວນພວກເຂົາຈະກິນ ຕ່າງຫາກຈາກສິນຄ້າຂອງເພິ່ນ ຕາມຕະກູນບັນພະບຸດ",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "ສ່ວນ"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "ຄືສ່ວນ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ພວກເຂົາຈະກິນ"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ຕ່າງຫາກຈາກ"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "ສິນຄ້າຂອງເພິ່ນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຕາມ"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ຕະກູນບັນພະບຸດ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:01:27.215291825Z",
+  "model": "glm-5.3"
+}

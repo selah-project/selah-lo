@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 35,
+  "translation": "ເຈົ້າໄດ້ເຫັນແລ້ວ, ຢາເວ; ຢ່ານິງ; ອາໂດນາຍ, ຢ່າຢູ່ໄກຈາກຂ້ອຍ.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "ເຈົ້າໄດ້ເຫັນ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ນິງ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ອາໂດນາຍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ຢ່າຢູ່ໄກ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ຈາກຂ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:01:12.905596574Z",
+  "model": "glm-5.3"
+}

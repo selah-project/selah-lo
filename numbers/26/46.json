@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ແລະຊື່ຂອງລູກສາວຂອງອາເຊຣ ⟨ເປັນ⟩ ເຊຣາຮ.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ແລະຊື່ຂອງ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ລູກສາວ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ອາເຊຣ"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "ເຊຣາຮ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:52:16.257140959Z",
+  "model": "glm-5.3"
+}

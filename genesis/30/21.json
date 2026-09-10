@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ຫຼັງຈາກນັ້ນນາງໄດ້ເກີດລູກສາວ ແລະນາງຮຽກ⟨את⟩ຊື່ນາງວ່າດີນາ.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ຫຼັງຈາກນັ້ນ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ນາງໄດ້ເກີດ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ລູກສາວ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ແລະນາງຮຽກ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຊື່ນາງ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ຊື່ຂອງນາງ"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "ດີນາ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:39:35.351835048Z",
+  "model": "glm-5.3"
+}

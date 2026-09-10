@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ເອຟຣາຢິມຜູກພັນກັບຮູບປັ້ນ, ຈົ່ງປະໄວເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "ຜູກພັນກັບ"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "ຮູບປັ້ນ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ເອຟຣາຢິມ"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "ຈົ່ງປະໄວ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T02:09:45.112019093Z",
+  "model": "glm-5.3"
+}

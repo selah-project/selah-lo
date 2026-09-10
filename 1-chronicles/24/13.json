@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 24:13",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ແກ່ຮູປາທີສິບສາມ ແກ່ຢິເຊເບອາບທີສິບສີ່.",
+  "tokens": [
+    {
+      "surface": "לחפה",
+      "gloss": "ແກ່ຮູປາ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ສາມ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "לישבאב",
+      "gloss": "ແກ່ຢິເຊເບອາບ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ສີ່"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:43:22.340779200Z",
+  "model": "glm-5.3"
+}

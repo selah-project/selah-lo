@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 18,
+  "translation": "ເມື່ອຄົນຊົ່ວມາ ຄວາມດູດສີກໍມານຳ ແລະພ້ອມກັບຄວາມອັບອາຍມີຄວາມຕຳໜຽວ.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "ເມື່ອມາ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ຄົນຊົ່ວ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ມາ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ກໍ"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "ຄວາມດູດສີ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ແລະພ້ອມກັບ"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ຄວາມອັບອາຍ"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ຄວາມຕຳໜຽວ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:44:32.857244185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ໄຟຕະຫຼອດຈະຄ້າຍຢູ່ເທິງແທ່ນບູຊາ, ບໍ່ຈະດັບ.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "ໄຟ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ຕະຫຼອດ"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "ຈະຄ້າຍຢູ່"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ແທ່ນບູຊາ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ຈະດັບ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:17:03.459057241Z",
+  "model": "glm-5.3"
+}

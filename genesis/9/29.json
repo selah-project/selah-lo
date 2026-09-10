@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 9:29",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ທັງໝົດວັນຂອງໂນອາກ⟨ເປັນ⟩ເກົ້າຮ້ອຍຫ້າສິບປີແລະເພິ່ນໄດ້ຕາຍ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ເປັນ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ວັນຂອງ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ໂນອາກ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ເກົ້າ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ແລະຫ້າສິບ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ແລະເພິ່ນໄດ້ຕາຍ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:01:33.680456253Z",
+  "model": "glm-5.3"
+}

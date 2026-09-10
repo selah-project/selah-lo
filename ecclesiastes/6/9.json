@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ການເຫັນຂອງຕາດີກວ່າການຍ່າງໄປຂອງຊີວິດ ສິ່ງນີ້ກໍອາຍ ແລະການໄລ່ຕາມລົມ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ດີກວ່າ"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ການເຫັນ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ຂອງຕາ"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "ການຍ່າງໄປ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ຂອງຊີວິດ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ກໍ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ສິ່ງນີ້"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ອາຍ"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ແລະການໄລ່"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ລົມ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:27:13.174192174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ບັນດາລູກຂອງມູຊີ ມັກລີ ແລະເອເດຣ ແລະເຢຣິໂມດ ສາມຄົນ",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ບັນດາລູກຂອງ"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "ມູຊີ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "ມັກລີ"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "ແລະເອເດຣ"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "ແລະເຢຣິໂມດ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ສາມ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:19:10.951995139Z",
+  "model": "glm-5.3"
+}

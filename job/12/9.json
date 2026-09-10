@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ໃຜບໍ່ຮູ້ໃນທັງສິ່ງເຫຼົ່ານີ້ວ່າມືຂອງຢາເວໄດ້ສ້າງສິ່ງນີ້.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ຮູ້"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ໃນທັງ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ສິ່ງເຫຼົ່ານີ້"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ມື"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ໄດ້ສ້າງ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ສິ່ງນີ້"
+    }
+  ],
+  "timestamp": "2026-09-09T06:14:21.977694674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ຢ່າລັກຂ້າມ ຢ່າປ່າວບໍ່ຈິງ ຢ່າໂກງຄົນຕໍ່ເພື່ອນຮ່ວມຊາດຂອງຕົນ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "ລັກຂ້າມ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "ປ່າວບໍ່ຈິງ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "ໂກງ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "ຕໍ່ເພື່ອນຮ່ວມຊາດຂອງຕົນ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:38:04.797370505Z",
+  "model": "glm-5.3"
+}

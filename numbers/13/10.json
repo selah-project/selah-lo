@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 13:10",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ຕະກູນເຊບູລັນ: ກັດດີເອນລູກຊາຍຂອງໂສດິ.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ຕະກູນ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ເຊບູລັນ"
+    },
+    {
+      "surface": "גדיאל",
+      "gloss": "ກັດດີເອນ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "סודי",
+      "gloss": "ໂສດິ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:07:41.148185568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 32,
+  "translation": "ຢາເວໂດດດ່ຽວນຳພາພວກເຂົາ ແລະບໍ່ມີເອນຕ່າງປະເທດຢູ່ກັບເພິ່ນ",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "ໂດດດ່ຽວ"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "ນຳພາພວກເຂົາ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ແລະບໍ່ມີ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ຢູ່ກັບເພິ່ນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເອນ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ຕ່າງປະເທດ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:16:47.286996168Z",
+  "model": "glm-5.3"
+}

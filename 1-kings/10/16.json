@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 10:16",
+  "book": "1-kings",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ແລະກະສັດເຊໂລໂມໄດ້ສ້າງໂລຫະສອງຮ້ອຍອັນດ້ວຍຄຳຕີທອງ ຫົກຮ້ອຍຄຳຂຶ້ນເທິງໂລຫະໜຶ່ງອັນ",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ແລະໄດ້ສ້າງ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ເຊໂລໂມ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ສອງຮ້ອຍ"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ໂລຫະ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "ຕີທອງ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ຫົກ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ຂຶ້ນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "ໂລຫະ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ໜຶ່ງ"
+    }
+  ],
+  "timestamp": "2026-09-09T15:35:19.758056377Z",
+  "model": "glm-5.3"
+}

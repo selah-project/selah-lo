@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ໂຊມດອກກະພິລຄືຄູ່ຮັກຂອງຂ້ອຍແກ່ຂ້ອຍ ຢູ່ໃນໄຮ່ອະງຸ່ນຂອງເອນເກດິ.",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "ໂຊມ"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "ດອກກະພິລ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ຄູ່ຮັກຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ແກ່ຂ້ອຍ"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "ໃນໄຮ່ອະງຸ່ນຂອງ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ເອນ"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "ເກດິ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:54:06.269275641Z",
+  "model": "glm-5.3"
+}

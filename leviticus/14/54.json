@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ນີ້ຄືກົດໝາຍສຳລັບໂຣກທຸກຊະນິດແລະສະເພາະກະລິດມີຂຶ້ນ",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ນີ້ຄື"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ກົດໝາຍ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ສຳລັບທຸກ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ໂຣກ"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "ກະລິດ"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "ແລະສະເພາະກະລິດມີຂຶ້ນ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:28:28.616407049Z",
+  "model": "glm-5.3"
+}

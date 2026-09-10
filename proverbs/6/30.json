@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ບໍ່ດູຖູກຂະນະນາກ ເພາະລັກເພື່ອຕື່ມຊີວິດຂອງລາວ ເພາະລາວອົດຫິວ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "ດູຖູກ"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "ຕໍ່ຂະນະນາກ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "ລັກ"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "ເພື່ອຕື່ມ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ຊີວິດຂອງລາວ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "ອົດຫິວ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:33:04.316092823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ລູກຂອງຢູດາແມ່ນເປຣັດ ຮັສຣູນ ແລະຄາມີ ແລະຮູຣ ແລະໂຊບານ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ຢູດາ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ເປຣັດ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ຮັສຣູນ"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "ແລະຄາມີ"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "ແລະຮູຣ"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "ແລະໂຊບານ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:13:23.909160401Z",
+  "model": "glm-5.3"
+}

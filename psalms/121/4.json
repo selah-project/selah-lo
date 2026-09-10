@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 121,
+  "translation": "ເບິ່ງແມ ຜູ້ຮັກສາອິສະຣາເອນ ບໍ່ງວຍ ແລະບໍ່ນອນ",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ເບິ່ງແມ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ງວຍ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "ນອນ"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ຜູ້ຮັກສາ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:11:51.428806971Z",
+  "model": "glm-5.3"
+}

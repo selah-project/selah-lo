@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ແຕ່ໂນອາໄດ້ພົບຄວາມເມດຕາໃນຕາຂອງຢາເວ.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "ແຕ່ໂນອາ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ໄດ້ພົບ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ຄວາມເມດຕາ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ໃນຕາຂອງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:04:03.790250680Z",
+  "model": "glm-5.3"
+}

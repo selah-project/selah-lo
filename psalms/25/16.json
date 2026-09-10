@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ຈົ່ງຫັນຫາຂ້ອຍ ແລະເມດຕາຕໍ່ຂ້ອຍ ຍ້ອນຂ້ອຍໂດດດ່ຽວແລະທຸກຍາກ.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "ຫັນ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ຫາຂ້ອຍ"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ແລະເມດຕາຕໍ່ຂ້ອຍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ຍ້ອນ"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "ໂດດດ່ຽວ"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ແລະທຸກຍາກ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ຂ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:32:38.583260320Z",
+  "model": "glm-5.3"
+}

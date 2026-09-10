@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 12:11",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ມິຊມັນນາທີສີ່ ຢີຣະມະຢາທີຫ້າ.",
+  "tokens": [
+    {
+      "surface": "משמנה",
+      "gloss": "ມິຊມັນນາ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ທີສີ່"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "ຢີຣະມະຢາ"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "ທີຫ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:23:55.679269096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ແລະທຸກສິ່ງທີ່ລຳຄານທີ່ລຳຄານເທິງແຜ່ນດິນໂລກ ເປັນສິ່ງຮັງກຽດ, ຈະບໍ່ຖືກກິນ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ແລະທຸກ"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "ສິ່ງທີ່ລຳຄານ"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "ທີ່ລຳຄານ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ແຜ່ນດິນໂລກ"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ສິ່ງຮັງກຽດ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ຈະຖືກກິນ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:48:49.674286807Z",
+  "model": "glm-5.3"
+}

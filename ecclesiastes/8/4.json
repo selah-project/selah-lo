@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ໃນບ່ອນທີ່ຄຳຂອງກະສັດມີອຳນາດ ແລະໃຜຈະເວົ້າຕໍ່ເພິ່ນວ່າ ເຈົ້າເຮັດຫຍັງ.",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "ໃນບ່ອນທີ່"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ຂອງກະສັດ"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "ມີອຳນາດ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ແລະໃຜ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ຈະເວົ້າ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ຕໍ່ເພິ່ນ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ຫຍັງ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ເຈົ້າເຮັດ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:27:41.521554937Z",
+  "model": "glm-5.3"
+}

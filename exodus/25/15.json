@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ໄມ້ຄ້ອຍຢູ່ໃນວົງແຫວນຂອງແອວດ ຈະບໍ່ຖືກຖອດອອກຈາກມັນ.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "ໃນວົງແຫວນ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ຂອງແອວດ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ຢູ່"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ໄມ້ຄ້ອຍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "ຈະຖືກຖອດອອກ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ຈາກມັນ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:51:23.414175957Z",
+  "model": "glm-5.3"
+}

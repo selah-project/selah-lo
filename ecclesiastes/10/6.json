@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ຄົນໂງ່ຖືກຕັ້ງໄວ້ໃນຕຳແໜ່ງສູງຫຼາຍ, ແລະຄົນອຸດົມນັ່ງຢູ່ໃນທີ່ຕ່ຳ.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "ຖືກຕັ້ງ"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "ຄົນໂງ່"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "ໃນຕຳແໜ່ງສູງ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ຫຼາຍ"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "ແລະຄົນອຸດົມ"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "ໃນທີ່ຕ່ຳ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ນັ່ງ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:26:08.792804765Z",
+  "model": "glm-5.3"
+}

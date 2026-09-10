@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 39:15",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 39,
+  "translation": "ແລະພວກເຂົາໄດ້ເຮັດເທິງໂຮຊຶນໂສ້ຍ່ອມບິດເປັນງານເຊືອກຄຳບໍລິສຸດ",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ແລະພວກເຂົາໄດ້ເຮັດ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ໂຮຊຶນ"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "ໂສ້ຍ່ອມ"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "ບິດ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ງານ"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "ເຊືອກ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ບໍລິສຸດ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:10:34.255422588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 11:5",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ຣາຮາບາມຢູ່ເຢຣູຊາລາຢິມແລະໄດ້ສ້າງເມືອງເພື່ອປ້ອງກັນໃນຢູດາ",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ຢູ່"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ຣາຮາບາມ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ໃນເຢຣູຊາລາຢິມ"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ແລະໄດ້ສ້າງ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ເມືອງ"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "ເພື່ອປ້ອງກັນ"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ໃນຢູດາ"
+    }
+  ],
+  "timestamp": "2026-09-09T10:04:25.413727228Z",
+  "model": "glm-5.3"
+}

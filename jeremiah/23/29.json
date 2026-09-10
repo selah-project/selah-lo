@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 23:29",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ຄຳຂອງເຮົາແມ່ນບໍ່ຄືດັ່ງນີ້ຄືໄຟ ຄຳຂອງ ຢາເວ ແລະຄືຄ້ອນໃໝ ຕີແຕກຫີນ?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ແມ່ນບໍ່"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ຄືດັ່ງນີ້"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ຄຳຂອງເຮົາ"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "ຄືໄຟ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ຄຳຂອງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "וכפטיש",
+      "gloss": "ແລະຄືຄ້ອນໃໝ"
+    },
+    {
+      "surface": "יפצץ",
+      "gloss": "ຕີແຕກ"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "ຫີນ"
+    }
+  ],
+  "timestamp": "2026-09-09T22:41:46.598106815Z",
+  "model": "glm-5.3"
+}

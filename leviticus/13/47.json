@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 13:47",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ແລະເສື້ອ ເມື່ອມີຮອຍພະຍາດຕາກິນຢູ່ໃນມັນ ໃນເສື້ອຂົນແກະ ຫຼືໃນເສື້ອຝ້າຍປ່າ.",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "ແລະເສື້ອ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເມື່ອ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ຢູ່ໃນມັນ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ຮອຍພະຍາດ"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ຕາກິນ"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "ໃນເສື້ອ"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "ຂົນແກະ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "ໃນເສື້ອ"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "ຝ້າຍປ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:27:37.846993794Z",
+  "model": "glm-5.3"
+}

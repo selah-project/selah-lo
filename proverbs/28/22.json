@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ຄົນຕາຊົ່ວຕື່ນຕົວຕໍ່ຄວາມຮັ່ງມີ ແລະບໍ່ຮູ້ວ່າ ຄວາມຂາດຈະມາຫາເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "ຕື່ນຕົວ"
+    },
+    {
+      "surface": "להון",
+      "gloss": "ຕໍ່ຄວາມຮັ່ງມີ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ຊົ່ວ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ຕາ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ຮູ້"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ຄວາມຂາດ"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "ຈະມາຫາ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:59:23.734376194Z",
+  "model": "glm-5.3"
+}

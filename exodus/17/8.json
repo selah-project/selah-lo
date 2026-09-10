@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 17,
+  "translation": "ແລະອາມາເລັກມາ ແລະຕໍ່ສູ້ກັບອິສະຣາເອນ ຢູ່ເຣຟິດິມ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ແລະມາ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ອາມາເລັກ"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ແລະຕໍ່ສູ້"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "ຢູ່ເຣຟິດິມ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:42:06.478465356Z",
+  "model": "glm-5.3"
+}

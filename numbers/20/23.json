@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 20:23",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ແລະຢາເວກ່າວຕໍ່ໂມເຊແລະຕໍ່ອາຮາໂຣນຢູ່ພູໂຮນຕິດຊາຍແດນແຜ່ນດິນເອດໂມມວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ແລະຕໍ່"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ອາຮາໂຣນ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ຢູ່ພູ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ໂຮນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຕິດ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ຊາຍແດນ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ແຜ່ນດິນ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ເອດໂມມ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:04:57.840906872Z",
+  "model": "glm-5.3"
+}

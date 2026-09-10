@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 34:15",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 34,
+  "translation": "ເນື້ອທັງທຸກຈະຕາຍນຳກັນ ແລະມະນຸດຈະກັບຄືນເທິງຝຸ່ນດິນ.",
+  "tokens": [
+    {
+      "surface": "יגוע",
+      "gloss": "ຈະຕາຍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງທຸກ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ເນື້ອ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ນຳກັນ"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ແລະມະນຸດ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ຝຸ່ນດິນ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ຈະກັບຄືນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:34:47.874973726Z",
+  "model": "glm-5.3"
+}

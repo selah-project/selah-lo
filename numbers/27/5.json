@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 27,
+  "translation": "ແລະໂມເຊນຳ⟨את⟩ຄະດີຂອງພວກເຂົາມາຕໍ່ໜ້າຢາເວ.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ນຳມາຕໍ່"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຄະດີຂອງພວກເຂົາ"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "ຄະດີຂອງພວກເຂົາ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ຕໍ່ໜ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:30:27.278332917Z",
+  "model": "glm-5.3"
+}

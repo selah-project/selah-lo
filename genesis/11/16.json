@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ເອເບນໄດ້ມີຊີວິດສີ່ສິບສີ່ປີ ແລະໄດ້ກຳເນີດ⟨את⟩ເປເລັກ.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ໄດ້ມີຊີວິດ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ເອເບນ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ສີ່"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ແລະສາມສິບ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ແລະໄດ້ກຳເນີດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເປເລັກ"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ເປເລັກ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:11:17.444260494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ແລະຄົນທັງໝົດຂອງອິສະຣາເອນປະຊຸມຕໍ່ກະສັດ ໃນເທດສະການ ຄືເດືອນທີເຈັດ",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "ແລະປະຊຸມ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "ໃນເທດສະການ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ຄື"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ເດືອນ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ທີເຈັດ"
+    }
+  ],
+  "timestamp": "2026-09-09T10:03:12.581032736Z",
+  "model": "glm-5.3"
+}

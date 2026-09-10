@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 104,
+  "translation": "ພູຈະຂຶ້ນ ຮ່ອມພູຈະລົງ ສູ່ບ່ອນນັ້ນ ເຈົ້າສ້າງຖານໄວ້ສຳລັບພວກມັນ",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "ຈະຂຶ້ນ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ພູ"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ຈະລົງ"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "ຮ່ອມພູ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ສູ່"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ບ່ອນ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ນັ້ນ"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "ເຈົ້າສ້າງຖານ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ສຳລັບພວກມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:54:21.247467722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ຢາເວ, ເຈົ້າໄດ້ເຫັນຄວາມອບອຸ່ນຂອງຂ້ອຍ; ຈົ່ງຕັດສິນຄະດີຂອງຂ້ອຍ.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "ເຈົ້າໄດ້ເຫັນ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "ຄວາມອບອຸ່ນຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "ຈົ່ງຕັດສິນ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ຄະດີຂອງຂ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:10:40.003277116Z",
+  "model": "glm-5.3"
+}

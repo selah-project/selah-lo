@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 83,
+  "translation": "ບົດຮ້ອງ, ບົດສອງສຽງ ຂອງອາຊາບ.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ບົດຮ້ອງ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ບົດສອງສຽງ"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ຂອງອາຊາບ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:40:10.175158279Z",
+  "model": "glm-5.3"
+}

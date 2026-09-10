@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 1:2",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ເກຍນານ, ມາຮາເລລ, ເຢເຣດ.",
+  "tokens": [
+    {
+      "surface": "קינן",
+      "gloss": "ເກຍນານ"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "ມາຮາເລລ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ເຢເຣດ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:02:34.314449283Z",
+  "model": "glm-5.3"
+}

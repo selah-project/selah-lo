@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 42,
+  "translation": "ແລະໂຢເຊັບຕອບ⟨את⟩ຢາເວ ແລະກ່າວວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ແລະຕອບ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ໂຢເຊັບ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຢາເວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະກ່າວ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:38:48.390823172Z",
+  "model": "glm-5.3"
+}

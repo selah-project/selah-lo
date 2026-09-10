@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ແລະກູຊກຳເນີດ⟨את⟩ນິມຣໂດ ເພິ່ນເລີ່ມເປັນຜູ້ກ້າໃນແຜ່ນດິນ.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "ແລະກູຊ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ກຳເນີດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ນິມຣໂດ"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "ນິມຣໂດ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ເລີ່ມ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ເປັນ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ຜູ້ກ້າ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ໃນແຜ່ນດິນ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:07:15.440716722Z",
+  "model": "glm-5.3"
+}

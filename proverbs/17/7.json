@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 17,
+  "translation": "ປາກທີ່ປັດຊັ້ນບໍ່ເໝາະແກ່ຄົນໂງ່; ຍິ່ງກວ່ານັ້ນ ປາກຕົວະບໍ່ເໝາະແກ່ຜູ້ມີກຽດ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ເໝາະ"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "ແກ່ຄົນໂງ່"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ປາກ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ທີ່ປັດຊັ້ນ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ຍິ່ງ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "ແກ່ຜູ້ມີກຽດ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ປາກ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ຕົວະ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:13:51.884789590Z",
+  "model": "glm-5.3"
+}

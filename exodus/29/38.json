@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 29:38",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 29,
+  "translation": "ແລະນີ້ຄືສິ່ງທີ່ເຈົ້າຈະເຮັດເທິງແທ໙: ແກະລູກປີສອງໂຕ ຕໍ່ວັນ ຕະຫຼອດ",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ແລະນີ້"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ສິ່ງທີ່"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ເຈົ້າຈະເຮັດ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ແທ໙"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ແກະ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ຕໍ່ວັນ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ຕະຫຼອດ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:13:27.245745671Z",
+  "model": "glm-5.3"
+}

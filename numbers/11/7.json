@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ມານເປັນຄືເມັດຜັກຊີຫອມ ແລະສີຂອງມັນຄືສີຂອງເບດອນລິນ.",
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "ແລະມານ"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "ຄືເມັດ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ຜັກຊີຫອມ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "ແລະສີຂອງມັນ"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "ຄືສີຂອງ"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "ເບດອນລິນ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:07:04.764008565Z",
+  "model": "glm-5.3"
+}

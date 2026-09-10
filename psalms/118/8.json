@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 118,
+  "translation": "ດີກວ່າທີ່ຈະໄປອາໄສຢາເວ ກວ່າທີ່ຈະວາງໃຈໃສ່ມະນຸດ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ດີກວ່າ"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "ຈະໄປອາໄສ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ໃນຢາເວ"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "ກວ່າວາງໃຈ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ໃສ່ມະນຸດ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:59:28.811538040Z",
+  "model": "glm-5.3"
+}

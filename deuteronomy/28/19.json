@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ເຈົ້າຕຳນາໃນການທີ່ເຈົ້າເຂົ້າ ແລະເຈົ້າຕຳນາໃນການທີ່ເຈົ້າອອກ.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ຕຳນາ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ເຈົ້າ"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "ໃນການທີ່ເຈົ້າເຂົ້າ"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "ແລະຕຳນາ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ເຈົ້າ"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "ໃນການທີ່ເຈົ້າອອກ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:41:14.584821083Z",
+  "model": "glm-5.3"
+}

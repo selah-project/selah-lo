@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ແລະຢາເວກ່າວວ່າ: ມັນຮ້ອນຂຶ້ນແກ່ເຈົ້າດີແທ້ບໍ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະຢາເວກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "ດີແທ້ບໍ"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ມັນຮ້ອນຂຶ້ນ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ແກ່ເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-10T01:11:58.033172877Z",
+  "model": "glm-5.3"
+}

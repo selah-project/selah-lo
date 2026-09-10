@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະຢາເວກ່າວຕໍ່ປາ ແລະມັນອາ⟨את⟩ໂຢນາອອກໄປສູ່ແຜ່ນດິນແຫ້ງ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "ຕໍ່ປາ"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "ແລະມັນອາອອກ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ໂຢນາ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ໂຢນາ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ໄປສູ່"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "ແຜ່ນດິນແຫ້ງ"
+    }
+  ],
+  "timestamp": "2026-09-09T02:44:05.884428909Z",
+  "model": "glm-5.3"
+}

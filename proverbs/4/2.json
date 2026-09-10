@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ເພາະຄຳສອນທີ່ດີເຮົາໄດ້ໃຫ້ແກ່ພວກເຈົ້າ; ຄຳສັ່ງສອນຂອງເຮົາ ຢ່າປະຖິ້ມ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ຄຳສອນ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ທີ່ດີ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ເຮົາໄດ້ໃຫ້"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ແກ່ພວກເຈົ້າ"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ຄຳສັ່ງສອນຂອງເຮົາ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "ປະຖິ້ມ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:29:53.071123073Z",
+  "model": "glm-5.3"
+}

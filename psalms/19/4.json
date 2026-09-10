@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ບໍ່ມີຖ້ອຍຄຳ ແລະບໍ່ມີຄຳເວົ້າ ໂດຍບໍ່ມີສຽງຂອງມັນຖືກຟັງ.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ບໍ່ມີ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ຖ້ອຍຄຳ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ແລະບໍ່ມີ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ຄຳເວົ້າ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ໂດຍບໍ່ມີ"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ຖືກຟັງ"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ສຽງຂອງມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:50:07.871379129Z",
+  "model": "glm-5.3"
+}

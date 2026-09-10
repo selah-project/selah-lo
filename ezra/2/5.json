@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ລູກຫຼານຂອງອາຣາຮ໌ ເຈັດຮ້ອຍຫ້າ ແລະເຈັດສິບ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ອາຣາຮ໌"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ເຈັດ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ຫ້າ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ແລະເຈັດສິບ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:17:05.120392179Z",
+  "model": "glm-5.3"
+}

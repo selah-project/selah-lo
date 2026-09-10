@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ມີຄວາມຊົ່ວທີ່ຂ້ອຍເຫັນພາຍໃຕ້ດວງອາທິດ ແລະມັນໃຫຍ່ທີ່ສຸດເທິງມະນຸດ.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ຄວາມຊົ່ວ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ຂ້ອຍເຫັນ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ພາຍໃຕ້"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ດວງອາທິດ"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ແລະມັນໃຫຍ່ທີ່ສຸດ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ມະນຸດ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:26:06.434084269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 26:9",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ແກ່ມະເຊເລມະຢາວ ມີລູກແລະພີ່ນ້ອງ ເປັນລູກຂອງຄວາມກ້າ ແປດສິບຄົນ.",
+  "tokens": [
+    {
+      "surface": "ולמשלמיהו",
+      "gloss": "ແກ່ມະເຊເລມະຢາວ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ລູກ"
+    },
+    {
+      "surface": "ואחים",
+      "gloss": "ແລະພີ່ນ້ອງ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ຄວາມກ້າ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ແປດ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:46:44.577809660Z",
+  "model": "glm-5.3"
+}

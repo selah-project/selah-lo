@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 92,
+  "translation": "ເທິງສາມາດສິບເສັ້ນ ແລະເທິງນາເບນ ເທິງສຽງດົນຕີດ້ວຍຄິນູຣ.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "ສາມາດສິບເສັ້ນ"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ແລະເທິງ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ນາເບນ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "ສຽງດົນຕີ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ດ້ວຍຄິນູຣ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:50:09.459309553Z",
+  "model": "glm-5.3"
+}

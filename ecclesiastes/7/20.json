@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ເພາະວ່າມະນຸດບໍ່ມີຜູ້ຊອບທຳຢູ່ເທິງແຜ່ນດິນຜູ້ທີ່ເຮັດຄວາມດີແລະບໍ່ທຳບາບ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະວ່າ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ມະນຸດ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ບໍ່ມີ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ຜູ້ຊອບທຳ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ຢູ່ເທິງແຜ່ນດິນ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ຜູ້ທີ່"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ເຮັດ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ຄວາມດີ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "ທຳບາບ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:45:58.407553884Z",
+  "model": "glm-5.3"
+}

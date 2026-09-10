@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ອັນນີ້ກໍຂ້ອຍໄດ້ເຫັນປັນຍາຢູ່ພາຍໃຕ້ດວງຕາເວັນ ແລະມັນຍິ່ງໃຫຍ່ຕໍ່ຂ້ອຍ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ກໍ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ອັນນີ້"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ຂ້ອຍໄດ້ເຫັນ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ປັນຍາ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ຢູ່ພາຍໃຕ້"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ດວງຕາເວັນ"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "ແລະມັນຍິ່ງໃຫຍ່"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ຕໍ່ຂ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:28:49.015201496Z",
+  "model": "glm-5.3"
+}

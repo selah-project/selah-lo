@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ເມຍນ້ອຍຂອງຄາເລບ ມາອາຄາ ເກີດ ຊະເບຣ ແລະ⟨את⟩ທິຣຮານາ.",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "ເມຍນ້ອຍ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ຂອງຄາເລບ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ມາອາຄາ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ເກີດ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ຊະເບຣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ທິຣຮານາ"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "ທິຣຮານາ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:04:39.653165970Z",
+  "model": "glm-5.3"
+}

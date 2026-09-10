@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ນ້ຳເຢັນຢູ່ເທິງວິນຍານອ່ອນເພົາ ແລະຂ່າວດີຈາກແຜ່ນດິນໄກ.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "ເຢັນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຢູ່ເທິງ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ວິນຍານ"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "ອ່ອນເພົາ"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "ແລະຂ່າວ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ຈາກແຜ່ນດິນ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ໄກ"
+    }
+  ],
+  "timestamp": "2026-09-10T00:24:24.787501938Z",
+  "model": "glm-5.3"
+}

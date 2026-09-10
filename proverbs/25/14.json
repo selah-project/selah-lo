@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 25:14",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ໝອກຟ້າແລະລົມ ແລະຝົນບໍ່ມີ ຄືຄົນອວດອຸ່ນນະຂອງຂວັນທີ່ເປັນເທັດ.",
+  "tokens": [
+    {
+      "surface": "נשיאים",
+      "gloss": "ໝອກຟ້າ"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ແລະລົມ"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "ແລະຝົນ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ບໍ່ມີ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "מתהלל",
+      "gloss": "ອວດອຸ່ນ"
+    },
+    {
+      "surface": "במתת",
+      "gloss": "ນະຂອງຂວັນ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ທີ່ເປັນເທັດ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:17:49.187739546Z",
+  "model": "glm-5.3"
+}

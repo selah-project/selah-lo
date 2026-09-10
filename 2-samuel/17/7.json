@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 17:7",
+  "book": "2-samuel",
+  "lang": "lo",
+  "chapter": 17,
+  "translation": "ແລະຮູຊີກ່າວກັບອາບຊາໂລມວ່າ ຄຳປຶກສາທີ່ອາຮິໂທເບນປຶກສາໃນຄັ້ງນີ້ ບໍ່ດີ",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະກ່າວ"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "ຮູຊີ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ອາບຊາໂລມ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "ຄຳປຶກສາ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "ປຶກສາ"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "ອາຮິໂທເບນ"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "ໃນຄັ້ງ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ນີ້"
+    }
+  ],
+  "timestamp": "2026-09-08T22:00:50.239058129Z",
+  "model": "glm-5.3"
+}

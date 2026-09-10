@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 135,
+  "translation": "ຫູຂອງພວກມັນ ແລະບໍ່ຟັງ ກໍບໍ່ມີລົມຢູ່ປາກຂອງພວກມັນ.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "ຫູ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ຂອງພວກມັນ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "ຟັງ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ກໍ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ບໍ່ມີ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ລົມ"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ຢູ່ປາກຂອງພວກມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:04:23.484786722Z",
+  "model": "glm-5.3"
+}

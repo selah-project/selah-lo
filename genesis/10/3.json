@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ແລະລູກຊາຍຂອງໂກເມຣ: ອັດເຄນາສ ແລະຣິຟາດ ແລະໂຕກາຣມາ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ແລະລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ໂກເມຣ"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "ອັດເຄນາສ"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "ແລະຣິຟາດ"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "ແລະໂຕກາຣມາ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:07:25.887402449Z",
+  "model": "glm-5.3"
+}

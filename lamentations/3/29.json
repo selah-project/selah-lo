@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ຈົ່ງວາງປາກຂອງເພິ່ນໃນຝຸ່ນດິນ ບາງທຶກມີຄວາມຫວັງ",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ວາງ"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "ໃນຝຸ່ນດິນ"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ປາກຂອງເພິ່ນ"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ບາງທຶກ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "ຄວາມຫວັງ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:23:38.268507792Z",
+  "model": "glm-5.3"
+}

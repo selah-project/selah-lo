@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 27:32",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 27,
+  "translation": "ແລະສ່ວນສິບຂອງງົວແລະແກະ ທຸກໂຕທີ່ຍ່າງຜ່ານພາຍໃຕ້ຄົນໄມ້ ໂຕທີສິບເປັນບໍລິສຸດຕໍ່ຢາເວ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ແລະທຸກ"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "ສ່ວນສິບ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ງົວ"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ແລະແກະ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ຍ່າງຜ່ານ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ພາຍໃຕ້"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "ຄົນໄມ້"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "ໂຕທີສິບ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ເປັນ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ບໍລິສຸດ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ຕໍ່ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:52:06.629769901Z",
+  "model": "glm-5.3"
+}

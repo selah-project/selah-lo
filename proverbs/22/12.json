@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 22:12",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 22,
+  "translation": "ຕາຂອງຢາເວຮັກສາຄວາມຮູ້ ແລະເພິ່ນພັບພຽງຄຳຂອງຜູ້ທີ່ລອບລວກ",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ຕາຂອງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "נצרו",
+      "gloss": "ຮັກສາ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ຄວາມຮູ້"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "ພັບພຽງ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ຄຳຂອງ"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ຜູ້ທີ່ລອບລວກ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:15:24.707892450Z",
+  "model": "glm-5.3"
+}

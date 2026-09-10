@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ແກ່ຜູ້ຄວບຄຸມ ແກ່ນີຮິໂລດ ເພງສວດ ແກ່ດາວິດ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ແກ່ຜູ້ຄວບຄຸມ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ແກ່"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "ນີຮິໂລດ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ເພງສວດ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ແກ່ດາວິດ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:04:41.737969271Z",
+  "model": "glm-5.3"
+}

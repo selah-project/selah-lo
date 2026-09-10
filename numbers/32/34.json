@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 32,
+  "translation": "ລູກຫຼານຂອງກາດໄດ້ສ້າງ⟨את⟩ດີໂບນ ແລະ⟨את⟩ອາຕາໂຣດ ແລະ⟨את⟩ອາໂຣເຣ.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "ໄດ້ສ້າງ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ກາດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ດີໂບນ"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "ດີໂບນ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ອາຕາໂຣດ"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ອາຕາໂຣດ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ອາໂຣເຣ"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "ອາໂຣເຣ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:14:32.455814514Z",
+  "model": "glm-5.3"
+}

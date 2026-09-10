@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ແລະຊະລໂມໄດ້ສ້າງ⟨את⟩ກາເຊຣ ແລະ⟨את⟩ເບັດ-ໂຮຣົນ ຕາມໜ້າ.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ໄດ້ສ້າງ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ຊະລໂມ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ກາເຊຣ"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ກາເຊຣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ເບັດ-ໂຮຣົນ ຕາມໜ້າ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ເບັດ-"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "ໂຮຣົນ"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "ຕາມໜ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T15:34:24.910052163Z",
+  "model": "glm-5.3"
+}

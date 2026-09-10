@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 23:1",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ແລະອິຢໂອບ (ຢ໊ອບ) ຕອບ ແລະເວົ້າວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ແລະຕອບ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ອິຢໂອບ (ຢ໊ອບ)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະເວົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:29:20.581361179Z",
+  "model": "glm-5.3"
+}

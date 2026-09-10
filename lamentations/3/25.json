@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ຢາເວ⟨ເປັນ⟩ດີຕໍ່ຜູ້ທີ່ລໍຖ້າເພິ່ນ, ຕໍ່ວິນຍານທີ່ແສວນຫາເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "ຕໍ່ຜູ້ທີ່ລໍຖ້າ"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ຕໍ່ວິນຍານ"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "ແສວນຫາເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:23:32.459560383Z",
+  "model": "glm-5.3"
+}

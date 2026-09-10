@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ຍ້ອນວ່າຜົວບໍ່ຢູ່ໃນເຮືອນຂອງເພິ່ນ ເພິ່ນໄດ້ໄປໃນທາງໄກ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ຍ້ອນວ່າ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ບໍ່ຢູ່"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ຜົວ"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ໃນເຮືອນຂອງເພິ່ນ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ໄດ້ໄປ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ໃນທາງ"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ໄກ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:33:23.937273850Z",
+  "model": "glm-5.3"
+}

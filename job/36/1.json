@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 36:1",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 36,
+  "translation": "ເອລິຮູ(ເອລີຮູ)ເພີ່ມແລະກ່າວວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ເພີ່ມ"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "ເອລິຮູ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະກ່າວວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:44:23.526954377Z",
+  "model": "glm-5.3"
+}

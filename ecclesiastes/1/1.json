@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ຄຳຂອງໂກເຮເລັດລູກຊາຍຂອງດາວິດກະສັດຢູ່ເຢຣູຊາລາຢິມ.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ຄຳຂອງ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ໂກເຮເລັດ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ດາວິດ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ຢູ່ເຢຣູຊາລາຢິມ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:23:32.733270305Z",
+  "model": "glm-5.3"
+}

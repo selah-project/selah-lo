@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 7:1",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ແລະຄຳຂອງຢາເວມາຫາຂ້ອຍວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະເກີດຂຶ້ນ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຂອງຢາເວ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ມາຫາຂ້ອຍ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T01:02:33.540559519Z",
+  "model": "glm-5.3"
+}

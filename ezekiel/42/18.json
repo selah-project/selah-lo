@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 42,
+  "translation": "⟨את⟩ທິດໃຕ້ ເພິ່ນໄດ້ວັດ ຫ້າຮ້ອຍກໍາ ດ້ວຍກໍາຊີ່ວັດ",
+  "tokens": [
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "ທິດໃຕ້"
+    },
+    {
+      "surface": "רוּחַ",
+      "gloss": "ທິດ"
+    },
+    {
+      "surface": "הַדָּרוֹם",
+      "gloss": "ໃຕ້"
+    },
+    {
+      "surface": "מָדַד",
+      "gloss": "ວັດ"
+    },
+    {
+      "surface": "חֲמֵשׁ",
+      "gloss": "ຫ້າ"
+    },
+    {
+      "surface": "מֵאוֹת",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "קָנִים",
+      "gloss": "ກໍາ"
+    },
+    {
+      "surface": "בִּקְנֵה",
+      "gloss": "ດ້ວຍກໍາ"
+    },
+    {
+      "surface": "הַמִּדָּה",
+      "gloss": "ຊີ່ວັດ"
+    }
+  ],
+  "timestamp": "2026-09-09T17:57:05.841302132Z",
+  "model": "glm-5.3"
+}

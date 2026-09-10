@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ພະຍານເທັດຈະບໍ່ພົ້ນຜ່ອນ ແລະຜູ້ອອກລົມຄວາມມືດຮົ່ມຈະພັງພາຍ.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ພະຍານ"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "ເທັດ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "ຈະພົ້ນຜ່ອນ"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "ແລະຜູ້ອອກລົມ"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ຄວາມມືດຮົ່ມ"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "ຈະພັງພາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:15:08.808914048Z",
+  "model": "glm-5.3"
+}

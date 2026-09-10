@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 2:19",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ທຸກຄົນທີ່ເຂົ້າຫານາງ ຈະບໍ່ກັບຄືນ ແລະຈະບໍ່ຮອດເຖິງ ທາງແຫ່ງຊີວິດ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "באיה",
+      "gloss": "ຄົນທີ່ເຂົ້າຫານາງ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "ຈະກັບຄືນ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "ישיגו",
+      "gloss": "ຈະຮອດເຖິງ"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ທາງ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ແຫ່ງຊີວິດ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:27:33.922508870Z",
+  "model": "glm-5.3"
+}

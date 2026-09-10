@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 42,
+  "translation": "ຕໍ່ໜ້າຄວາມຍາວສອກໜຶ່ງຮ້ອຍສອກ ປະຕູດ້ານເໜືອ ແລະຄວາມກວ້າງຫ້າສິບສອກ",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ໜ້າ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ຄວາມຍາວ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ສອກ"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "ໜຶ່ງຮ້ອຍ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ປະຕູ"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "ແລະຄວາມກວ້າງ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ຫ້າສິບ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ສອກ"
+    }
+  ],
+  "timestamp": "2026-09-09T01:56:55.532370237Z",
+  "model": "glm-5.3"
+}

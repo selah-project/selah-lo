@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 4:26",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ຈົ່ງປະເມີນທາງຂອງຕີນເຈົ້າ ແລະທຸກທາງຂອງເຈົ້າຈະມັ່ນຄົງ",
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "ປະເມີນ"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "ທາງ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ຂອງຕີນເຈົ້າ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ແລະທຸກ"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "ທາງຂອງເຈົ້າ"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "ຈະມັ່ນຄົງ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:27:26.577822191Z",
+  "model": "glm-5.3"
+}

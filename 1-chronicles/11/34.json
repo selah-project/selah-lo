@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ລູກຫຼານຂອງ ຮາເຊມ ກິໂຊນິ, ໂຢນາທານ ລູກຂອງ ຊາເກາ ຮາຣາຣິ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "השם",
+      "gloss": "ຮາເຊມ"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "ກິໂຊນິ"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "ໂຢນາທານ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "ຊາເກາ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ຮາຣາຣິ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:23:58.375083493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "numbers 7:72",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ໃນວັນທີສິບເອັດ ເຈົ້ານາຍຂອງລູກຫຼານຂອງອາເຊຣ ຄືພາເກິອນລູກຊາຍຂອງໂອກຣານ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ໃນວັນ"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ເອັດ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ເຈົ້ານາຍ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ຂອງລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ອາເຊຣ"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "ພາເກິອນ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "ໂອກຣານ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:57:17.756925296Z",
+  "model": "glm-5.3"
+}

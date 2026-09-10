@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 40,
+  "translation": "ຈົ່ງຕັ້ງ⟨את⟩ລວດອ້ອມຂ້າງ ແລະຈົ່ງວາງ⟨את⟩ມ່ານຂອງປະຕູລວດ.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ແລະຕັ້ງ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ລວດ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ລວດ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ອ້ອມຂ້າງ"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ແລະວາງ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ມ່ານຂອງປະຕູລວດ"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ມ່ານ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ຂອງປະຕູ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ລວດ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:11:45.069884929Z",
+  "model": "glm-5.3"
+}

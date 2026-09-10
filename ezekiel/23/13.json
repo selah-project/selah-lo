@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 23:13",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ແລະຂ້ອຍໄດ້ເຫັນວ່ານາງມົນເປື້ອນ ທາງໜຶ່ງແກ່ທັງສອງນາງ.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "ແລະຂ້ອຍໄດ້ເຫັນ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "נטמאה",
+      "gloss": "ນາງມົນເປື້ອນ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ທາງ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "לשתיהן",
+      "gloss": "ແກ່ທັງສອງນາງ"
+    }
+  ],
+  "timestamp": "2026-09-09T01:27:34.819692287Z",
+  "model": "glm-5.3"
+}

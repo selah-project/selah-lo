@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ເປັນຫຍັງຄົນມີຊີວິດຈຶ່ງຕຳນິ ບຸລຸດເພາະບາບຂອງລາວ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ເປັນຫຍັງ"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "ຈຶ່ງຕຳນິ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ມີຊີວິດ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ບຸລຸດ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ບາບຂອງລາວ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:10:46.584203142Z",
+  "model": "glm-5.3"
+}

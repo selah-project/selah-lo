@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ຜູ້ນັ່ງຢູ່ໃນຟ້າສະຫວັນຫົວ ອາໂດນາຍລັກຕໍ່ພວກເຂົາ",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "ຜູ້ນັ່ງຢູ່"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ໃນຟ້າສະຫວັນ"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "ຫົວ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ອາໂດນາຍ"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "ລັກ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ຕໍ່ພວກເຂົາ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:36:07.129095975Z",
+  "model": "glm-5.3"
+}

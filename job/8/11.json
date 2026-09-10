@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 8:11",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ງອຍໂກເມບໍ ໂດຍບໍ່ມີບ່ອງຊຸມ ອາຄູສູງຂຶ້ນບໍ ໂດຍບໍ່ມີນ້ຳ",
+  "tokens": [
+    {
+      "surface": "היגאה",
+      "gloss": "ງອຍ"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "ໂກເມ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ໂດຍບໍ່ມີ"
+    },
+    {
+      "surface": "בצה",
+      "gloss": "ບ່ອງຊຸມ"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "ສູງຂຶ້ນ"
+    },
+    {
+      "surface": "אחו",
+      "gloss": "ອາຄູ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ໂດຍບໍ່ມີ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ນ້ຳ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:24:21.227949344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 21:11",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ແລະຕໍ່ວັງຂອງກະສັດແຫ່ງຢູດາ ຈົ່ງຟັງຄຳຂອງຢາເວ.",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "ແລະຕໍ່ວັງ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ຢູດາ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ຈົ່ງຟັງ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T17:11:46.711404855Z",
+  "model": "glm-5.3"
+}

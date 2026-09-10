@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ແລະ⟨את⟩ບີດຊູຣແລະ⟨את⟩ສໂຄວແລະ⟨את⟩ອາດຸນລາມ",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ບີດຊູຣ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ບີດ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ຊູຣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ສໂຄວ"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "ສໂຄວ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ອາດຸນລາມ"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "ອາດຸນລາມ"
+    }
+  ],
+  "timestamp": "2026-09-09T10:04:25.414167099Z",
+  "model": "glm-5.3"
+}

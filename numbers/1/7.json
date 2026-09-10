@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ຂອງຢູດາ ນາຊອນລູກຊາຍຂອງອາມິນາດາບ.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "ຂອງຢູດາ"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "ນາຊອນ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "ອາມິນາດາບ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:50:01.626275350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ຄົນຊົ່ວຢາກແຫຼວຂອງຄົນຮ້າຍ, ແຕ່ຮາກຂອງຄົນຊອບທຳໃຫ້ຜົນ.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "ຢາກ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ຄົນຊົ່ວ"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "ແຫຼວ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ຂອງຄົນຮ້າຍ"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "ແຕ່ຮາກຂອງ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ຄົນຊອບທຳ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ໃຫ້ຜົນ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:15:40.632115830Z",
+  "model": "glm-5.3"
+}

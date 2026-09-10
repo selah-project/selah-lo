@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 12:21",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ຄວາມຫຍຸ້ງຍາກທັງຫຼາຍບໍ່ພົບຜູ້ຊອບທຳ ແລະຄົນຊົ່ວເຕັມຄວາມຊົ່ວ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יאנה",
+      "gloss": "ພົບ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ຜູ້ຊອບທຳ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງຫຼາຍ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ຄວາມຫຍຸ້ງຍາກ"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ແລະຄົນຊົ່ວ"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ເຕັມ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ຄວາມຊົ່ວ"
+    }
+  ],
+  "timestamp": "2026-09-10T01:31:48.895587426Z",
+  "model": "glm-5.3"
+}

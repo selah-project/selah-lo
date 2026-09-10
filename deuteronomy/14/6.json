@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ແລະສັດທຸກໂຕທີ່ແຍກກົ່ມເປັນກົ່ມແຍກສອງກົ່ມ ເຄີຍອາຫານຄືນໃນສັດ⟨את⟩ສັດນັ້ນພວກເຈົ້າຈະກິນໄດ້",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ແລະທຸກ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ສັດ"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "ແຍກກົ່ມ"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "ກົ່ມ"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "ແລະແຍກ"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "ແຍກ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "ກົ່ມ"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "ເຄີຍຄືນ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ອາຫານເຄີຍ"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "ໃນສັດ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ສັດນັ້ນ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ພວກເຈົ້າຈະກິນ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:59:51.609579380Z",
+  "model": "glm-5.3"
+}

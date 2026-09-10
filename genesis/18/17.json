@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 18,
+  "translation": "ແລະຢາເວກ່າວວ່າ: ຂ້ອຍປິດບັງຈາກອັບຣາຮາມສິ່ງທີ່ຂ້ອຍເຮັດບໍ່?",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ແລະຢາເວ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ກ່າວ"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "ຂ້ອຍປິດບັງບໍ່"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ຂ້ອຍ"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "ຈາກອັບຣາຮາມ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ສິ່ງທີ່"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ຂ້ອຍ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ເຮັດ"
+    }
+  ],
+  "timestamp": "2026-09-10T00:55:05.565892791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 5:19",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ແລະຢ່າລັກ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ແລະຢ່າບໍ່"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "ລັກ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:44:07.097455541Z",
+  "model": "glm-5.3"
+}

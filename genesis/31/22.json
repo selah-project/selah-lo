@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 31,
+  "translation": "ໃນວັນທີສາມລາບານຖືກບອກວ່າຢາອາໂຄບໜີ.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ຖືກບອກ"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ແກ່ລາບານ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ໃນວັນ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ທີສາມ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ໜີ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ຢາອາໂຄບ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:44:45.569435931Z",
+  "model": "glm-5.3"
+}

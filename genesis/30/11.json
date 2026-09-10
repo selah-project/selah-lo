@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ແລະເລອາກ່າວວ່າ: ໂຊກດີ ແລະນາງຮຽກ⟨את⟩ຊື່ຂອງລາວວ່າ ກາດ.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ແລະນາງກ່າວ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ເລອາ"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ໂຊກດີ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ແລະນາງຮຽກ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຊື່ຂອງລາວ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ຊື່ຂອງລາວ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ກາດ"
+    }
+  ],
+  "timestamp": "2026-09-09T11:27:33.442024476Z",
+  "model": "glm-5.3"
+}

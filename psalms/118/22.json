@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 118:22",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 118,
+  "translation": "ຫີນກ້ອນທີ່ພວກສ້າງປະຕິເສດ ກາຍ⟨ເປັນ⟩ຫົວມຸມ.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "ຫີນກ້ອນ"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "ປະຕິເສດ"
+    },
+    {
+      "surface": "הבונים",
+      "gloss": "ພວກສ້າງ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ກາຍ⟨ເປັນ⟩"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "ຫົວ"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ມຸມ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:59:40.617144397Z",
+  "model": "glm-5.3"
+}

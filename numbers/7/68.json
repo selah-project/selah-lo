@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "numbers 7:68",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ຈານຄຳໜຶ່ງໜ່ວຍ ສິບເຊັກເກນ ເຕັມຄວາມຫອມບູຊາ.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ຈານ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ເຕັມ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ຄວາມຫອມບູຊາ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:03:55.481271815Z",
+  "model": "glm-5.3"
+}

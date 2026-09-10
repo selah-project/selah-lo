@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ອິສະຣາເອນປະລະຄວາມດີແລ້ວ ສັດຕູຈະຕາມລາວ.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "ປະລະແລ້ວ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ຄວາມດີ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ສັດຕູ"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "ຈະຕາມລາວ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:05:26.626149182Z",
+  "model": "glm-5.3"
+}

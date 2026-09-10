@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 29:30",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 29,
+  "translation": "ແລະຄຳຂອງຢາເວໄດ້ມາຫາຢິຣະມະຢາຮ໌ວ່າ",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ໄດ້ມາ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ຢິຣະມະຢາຮ໌"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:28:39.157526780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ແລະອຸຊີໄດ້ກຳເນດ⟨את⟩ເຊຣາຮຢາ ແລະເຊຣາຮຢາໄດ້ກຳເນດ⟨את⟩ເມຣາໂຢທ.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "ແລະອຸຊີ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ໄດ້ກຳເນດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເຊຣາຮຢາ"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "ເຊຣາຮຢາ"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "ແລະເຊຣາຮຢາ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ໄດ້ກຳເນດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເມຣາໂຢທ"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "ເມຣາໂຢທ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:11:44.989955969Z",
+  "model": "glm-5.3"
+}

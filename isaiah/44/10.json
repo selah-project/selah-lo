@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 44,
+  "translation": "ໃຜປັ້ນພະອື່ນ ແລະຫຼອມຮູບສະກົດ ເພື່ອບໍ່ໄດ້ປະໂຫຍດ",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ປັ້ນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ພະອື່ນ"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "ແລະຮູບສະກົດ"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "ຫຼອມ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ເພື່ອບໍ່"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "ໄດ້ປະໂຫຍດ"
+    }
+  ],
+  "timestamp": "2026-09-08T23:43:41.728351406Z",
+  "model": "glm-5.3"
+}

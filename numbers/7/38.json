@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 7:38",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ບ່ວງມືໜຶ່ງອັນສິບຊິການຄຳ ເຕັມດ້ວຍເຄື່ອງຫອມ.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ບ່ວງມື"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ເຕັມ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ເຄື່ອງຫອມ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:59:02.694131103Z",
+  "model": "glm-5.3"
+}

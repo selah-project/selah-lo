@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 1:53",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ຫົວໜ້າເກນາຊ, ຫົວໜ້າເທມານ, ຫົວໜ້າມິບສາຣ.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "ຫົວໜ້າ"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "ເກນາຊ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ຫົວໜ້າ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "ເທມານ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ຫົວໜ້າ"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "ມິບສາຣ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:09:27.328878042Z",
+  "model": "glm-5.3"
+}

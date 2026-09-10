@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ວັກໜຶ່ງໂຕ ລູກຂອງຝູງງົມ, ແກະຜູ້ໜຶ່ງໂຕ, ລູກແກະໜຶ່ງໂຕ ລູກອາຍຸໜຶ່ງປີ ເປັນຂອງເຜົາຖວາຍ.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ວັກ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ຝູງງົມ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ແກະຜູ້"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ລູກແກະ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກອາຍຸ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ໜຶ່ງປີ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ເປັນຂອງເຜົາຖວາຍ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:58:58.815500319Z",
+  "model": "glm-5.3"
+}

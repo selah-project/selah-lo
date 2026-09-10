@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 29,
+  "translation": "ແລະຢາອາໂຄບຈູບຣາເຮນ ແລະຍົກ⟨את⟩ສຽງຂອງເພິ່ນ ແລະຮ້ອງໄຫ້.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "ຈູບ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ຢາອາໂຄບ"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "ຣາເຮນ"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ຍົກ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ສຽງຂອງເພິ່ນ"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ສຽງຂອງເພິ່ນ"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ຮ້ອງໄຫ້"
+    }
+  ],
+  "timestamp": "2026-09-08T16:38:22.776716002Z",
+  "model": "glm-5.3"
+}

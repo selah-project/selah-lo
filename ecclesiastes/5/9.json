@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ຜູ້ຮັກເງິນບໍ່ອີ່ມເງິນ ແລະຜູ້ທີ່ຮັກຄວາມອຸດົມບໍ່ມີລາຍໄດ້ ກໍນີ້ຄືອາຍ.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ຜູ້ຮັກ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ເງິນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ອີ່ມ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ເງິນ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ແລະຜູ້ທີ່"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ຮັກ"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "ຄວາມອຸດົມ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "ລາຍໄດ້"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ກໍ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ອາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:25:37.335344386Z",
+  "model": "glm-5.3"
+}

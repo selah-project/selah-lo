@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ແລະຢາເວໄດ້ກ່າວກັບໂມເຊ ແລະກັບອາຮາໂຣນ ວ່າ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ແລະໄດ້ກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ແລະກັບ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ອາຮາໂຣນ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:56:14.028663151Z",
+  "model": "glm-5.3"
+}

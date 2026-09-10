@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 33,
+  "translation": "ແລະຈາກຍອດຂອງພູບູຮານ ແລະຈາກສິ່ງລ້າຄ່າຂອງພູນ້ອຍນິລັນດອນ.",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "ແລະຈາກຍອດ"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "ຂອງພູ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ບູຮານ"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "ແລະຈາກສິ່ງລ້າຄ່າ"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ຂອງພູນ້ອຍ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ນິລັນດອນ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:16:53.865195126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 118,
+  "translation": "ຢາເວເພື່ອຂ້ອຍ ຂ້ອຍບໍ່ຢ້ານ ມະນຸດຈະເຮັດຫຍັງແກ່ຂ້ອຍ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ເພື່ອຂ້ອຍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ຂ້ອຍຢ້ານ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ຫຍັງ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ຈະເຮັດ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ແກ່ຂ້ອຍ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ມະນຸດ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:59:51.586519752Z",
+  "model": "glm-5.3"
+}

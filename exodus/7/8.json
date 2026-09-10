@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ຢາເວເວົ້າຕໍ່ໂມເຊ ແລະຕໍ່ອາຮາໂຣນວ່າ",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະຢາເວເວົ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ແລະຕໍ່"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ອາຮາໂຣນ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-10T00:55:42.908063438Z",
+  "model": "glm-5.3"
+}

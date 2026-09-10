@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ແນວໃດຂ້ອຍຈະຕຳ ເອນບໍ່ໄດ້ຕຳ ແລະແນວໃດຂ້ອຍຈະໂກດ ຢາເວບໍ່ໄດ້ໂກດ.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ແນວໃດ"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "ຂ້ອຍຈະຕຳ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "ຕຳ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເອນ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ແລະແນວໃດ"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "ຂ້ອຍຈະໂກດ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ໂກດ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:55:35.929655707Z",
+  "model": "glm-5.3"
+}

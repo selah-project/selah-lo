@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ຫູທີ່ຟັງ ແລະຕາທີ່ເຫັນ ຢາເວໄດ້ສ້າງ ທັງສອງອັນນັ້ນ.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "ຫູ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ທີ່ຟັງ"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ແລະຕາ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ທີ່ເຫັນ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ໄດ້ສ້າງ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ທັງ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ສອງອັນນັ້ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:16:51.000257672Z",
+  "model": "glm-5.3"
+}

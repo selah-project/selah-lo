@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະທອງຄຳຂອງແຜ່ນດິນນັ້ນດີ, ຢູ່ບ່ອນນັ້ນມີບະໂດລາຄ ແລະຫີນໂຊຮາມ.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "ແລະທອງຄຳ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ຂອງແຜ່ນດິນ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ນັ້ນ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ຢູ່ບ່ອນນັ້ນ"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "ບະໂດລາຄ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ແລະຫີນ"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "ໂຊຮາມ"
+    }
+  ],
+  "timestamp": "2026-09-08T15:57:24.168569397Z",
+  "model": "glm-5.3"
+}

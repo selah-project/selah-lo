@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 38,
+  "translation": "ແຕ່ຂ້ອຍຄືຄົນໜວງບໍ່ຟັງ ແລະຄືຄົນໃບ້ບໍ່ເປີດປາກຂອງຕົນ.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ແຕ່ຂ້ອຍ"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "ຄືຄົນໜວງ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ຟັງ"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "ແລະຄືຄົນໃບ້"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ເປີດ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ປາກຂອງຕົນ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:35:22.357631Z",
+  "model": "glm-5.3"
+}

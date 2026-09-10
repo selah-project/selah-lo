@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 18:5",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 18,
+  "translation": "ການຍົກໜ້າຂອງຄົນຊົ່ວບໍ່ດີ ເພື່ອບິດເບືອນຄົນຊອບທຳໃນການຕັດສິນ.",
+  "tokens": [
+    {
+      "surface": "שאת",
+      "gloss": "ການຍົກ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ໜ້າຂອງ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ຄົນຊົ່ວ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "ເພື່ອບິດເບືອນ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ຄົນຊອບທຳ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ໃນການຕັດສິນ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:44:38.519735706Z",
+  "model": "glm-5.3"
+}

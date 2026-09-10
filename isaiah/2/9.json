@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ມະນຸດກົ້ມລົງ ຄົນຖືກກົດຂີ່ລົງ ແລະຢ່າຍົກພວກເຂົາຂຶ້ນ.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "ກົ້ມລົງແລ້ວ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ມະນຸດ"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "ຖືກກົດຂີ່ລົງແລ້ວ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ແລະຢ່າ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ຍົກຂຶ້ນ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ພວກເຂົາ"
+    }
+  ],
+  "timestamp": "2026-09-08T23:09:46.557662768Z",
+  "model": "glm-5.3"
+}

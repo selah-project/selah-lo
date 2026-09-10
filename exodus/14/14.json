@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ຢາເວຈະຕໍ່ສູ້ແທນພວກເຈົ້າ ແລະພວກເຈົ້າຈົ່ງນິງ",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "ຈະຕໍ່ສູ້"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ແທນພວກເຈົ້າ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ແລະພວກເຈົ້າ"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "ຈົ່ງນິງ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:36:31.257091994Z",
+  "model": "glm-5.3"
+}

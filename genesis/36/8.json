@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 36,
+  "translation": "ແລະເອຊາວອາໄສຢູ່ທີ່ພູສີໂອນ ເອຊາວຄືເອໂດມ",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ແລະອາໄສຢູ່"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ເອຊາວ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ຢູ່ພູ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ສີໂອນ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ເອຊາວ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ຄື"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ເອໂດມ"
+    }
+  ],
+  "timestamp": "2026-09-09T11:30:27.909634459Z",
+  "model": "glm-5.3"
+}

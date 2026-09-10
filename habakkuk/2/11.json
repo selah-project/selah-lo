@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ຍ້ອນວ່າຫີນຈາກຝາຈະຮ້ອງ ແລະຄານໄມ້ຈາກໄມ້ຈະຕອບມັນ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ຍ້ອນວ່າ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ຫີນ"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "ຈາກຝາ"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "ຈະຮ້ອງ"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "ແລະຄານໄມ້"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "ຈາກໄມ້"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "ຈະຕອບມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:17:40.738457818Z",
+  "model": "glm-5.3"
+}

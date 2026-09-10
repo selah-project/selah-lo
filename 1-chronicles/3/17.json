@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ແລະລູກຊາຍຂອງເຢຄົນຢາຮ ອັດສີຣ ຊາອັນທິເອນລູກຂອງເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ແລະລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "ເຢຄົນຢາຮ"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "ອັດສີຣ"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "ຊາອັນທິເອນ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ລູກຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:10:35.450660131Z",
+  "model": "glm-5.3"
+}

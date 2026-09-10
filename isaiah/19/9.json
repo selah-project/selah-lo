@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 19:9",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ແລະຜູ້ທຳງານໃນຝ້າຍທີ່ຫວີ ແລະຜູ້ທອກຜ້າຂາວ ຈະອັດອາຍ.",
+  "tokens": [
+    {
+      "surface": "ובשו",
+      "gloss": "ຈະອັດອາຍ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ຜູ້ທຳງານໃນ"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "ຝ້າຍ"
+    },
+    {
+      "surface": "שריקות",
+      "gloss": "ທີ່ຫວີ"
+    },
+    {
+      "surface": "וארגים",
+      "gloss": "ແລະຜູ້ທອກ"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "ຜ້າຂາວ"
+    }
+  ],
+  "timestamp": "2026-09-09T16:26:05.735632313Z",
+  "model": "glm-5.3"
+}

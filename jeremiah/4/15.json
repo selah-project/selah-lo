@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 4:15",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ຍ້ອນວ່າມີສຽງຈາກດານ ປະກາດ ແລະປ່າຍຂ່າວຄວາມຊົ່ວຈາກພູເອຟຣາຢິມ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ຍ້ອນວ່າ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ສຽງ"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "ຂອງຜູ້ປະກາດ"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "ຈາກດານ"
+    },
+    {
+      "surface": "ומשמיע",
+      "gloss": "ແລະຜູ້ປ່າຍຂ່າວ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ຄວາມຊົ່ວ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ຈາກພູ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ເອຟຣາຢິມ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:01:38.330409175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 29:10",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 29,
+  "translation": "ຄົນເລືອດຊັງຄົນບໍລິສຸດ ແລະຄົນຊອບທຳຊອກຫາຊີວິດຂອງເພິ່ນ",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ເລືອດ"
+    },
+    {
+      "surface": "ישנאו",
+      "gloss": "ຊັງ"
+    },
+    {
+      "surface": "תם",
+      "gloss": "ຄົນບໍລິສຸດ"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "ແລະຄົນຊອບທຳ"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "ຊອກຫາ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ຊີວິດຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:56:15.647510915Z",
+  "model": "glm-5.3"
+}

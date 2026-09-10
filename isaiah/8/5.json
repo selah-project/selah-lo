@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະຢາເວເພີ່ມກ່າວຫາຂ້ອຍອີກວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ແລະເພີ່ມ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ກ່າວ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ຫາຂ້ອຍ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ອີກ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T23:16:35.306269832Z",
+  "model": "glm-5.3"
+}

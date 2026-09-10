@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 2:2",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະຢາເວໄດ້ກ່າວກັບຂ້ອຍວ່າ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະຢາເວໄດ້ກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ກັບຂ້ອຍ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:18:36.063935241Z",
+  "model": "glm-5.3"
+}

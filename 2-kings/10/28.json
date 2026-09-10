@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ແລະຢີຮູໄດ້ທຳລາຍ⟨את⟩ບາອານອອກຈາກອິດສະຣາເອນ.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "ໄດ້ທຳລາຍ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ຢີຮູ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ບາອານ"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ບາອານ"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ອອກຈາກອິດສະຣາເອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T22:28:07.656318745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 16,
+  "translation": "ໂອເມຣ⟨ເປັນ⟩ສ່ວນສິບຂອງເອີຟາ",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "ແລະໂອເມຣ"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "ສ່ວນສິບ"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ຂອງເອີຟາ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ເປັນ⟩"
+    }
+  ],
+  "timestamp": "2026-09-08T17:38:48.310157526Z",
+  "model": "glm-5.3"
+}

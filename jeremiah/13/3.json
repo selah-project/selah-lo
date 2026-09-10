@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 13:3",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ແລະເກີດມີຄຳຂອງຢາເວມາຫາຂ້ອຍເທື່ອທີສອງວ່າ",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະເກີດມີ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳຂອງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ມາຫາຂ້ອຍ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ເທື່ອທີສອງ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:13:49.745144738Z",
+  "model": "glm-5.3"
+}

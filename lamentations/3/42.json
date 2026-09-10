@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ພວກເຮົາລະເມີດຂໍ້ກົດ ແລະພວກເຮົາກະບົດ ເຈົ້າບໍ່ໄດ້ອະໄພ",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "ພວກເຮົາ"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "ພວກເຮົາລະເມີດຂໍ້ກົດ"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "ແລະພວກເຮົາກະບົດ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ເຈົ້າ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "ໄດ້ອະໄພ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:42:45.166928743Z",
+  "model": "glm-5.3"
+}

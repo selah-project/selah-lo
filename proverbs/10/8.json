@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ຜູ້ມີປັນຍາຫົວໃຈຈະຮັບຄຳສັ່ງ ແຕ່ຄົນໂງ່ປາກຫຼາຍຈະລົ້ມ",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "ຜູ້ມີປັນຍາ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ຫົວໃຈ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ຈະຮັບ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ຄຳສັ່ງ"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "ແຕ່ຄົນໂງ່"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ປາກຫຼາຍ"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "ຈະລົ້ມ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:12:48.335917308Z",
+  "model": "glm-5.3"
+}

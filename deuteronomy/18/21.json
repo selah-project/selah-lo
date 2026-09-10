@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 18,
+  "translation": "ແລະຖ້າເຈົ້າເວົ້າໃນຫົວໃຈຂອງເຈົ້າວ່າ ເປັນແນວໃດພວກເຮົາຈະຮູ້⟨את⟩ຄຳທີ່ຢາເວໄດ້ເວົ້າບໍ່?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ແລະຖ້າ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ເຈົ້າເວົ້າ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ໃນຫົວໃຈຂອງເຈົ້າ"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "ເປັນແນວໃດ"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "ພວກເຮົາຈະຮູ້"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຄຳ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ໄດ້ເວົ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:36:54.184024193Z",
+  "model": "glm-5.3"
+}

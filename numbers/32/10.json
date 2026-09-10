@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 32,
+  "translation": "ແລະຄວາມໃໝ້ຂອງຢາເວໄໝ້ຂຶ້ນໃນວັນນັ້ນ ແລະເພິ່ນສາບານວ່າ",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ແລະໄໝ້ຂຶ້ນ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ຄວາມໃໝ້ຂອງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ໃນວັນ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ນັ້ນ"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ແລະເພິ່ນສາບານ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:51:34.388595322Z",
+  "model": "glm-5.3"
+}

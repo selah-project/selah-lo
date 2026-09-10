@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 7:12",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ລູກຫຼານຂອງຢີລາມ ພັນໜຶ່ງສອງຮ້ອຍຫ້າສິບສີ່ຄົນ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ຢີລາມ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ພັນໜຶ່ງ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ສອງຮ້ອຍ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ຫ້າສິບ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ແລະສີ່"
+    }
+  ],
+  "timestamp": "2026-09-09T08:43:33.953745402Z",
+  "model": "glm-5.3"
+}

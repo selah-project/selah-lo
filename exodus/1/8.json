@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ແລະກະສັດອົງໃໝ່ໄດ້ລຸກຂຶ້ນເໜືອມິດສະຣາຢິມ ຜູ້ທີ່ບໍ່ຮູ້ຈັກ⟨את⟩ໂຢເຊັບ.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ໄດ້ລຸກຂຶ້ນ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ໃໝ່"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ມິດສະຣາຢິມ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ຜູ້ທີ່"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ຮູ້ຈັກ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ໂຢເຊັບ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ໂຢເຊັບ"
+    }
+  ],
+  "timestamp": "2026-09-09T11:47:29.332942862Z",
+  "model": "glm-5.3"
+}

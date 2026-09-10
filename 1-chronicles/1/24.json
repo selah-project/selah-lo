@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 1:24",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ເຊມ ອັຣະປັກຊາດ ເຊລາ.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "ເຊມ"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "ອັຣະປັກຊາດ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ເຊລາ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:01:07.929196550Z",
+  "model": "glm-5.3"
+}

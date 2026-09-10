@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 22:13",
+  "book": "2-samuel",
+  "lang": "lo",
+  "chapter": 22,
+  "translation": "ຈາກຄວາມສະຫວ່າງຕໍ່ໜ້າຂອງເພິ່ນ ຖ່ານໄຟໄດ້ລຸກໄໝ້",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "ຄວາມສະຫວ່າງ"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "ຕໍ່ໜ້າຂອງເພິ່ນ"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "ໄດ້ລຸກໄໝ້"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "ຖ່ານໄຟ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ໄຟ"
+    }
+  ],
+  "timestamp": "2026-09-08T22:09:16.189648898Z",
+  "model": "glm-5.3"
+}

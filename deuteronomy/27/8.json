@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 27,
+  "translation": "ແລະເຈົ້າຈະຂຽນເທິງຫີນ⟨את⟩ຄຳທັງໝົດຂອງທານັກນີ້, ຂຽນໃຫ້ແຈ້ງດີຫຼາຍ.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "ແລະເຈົ້າຈະຂຽນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ຫີນ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຄຳທັງໝົດ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ຄຳຂອງ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ທານັກ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ແຈ້ງ"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "ດີຫຼາຍ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:08:59.993911333Z",
+  "model": "glm-5.3"
+}

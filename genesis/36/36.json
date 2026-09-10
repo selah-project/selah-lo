@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 36:36",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 36,
+  "translation": "ຮາດາດໄດ້ຕາຍ ແລະສາມລາຈາກມາສຣາກາໄດ້ຄອງແທນເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ແລະຮາດາດໄດ້ຕາຍ"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ຮາດາດ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ໄດ້ຄອງ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ແທນເພິ່ນ"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "ສາມລາ"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "ຈາກມາສຣາກາ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:48:45.160305749Z",
+  "model": "glm-5.3"
+}

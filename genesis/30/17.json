@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 30:17",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ແລະເອໂລຮິມຟັງຕໍ່ລະອາ, ລາວກໍຕັນມຸມ ແລະເກີດບຸດຊາຍຄົນທີ5 ໃຫ້ຢາອາໂຄບ.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ແລະຟັງ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ເອໂລຮິມ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ລະອາ"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ຕັນມຸມ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ເກີດ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ໃຫ້ຢາອາໂຄບ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ບຸດຊາຍ"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "ທີ5"
+    }
+  ],
+  "timestamp": "2026-09-08T16:41:45.223690566Z",
+  "model": "glm-5.3"
+}

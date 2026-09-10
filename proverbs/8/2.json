@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ຢູ່ຍອດຂອງບ່ອນສູງ ຂ້າງທາງ ບ່ອນຂອງຫົນທາງ ນາງຢືນ.",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "ຢູ່ຍອດ"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "ຂອງບ່ອນສູງ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ຂ້າງ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ທາງ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ບ່ອນຂອງ"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "ຫົນທາງ"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "ນາງຢືນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:09:06.001024549Z",
+  "model": "glm-5.3"
+}

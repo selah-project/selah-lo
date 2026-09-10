@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ພວກເຂົາກ່ອນຈະນອນ ນາງຂຶ້ນໄປຫາພວກເຂົາຢູ່ຫຼັງຄາ.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "ພວກເຂົາ"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ກ່ອນ"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "ນອນ"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ນາງ"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ຂຶ້ນ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ໄປຫາພວກເຂົາ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຢູ່"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "ຫຼັງຄາ"
+    }
+  ],
+  "timestamp": "2026-09-09T22:03:56.950238813Z",
+  "model": "glm-5.3"
+}

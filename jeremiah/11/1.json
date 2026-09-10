@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ຄຳພາກທີ່ເກີດຂຶ້ນມາຫາເຢເຣມະຢາຮ໌ຈາກ⟨את⟩ຢາເວວ່າ:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ຄຳພາກ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ເກີດຂຶ້ນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ມາຫາ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ເຢເຣມະຢາຮ໌"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ຈາກ⟨את⟩",
+      "marks": "ຢາເວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:10:06.750618566Z",
+  "model": "glm-5.3"
+}

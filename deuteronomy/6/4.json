@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ຈົ່ງຟັງ, ອິສະຣາເອນ: ຢາເວ ເອໂລຮິມຂອງພວກເຮົາ ຢາເວ ⟨ເປັນ⟩ ໜຶ່ງ.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ຈົ່ງຟັງ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ເອໂລຮິມຂອງພວກເຮົາ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:49:13.994665821Z",
+  "model": "glm-5.3"
+}

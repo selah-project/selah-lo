@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ແລະ⟨את⟩ຢິບູດຊີແລະ⟨את⟩ອາມອນິແລະ⟨את⟩ກິຣກາຊີ",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ຢິບູດຊີ"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "ຢິບູດຊີ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ອາມອນິ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ອາມອນິ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ກິຣກາຊີ"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ກິຣກາຊີ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:10:02.876208549Z",
+  "model": "glm-5.3"
+}

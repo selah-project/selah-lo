@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 14:3",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ດາວິດໄດ້ຮັບແມ່ຍິງອີກໃນເຢຣູຊາລາຢິມ ແລະດາວິດໄດ້ມີລູກອີກ ລູກຊາຍ ແລະລູກຍິງ.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ໄດ້ຮັບ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ດາວິດ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ອີກ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ແມ່ຍິງ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ໃນເຢຣູຊາລາຢິມ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ໄດ້ມີລູກ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ດາວິດ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ອີກ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ລູກຊາຍ"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ແລະລູກຍິງ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:31:14.162970506Z",
+  "model": "glm-5.3"
+}

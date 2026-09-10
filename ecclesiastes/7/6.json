@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ເພາະຄືສຽງຂອງໜາມຍາກຢູ່ໃຕ້ໝໍ້ຄືກັນກັບຄວາມຫົວຂອງຄົນໂງ່ ແລະສິ່ງນີ້ເປັນອາຍ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "ຄືສຽງຂອງ"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "ໜາມຍາກ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ຢູ່ໃຕ້"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ໝໍ້"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ຄືກັນກັບ"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "ຄວາມຫົວ"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "ຂອງຄົນໂງ່"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ແລະ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ສິ່ງນີ້"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ອາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:24:10.056154302Z",
+  "model": "glm-5.3"
+}

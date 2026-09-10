@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ຊົນຊາດໜ້າຮຸນແຮງ ທີ່ບໍ່ຍົກໜ້າໃຫ້ຜູ້ແກ່ ແລະບໍ່ເມດຕາຕໍ່ໄວໜຸ່ມ.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "ຊົນຊາດ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ຮຸນແຮງ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ໜ້າ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ຍົກ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ໜ້າ"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "ຕໍ່ຜູ້ແກ່"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ແລະໄວໜຸ່ມ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "ຈະເມດຕາ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:13:04.003473998Z",
+  "model": "glm-5.3"
+}

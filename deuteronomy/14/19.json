@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ແລະທຸກສິ່ງທີ່ລຽບລັດຂອງນົກມັນບໍ່ສະອາດຕໍ່ພວກເຈົ້າຢ່າກິນ",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ແລະທຸກ"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "ສິ່ງທີ່ລຽບລັດ"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ຂອງນົກ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ບໍ່ສະອາດ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ຕໍ່ພວກເຈົ້າ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ຢ່າກິນ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:54:50.525530674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 16,
+  "translation": "ແລະ⟨את⟩ມັນຂອງບູຊາຄວາມຜິດເພິ່ນເຜົາຢູ່ເທິງແທ່ນບູຊາ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ມັນ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ບູຊາຄວາມຜິດ"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "ເຜົາ"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ແທ່ນບູຊາ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:37:27.661724376Z",
+  "model": "glm-5.3"
+}

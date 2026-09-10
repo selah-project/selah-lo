@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ແລະແກະຜູ້ຊາຍໜຶ່ງໂຕ ເພື່ອຊົດກາບໃຫ້ແກ່ພວກເຈົ້າ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ແກະຜູ້ຊາຍ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ຂອງແກະ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "ເພື່ອຊົດກາບ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ໃຫ້ແກ່ພວກເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:29:00.045602896Z",
+  "model": "glm-5.3"
+}

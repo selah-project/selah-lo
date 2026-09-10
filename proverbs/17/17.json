@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 17,
+  "translation": "ໃນທຸກເວລາໝູ່ຄົນຮັກ, ແລະອ້າຍຄົນເກີດມາເພື່ອຄວາມຫຍຸດຍາກ.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ໃນທຸກ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ເວລາ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ຮັກ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ໝູ່ຄົນ"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "ແລະອ້າຍຄົນ"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "ເພື່ອຄວາມຫຍຸດຍາກ"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "ເກີດມາ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:13:12.840731764Z",
+  "model": "glm-5.3"
+}

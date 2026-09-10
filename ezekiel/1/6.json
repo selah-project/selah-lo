@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ແລະສີ່ໜ້າແກ່ອັນໜຶ່ງ ແລະສີ່ປີກແກ່ອັນໜຶ່ງ ແກ່ພວກມັນ.",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "ແລະສີ່"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ໜ້າ"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ແກ່ອັນໜຶ່ງ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ແລະສີ່"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "ປີກ"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ແກ່ອັນໜຶ່ງ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ແກ່ພວກມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:56:05.952634869Z",
+  "model": "glm-5.3"
+}

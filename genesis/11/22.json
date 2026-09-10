@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ເສະຣູກໄດ້ມີຊີວິດສາມສິບປີ ແລະໄດ້ມີລູກ⟨את⟩ນາໂຮຣ",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ໄດ້ມີຊີວິດ"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "ເສະຣູກ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ສາມສິບ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ໄດ້ມີລູກ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ນາໂຮຣ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ນາໂຮຣ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:09:55.173821017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 16:20",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 16,
+  "translation": "ແລະຢາເວໄດ້ກ່າວຕໍ່ໂມເຊແລະຕໍ່ອາຮາໂຣນວ່າ.",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֣ר",
+      "gloss": "ໄດ້ກ່າວ"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "וְאֶֽל",
+      "gloss": "ແລະຕໍ່"
+    },
+    {
+      "surface": "אַהֲרֹ֖ן",
+      "gloss": "ອາຮາໂຣນ"
+    },
+    {
+      "surface": "לֵּאמֹֽר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:16:10.142449175Z",
+  "model": "glm-5.3"
+}

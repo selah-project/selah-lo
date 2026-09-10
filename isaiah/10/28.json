@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 10:28",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ເພິ່ນມາເຖິງອາຢາດ ຜ່ານມິກຣອນ ຢູ່ມິກມາດເພິ່ນຈະຝາກເຄື່ອງຂອງເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "ມາ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເຖິງ"
+    },
+    {
+      "surface": "עית",
+      "gloss": "ອາຢາດ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ຜ່ານ"
+    },
+    {
+      "surface": "במגרון",
+      "gloss": "ມິກຣອນ"
+    },
+    {
+      "surface": "למכמש",
+      "gloss": "ມິກມາດ"
+    },
+    {
+      "surface": "יפקיד",
+      "gloss": "ຈະຝາກ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ເຄື່ອງຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T16:22:17.438241414Z",
+  "model": "glm-5.3"
+}

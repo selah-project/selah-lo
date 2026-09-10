@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 114,
+  "translation": "ພູຮຳເຕັ້ນດັ່ງແກະຜູ້ໂຕ ພູນ້ອຍດັ່ງລູກແກະ",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "ພູ"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "ຮຳເຕັ້ນ"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "ດັ່ງແກະຜູ້"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ພູນ້ອຍ"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "ດັ່ງລູກ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ແກະ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:03:34.964165189Z",
+  "model": "glm-5.3"
+}

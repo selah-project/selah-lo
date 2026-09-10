@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ແລະຊຸມຊົນທັງໝົດຍົກໃຫ້⟨את⟩ສຽງຂອງພວກເຂົາ ແລະປະຊາຊົນຍົມໃນຄືນນັ້ນ.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "ຍົກ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ຊຸມຊົນ"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ໃຫ້"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ສຽງຂອງພວກເຂົາ"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ສຽງຂອງພວກເຂົາ"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ຍົມ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ປະຊາຊົນ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ໃນຄືນ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ນັ້ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:52:34.366207621Z",
+  "model": "glm-5.3"
+}

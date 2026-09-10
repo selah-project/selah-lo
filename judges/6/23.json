@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ແລະຢາເວກ່າວກັບເພິ່ນວ່າ: ສັນຕິພາບກັບເຈົ້າ ຢ່າກົວ ເຈົ້າບໍ່ຕາຍ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະກ່າວ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ກັບເພິ່ນ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ສັນຕິພາບ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ກັບເຈົ້າ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ກົວ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ຕາຍ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:52:36.507747752Z",
+  "model": "glm-5.3"
+}

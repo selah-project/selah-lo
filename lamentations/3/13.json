@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ເພິ່ນໄດ້ນຳເຂົ້າໄປໃນໄຕຂອງຂ້ອຍລູກຂອງສາຍລູກສິນຂອງເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "ໄດ້ນຳເຂົ້າ"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "ໃນໄຕຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "ສາຍລູກສິນຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:42:19.163493701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ເພາະວ່າໃນອາຍມັນມາ ແລະໃນຄວາມມືດມັນຈະໄປ ແລະໃນຄວາມມືດຊື່ຂອງມັນຈະຖືກປົກ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະວ່າ"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "ໃນອາຍ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ມັນມາ"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "ແລະໃນຄວາມມືດ"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ມັນຈະໄປ"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "ແລະໃນຄວາມມືດ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ຊື່ຂອງມັນ"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ຈະຖືກປົກ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:26:06.434692185Z",
+  "model": "glm-5.3"
+}

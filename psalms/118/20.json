@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 118:20",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 118,
+  "translation": "ນີ້⟨ເປັນ⟩ປະຕູຂອງຢາເວ ຜູ້ຊອບທຳຈະເຂົ້າໄປໃນນັ້ນ.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ປະຕູ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ຂອງຢາເວ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ຜູ້ຊອບທຳ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ຈະເຂົ້າ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ໃນນັ້ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:11:43.553038817Z",
+  "model": "glm-5.3"
+}

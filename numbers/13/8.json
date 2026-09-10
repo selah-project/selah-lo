@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 13:8",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ຂອງເຜົ່າເອຟຣາຢິມ ໂຮເຊລູກຊາຍຂອງນູນ.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ຂອງເຜົ່າ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ເອຟຣາຢິມ"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "ໂຮເຊ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "נון",
+      "gloss": "ນູນ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:07:39.608411801Z",
+  "model": "glm-5.3"
+}

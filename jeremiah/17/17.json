@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 17:17",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 17,
+  "translation": "ຢ່າເປັນຄວາມທໍລະມານແກ່ຂ້ອຍ; ເຈົ້າເປັນທີ່ພຶງຂອງຂ້ອຍໃນວັນຮ້າຍ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ເປັນ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ແກ່ຂ້ອຍ"
+    },
+    {
+      "surface": "למחתה",
+      "gloss": "ຄວາມທໍລະມານ"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ທີ່ພຶງຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ເຈົ້າ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ໃນວັນ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ຮ້າຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:15:51.080636043Z",
+  "model": "glm-5.3"
+}

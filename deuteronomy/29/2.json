@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 29:2",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 29,
+  "translation": "ຄວາມທົດສອບໃຫຍ່ທີ່ຕາຂອງເຈົ້າໄດ້ເຫັນ ຄືໝາຍສັນ ແລະປາຫຼາດໃຫຍ່ເຫຼົ່ານັ້ນ.",
+  "tokens": [
+    {
+      "surface": "המסות",
+      "gloss": "ຄວາມທົດສອບ"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "ໃຫຍ່"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ໄດ້ເຫັນ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ຕາຂອງເຈົ້າ"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ໝາຍສັນ"
+    },
+    {
+      "surface": "והמפתים",
+      "gloss": "ແລະປາຫຼາດ"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "ໃຫຍ່"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ເຫຼົ່ານັ້ນ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:14:59.494425784Z",
+  "model": "glm-5.3"
+}

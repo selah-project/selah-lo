@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 33,
+  "translation": "ເພາະເພິ່ນກ່າວ ແລະມັນເກີດມີ ເພິ່ນສັ່ງ ແລະມັນຕັ້ງຢູ່.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ກ່າວ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະມັນເກີດມີ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ສັ່ງ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ແລະມັນຕັ້ງຢູ່"
+    }
+  ],
+  "timestamp": "2026-09-09T18:33:11.034001247Z",
+  "model": "glm-5.3"
+}

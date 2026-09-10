@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 83,
+  "translation": "ຄືໄຟໄຫມ້ປ່າ ແລະຄືເພງເຜົາພູທັງຫຼາຍ",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "ຄືໄຟ"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ໄຫມ້"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ປ່າ"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "ແລະຄືເພງ"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "ເຜົາ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ພູທັງຫຼາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:39:20.179475514Z",
+  "model": "glm-5.3"
+}

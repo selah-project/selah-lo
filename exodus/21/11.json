@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ຖ້າເພິ່ນບໍ່ເຮັດສາມຢ່າງນີ້ແກ່ນາງ ນາງຈະອອກໄປໂດຍບໍ່ເສຍເງິນ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ຖ້າ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ສາມ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ຢ່າງນີ້"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ເຮັດ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ແກ່ນາງ"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "ນາງຈະອອກໄປ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ໂດຍບໍ່ເສຍ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ບໍ່ມີ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ເງິນ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:03:35.650923396Z",
+  "model": "glm-5.3"
+}

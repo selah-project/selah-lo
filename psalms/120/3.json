@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 120,
+  "translation": "ຫຍັງຈະໃຫ້ແກ່ເຈົ້າ ແລະຫຍັງຈະເພີ່ມແກ່ເຈົ້າ ເຈົ້າລີ້ລວກລວຍ",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ຫຍັງ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ຈະໃຫ້"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ແກ່ເຈົ້າ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ແລະຫຍັງ"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ຈະເພີ່ມ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ແກ່ເຈົ້າ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ລີ້"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ລວກລວຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:03:12.494227685Z",
+  "model": "glm-5.3"
+}

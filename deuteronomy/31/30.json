@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 31,
+  "translation": "ໂມເຊເວົ້າໃນຫູຂອງຊຸມຊົນອິດສະຣາເອນທັງຫຼາຍ⟨את⟩ຄຳຂອງບົດເພງນີ້ຈົນເຖິງທີ່ສຸດ.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ເວົ້າ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ໃນຫູຂອງ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງຫຼາຍ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ຊຸມຊົນ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິດສະຣາເອນ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຄຳຂອງ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ຄຳຂອງ"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ບົດເພງ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ຈົນເຖິງ"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "ທີ່ສຸດ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:45:28.687324495Z",
+  "model": "glm-5.3"
+}

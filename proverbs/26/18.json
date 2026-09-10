@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 26:18",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ຄືຄົນບ້າຍິງລູກໄຟລູກສອນແລະຄວາມຕາຍ.",
+  "tokens": [
+    {
+      "surface": "כמתלהלה",
+      "gloss": "ຄືຄົນບ້າ"
+    },
+    {
+      "surface": "הירה",
+      "gloss": "ຍິງ"
+    },
+    {
+      "surface": "זקים",
+      "gloss": "ລູກໄຟ"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "ລູກສອນ"
+    },
+    {
+      "surface": "ומות",
+      "gloss": "ແລະຄວາມຕາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:55:45.786346519Z",
+  "model": "glm-5.3"
+}

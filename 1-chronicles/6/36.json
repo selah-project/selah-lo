@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 6:36",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ບຸກກິລູກຂອງເພິ່ນ, ອຸຊິລູກຂອງເພິ່ນ, ເຊຣາຮຢາລູກຂອງເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "בקי",
+      "gloss": "ບຸກກິ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ລູກຂອງເພິ່ນ"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ອຸຊິ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ລູກຂອງເພິ່ນ"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "ເຊຣາຮຢາ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ລູກຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:11:08.833366038Z",
+  "model": "glm-5.3"
+}

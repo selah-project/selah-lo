@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 31:53",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 31,
+  "translation": "ຜູ້ຊາຍຂອງກອງທັບປຸົນຊັບ ແຕ່ລະຄົນຂອງຕົນ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ຜູ້ຊາຍຂອງ"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ກອງທັບ"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "ປຸົນຊັບ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ແຕ່ລະຄົນ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ຂອງຕົນ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:14:05.757955216Z",
+  "model": "glm-5.3"
+}

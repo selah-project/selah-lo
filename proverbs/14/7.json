@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 14:7",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ຈົ່ງໄປຈາກຕໍ່ໜ້າຄົນໂງ່ ແລະບໍ່ເຈົ້າຮູ້ຮິດຂອງຄວາມຮູ້.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ຈົ່ງໄປ"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ຈາກຕໍ່ໜ້າ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ຂອງຄົນ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ໂງ່"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ເຈົ້າຮູ້"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ຮິດຂອງ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ຄວາມຮູ້"
+    }
+  ],
+  "timestamp": "2026-09-09T19:11:52.844597094Z",
+  "model": "glm-5.3"
+}

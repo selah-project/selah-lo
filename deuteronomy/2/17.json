@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 2:17",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະຢາເວເວົ້າກັບຂ້ອຍວ່າ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ແລະເພິ່ນເວົ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ກັບຂ້ອຍ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:40:47.142376618Z",
+  "model": "glm-5.3"
+}

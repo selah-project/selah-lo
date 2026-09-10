@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 77,
+  "translation": "ຂ້ອຍຄິດຮອດວັນແຕ່ກ່ອນ ປີຂອງຍຸກບູຮານ.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "ຂ້ອຍຄິດຮອດ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ແຕ່ກ່ອນ"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ຂອງຍຸກບູຮານ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:32:10.188679901Z",
+  "model": "glm-5.3"
+}

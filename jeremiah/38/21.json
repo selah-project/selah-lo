@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 38,
+  "translation": "ແລະຖ້າເຈົ້າປະຕິເສດທີ່ຈະອອກໄປ, ນີ້ຄືຄຳທີ່ຢາເວສະແດງໃຫ້ຂ້ອຍເຫັນ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ແລະຖ້າ"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ປະຕິເສດ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ເຈົ້າ"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "ທີ່ຈະອອກໄປ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ສະແດງໃຫ້ຂ້ອຍເຫັນ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T17:23:39.335042478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 7:29",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ຄົນຂອງຄິຣະຍາດຢາຣິມ ເກຟິຣາ ແລະເບໂຣດ ເຈັດຮ້ອຍສີ່ສິບສາມຄົນ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ຄົນຂອງ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ຄິຣະຍາດ"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "ຢາຣິມ"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "ເກຟິຣາ"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "ແລະເບໂຣດ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ເຈັດ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ສີ່ສິບ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ແລະສາມ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:47:07.499947117Z",
+  "model": "glm-5.3"
+}

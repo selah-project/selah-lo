@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 98,
+  "translation": "ແມ່ນ້ຳທັງຫຼາຍຈົ່ງຕົບມື ພູທັງຫຼາຍພ້ອມກັນຮ້ອງເພງ",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "ແມ່ນ້ຳທັງຫຼາຍ"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "ຈົ່ງຕົບ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ມື"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ພ້ອມກັນ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ພູທັງຫຼາຍ"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ຮ້ອງເພງ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:51:57.902625233Z",
+  "model": "glm-5.3"
+}

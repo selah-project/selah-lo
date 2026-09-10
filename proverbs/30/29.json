@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 30:29",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ສາມພວກມັນ⟨ເປັນ⟩ຜູ້ງາມການກ້າວ ແລະສີ່ຜູ້ງາມການຍ່າງ.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "ສາມ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ພວກມັນ"
+    },
+    {
+      "surface": "מיטיבי",
+      "gloss": "ຜູ້ງາມ"
+    },
+    {
+      "surface": "צעד",
+      "gloss": "ການກ້າວ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ແລະສີ່"
+    },
+    {
+      "surface": "מיטבי",
+      "gloss": "ຜູ້ງາມ"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "ການຍ່າງ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:19:54.342684341Z",
+  "model": "glm-5.3"
+}

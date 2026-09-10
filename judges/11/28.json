@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "judges 11:28",
+  "book": "judges",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ແລະກະສັດຂອງລູກຫຼານຂອງອາມມອນບໍ່ຟັງຄຳຂອງຢິບຕາທີ່ເພິ່ນສົ່ງຕໍ່ເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ຟັງ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ອາມມອນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເຖິງ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ຄຳຂອງ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ຢິບຕາ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ສົ່ງ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ຕໍ່ເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T14:23:03.411002373Z",
+  "model": "glm-5.3"
+}

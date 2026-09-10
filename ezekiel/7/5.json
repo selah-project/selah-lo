@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ດັ່ງນີ້ອາໂດນາຍ ຢາເວ ກ່າວ: ຄວາມຊົ່ວ ໜຶ່ງ ຄວາມຊົ່ວ, ເບິ່ງແມ ມັນມາ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ດັ່ງນີ້"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ກ່າວ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ອາໂດນາຍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ຄວາມຊົ່ວ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ຄວາມຊົ່ວ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ເບິ່ງແມ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ມາ"
+    }
+  ],
+  "timestamp": "2026-09-09T17:32:15.415664124Z",
+  "model": "glm-5.3"
+}

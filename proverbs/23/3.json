@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ຢ່າຢາກອາຫານແຊບຂອງເພິ່ນ ເພາະມັນເປັນອາຫານຂອງຄວາມລວນລວມ",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ຢາກ"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "ອາຫານແຊບຂອງເພິ່ນ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ເພາະມັນ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ອາຫານ"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ຂອງຄວາມລວນລວມ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:52:25.161419016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ແລະນີ້ຄືຂໍ້ຄວາມທີ່ຂຽນ: ມີນີ ມີນີ ທາການ ແລະອູປາຣສິນ.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "ແລະນີ້"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "ຂໍ້ຄວາມ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "ຂຽນ"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "ມີນີ"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "ມີນີ"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "ທາການ"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "ແລະອູປາຣສິນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:54:25.793232732Z",
+  "model": "glm-5.3"
+}

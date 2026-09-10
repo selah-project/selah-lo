@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 8:23",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ຢາເວໄດ້ກ່າວກັບໂມເຊວ່າ.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ໄດ້ກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:04:13.111111796Z",
+  "model": "glm-5.3"
+}

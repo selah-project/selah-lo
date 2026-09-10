@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ແລະໂກເຮນຂຽນ⟨את⟩ຄຳສາບເຫຼົ່ານີ້ໃນໜັງສື ແລະລຶບເຂົ້າໃນນ້ຳຂົມ.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "ແລະຂຽນ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຄຳສາບເຫຼົ່ານີ້"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "ຄຳສາບ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ເຫຼົ່ານີ້"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ໂກເຮນ"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "ໃນໜັງສື"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "ແລະລຶບ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເຂົ້າໃນ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "ຂົມ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:00:07.150106168Z",
+  "model": "glm-5.3"
+}

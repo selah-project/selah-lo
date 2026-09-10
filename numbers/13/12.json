@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ຕະກູນດານ: ອັມມີເອນລູກຊາຍຂອງກະມັລລິ.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ຕະກູນ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ດານ"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "ອັມມີເອນ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "ກະມັລລິ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:07:41.148429285Z",
+  "model": "glm-5.3"
+}

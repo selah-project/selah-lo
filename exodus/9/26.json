@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ພຽງແຕ່ໃນແຜ່ນດິນໂກເຊນບ່ອນທີ່ລູກຫຼານອິສະຣາເອນຢູ່ບໍ່ມີລູກເຫວະນາ.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ພຽງແຕ່"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ໃນແຜ່ນດິນ"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "ໂກເຊນ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ບ່ອນທີ່"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ຢູ່"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ລູກເຫວະນາ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:27:51.975303377Z",
+  "model": "glm-5.3"
+}

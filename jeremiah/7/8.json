@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 7:8",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ເບິ່ງແມ ພວກເຈົ້າວາງໃຈໃຫ້ຕົນເອງໃນຄຳເວົ້າຄວາມເທັດ ໂດຍບໍ່ໄດ້ປະໂຫຍດ",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ເບິ່ງແມ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ພວກເຈົ້າ"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "ວາງໃຈ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ໃຫ້ຕົນເອງ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ໃນ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ຄຳເວົ້າຂອງ"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "ຄວາມເທັດ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ໂດຍບໍ່"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "ໄດ້ປະໂຫຍດ"
+    }
+  ],
+  "timestamp": "2026-09-09T16:59:34.760994678Z",
+  "model": "glm-5.3"
+}

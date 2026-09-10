@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 21:12",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ພວກເຂົາຍົກກອງມື ແລະພິນ ແລະຍິນດີຕໍ່ສຽງຂະລຸ້ຍ.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "ຍົກ"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "ກອງມື"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ແລະພິນ"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ແລະຍິນດີ"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ຕໍ່ສຽງ"
+    },
+    {
+      "surface": "עוגב",
+      "gloss": "ຂະລຸ້ຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:27:15.493691042Z",
+  "model": "glm-5.3"
+}

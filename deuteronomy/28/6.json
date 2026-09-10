@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ພອນເຈົ້າ ໃນການທີ່ເຈົ້າເຂົ້າ ແລະພອນເຈົ້າ ໃນການທີ່ເຈົ້າອອກ.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ພອນ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ເຈົ້າ"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "ໃນການທີ່ເຈົ້າເຂົ້າ"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ແລະພອນ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ເຈົ້າ"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "ໃນການທີ່ເຈົ້າອອກ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:38:24.216289917Z",
+  "model": "glm-5.3"
+}

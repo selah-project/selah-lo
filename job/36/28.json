@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 36:28",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 36,
+  "translation": "ເມກຝົນລົງຫຍາຍລົງເໜືອມະນຸດຫຼາຍຫຼາຍ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "ຝົນລົງ"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ເມກ"
+    },
+    {
+      "surface": "ירעפו",
+      "gloss": "ຫຍາຍລົງ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ມະນຸດ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ຫຼາຍຫຼາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:42:15.744181111Z",
+  "model": "glm-5.3"
+}

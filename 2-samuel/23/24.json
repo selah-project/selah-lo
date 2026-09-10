@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 23:24",
+  "book": "2-samuel",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ອາຊາເອນອ້າຍຂອງໂຢອາບຢູ່ໃນສາມສິບ ເອນຮານານລູກຊາຍຂອງໂດໂດແຫ່ງບີດລະເຫມ.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ອາຊາ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເອນ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ອ້າຍຂອງ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ໂຢອາບ"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "ໃນສາມສິບ"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "ເອນຮານານ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "ໂດໂດ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ບີດ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ລະເຫມ"
+    }
+  ],
+  "timestamp": "2026-09-08T22:10:23.743995613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "deuteronomy 28:38",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ເຈົ້າຈະນໍາເມັດພັນຫຼາຍອອກໄປນາ ແຕ່ເຈົ້າຈະເກັບໄດ້ໜ້ອຍ ຍ້ອນຕັກຕຽມຈະກິນມັນ.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "ເມັດພັນ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ຫຼາຍ"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "ເຈົ້າຈະນໍາອອກ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ນາ"
+    },
+    {
+      "surface": "ומעט",
+      "gloss": "ແຕ່ໜ້ອຍ"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "ເຈົ້າຈະເກັບ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ຍ້ອນ"
+    },
+    {
+      "surface": "יחסלנו",
+      "gloss": "ມັນຈະກິນມັນໝົດ"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "ຕັກຕຽມ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:12:05.400681934Z",
+  "model": "glm-5.3"
+}

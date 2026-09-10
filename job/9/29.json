@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 9:29",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ຂ້ອຍຜິດແລ້ວ, ເປັນຫຍັງອີກ? ຂ້ອຍອອກແຮງເປັນອາຍ.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ຂ້ອຍ"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "ຂ້ອຍຜິດ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ເປັນຫຍັງ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ອີກ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ເປັນອາຍ"
+    },
+    {
+      "surface": "איגע",
+      "gloss": "ຂ້ອຍອອກແຮງ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:14:12.012183538Z",
+  "model": "glm-5.3"
+}

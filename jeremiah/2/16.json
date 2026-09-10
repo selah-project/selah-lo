@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 2:16",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ກໍລູກຂອງໂນບແລະທາຮາປາເນສຈະລ້າທ້າງເປື້ອງຫົວຂອງເຈົ້າ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ກໍ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "נף",
+      "gloss": "ໂນບ"
+    },
+    {
+      "surface": "ותחפנס",
+      "gloss": "ແລະທາຮາປາເນສ"
+    },
+    {
+      "surface": "ירעוך",
+      "gloss": "ຈະລ້າທ້າງເຈົ້າ"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "ເປື້ອງຫົວ"
+    }
+  ],
+  "timestamp": "2026-09-09T16:57:28.018939361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 7:40",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ລູກຫຼານຂອງອິເມຣ: ພັນຫ້າສິບແລະສອງຄົນ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ອິເມຣ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ພັນ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ຫ້າສິບ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ແລະສອງ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:47:17.552343193Z",
+  "model": "glm-5.3"
+}

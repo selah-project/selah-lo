@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ຜູ້ກີບຕາໃຫ້ຄວາມເຈັບປວດ ແລະຄົນໂງ່ປາກຫຼາຍຈະລົ້ມລົງ.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "ຜູ້ກີບ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ຕາ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ໃຫ້"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "ຄວາມເຈັບປວດ"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "ແລະຄົນໂງ່"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ປາກຫຼາຍ"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "ຈະລົ້ມລົງ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:09:43.216166526Z",
+  "model": "glm-5.3"
+}

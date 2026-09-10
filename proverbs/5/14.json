@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 5:14",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ເກືອບຂ້ອຍ⟨ເປັນ⟩ໃນທຸກຄວາມຊົ່ວ ທ່າມກາງຊຸມຊົນແລະກອງປະຊຸມ.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "ເກືອບ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ຂ້ອຍ⟨ເປັນ⟩"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ໃນທຸກ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ຄວາມຊົ່ວ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ທ່າມກາງ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ຊຸມຊົນ"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "ແລະກອງປະຊຸມ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:28:36.911578155Z",
+  "model": "glm-5.3"
+}

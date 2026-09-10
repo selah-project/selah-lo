@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 22,
+  "translation": "ແລະທູດອົງໜຶ່ງຂອງຢາເວໄດ້ຮຽກຫາອັບຣາຮາມເທື່ອທີສອງ ຈາກຟ້າສະຫວັນ.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ໄດ້ຮຽກ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ທູດ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ອັບຣາຮາມ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ເທື່ອທີສອງ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ຟ້າສະຫວັນ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:28:16.406247030Z",
+  "model": "glm-5.3"
+}

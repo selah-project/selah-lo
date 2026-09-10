@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 6:30",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ເງິນຈັນຖືກປະຕິເສດ, ເຂົາເອີ້ນຕໍ່ພວກມັນ, ເພາະຢາເວປະຕິເສດພວກມັນ.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "ເງິນຈັນ"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "ຖືກປະຕິເສດ"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ເຂົາເອີ້ນ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ຕໍ່ພວກມັນ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "ປະຕິເສດ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ພວກມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:01:09.411332274Z",
+  "model": "glm-5.3"
+}

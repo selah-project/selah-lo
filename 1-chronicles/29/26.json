@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 29,
+  "translation": "ດາວິດລູກຊາຍຂອງຢິຊາຍໄດ້ຄອງຢູ່ເໜືອອິສະຣາເອນທັງໝົດ.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "ແລະດາວິດ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ຢິຊາຍ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ໄດ້ຄອງ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຢູ່ເໜືອ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:19:05.696921601Z",
+  "model": "glm-5.3"
+}

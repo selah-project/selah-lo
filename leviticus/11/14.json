@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ແລະ⟨את⟩ນົກດາອາ ແລະ⟨את⟩ນົກອາຢາ ຕາມຊະນິດຂອງມັນ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ນົກດາອາ"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "ນົກດາອາ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ນົກອາຢາ"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ນົກອາຢາ"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ຕາມຊະນິດຂອງມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:32:59.284536936Z",
+  "model": "glm-5.3"
+}

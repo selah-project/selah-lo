@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ໃນທາງຂອງຄວາມຊອບທຳມີຊີວິດ ແລະໃນທາງເທິງນັ້ນບໍ່ມີຄວາມຕາຍ.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "ໃນທາງ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ຄວາມຊອບທຳ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ຊີວິດ"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ແລະໃນທາງ"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "ທາງເທິງນັ້ນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ບໍ່ມີ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ຄວາມຕາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:15:59.221282752Z",
+  "model": "glm-5.3"
+}

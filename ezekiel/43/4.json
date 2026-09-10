@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 43:4",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 43,
+  "translation": "ແລະສະຫງ່າລາດຂອງຢາເວມາສູ່ວິຫານທາງປະຕູທີ່ໜ້າຂອງມັນທາງທິດຕາເວັນອອກ.",
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "ແລະສະຫງ່າລາດຂອງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ມາ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ສູ່"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ວິຫານ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ທາງ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ປະຕູ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ໜ້າຂອງມັນ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ທາງ"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "ທິດຕາເວັນອອກ"
+    }
+  ],
+  "timestamp": "2026-09-09T17:59:18.473560032Z",
+  "model": "glm-5.3"
+}

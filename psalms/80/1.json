@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 80,
+  "translation": "ກັບຜູ້ກຳກັບ ຕາມເພງໂຊຊັນນິມພະຍານ ຂອງອາສາຟ ມິຊໂມຣ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ກັບຜູ້ກຳກັບ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕາມ"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "ເພງໂຊຊັນນິມ"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ພະຍານ"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ຂອງອາສາຟ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ມິຊໂມຣ"
+    }
+  ],
+  "timestamp": "2026-09-10T01:31:12.589932005Z",
+  "model": "glm-5.3"
+}

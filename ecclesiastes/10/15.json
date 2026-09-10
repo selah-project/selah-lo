@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ຄວາມອິດເມື່ອຍຂອງຄົນໂງ່ຕາກຍາກຜູ້ນັ້ນ ເພາະພວກເຂົາບໍ່ຮູ້ທີ່ຈະໄປຫາເມືອງ.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "ຄວາມອິດເມື່ອຍ"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "ຂອງຄົນໂງ່"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "ຕາກຍາກຜູ້ນັ້ນ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ຮູ້"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ທີ່ຈະໄປ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ເມືອງ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:25:23.697642054Z",
+  "model": "glm-5.3"
+}

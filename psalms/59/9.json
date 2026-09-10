@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 59,
+  "translation": "ແລະເຈົ້າ ຢາເວ ຂືນຂານຕໍ່ພວກມັນ ລຽບລຽວຕໍ່ຊາດທັງຫຼາຍ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ແລະເຈົ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "ຂືນຂານ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ຕໍ່ພວກມັນ"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "ລຽບລຽວ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ຕໍ່ທຸກ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ຊາດທັງຫຼາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:22:04.943302234Z",
+  "model": "glm-5.3"
+}

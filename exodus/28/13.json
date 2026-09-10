@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 28:13",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ແລະເຈົ້າຈະເຮັດບ່ອນປະກົດຫີນຂອງທອງ.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ແລະເຈົ້າຈະເຮັດ"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "ບ່ອນປະກົດຫີນ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ຂອງທອງ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:54:32.842959183Z",
+  "model": "glm-5.3"
+}

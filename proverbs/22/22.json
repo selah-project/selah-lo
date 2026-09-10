@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 22,
+  "translation": "ຢ່າຍັກລັກຄົນຂັດຍາກເພາະເພິ່ນຂັດຍາກແລະຢ່າບີບຄັ້ນຄົນທຸກທີຮຢູ່ປະຕູເມືອງ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "ຍັກລັກ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ຄົນຂັດຍາກ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ຂັດຍາກ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ແລະຢ່າ"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "ບີບຄັ້ນ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ຄົນທຸກທີຮ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ຢູ່ປະຕູເມືອງ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:50:43.518500034Z",
+  "model": "glm-5.3"
+}

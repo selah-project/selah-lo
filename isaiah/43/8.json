@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 43,
+  "translation": "ຈົ່ງນຳອອກປະຊາຊົນຕາບອດ ແລະມີຕາ ແລະໜວກ ແລະຫູ ແກ່ພວກເຂົາ.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "ຈົ່ງນຳອອກ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ປະຊາຊົນ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ຕາບອດ"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ແລະມີຕາ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "ແລະໜວກ"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "ແລະຫູ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ແກ່ພວກເຂົາ"
+    }
+  ],
+  "timestamp": "2026-09-09T16:38:07.201007097Z",
+  "model": "glm-5.3"
+}

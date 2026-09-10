@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ຂອງຂ້ອຍ⟨ເປັນ⟩ເງິນກາ ແລະຂອງຂ້ອຍ⟨ເປັນ⟩ຄຳ ຄຳນະວະຢາເວເສວາໂອດ.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ເງິນກາ"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "ແລະຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ຄຳນະວະ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ເສວາໂອດ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:20:32.579642513Z",
+  "model": "glm-5.3"
+}

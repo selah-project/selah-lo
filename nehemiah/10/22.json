@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 10:22",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ເມເຊຊາບາເອນ (ເມເຊຊາບາອີນ), ຊາໂດກ (ຊາໂດກ), ຢາດດູອາ (ຢາດດົວ).",
+  "tokens": [
+    {
+      "surface": "משיזבאל",
+      "gloss": "ເມເຊຊາບາເອນ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ຊາໂດກ"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "ຢາດດູອາ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:50:55.820948384Z",
+  "model": "glm-5.3"
+}

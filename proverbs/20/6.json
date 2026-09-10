@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 20:6",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ຄົນຫຼາຍຈະຮຽກຕົນວ່າມີເຮເສດ ແລະຄົນທີ່ໜ້າເຊື່ອຖື ໃຜຈະພົບ",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "ຄວາມຫຼາຍ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ຂອງຄົນ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ຈະຮຽກ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ເຮເສດຂອງຕົນ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ແລະຄົນ"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "ທີ່ໜ້າເຊື່ອຖື"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ຈະພົບ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:47:32.340870214Z",
+  "model": "glm-5.3"
+}

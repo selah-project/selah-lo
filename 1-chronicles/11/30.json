@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 11:30",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ມາຮາຣາຍເນໂທຟາດ ເຮເລດລູກຊາຍຂອງບາອານາເນໂທຟາດ.",
+  "tokens": [
+    {
+      "surface": "מַהְרַי",
+      "gloss": "ມາຮາຣາຍ"
+    },
+    {
+      "surface": "הַנְּטֹפָתִי",
+      "gloss": "ເນໂທຟາດ"
+    },
+    {
+      "surface": "חֵלֶד",
+      "gloss": "ເຮເລດ"
+    },
+    {
+      "surface": "בֵּן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "בַּעֲנָה",
+      "gloss": "ບາອານາ"
+    },
+    {
+      "surface": "הַנְּטוֹפָתִי",
+      "gloss": "ເນໂທຟາດ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:24:15.851717992Z",
+  "model": "glm-5.3"
+}

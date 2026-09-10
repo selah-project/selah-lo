@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 28:23",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ຜູ້ຕຳນິຄົນ ຕໍ່ມາຈະພົບຄວາມນິຍົມ ກວ່າຜູ້ລຽບລີ້ນ.",
+  "tokens": [
+    {
+      "surface": "מוכיח",
+      "gloss": "ຕຳນິ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ຕໍ່ມາ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ຄວາມນິຍົມ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ຈະພົບ"
+    },
+    {
+      "surface": "ממחליק",
+      "gloss": "ກວ່າຜູ້ລຽບ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ລີ້ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:59:23.734528883Z",
+  "model": "glm-5.3"
+}

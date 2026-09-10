@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ເນທາເນນ ທີສີ່, ຣັດດາຍ ທີຫ້າ.",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "ເນທາເນນ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ທີສີ່"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "ຣັດດາຍ"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ທີຫ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:08:54.767156418Z",
+  "model": "glm-5.3"
+}

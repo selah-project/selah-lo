@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 11:17",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ແລະດາວິດໃຝ່ ແລະເພິ່ນກ່າວວ່າ: ໃຜຈະໃຫ້ຂ້ອຍດື່ມນ້ຳຈາກບໍ່ຂອງບີຖເລັມຄຳທີ່ຢູ່ປະຕູ?",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "ແລະໃຝ່"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ດາວິດ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະເພິ່ນກ່າວ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "ຈະໃຫ້ຂ້ອຍດື່ມ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "ຈາກບໍ່"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ບີຖ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ເລັມຄຳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ຢູ່ປະຕູ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:26:29.621088648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 16,
+  "translation": "ນີ້ຄືຄຳທີ່ຢາເວໄດ້ກ່າວຕໍ່ໂມອາບນັບແຕ່ຄັ້ງກ່ອນ.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ໄດ້ກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ໂມອາບ"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ນັບແຕ່ຄັ້ງກ່ອນ"
+    }
+  ],
+  "timestamp": "2026-09-08T23:21:56.016559541Z",
+  "model": "glm-5.3"
+}

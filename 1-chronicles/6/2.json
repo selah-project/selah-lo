@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ແລະນີ້⟨ເປັນ⟩ຊື່ຂອງລູກຂອງເກຣຊົມ: ລິບະນິ ແລະຊິມະອິ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ແລະນີ້"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ຊື່"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "ເກຣຊົມ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ລິບະນິ"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "ແລະຊິມະອິ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:14:02.938975727Z",
+  "model": "glm-5.3"
+}

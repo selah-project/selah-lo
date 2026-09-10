@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ເວລາຂ້າ ແລະເວລາປິ່ນປົວ ເວລາທຳລາຍ ແລະເວລາສ້າງ.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ເວລາ"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "ຂ້າ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ແລະເວລາ"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "ປິ່ນປົວ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ເວລາ"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "ທຳລາຍ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ແລະເວລາ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ສ້າງ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:20:31.593247856Z",
+  "model": "glm-5.3"
+}

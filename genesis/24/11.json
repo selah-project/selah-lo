@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 24:11",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ແລະເພິ່ນໃຫ້ຊ້ຳຄຸກຄາຍນອກເມືອງ ທີ່ບໍ່ນ້ຳ ເວລາຄ່ຳ ເວລາທີ່ຜູ້ຕັກນ້ຳອອກມາ.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "ໃຫ້ຄຸກຄາຍ"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "ຊ້ຳ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ນອກ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ທີ່ເມືອງ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ເວລາທີ່"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ຄ່ຳ"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ເວລາທີ່"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "ອອກມາ"
+    },
+    {
+      "surface": "השאבת",
+      "gloss": "ຂອງຜູ້ຕັກນ້ຳ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:28:31.733946781Z",
+  "model": "glm-5.3"
+}

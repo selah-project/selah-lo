@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ເພາະດ້ວຍຝີບປະໝາດ ແລະດ້ວຍລີ້ນອື່ນ ເພິ່ນຈະເວົ້າຕໍ່ປະຊາຊົນນີ້.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "ດ້ວຍຝີບປະໝາດ"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ຝີບ"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "ແລະດ້ວຍລີ້ນ"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "ອື່ນ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ເພິ່ນຈະເວົ້າ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ປະຊາຊົນ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ນີ້"
+    }
+  ],
+  "timestamp": "2026-09-09T16:32:23.820296330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 29:23",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 29,
+  "translation": "ແລະໃນວັນທີສີ່ ງົວສິບໂຕ ແກະຜູ້ສອງໂຕ ແກະລູກສິບສີ່ໂຕ ລູກອາຍຸໜຶ່ງປີ ບໍ່ມີຕຳນິ.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ແລະໃນວັນ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ທີສີ່"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ງົວ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ແກະຜູ້"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ແກະລູກ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ສີ່"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "ບໍ່ມີຕຳນິ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:08:05.149877691Z",
+  "model": "glm-5.3"
+}

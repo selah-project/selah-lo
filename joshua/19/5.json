@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 19:5",
+  "book": "joshua",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ແລະຊິກລາກ ແລະເບັດຮາມມາຣຄາບອດ ແລະຮາຊາຣສູຊາ",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "ແລະຊິກລາກ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ແລະເບັດ"
+    },
+    {
+      "surface": "המרכבות",
+      "gloss": "ຮາມມາຣຄາບອດ"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "ແລະຮາຊາຣ"
+    },
+    {
+      "surface": "סוסה",
+      "gloss": "ສູຊາ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:38:24.802386753Z",
+  "model": "glm-5.3"
+}

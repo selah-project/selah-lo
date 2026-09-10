@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 10:14",
+  "book": "1-kings",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ແລະມີນ້ຳໜັກຂອງຄຳທອງທີ່ມາຫາເຊໂລໂມໃນປີໜຶ່ງ ຫົກຮ້ອຍຫົກສິບແລະຫົກກິນຂອງຄຳທອງ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະມີ"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "ນ້ຳໜັກ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ຂອງຄຳທອງ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ມາ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ຫາເຊໂລໂມ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ໃນປີ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ຫົກ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ຫົກສິບ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ແລະຫົກ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ກິນ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ຄຳທອງ"
+    }
+  ],
+  "timestamp": "2026-09-09T22:24:51.132926421Z",
+  "model": "glm-5.3"
+}

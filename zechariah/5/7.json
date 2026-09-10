@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 5:7",
+  "book": "zechariah",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ແລະເບິ່ງ ກ້ອນຕະກູນກົມຖືກຍົກຂຶ້ນ ແລະນີ້ແມ່ນຍິງໜຶ່ງ ນັ່ງຢູ່ກາງເອີຟາ",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ແລະເບິ່ງ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ກ້ອນກົມ"
+    },
+    {
+      "surface": "עפרת",
+      "gloss": "ຕະກູນ"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "ຖືກຍົກຂຶ້ນ"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "ແລະນີ້"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ຍິງ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "ນັ່ງ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ກາງ"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ເອີຟາ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:16:58.535716938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ເຮືອນຂອງຢາອາໂຄບ ຈົ່ງມາ ເຮົາຍ່າງໃນແສງສະຫວ່າງຂອງຢາເວ.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ເຮືອນ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ຢາອາໂຄບ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ຈົ່ງມາ"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "ເຮົາຍ່າງ"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ໃນແສງສະຫວ່າງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-08T23:11:22.591517808Z",
+  "model": "glm-5.3"
+}

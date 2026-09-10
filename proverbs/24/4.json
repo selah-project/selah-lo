@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 24:4",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ແລະໂດຍຄວາມຮູ້ຫ້ອງໜາງຖືກຕື່ມເຕັມຊັບລ້າຄ້າງາມທັງໝົດ.",
+  "tokens": [
+    {
+      "surface": "ובדעת",
+      "gloss": "ແລະໂດຍຄວາມຮູ້"
+    },
+    {
+      "surface": "חדרים",
+      "gloss": "ຫ້ອງໜາງ"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "ຖືກຕື່ມເຕັມ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ຊັບ"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ລ້າຄ້າ"
+    },
+    {
+      "surface": "ונעים",
+      "gloss": "ແລະງາມ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:52:56.186429871Z",
+  "model": "glm-5.3"
+}

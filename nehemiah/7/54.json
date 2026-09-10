@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "nehemiah 7:54",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ລູກຫຼານຂອງບັດສະລິດ ລູກຫຼານຂອງມະຮິດດາ ລູກຫຼານຂອງຮັດຊາ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "בצלית",
+      "gloss": "ບັດສະລິດ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "ມະຮິດດາ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "ຮັດຊາ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:06:24.043816012Z",
+  "model": "glm-5.3"
+}

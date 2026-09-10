@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 24:29",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ຂອງກິຊ: ລູກຊາຍຂອງກິຊ ຄືເຢຣາມະເອນ.",
+  "tokens": [
+    {
+      "surface": "לקישׁ",
+      "gloss": "ຂອງກິຊ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "קישׁ",
+      "gloss": "ກິຊ"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "ເຢຣາມະເອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:45:58.589899391Z",
+  "model": "glm-5.3"
+}

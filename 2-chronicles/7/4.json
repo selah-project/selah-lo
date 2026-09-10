@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ແລະກະສັດ ແລະປະຊາຊົນທັງປວງ ຖວາຍບູຊາຕໍ່ໜ້າຢາເວ.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ແລະກະສັດ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ແລະທັງປວງ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ປະຊາຊົນ"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "ຖວາຍບູຊາ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ການຖວາຍບູຊາ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ຕໍ່ໜ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T10:03:08.012565379Z",
+  "model": "glm-5.3"
+}

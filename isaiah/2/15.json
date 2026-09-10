@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 2:15",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະເທິງຫໍຄອຍສູງທຸກຫຼັງ ແລະເທິງກຳແພງຮັບປ້ອງທຸກອັນ.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ແລະເທິງ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "ຫໍຄອຍ"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ສູງ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ແລະເທິງ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "ກຳແພງ"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "ຮັບປ້ອງດີ"
+    }
+  ],
+  "timestamp": "2026-09-09T16:19:36.582220785Z",
+  "model": "glm-5.3"
+}

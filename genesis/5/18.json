@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ແລະເຢຣັດມີຊີວິດ ຫົກສິບສອງປີ ແລະຮ້ອຍປີ ແລະເພິ່ນເກີດ⟨את⟩ຮານົກ.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ແລະມີຊີວິດ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ເຢຣັດ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ແລະຫົກສິບ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ແລະຮ້ອຍ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ແລະເພິ່ນເກີດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຮານົກ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ຮານົກ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:02:19.195360572Z",
+  "model": "glm-5.3"
+}

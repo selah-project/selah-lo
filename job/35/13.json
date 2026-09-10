@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 35:13",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 35,
+  "translation": "ແທ້ແມ່ນ ຄວາມສູນ ເອນບໍ່ຟັງ ແລະຊັດດາຍບໍ່ເບິ່ງມັນ.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ແທ້ແມ່ນ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ຄວາມສູນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ຟັງ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເອນ"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "ແລະຊັດດາຍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "ເບິ່ງມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:34:55.814492473Z",
+  "model": "glm-5.3"
+}

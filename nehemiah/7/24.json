@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ລູກຫຼານຂອງຮຣິບ ໜຶ່ງຮ້ອຍສິບສອງຄົນ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "ຮຣິບ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ໜຶ່ງຮ້ອຍ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:46:20.954230714Z",
+  "model": "glm-5.3"
+}

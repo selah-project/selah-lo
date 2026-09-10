@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 17,
+  "translation": "ເປັນຫຍັງນີ້ ຄ່າເງິນຢູ່ໃນມືຂອງຄົນໂງ່ ເພື່ອຊື້ປັນຍາ ແລະໃຈບໍ່ມີ.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ເປັນຫຍັງ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "ຄ່າເງິນ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ໃນມື"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ຄົນໂງ່"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "ເພື່ອຊື້"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ປັນຍາ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ແລະໃຈ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ບໍ່ມີ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:13:24.596993752Z",
+  "model": "glm-5.3"
+}

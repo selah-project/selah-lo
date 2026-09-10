@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 10:20",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ຮາຣິບ ອານາໂທດ ໂນບາຍ,",
+  "tokens": [
+    {
+      "surface": "חריף",
+      "gloss": "ຮາຣິບ"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "ອານາໂທດ"
+    },
+    {
+      "surface": "נובי",
+      "gloss": "ໂນບາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:52:34.997852340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ຈະບໍ່ມີແກ່ເຈົ້າໃນເຮືອນຂອງເຈົ້າ ເອຟາໜຶ່ງແລະເອຟາໜຶ່ງ ໃຫຍ່ແລະນ້ອຍ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ຈະມີ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ແກ່ເຈົ້າ"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "ໃນເຮືອນຂອງເຈົ້າ"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ເອຟາ"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "ແລະເອຟາ"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ໃຫຍ່"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "ແລະນ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:37:46.995359991Z",
+  "model": "glm-5.3"
+}

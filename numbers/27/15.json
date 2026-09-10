@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 27:15",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 27,
+  "translation": "ແລະໂມເຊກ່າວກັບຢາເວວ່າ",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ແລະເພິ່ນກ່າວ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:29:31.909613274Z",
+  "model": "glm-5.3"
+}

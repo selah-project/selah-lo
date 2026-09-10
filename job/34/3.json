@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 34:3",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 34,
+  "translation": "ເພາະຫູທົດສອບຄຳເວົ້າ ຄືປາກຊີມອາຫານເພື່ອກິນ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ຫູ"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "ຄຳເວົ້າ"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "ທົດສອບ"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "ແລະປາກ"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "ຊີມ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ເພື່ອກິນ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:45:16.947862071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ລູກຫຼານຂອງເສນາອາສາມພັນຫົກຮ້ອຍສາມສິບຄົນ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "ເສນາອາ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ສາມ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ພັນ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ແລະຫົກ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ແລະສາມສິບ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:17:40.500493006Z",
+  "model": "glm-5.3"
+}

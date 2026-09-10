@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "lo",
+  "chapter": 15,
+  "translation": "ແລະລາວຕັດສິນ⟨את⟩ອິສະຣາເອນ ໃນສະໄໝຂອງຊາວຟີລິດ ຊາວປີ",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ແລະຕັດສິນ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ອິສະຣາເອນ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ໃນສະໄໝຂອງ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ຊາວຟີລິດ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ຊາວ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    }
+  ],
+  "timestamp": "2026-09-09T14:27:12.746402691Z",
+  "model": "glm-5.3"
+}

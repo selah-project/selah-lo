@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ພວກເຂົາສົ່ງມາຫາຂ້ອຍຕາມຄຳນີ້ສີ່ເທື່ອ ແລະຂ້ອຍຕອບ⟨את⟩ພວກເຂົາຕາມຄຳນີ້",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ແລະພວກເຂົາສົ່ງ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ມາຫາຂ້ອຍ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ຕາມຄຳ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ສີ່"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ເທື່ອ"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "ແລະຂ້ອຍຕອບ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ພວກເຂົາ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ຕາມຄຳ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ນີ້"
+    }
+  ],
+  "timestamp": "2026-09-09T08:44:15.988594777Z",
+  "model": "glm-5.3"
+}

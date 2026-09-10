@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 21:17",
+  "book": "1-kings",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ເກີດຂຶ້ນຄຳຂອງຢາເວມາຫາເອນິຍາຮູທີ່ຢູ່ທິຊບີວ່າ",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ເກີດຂຶ້ນ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ມາຫາ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ເອນິຍາຮູ"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "ທີ່ຢູ່ທິຊບີ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-10T01:08:28.719005605Z",
+  "model": "glm-5.3"
+}

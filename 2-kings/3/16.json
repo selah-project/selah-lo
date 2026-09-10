@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ແລະເພິ່ນກ່າວວ່າ ດັ່ງນີ້ ຢາເວກ່າວ ຈົ່ງຂຸດແຫ້ງນີ້ເປັນຂຸມ ຂຸມ",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະເພິ່ນກ່າວ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ດັ່ງນີ້"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ຈົ່ງຂຸດ"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ແຫ້ງ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "ຂຸມ"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "ຂຸມ"
+    }
+  ],
+  "timestamp": "2026-09-08T22:44:26.242195244Z",
+  "model": "glm-5.3"
+}

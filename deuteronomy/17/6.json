@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 17,
+  "translation": "ຕາມປາກຂອງພະຍານສອງຄົນ ຫຼື ພະຍານສາມຄົນ ຜູ້ທີ່ຄວນຕາຍຈະຖືກປະຫານຊີວິດ; ບໍ່ຖືກປະຫານຕາມປາກຂອງພະຍານພຽງໜຶ່ງ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ຕາມ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ປາກ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "ພະຍານ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ສາມ"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "ພະຍານ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ຈະຖືກປະຫານ"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ຜູ້ທີ່ຄວນຕາຍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ຖືກປະຫານ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຕາມ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ປາກ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ພະຍານ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ພຽງໜຶ່ງ"
+    }
+  ],
+  "timestamp": "2026-09-10T01:01:38.791806309Z",
+  "model": "glm-5.3"
+}

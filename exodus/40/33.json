@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 40:33",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 40,
+  "translation": "ແລະເພິ່ນຕັ້ງ⟨את⟩ລານອ້ອມມິຊການແລະແທ່ນບູຊາ ແລະເພິ່ນຕິດ⟨את⟩ຜ້າຂອງປະຕູລານ ແລະໂມເຊສຳເລັດ⟨את⟩ວຽກ",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ຕັ້ງ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ລານ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ລານ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ອ້ອມ"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ມິຊການ"
+    },
+    {
+      "surface": "ולמזבח",
+      "gloss": "ແລະແທ່ນບູຊາ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ຕິດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຜ້າ"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ຜ້າ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ປະຕູ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ລານ"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "ສຳເລັດ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ວຽກ"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ວຽກ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:13:22.475810594Z",
+  "model": "glm-5.3"
+}

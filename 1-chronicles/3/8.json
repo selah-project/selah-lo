@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ແລະເອລິຊາມາ ແລະເອລິຢາດ ແລະເອລິເພເລດ — ເກົ້າ.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "ແລະເອລິຊາມາ"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "ແລະເອລິຢາດ"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "ແລະເອລິເພເລດ"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ເກົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:09:20.122343739Z",
+  "model": "glm-5.3"
+}

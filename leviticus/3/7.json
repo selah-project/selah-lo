@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ຖ້າແກະນ້ອຍເພິ່ນຖວາຍ⟨את⟩ຂອງຖວງຂອງເພິ່ນ ເພິ່ນຈະຖວາຍ⟨את⟩ມັນໜ້າຢາເວ.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ຖ້າ"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "ແກະນ້ອຍ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "ຖວາຍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຂອງຖວງຂອງເພິ່ນ"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ຂອງຖວງຂອງເພິ່ນ"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ແລະຖວາຍ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ມັນ",
+      "marks": "ມັນ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ໜ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:14:53.513417695Z",
+  "model": "glm-5.3"
+}

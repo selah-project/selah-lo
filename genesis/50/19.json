@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 50,
+  "translation": "ໂຢເຊັບກ່າວກັບພວກເຂົາວ່າ: ຢ່າຢ້າກັນ, ເພາະຂ້ອຍຢູ່ໃຕ້ເອໂລຮິມແທ້ບໍ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະເພິ່ນກ່າວ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ຕໍ່ພວກເຂົາ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ໂຢເຊັບ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ຢ້າກັນ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "ຢູ່ໃຕ້"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ເອໂລຮິມ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ຂ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T11:45:39.569819085Z",
+  "model": "glm-5.3"
+}

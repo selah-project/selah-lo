@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ລູກຫຼານຂອງເນຊີອາດ, ລູກຫຼານຂອງຮະຕິຟາ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "ເນຊີອາດ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "ຮະຕິຟາ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:19:25.771255092Z",
+  "model": "glm-5.3"
+}

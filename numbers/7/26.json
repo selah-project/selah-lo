@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 7:26",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ບ່ວງຄຳໜຶ່ງອັນ ສິບຊະເກລ ເຕັມທຽຸຄວາມ.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ບ່ວງ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ເຕັມ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ທຽຸຄວາມ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:58:44.950666737Z",
+  "model": "glm-5.3"
+}

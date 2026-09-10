@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 38,
+  "translation": "ແລະຢາເວຕອບ⟨את⟩ໂຢບຈາກພະຍຸແລະກ່າວວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ແລະຕອບ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ໂຢບ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ໂຢບ (ອີໂຢບ)"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "ພະຍຸ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະກ່າວ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:36:51.214489531Z",
+  "model": "glm-5.3"
+}

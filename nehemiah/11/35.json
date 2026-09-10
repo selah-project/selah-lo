@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ໂລດ ແລະໂວນໂຕ ໜອງຂອງຊ່າງທັງຫຼາຍ.",
+  "tokens": [
+    {
+      "surface": "לד",
+      "gloss": "ໂລດ"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "ແລະໂວນໂຕ"
+    },
+    {
+      "surface": "גי",
+      "gloss": "ໜອງ"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "ຂອງຊ່າງທັງຫຼາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:56:10.543652991Z",
+  "model": "glm-5.3"
+}

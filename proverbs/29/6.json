@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 29,
+  "translation": "ໃນຄວາມຜິດຂອງຄົນຊົ່ວມີແທ່ງຫຼອກ ແຕ່ຄົນຊອບທຳຈະຮ້ອງເພງ ແລະຍິນດີ.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "ໃນຄວາມຜິດຂອງ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ຊົ່ວ"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "ແທ່ງຫຼອກ"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ແຕ່ຄົນຊອບທຳ"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "ຈະຮ້ອງເພງ"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "ແລະຍິນດີ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:58:20.456267576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ລູກຊາຍຂອງອັບຣາຮາມ: ຢິດສະຮາກ ແລະອີຊະມາເອນ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ອັບຣາຮາມ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ຢິດສະຮາກ"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "ແລະອີຊະມາເອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:01:14.510904774Z",
+  "model": "glm-5.3"
+}

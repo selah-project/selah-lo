@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແມ່ນບໍ່ຄວາມສະຫຼາດຮຽກ ແລະຄວາມເຂົ້າໃຈໃຫ້ສຽງຂອງນາງ.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ແມ່ນບໍ່"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ຄວາມສະຫຼາດ"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ຮຽກ"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "ແລະຄວາມເຂົ້າໃຈ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ໃຫ້"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "ສຽງຂອງນາງ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:09:06.000779748Z",
+  "model": "glm-5.3"
+}

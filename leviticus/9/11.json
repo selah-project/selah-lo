@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ແລະ⟨את⟩ຊີ້ນ ແລະ⟨את⟩ໜັງ ⟨ເພິ່ນ⟩ໄດ້ເຜົາໃນໄຟ ນອກຄ້າຍ",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ຊີ້ນ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ຊີ້ນ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ໜັງ"
+    },
+    {
+      "surface": "העור",
+      "gloss": "ໜັງ"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ໄດ້ເຜົາ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ໃນໄຟ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ນອກ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ຄ້າຍ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:21:47.840921759Z",
+  "model": "glm-5.3"
+}

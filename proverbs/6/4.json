@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ຢ່າໃຫ້ການນອນແກ່ຕາຂອງເຈົ້າ ແລະຄວາມງົວແກ່ຂົນຕາຂອງເຈົ້າ",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ໃຫ້"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ການນອນ"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "ແກ່ຕາຂອງເຈົ້າ"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "ແລະຄວາມງົວ"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "ແກ່ຂົນຕາຂອງເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:30:31.130206096Z",
+  "model": "glm-5.3"
+}

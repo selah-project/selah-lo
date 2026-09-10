@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ຂອງຄົນເກຣຊູນິ ລາດານ ແລະຊິມອີ.",
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "ຂອງຄົນເກຣຊູນິ"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "ລາດານ"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "ແລະຊິມອີ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:17:39.818184386Z",
+  "model": "glm-5.3"
+}

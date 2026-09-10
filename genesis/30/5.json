@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ບິລຮາຕັ້ງຄັ້ນແລະເກີດລູກຊາຍໃຫ້ຢາອາໂຄບ.",
+  "tokens": [
+    {
+      "surface": "וַתַּהַר",
+      "gloss": "ຕັ້ງຄັ້ນ"
+    },
+    {
+      "surface": "בִּלְהָה",
+      "gloss": "ບິລຮາ"
+    },
+    {
+      "surface": "וַתֵּלֶד",
+      "gloss": "ແລະເກີດ"
+    },
+    {
+      "surface": "לְיַעֲקֹב",
+      "gloss": "ໃຫ້ຢາອາໂຄບ"
+    },
+    {
+      "surface": "בֵּן",
+      "gloss": "ລູກຊາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:34:15.253244457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 26:10",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ເພິ່ນຂີດວຽດວົງມົນເທິງໜ້ານ້ຳ ຈົນເຖິງຂອບຄວາມສະຫວ່າງກັບຄວາມມືດ.",
+  "tokens": [
+    {
+      "surface": "חק",
+      "gloss": "ຂີດ"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ວຽດວົງມົນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ໜ້າ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ຈົນເຖິງ"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "ຂອບ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ຄວາມສະຫວ່າງ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ຄວາມມືດ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:30:29.225272872Z",
+  "model": "glm-5.3"
+}

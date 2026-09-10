@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 2:2",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ດານ ໂຢເຊັບ ແລະບິນຢາມິນ ນັບທາລີ ກາດ ແລະອາເຊຣ.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "ດານ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ໂຢເຊັບ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ແລະບິນຢາມິນ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ນັບທາລີ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ກາດ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ແລະອາເຊຣ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:06:11.238539439Z",
+  "model": "glm-5.3"
+}

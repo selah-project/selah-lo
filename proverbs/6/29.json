@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 6:29",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ຄືກັນຜູ້ເຂົ້າຫາຍິງຂອງເພື່ອນຂອງລາວ ທຸກຜູ້ແຕະນາງຈະບໍ່ພົ້ນຜ່ອຍ.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ຄືກັນ"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "ຜູ້ເຂົ້າຫາ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ຍິງຂອງ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ເພື່ອນຂອງລາວ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "ຈະພົ້ນຜ່ອຍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ຜູ້ແຕະ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ນາງ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:33:04.315842433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 1:4",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ແລະໄດ້ມາ ຄຳຂອງຢາເວ ມາຫາຂ້ອຍ ເວົ້າວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະໄດ້ມາ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ມາຫາຂ້ອຍ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ເວົ້າວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T23:59:21.580424061Z",
+  "model": "glm-5.3"
+}

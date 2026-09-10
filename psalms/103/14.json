@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 103,
+  "translation": "ຍ້ອນວ່າເພິ່ນຮູ້ຮູບຮ່າງຂອງພວກເຮົາ ເພິ່ນຈື່ວ່າຝຸ່ນຄືພວກເຮົາ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ຍ້ອນວ່າ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ຮູ້"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "ຮູບຮ່າງຂອງພວກເຮົາ"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ຈື່"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ຝຸ່ນ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ພວກເຮົາ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:52:54.181451067Z",
+  "model": "glm-5.3"
+}

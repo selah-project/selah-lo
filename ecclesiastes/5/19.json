@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 5:19",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ເພາະ ບໍ່ ຫຼາຍ ເພິ່ນຈະຈື່ ⟨את⟩ ວັນ ແຫ່ງຊີວິດຂອງເພິ່ນ ເພາະ ເອໂລຮິມ ຕອບ ໃນຄວາມຍິນດີ ຂອງໃຈເພິ່ນ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ຫຼາຍ"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "ເພິ່ນຈະຈື່"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ວັນ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "ແຫ່ງຊີວິດຂອງເພິ່ນ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ເອໂລຮິມ"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "ຕອບ"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "ໃນຄວາມຍິນດີ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ຂອງໃຈເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:25:06.378985559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 6:16",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ມືດຍ້ອຍນ້ຳກ້ອນ, ຢູ່ໃນນັ້ນຫິມະຖືກປິດບັງ.",
+  "tokens": [
+    {
+      "surface": "הקדרים",
+      "gloss": "ມືດ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ຍ້ອຍ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ນ້ຳກ້ອນ"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ຢູ່ໃນນັ້ນ"
+    },
+    {
+      "surface": "יתעלם",
+      "gloss": "ຖືກປິດບັງ"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "ຫິມະ"
+    }
+  ],
+  "timestamp": "2026-09-10T00:26:22.245772750Z",
+  "model": "glm-5.3"
+}

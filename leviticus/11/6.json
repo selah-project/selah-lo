@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ແລະ⟨את⟩ກະຕ່າຍ ເພາະວ່າມັນເຄື່ອຍຄາຍ ແຕ່ມັນບໍ່ໄດ້ແຍກເລັບ ມັນເປັນສິ່ງບໍ່ສະອາດແກ່ພວກເຈົ້າ",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ກະຕ່າຍ"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "ກະຕ່າຍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະວ່າ"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "ເຄື່ອຍ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ຄາຍ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "ແລະເລັບ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "ແຍກ"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "ບໍ່ສະອາດ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ແກ່ພວກເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:32:30.869500848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 5:22",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ເພາະວ່າຖ້າເຈົ້າປະຕິເສດປະຕິເສດພວກເຮົາ, ເຈົ້າໂກດຕໍ່ພວກເຮົາເຖິງຫຼາຍ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະວ່າຖ້າ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ຄື"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "ປະຕິເສດ"
+    },
+    {
+      "surface": "מאסתנו",
+      "gloss": "ເຈົ້າປະຕິເສດພວກເຮົາ"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "ເຈົ້າໂກດ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ຕໍ່ພວກເຮົາ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ເຖິງ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ຫຼາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:44:01.893568486Z",
+  "model": "glm-5.3"
+}

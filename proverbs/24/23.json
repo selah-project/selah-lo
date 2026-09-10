@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 24:23",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ເຊັ່ນກັນ ເຫຼົ່ານີ້ແກ່ຜູ້ມີປັນຍາ ຮູ້ຈັກໜ້າໃນການຕັດສິນບໍ່ດີ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ເຊັ່ນກັນ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ເຫຼົ່ານີ້"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "ແກ່ຜູ້ມີປັນຍາ"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "ຮູ້ຈັກ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ໜ້າ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ໃນການຕັດສິນ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ດີ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:16:52.906137743Z",
+  "model": "glm-5.3"
+}

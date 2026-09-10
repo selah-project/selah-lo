@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ພາຍໃຕ້ຂ້າຮັບໃຊ້ເມື່ອປົກຄອງ ແລະຄົນໂງ່ເມື່ອອິ່ມອາຫານ.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ພາຍໃຕ້"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ຂ້າຮັບໃຊ້"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເມື່ອ"
+    },
+    {
+      "surface": "ימלוך",
+      "gloss": "ປົກຄອງ"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "ແລະຄົນໂງ່"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເມື່ອ"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ອິ່ມ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ອາຫານ"
+    }
+  ],
+  "timestamp": "2026-09-10T00:27:25.605192888Z",
+  "model": "glm-5.3"
+}

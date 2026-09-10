@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ຄູນຂອງຂ້ອຍສະຫວ່າງແລະແດງ, ເດັ່ນກວ່າໝື່ນໜຶ່ງ.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "ຄູນຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "צח",
+      "gloss": "ສະຫວ່າງ"
+    },
+    {
+      "surface": "ואדום",
+      "gloss": "ແລະແດງ"
+    },
+    {
+      "surface": "דגול",
+      "gloss": "ເດັ່ນ"
+    },
+    {
+      "surface": "מרבבה",
+      "gloss": "ກວ່າໝື່ນໜຶ່ງ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:54:00.074028205Z",
+  "model": "glm-5.3"
+}

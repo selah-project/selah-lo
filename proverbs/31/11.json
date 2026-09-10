@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 31,
+  "translation": "ຫົວໃຈຂອງຜົວຂອງນາງວາງໃຈຢູ່ໃນນາງ ແລະລາພັກເຂົາຈະບໍ່ຂາດ.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "ວາງໃຈ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ຢູ່ໃນນາງ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ຫົວໃຈ"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ຂອງຜົວຂອງນາງ"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "ແລະລາພັກ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ຈະຂາດ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:01:11.458808151Z",
+  "model": "glm-5.3"
+}

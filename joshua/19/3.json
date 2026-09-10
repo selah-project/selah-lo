@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ແລະຮາສາຣ-ຊູອານ ແລະບາລາ ແລະອາສັມ.",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "ແລະຮາສາຣ"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "ຊູອານ"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "ແລະບາລາ"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "ແລະອາສັມ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:39:22.598421459Z",
+  "model": "glm-5.3"
+}

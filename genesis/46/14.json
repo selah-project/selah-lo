@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 46,
+  "translation": "ແລະບັດຂອງເຊບູລຸນເຊເຣດ ອີໂລນ ແລະຢາຮເລອນ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ແລະບັດ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ເຊບູລຸນ"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "ເຊເຣດ"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "ແລະອີໂລນ"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "ແລະຢາຮເລອນ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:08:38.512715706Z",
+  "model": "glm-5.3"
+}

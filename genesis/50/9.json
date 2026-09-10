@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 50,
+  "translation": "ລົດຮົບທັງພະນັກມ້າຂຶ້ນນຳເພິ່ນ; ຂະບວນນັ້ນ⟨ເປັນ⟩ໜັກຫຼາຍ.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ໄດ້ຂຶ້ນ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ນຳເພິ່ນ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ທັງ"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "ລົດຮົບ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ທັງ"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "ພະນັກມ້າ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "⟨ເປັນ⟩"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ຂະບວນ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ໜັກ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ຫຼາຍ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:15:22.518096537Z",
+  "model": "glm-5.3"
+}

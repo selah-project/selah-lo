@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ແລະ⟨את⟩ໂປຣາທາ ແລະ⟨את⟩ອາດັລຢາ ແລະ⟨את⟩ອຣິດາທາ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ໂປຣາທາ"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "ໂປຣາທາ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ອາດັລຢາ"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "ອາດັລຢາ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ອຣິດາທາ"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "ອຣິດາທາ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:42:47.430675820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 22:14",
+  "book": "2-samuel",
+  "lang": "lo",
+  "chapter": 22,
+  "translation": "ຢາເວຮອງຈາກຟ້າສະຫວັນ ແລະເອລິໂອນໃຫ້ສຽງຂອງເພິ່ນ",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "ຢາເວຮອງ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ຟ້າສະຫວັນ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "ແລະເອລິໂອນ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ໃຫ້"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "ສຽງຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-08T22:09:16.189908617Z",
+  "model": "glm-5.3"
+}

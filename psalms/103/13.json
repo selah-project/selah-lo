@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 103,
+  "translation": "ຄືພໍ່າຮັກຕໍ່ລູກຊາຍ ຢາເວກໍຮັກຕໍ່ຜູ້ຍໍາເກງເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "ຄືຄວາມຮັກ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ພໍ່າ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ລູກຊາຍ"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ຮັກ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ຜູ້ຍໍາເກງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:52:54.181228622Z",
+  "model": "glm-5.3"
+}

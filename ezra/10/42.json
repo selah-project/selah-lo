@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezra 10:42",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ເຊລູມ ອາມາຣິຢາ ໂຢເຊັບ",
+  "tokens": [
+    {
+      "surface": "שַׁלּוּם",
+      "gloss": "ເຊລູມ"
+    },
+    {
+      "surface": "אֲמַרְיָה",
+      "gloss": "ອາມາຣິຢາ"
+    },
+    {
+      "surface": "יוֹסֵף",
+      "gloss": "ໂຢເຊັບ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:04:58.814998666Z",
+  "model": "glm-5.3"
+}

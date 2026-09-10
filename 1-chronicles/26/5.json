@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 26:5",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ອຳມີເອນ ທີ 6 ຢິດສະຄາຣ ທີ 7 ເປົວເລທາຍ ທີ 8 ເພາະ ເອໂລຮິມ ໄດ້ອວຍພອນ ເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "עמיאל",
+      "gloss": "ອຳມີເອນ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ທີ 6"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ຢິດສະຄາຣ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ທີ 7"
+    },
+    {
+      "surface": "פעלתי",
+      "gloss": "ເປົວເລທາຍ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ທີ 8"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "ໄດ້ອວຍພອນ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ເອໂລຮິມ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:35:54.146464534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 25:1",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ແລະຂໍ້ຄວາມຂອງຢາເວມາຫາຂ້ອຍກ່າວວ່າ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະມີ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຂໍ້ຄວາມ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ມາຫາຂ້ອຍ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ກ່າວວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T22:52:35.528357030Z",
+  "model": "glm-5.3"
+}

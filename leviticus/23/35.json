@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ໃນວັນທຳອິດ ⟨ເປັນ⟩ ການລະດົມສັກສິດ; ວຽກຂອງການຮັບໃຊ້ທັງໝົດ ຢ່າທຳ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ໃນວັນ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ທຳອິດ"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "ການລະດົມ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ສັກສິດ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ວຽກ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ຂອງການຮັບໃຊ້"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ທຳ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:44:53.074071532Z",
+  "model": "glm-5.3"
+}

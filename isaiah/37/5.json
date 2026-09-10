@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 37,
+  "translation": "ແລະຂ້າຮັບຂອງກະສັດຮິຊະກິຢາບໄດ້ເຂົ້າມາຫາເຢຊາຢາບ.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ແລະໄດ້ເຂົ້າມາ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ຂ້າຮັບຂອງ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ຮິຊະກິຢາບ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ເຢຊາຢາບ"
+    }
+  ],
+  "timestamp": "2026-09-08T23:37:55.804432166Z",
+  "model": "glm-5.3"
+}

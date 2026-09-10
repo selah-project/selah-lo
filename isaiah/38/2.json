@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 38:2",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 38,
+  "translation": "ແລະຮິຊກິຢາຮູຫັນໜ້າຂອງເພິ່ນໄປທາງຝາແລະອະທິຖານຕໍ່ຢາເວ.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ແລະຫັນ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ຮິຊກິຢາຮູ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ໜ້າຂອງເພິ່ນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ໄປທາງ"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "ຝາ"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "ແລະອະທິຖານ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-08T23:35:48.696347334Z",
+  "model": "glm-5.3"
+}

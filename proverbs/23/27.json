@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ຍ້ອນວ່າແມ່ຂາຍຕົວ⟨ເປັນ⟩ຂຸມເລິກ ແລະແມ່ຍິງແປກປອມ⟨ເປັນ⟩ບໍ່ນ້ຳຄັດ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ຍ້ອນວ່າ"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "ຂຸມ"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "ເລິກ"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "ແມ່ຂາຍຕົວ"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "ແລະບໍ່ນ້ຳ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ຄັດ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "ແມ່ຍິງແປກປອມ"
+    }
+  ],
+  "timestamp": "2026-09-10T00:24:27.810296516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 84:13",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 84,
+  "translation": "ຢາເວ ເສວາໂອດ, ຄວາມສຸກຂອງມະນຸດຜູ້ທີ່ໄວ້ວາງໃຈໃນເຈົ້າ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ເສວາໂອດ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ຄວາມສຸກຂອງ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ມະນຸດ"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ໄວ້ວາງໃຈ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ໃນເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:41:43.025847392Z",
+  "model": "glm-5.3"
+}

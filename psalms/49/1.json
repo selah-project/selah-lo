@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 49,
+  "translation": "ແກ່ຜູ້ຄວບຄຸມ ແກ່ບັດຫຼານຂອງກໍຣາຮ ບົດຂັດພາດ",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ແກ່ຜູ້ຄວບຄຸມ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ແກ່ບັດຫຼານຂອງ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ກໍຣາຮ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ບົດຂັດພາດ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:13:45.869983986Z",
+  "model": "glm-5.3"
+}

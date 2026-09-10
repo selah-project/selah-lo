@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 8:31",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະເກໂດຣ ແລະອາຮິໂວ ແລະຊາກາຣ.",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "ແລະ ເກໂດຣ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ແລະ ອາຮິໂວ"
+    },
+    {
+      "surface": "וזכר",
+      "gloss": "ແລະ ຊາກາຣ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:30:38.862690727Z",
+  "model": "glm-5.3"
+}

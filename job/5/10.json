@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 5:10",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ຜູ້ໃຫ້ຝົນເທິງໜ້າຂອງແຜ່ນດິນ ແລະສົ່ງນ້ຳເທິງໜ້າຂອງທົ່ງນອກ.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "ຜູ້ໃຫ້"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ຝົນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ໜ້າຂອງ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ແຜ່ນດິນ"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ແລະສົ່ງ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ໜ້າຂອງ"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "ທົ່ງນອກ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:23:46.356592774Z",
+  "model": "glm-5.3"
+}

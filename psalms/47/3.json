@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 47,
+  "translation": "ເພາະຢາເວສູງສຸດນ່າຢ້ານ ⟨ເປັນ⟩ ກະສັດໃຫຍ່ເໜືອແຜ່ນດິນໂລກທັງປວງ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະວ່າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ສູງສຸດ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ນ່າຢ້ານ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ໃຫຍ່"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງປວງ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ແຜ່ນດິນໂລກ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:37:39.706375970Z",
+  "model": "glm-5.3"
+}

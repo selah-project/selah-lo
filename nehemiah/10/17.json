@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 10:17",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ອາໂດນີຢາ ບິກວາຍ ອາດີນ,",
+  "tokens": [
+    {
+      "surface": "אדניה",
+      "gloss": "ອາໂດນີຢາ"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "ບິກວາຍ"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "ອາດີນ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:52:34.997287434Z",
+  "model": "glm-5.3"
+}

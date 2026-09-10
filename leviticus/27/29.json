@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 27,
+  "translation": "ທຸກສິ່ງທີ່ຖືກວາງຂອງຖວາຍຈາກມະນຸດຈະບໍ່ຖືກແລກຄືນ ຕ້ອງຕາຍແທ້.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ສິ່ງທີ່ຖືກວາງຂອງຖວາຍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "ຖືກວາງຂອງຖວາຍ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ມະນຸດ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ຈະຖືກແລກຄືນ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ຕາຍ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ຕ້ອງຕາຍແທ້"
+    }
+  ],
+  "timestamp": "2026-09-08T18:52:06.627989709Z",
+  "model": "glm-5.3"
+}

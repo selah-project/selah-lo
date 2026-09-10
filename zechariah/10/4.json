@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 10:4",
+  "book": "zechariah",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ຈາກເພິ່ນຫີນມຸມ ຈາກເພິ່ນໝັດ ຈາກເພິ່ນລູກທອງສົງຄາມ ຈາກເພິ່ນທຸກຜູ້ກົດຂູດຈະອອກນຳກັນ.",
+  "tokens": [
+    {
+      "surface": "ממנו",
+      "gloss": "ຈາກເພິ່ນ"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ຫີນມຸມ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ຈາກເພິ່ນ"
+    },
+    {
+      "surface": "יתד",
+      "gloss": "ໝັດ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ຈາກເພິ່ນ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ລູກທອງ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ສົງຄາມ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ຈາກເພິ່ນ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ຈະອອກ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "ຜູ້ກົດຂູດ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ນຳກັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:28:19.619623654Z",
+  "model": "glm-5.3"
+}

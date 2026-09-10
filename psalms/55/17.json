@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 55,
+  "translation": "ຂ້ອຍຈະຮ້ອງຕໍ່ເອໂລຮິມ ແລະຢາເວຈະຊ່ວຍຂ້ອຍ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ຂ້ອຍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ເອໂລຮິມ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ຂ້ອຍຈະຮ້ອງ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ແລະ ຢາເວ"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "ຢາເວຈະຊ່ວຍຂ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:41:11.554011557Z",
+  "model": "glm-5.3"
+}

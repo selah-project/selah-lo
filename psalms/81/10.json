@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 81,
+  "translation": "ຢ່າມີເອນແປກຝາກຢູ່ໃນເຈົ້າ ແລະເຈົ້າຢ່າໄຫວ້ຕໍ່ເອນຕ່າງດ້າວ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ຢູ່ໃນເຈົ້າ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເອນ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ແປກຝາກ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະຢ່າ"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "ເຈົ້າໄຫວ້"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ຕໍ່ເອນ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ຕ່າງດ້າວ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:51:15.778946262Z",
+  "model": "glm-5.3"
+}

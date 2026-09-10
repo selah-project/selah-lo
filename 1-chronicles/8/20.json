@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 8:20",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະເອນິເຢນາຍ ແລະສິນເລທາຍ ແລະເອນິເອນ",
+  "tokens": [
+    {
+      "surface": "ואליעני",
+      "gloss": "ແລະເອນິເຢນາຍ"
+    },
+    {
+      "surface": "וצלתי",
+      "gloss": "ແລະສິນເລທາຍ"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "ແລະເອນິເອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:17:31.260917168Z",
+  "model": "glm-5.3"
+}

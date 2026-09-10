@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 13:6",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ຂອງເຜົ່າຢູດາ ກາເລັບລູກຊາຍຂອງຢິຟູເນ.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ຂອງເຜົ່າ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ຢູດາ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ກາເລັບ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ຢິຟູເນ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:07:39.608214064Z",
+  "model": "glm-5.3"
+}

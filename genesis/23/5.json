@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ແລະລູກຊາຍຂອງຮັດໄດ້ຕອບ⟨את⟩ອັບຣາຮາມເພື່ອກ່າວກັບເພິ່ນວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "ໄດ້ຕອບ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ຮັດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ອັບຣາຮາມ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ອັບຣາຮາມ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ເພື່ອກ່າວ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ກັບເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:27:03.778951054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ເພິ່ນສ້າງແລະ⟨את⟩ບ່ອນຕັ້ງ ເພິ່ນສ້າງແລະ⟨את⟩ອ່າງນ້ຳເທິງບ່ອນຕັ້ງ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ບ່ອນຕັ້ງ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ບ່ອນຕັ້ງ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ສ້າງ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ອ່າງນ້ຳ"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "ອ່າງນ້ຳ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ສ້າງ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ບ່ອນຕັ້ງ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:57:49.991324814Z",
+  "model": "glm-5.3"
+}

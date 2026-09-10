@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ພວກເຮົາເປັນລູກກຳພ່າບໍ່ມີພໍ່, ແມ່ຂອງພວກເຮົາຄືແມ່ໝດາຍ.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "ລູກກຳພ່າ"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ພວກເຮົາເປັນ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ບໍ່ມີ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ພໍ່"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "ແມ່ຂອງພວກເຮົາ"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "ຄືແມ່ໝດາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:18:12.198652654Z",
+  "model": "glm-5.3"
+}

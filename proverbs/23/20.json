@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ຢ່າຢູ່ທ່າມກາງຜູ້ດື່ມເຫຼົ້າ ແລະຜູ້ກິນຊີ້ນຢ່າງຫຼວງຫຼາຍ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ຢູ່"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "ທ່າມກາງຜູ້ດື່ມ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ເຫຼົ້າ"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "ທ່າມກາງຜູ້ກິນຢ່າງຫຼວງຫຼາຍ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ຊີ້ນ"
+    },
+    {
+      "surface": "למו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-09T19:16:21.633102428Z",
+  "model": "glm-5.3"
+}

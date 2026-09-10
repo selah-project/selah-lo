@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ຜູ້ຮັກຂອງຂ້ອຍສົ່ງມືຂອງເພິ່ນຈາກຊ່ອງ, ແລະໃຈຂອງຂ້ອຍສັ່ນສະເທືອນຕໍ່ເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "ຜູ້ຮັກຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ສົ່ງ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ມືຂອງເພິ່ນ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "החר",
+      "gloss": "ຊ່ອງ"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "ແລະໃຈຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "המו",
+      "gloss": "ສັ່ນສະເທືອນ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ຕໍ່ເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:58:00.824428301Z",
+  "model": "glm-5.3"
+}

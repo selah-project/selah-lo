@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ແລະ⟨את⟩ນກທຸກໂຕຕາມຊະນິດຂອງມັນ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ນກທຸກໂຕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກໂຕ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ນກ"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "ຕາມຊະນິດຂອງມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:28:32.813082681Z",
+  "model": "glm-5.3"
+}

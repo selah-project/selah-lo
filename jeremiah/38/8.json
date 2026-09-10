@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 38:8",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 38,
+  "translation": "ແລະເອເບັດມເລັກອອກຈາກເຮືອນຂອງກະສັດ ແລະໄດ້ເວົ້າຕໍ່ກະສັດວ່າ.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ແລະອອກ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ເອເບັດ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ມເລັກ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ຈາກເຮືອນ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ຂອງກະສັດ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ແລະໄດ້ເວົ້າ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T17:22:06.615585170Z",
+  "model": "glm-5.3"
+}

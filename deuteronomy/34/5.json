@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 34,
+  "translation": "ໂມເຊ ຜູ້ຮັບໃຊ້ຂອງຢາເວ ໄດ້ຕາຍຢູ່ທີ່ນັ້ນ ໃນແຜ່ນດິນມິດສະຣາຢິມ ຕາມປາກຂອງຢາເວ.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ແລະພິ່ນໄດ້ຕາຍ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ຢູ່ທີ່ນັ້ນ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ຜູ້ຮັບໃຊ້"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ໃນແຜ່ນດິນ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ມິດສະຣາຢິມ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຕາມ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ປາກ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:46:45.178171143Z",
+  "model": "glm-5.3"
+}

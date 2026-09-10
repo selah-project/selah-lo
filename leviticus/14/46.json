@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ແລະຜູ້ເຂົ້າໄປໃນເຮືອນ ຕະຫຼອດວັນປິດຕາ⟨את⟩ມັນ ຈະເປັນບໍ່ສະອາດຈົນເຖິງຄ່ຳ.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "ແລະຜູ້ເຂົ້າ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ໄປໃນ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ເຮືອນ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ຕະຫຼອດ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "ການປິດຕາ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ມັນ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ຈະເປັນບໍ່ສະອາດ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ຈົນເຖິງ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ຄ່ຳ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:30:36.292606394Z",
+  "model": "glm-5.3"
+}

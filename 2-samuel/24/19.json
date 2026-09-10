@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ແລະດາວິດຂຶ້ນໄປ ຕາມຄຳຂອງກາດ ດັ່ງທີ່ຢາເວໄດ້ບັນຍັດ.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ແລະຂຶ້ນໄປ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ດາວິດ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ຕາມຄຳ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ກາດ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ດັ່ງທີ່"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ໄດ້ບັນຍັດ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-08T22:11:32.732204272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 36:37",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 36,
+  "translation": "ຊຳລາຮໄດ້ຕາຍ ແລະຊາອູນຈາກຣະໂຮໂບດແມ່ນ້ຳໄດ້ຄອງແທນເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ໄດ້ຕາຍ"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "ຊຳລາຮ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ແລະໄດ້ຄອງ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ແທນເພິ່ນ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ຊາອູນ"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "ຈາກຣະໂຮໂບດ"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ແມ່ນ້ຳ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:49:26.784159937Z",
+  "model": "glm-5.3"
+}

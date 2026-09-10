@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ຍ້ອນວ່າເອໂລຮິມຈະນຳ⟨את⟩ທຸກການກະທຳມາສູ່ການພິພາກສາ ເໜືອທຸກສິ່ງທີ່ປິດບັງ ຫາກດີ ຫາກຮ້າຍ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ຍ້ອນວ່າ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ທຸກການກະທຳ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ການກະທຳ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ເອໂລຮິມ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ຈະນຳມາສູ່"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ເຂົ້າໃນການພິພາກສາ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "ສິ່ງທີ່ປິດບັງ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ຫາກ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ຫຼືຫາກ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ຮ້າຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:47:15.386063791Z",
+  "model": "glm-5.3"
+}

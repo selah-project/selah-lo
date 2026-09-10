@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 26:13",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ຕໍ່ເຊຣາຮ ຕະກູນຊຣາຮິ ຕໍ່ຊາອູນ ຕະກູນຊາອູນິ",
+  "tokens": [
+    {
+      "surface": "לזרח",
+      "gloss": "ຕໍ່ເຊຣາຮ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ຕະກູນ"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "ຊຣາຮິ"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ຕໍ່ຊາອູນ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ຕະກູນ"
+    },
+    {
+      "surface": "השאולי",
+      "gloss": "ຊາອູນິ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:25:15.130110135Z",
+  "model": "glm-5.3"
+}

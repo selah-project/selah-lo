@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 4:17",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ແລະໂກເຮນຊຸມນິ້ວມືຂອງເພິ່ນໃນເລືອດ ແລະພົ່ນເຈັດຄັ້ງຕໍ່ໜ້າຢາເວ ຄື⟨את⟩ໜ້າຂອງຜ້າມ່ານ",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "ຊຸມ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ໂກເຮນ"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "ນິ້ວມືຂອງເພິ່ນ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ໃນ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ເລືອດ"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "ແລະພົ່ນ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ເຈັດ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ຄັ້ງ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ຕໍ່ໜ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ໜ້າຂອງຜ້າມ່ານ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ໜ້າ"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "ຜ້າມ່ານ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:16:15.877302741Z",
+  "model": "glm-5.3"
+}

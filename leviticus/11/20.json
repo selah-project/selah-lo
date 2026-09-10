@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ທັງໝົດສິ່ງຄຶດຄາວທີ່ເປັນນົກ ທີ່ໄປດ້ວຍສີ່ຂາ ຄືສິ່ງຮັງກັນ ແກ່ພວກເຈົ້າ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "ສິ່ງຄຶດຄາວ"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ນົກ"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ທີ່ໄປ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ດ້ວຍ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ສີ່"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ສິ່ງຮັງກັນ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ຄື"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ແກ່ພວກເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:23:13.865928457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 19:21",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ມີແຜນຢ່າງຫຼາຍຢູ່ໃນໃຈຂອງຄົນ ແຕ່ຄຳປຶກສາຂອງຢາເວ ນັ້ນ ⟨ຈະ⟩ ຢືນຢູ່.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "ຫຼາຍ"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "ແຜນ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ຢູ່ໃນໃຈຂອງ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "ແລະຄຳປຶກສາຂອງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ນັ້ນ"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ຢືນຢູ່"
+    }
+  ],
+  "timestamp": "2026-09-09T19:15:17.904654531Z",
+  "model": "glm-5.3"
+}

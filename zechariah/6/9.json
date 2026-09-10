@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 6:9",
+  "book": "zechariah",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ມີຄຳຂອງຢາເວມາຫາຂ້ອຍວ່າ",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ມາຫາຂ້ອຍ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:20:50.852391984Z",
+  "model": "glm-5.3"
+}

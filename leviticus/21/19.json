@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 21:19",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ຫຼືຄົນຜູ້ທີ່ມີຂາຫັກ ຫຼືມືຫັກ.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ຜູ້ທີ່"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ໃນຕົວຂອງເພິ່ນ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ກະດູກຫັກ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ຂາ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ກະດູກຫັກ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ມື"
+    }
+  ],
+  "timestamp": "2026-09-08T18:40:29.389734199Z",
+  "model": "glm-5.3"
+}

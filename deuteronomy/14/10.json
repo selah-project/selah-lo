@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ແລະທັງໝົດທີ່ບໍ່ມີຄີປາ ແລະເກັດປາ ພວກເຈົ້າຈະບໍ່ກິນ; ມັນບໍ່ສະອາດແກ່ພວກເຈົ້າ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ແລະທັງໝົດ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ບໍ່ມີ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ຂອງມັນ"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "ຄີປາ"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "ແລະເກັດປາ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ພວກເຈົ້າຈະກິນ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ບໍ່ສະອາດ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ແກ່ພວກເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:54:37.503859644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 20:29",
+  "book": "judges",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ອິສະຣາເອນໄດ້ຕັ້ງຜູ້ແອບຮັບຕໍ່ກິບອາຮາອ້ອມຮອບ.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ໄດ້ຕັ້ງ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "ຜູ້ແອບຮັບ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "ກິບອາຮາ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ອ້ອມຮອບ"
+    }
+  ],
+  "timestamp": "2026-09-08T21:11:49.840958676Z",
+  "model": "glm-5.3"
+}

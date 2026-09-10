@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 2:52",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະມີລູກຊາຍແກ່ໂຊບານພໍ່ຂອງຄິຣະຢາດຢາຣິມ: ຮາໂຣເອ, ຄິວຂອງມະນູໂຄດ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ແລະມີ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ລູກຊາຍ"
+    },
+    {
+      "surface": "לשובל",
+      "gloss": "ແກ່ໂຊບານ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ພໍ່ຂອງ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ຄິຣະຢາດ"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "ຢາຣິມ"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "ຮາໂຣເອ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ຄິວຂອງ"
+    },
+    {
+      "surface": "המנחות",
+      "gloss": "ມະນູໂຄດ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:10:21.200571435Z",
+  "model": "glm-5.3"
+}

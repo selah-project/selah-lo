@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 115,
+  "translation": "ຮູບປັ້ນຂອງເຂົາ ⟨ເປັນ⟩ ເງິນ ແລະຄຳ ⟨ເປັນ⟩ ຜົນງານຂອງມື ມະນຸດ",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "ຮູບປັ້ນຂອງເຂົາ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ເງິນ"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ແລະຄຳ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ຜົນງານ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ຂອງມື"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ມະນຸດ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:04:17.636191792Z",
+  "model": "glm-5.3"
+}

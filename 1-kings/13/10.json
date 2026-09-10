@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ແລະເພິ່ນໄດ້ໄປຕາມທາງອື່ນ ແລະບໍ່ໄດ້ກັບຄືນຕາມທາງທີ່ເພິ່ນມາໃນນັ້ນ ສູ່ເບດເອນ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ແລະໄດ້ໄປ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ຕາມທາງ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ອື່ນ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ກັບຄືນ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ຕາມທາງ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ມາ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ໃນນັ້ນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ສູ່"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ບີດ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເອນ"
+    }
+  ],
+  "timestamp": "2026-09-08T22:28:07.911015381Z",
+  "model": "glm-5.3"
+}

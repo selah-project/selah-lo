@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ນ້ຳທ່ວມເໜືອຫົວຂອງຂ້ອຍ ຂ້ອຍເວົ້າວ່າຂ້ອຍຖືກຕັດຂາດ.",
+  "tokens": [
+    {
+      "surface": "צָֽפוּ",
+      "gloss": "ທ່ວມ"
+    },
+    {
+      "surface": "מַ֥יִם",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "עַ֖ל",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "רֹאשִׁ֥י",
+      "gloss": "ຫົວຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "אָמַ֥רְתִּי",
+      "gloss": "ຂ້ອຍເວົ້າວ່າ"
+    },
+    {
+      "surface": "נִגְזָֽרְתִּי",
+      "gloss": "ຂ້ອຍຖືກຕັດຂາດ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:42:59.833899056Z",
+  "model": "glm-5.3"
+}

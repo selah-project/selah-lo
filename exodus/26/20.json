@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ແລະສຳລັບດ້ານທີສອງຂອງມິຊການຢູ່ດ້ານເໜືອ ຊາວແຜ່ນໄມ້.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "ແລະສຳລັບດ້ານ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ຂອງມິຊການ"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ທີສອງ"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ດ້ານ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ຊາວ"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "ແຜ່ນໄມ້"
+    }
+  ],
+  "timestamp": "2026-09-08T17:52:09.381604700Z",
+  "model": "glm-5.3"
+}

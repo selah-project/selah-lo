@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ໃນຄວາມມືດ ເພິ່ນໃຫ້ຂ້ອຍນັ່ງຢູ່ ຄືຄົນຕາຍແຕ່ບູຮານ.",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "ໃນຄວາມມືດ"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "ໃຫ້ຂ້ອຍນັ່ງຢູ່"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "ຄືຄົນຕາຍ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ແຕ່ບູຮານ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:23:44.717516729Z",
+  "model": "glm-5.3"
+}

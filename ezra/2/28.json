@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ຊາຍຄົນຂອງເບດ-ເອນ ແລະອາຢີ ສອງຮ້ອຍຊາວສາມຄົນ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ຊາຍຄົນຂອງ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ເບດ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເອນ"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "ແລະອາຢີ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ສອງຮ້ອຍ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ຊາວ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ສາມ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:17:14.858967643Z",
+  "model": "glm-5.3"
+}

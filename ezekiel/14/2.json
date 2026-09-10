@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 14:2",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ແລະຄຳຂອງຢາເວມາຫາຂ້ອຍກ່າວວ່າ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະເກີດ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ຫາຂ້ອຍ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ກ່າວວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T17:36:30.827798211Z",
+  "model": "glm-5.3"
+}

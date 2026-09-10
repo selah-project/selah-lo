@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 32,
+  "translation": "ເບິ່ງແມ ເຮົາ ຢາເວ ເອໂລຮິມຂອງເນື້ອໜັງທັງທຸກ: ມີສິ່ງໃດຍາກຈາກເຮົາບໍ່?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ເບິ່ງແມ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ເຮົາ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ເອໂລຮິມຂອງ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງທຸກ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ເນື້ອໜັງ"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "ຈາກເຮົາ"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "ຍາກ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງທຸກ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ສິ່ງ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:32:14.698050054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 4:15",
+  "book": "joshua",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ແລະຢາເວກ່າວຕໍ່ເຢໂຮຊູອາວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະຢາເວກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ເຢໂຮຊູອາ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:21:07.111240605Z",
+  "model": "glm-5.3"
+}

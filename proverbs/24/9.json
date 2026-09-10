@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 24:9",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ແຜນຊົ່ວຂອງຄວາມໂງ່⟨ເປັນ⟩ບາບ ແລະຄວາມນິຍົມຕໍ່ມະນຸດ⟨ເປັນ⟩ຜູ້ລຽກລຽວ.",
+  "tokens": [
+    {
+      "surface": "זמת",
+      "gloss": "ແຜນຊົ່ວ"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ຄວາມໂງ່"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ບາບ"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "ຄວາມນິຍົມ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ຕໍ່ມະນຸດ"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "ຜູ້ລຽກລຽວ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:17:32.878454165Z",
+  "model": "glm-5.3"
+}

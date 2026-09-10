@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 119,
+  "translation": "ລຳນ້ຳໄຫຼລົງຈາກຕາຂອງຂ້ອຍ ຍ້ອນວ່າບໍ່ໄດ້ຮັກສາໂທຣາຂອງເຈົ້າ",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "ລຳນ້ຳ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ໄຫຼລົງ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ຕາຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຍ້ອນວ່າ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ໄດ້ຮັກສາ"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ໂທຣາຂອງເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:02:47.672543704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 73,
+  "translation": "ອອກຈາກຄວາມອຸດົມຕາຂອງເຂົາ ຮູບຄິດຂອງໃຈຂ້າມພົ້ນ",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "ອອກ"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ຈາກຄວາມອຸດົມ"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "ຕາຂອງເຂົາ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ຂ້າມພົ້ນ"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "ຮູບຄິດຂອງ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ໃຈ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:32:55.690730668Z",
+  "model": "glm-5.3"
+}

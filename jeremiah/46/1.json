@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 46:1",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 46,
+  "translation": "ສິ່ງທີ່ໄດ້ເປັນມາ ຄຳຂອງຢາເວ ຕໍ່ເຢຣະມີຢາຫ໌ ຜູ້ພະຍາກອນ ຕໍ່ບັນດາຊົນຊາດ",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ສິ່ງທີ່"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ໄດ້ເປັນມາ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ເຢຣະມີຢາຫ໌"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ຜູ້ພະຍາກອນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ບັນດາຊົນຊາດ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:44:41.366505585Z",
+  "model": "glm-5.3"
+}

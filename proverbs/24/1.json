@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ຢ່າອິດໃນຄົນຊົ່ວຮ້າຍ ແລະຢ່າຢາກເປັນກັບ⟨את⟩ພວກເຂົາ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ອິດ"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "ໃນຄົນ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ຊົ່ວຮ້າຍ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ແລະຢ່າ"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ຢາກ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ເປັນ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ກັບ⟨את⟩ພວກເຂົາ",
+      "marks": "ພວກເຂົາ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:52:56.185921546Z",
+  "model": "glm-5.3"
+}

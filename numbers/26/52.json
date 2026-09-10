@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 26:52",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ແລະຢາເວເວົ້າຕໍ່ໂມເຊວ່າ",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ແລະຢາເວເວົ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:27:16.086496303Z",
+  "model": "glm-5.3"
+}

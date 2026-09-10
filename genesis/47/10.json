@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 47,
+  "translation": "ແລະຢາອາໂຄບອວຍພອນ⟨את⟩ຟາໂຣ ແລະອອກໄປຈາກໜ້າຂອງຟາໂຣ.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "ແລະຢາອາໂຄບອວຍພອນ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ຢາອາໂຄບ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຟາໂຣ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ຟາໂຣ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ແລະອອກໄປ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ຈາກໜ້າຂອງ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ຟາໂຣ"
+    }
+  ],
+  "timestamp": "2026-09-09T11:40:02.492877044Z",
+  "model": "glm-5.3"
+}

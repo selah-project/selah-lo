@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 18,
+  "translation": "ທູ ກະສັດຂອງຮາມາດ ໄດ້ຍິນວ່າ ດາວິດໄດ້ຕີ⟨את⟩ກອງທັບທັງໝົດຂອງຮັດດັດເອເຊຣະ ກະສັດຂອງໂຊບາ.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ແລະເພິ່ນໄດ້ຍິນ"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "ທູ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ຮາມາດ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ໄດ້ຕີ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ດາວິດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ກອງທັບທັງໝົດ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ກອງທັບ"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ຮັດດັດເອເຊຣະ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "ໂຊບາ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:39:26.317696207Z",
+  "model": "glm-5.3"
+}

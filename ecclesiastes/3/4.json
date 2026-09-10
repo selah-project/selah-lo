@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ເວລາຮ້ອງໄຫ້ ແລະເວລາຫົວຂວັນ ເວລາໄວ້ອາລະນາ ແລະເວລາລໍາພັນ.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ເວລາ"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "ຮ້ອງໄຫ້"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ແລະເວລາ"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "ຫົວຂວັນ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ເວລາ"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "ໄວ້ອາລະນາ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ແລະເວລາ"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "ລໍາພັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:20:31.593378490Z",
+  "model": "glm-5.3"
+}

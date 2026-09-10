@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ລູກຂອງມະນຸດ, ມີແມ່ຍິງສອງຄົນ ລູກສາວຂອງແມ່ໜຶ່ງ",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ລູກ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ຂອງມະນຸດ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ແມ່ຍິງ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ລູກສາວ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ແມ່"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ມີ"
+    }
+  ],
+  "timestamp": "2026-09-09T01:27:13.971719070Z",
+  "model": "glm-5.3"
+}

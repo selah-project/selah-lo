@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ແລະເກເດຊ ແລະເອດຣາຍ ແລະເອນຮາສອນ.",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "ແລະເກເດຊ"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "ແລະເອດຣາຍ"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ແລະເອນ"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ຮາສອນ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:39:55.438318193Z",
+  "model": "glm-5.3"
+}

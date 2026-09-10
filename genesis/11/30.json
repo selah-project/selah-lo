@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ແລະຊາຣາຍກໍ⟨ເປັນ⟩ຄົນບໍ່ມີລູກ ບໍ່ມີລູກແກ່ນາງ.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ກໍເປັນ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ຊາຣາຍ"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "ຄົນບໍ່ມີລູກ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ບໍ່ມີ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ແກ່ນາງ"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "ລູກ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:14:47.430711363Z",
+  "model": "glm-5.3"
+}

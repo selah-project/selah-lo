@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ລົມໄປສູ່ທິດໃຕ້ ແລະວຽນໄປສູ່ທິດເໜືອ ວຽນ ວຽນ ລົມໄປ ແລະກັບຄືນຕາມວົງວຽນຂອງມັນ ລົມກັບຄືນ.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ໄປ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ສູ່"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "ທິດໃຕ້"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "ແລະວຽນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ສູ່"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ທິດເໜືອ"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "ວຽນ"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "ວຽນ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ໄປ"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ລົມ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ແລະຕາມ"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "ວົງວຽນຂອງມັນ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ກັບຄືນ"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ລົມ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:45:18.629196427Z",
+  "model": "glm-5.3"
+}

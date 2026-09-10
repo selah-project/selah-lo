@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ໂລດອອກໄປຫາພວກເຂົາທີ່ປະຕູ ແລະປິດປະຕູຢູ່ຫຼັງຕົນ.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ອອກໄປ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ຫາພວກເຂົາ"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ໂລດ"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "ທີ່ປະຕູ"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "ແລະປະຕູ"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ປິດ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ຢູ່ຫຼັງຕົນ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:19:39.995644167Z",
+  "model": "glm-5.3"
+}

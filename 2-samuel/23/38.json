@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ອີຣາຊາວຢິດຣິ ກາເຣບຊາວຢິດຣິ.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ອີຣາ"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ຊາວຢິດຣິ"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "ກາເຣບ"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ຊາວຢິດຣິ"
+    }
+  ],
+  "timestamp": "2026-09-08T22:09:15.522261995Z",
+  "model": "glm-5.3"
+}

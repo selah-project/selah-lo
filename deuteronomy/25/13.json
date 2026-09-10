@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ຈະບໍ່ມີແກ່ເຈົ້າໃນຖົງຂອງເຈົ້າ ຫີນໜຶ່ງໂຕແລະຫີນໜຶ່ງໂຕ ໃຫຍ່ແລະນ້ອຍ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ຈະມີ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ແກ່ເຈົ້າ"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "ໃນຖົງຂອງເຈົ້າ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ຫີນ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ແລະຫີນ"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ໃຫຍ່"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "ແລະນ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:37:46.994916562Z",
+  "model": "glm-5.3"
+}

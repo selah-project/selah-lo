@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 107:29",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 107,
+  "translation": "ເພິ່ນຕັ້ງພະຍຸໃຫ້ງຽບ ແລະຄື້ນຂອງພວກເຂົາສະງັກລົງ",
+  "tokens": [
+    {
+      "surface": "יקם",
+      "gloss": "ຕັ້ງ"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "ພະຍຸ"
+    },
+    {
+      "surface": "לדממה",
+      "gloss": "ໃຫ້ງຽບ"
+    },
+    {
+      "surface": "ויחשו",
+      "gloss": "ແລະສະງັກລົງ"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "ຄື້ນຂອງພວກເຂົາ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:00:25.829886868Z",
+  "model": "glm-5.3"
+}

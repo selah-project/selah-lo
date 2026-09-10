@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 148,
+  "translation": "ສັດປ່າ ແລະສັດລ້ຽງທັງຫຼາຍ ສັດລຽບ ແລະນົກມີປີກ",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "ສັດປ່າ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ແລະທັງຫຼາຍ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ສັດລ້ຽງ"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ສັດລຽບ"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "ແລະນົກ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ມີປີກ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:22:17.809237944Z",
+  "model": "glm-5.3"
+}

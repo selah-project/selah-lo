@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ການເບິ່ງໜ້າຄົນບໍ່ດີ ແລະຍ້ອນຈຳນວນໜຶ່ງເຂົ້າປັ້ນ ຄົນຈະລະເມີດ.",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "ເບິ່ງໜ້າ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ໜ້າ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ແລະຍ້ອນ"
+    },
+    {
+      "surface": "פת",
+      "gloss": "ຈຳນວນໜຶ່ງ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ເຂົ້າປັ້ນ"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "ຈະລະເມີດ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ຄົນ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:59:23.734123419Z",
+  "model": "glm-5.3"
+}

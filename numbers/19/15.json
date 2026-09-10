@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ແລະທຸກເຄື່ອງປະລະທີ່ເປີດ ທີ່ບໍ່ມີຝາຜູກຜ່າຍຢູ່ເທິງມັນ ມັນມົວ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ແລະທຸກ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ເຄື່ອງປະລະ"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "ເປີດ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ບໍ່ມີ"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "ຝາຜູກ"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "ຜ່າຍ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ຢູ່ເທິງມັນ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ມົວ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ມັນ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:20:25.010987301Z",
+  "model": "glm-5.3"
+}

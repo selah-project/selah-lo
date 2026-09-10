@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 9:29",
+  "book": "2-kings",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ໃນປີສິບເອັດຂອງຢໂຣາມ ລູກຊາຍຂອງອາຄາບ ອາຄາຊະຢາຂຶ້ນຄອງຢູດາ",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "ໃນປີ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "ליורם",
+      "gloss": "ຂອງຢໂຣາມ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ອາຄາບ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ຂຶ້ນຄອງ"
+    },
+    {
+      "surface": "אחזיה",
+      "gloss": "ອາຄາຊະຢາ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ຢູດາ"
+    }
+  ],
+  "timestamp": "2026-09-09T15:58:53.142787053Z",
+  "model": "glm-5.3"
+}

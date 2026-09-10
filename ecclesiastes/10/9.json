@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ຜູ້ຍ້າຍຫີນຈະຮັບອັນຕະລາຍຈາກມັນ ແລະຜູ້ຜ່າໄມ້ຈະຕົກອັນຕະລາຍຈາກມັນ.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "ຜູ້ຍ້າຍ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ຫີນ"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "ຈະຮັບອັນຕະລາຍ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ຈາກມັນ"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "ຜູ້ຜ່າ"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ໄມ້"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "ຈະຕົກອັນຕະລາຍ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ຈາກມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:24:40.185251269Z",
+  "model": "glm-5.3"
+}

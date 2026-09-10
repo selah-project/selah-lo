@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ເຈົ້າໄດ້ເຫັນເພື່ອຮູ້ວ່າ ຢາເວ ເພິ່ນ⟨ເປັນ⟩ເອໂລຮິມ ບໍ່ມີອື່ນນອກຈາກເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ເຈົ້າ"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ໄດ້ເຫັນ"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ເພື່ອຮູ້"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ເອໂລຮິມ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ບໍ່ມີ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ອື່ນ"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "ນອກຈາກເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:47:29.154245301Z",
+  "model": "glm-5.3"
+}

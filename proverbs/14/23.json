@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 14:23",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ໃນທຸກຄວາມໜັກເໜືອຈະມີກຳໄລ ແລະຄຳຂອງຮິດພຽງແຕ່ໄປສູ່ຄວາມຂາດ.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ໃນທຸກ"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ຄວາມໜັກເໜືອ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ຈະມີ"
+    },
+    {
+      "surface": "מותר",
+      "gloss": "ກຳໄລ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ແລະຄຳ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ຂອງຮິດ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ພຽງແຕ່"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "ໄປສູ່ຄວາມຂາດ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:40:15.053776381Z",
+  "model": "glm-5.3"
+}

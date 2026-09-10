@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "nehemiah 7:68",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ອ໌າງສີ່ຮ້ອຍສາມສິບຫ້າໂຕ ລົດແງ່ຫົກພັນເຈັດຮ້ອຍຊາວໂຕ.",
+  "tokens": [
+    {
+      "surface": "גמלים",
+      "gloss": "ອ໌າງ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ສີ່"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ສາມສິບ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ແລະຫ້າ"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "ລົດແງ່"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ຫົກ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ພັນ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ເຈັດ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ແລະຊາວ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:06:32.650902104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 97,
+  "translation": "ຢາເວຄອງຈົ່ງຊົມຊື່ນແຜ່ນດິນໂລກຈົ່ງດີໃຈເກາະຫຼາຍແຫ່ງ",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ຄອງ"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ຈົ່ງຊົມຊື່ນ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ແຜ່ນດິນໂລກ"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ຈົ່ງດີໃຈ"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ເກາະ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ຫຼາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:54:01.580454376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ຈົ່ງລະວັງຕົວເຈົ້າເອງ ຢ່າທອດຖ່າຍ⟨את⟩ລາວີ ຕະຫຼອດທຸກວັນຂອງເຈົ້າ ເທິງດິນຂອງເຈົ້າ",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "ລະວັງ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ຕົວເຈົ້າເອງ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ທອດຖ່າຍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ລາວີ"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "ລາວີ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ວັນຂອງເຈົ້າ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "ດິນຂອງເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:56:38.839219189Z",
+  "model": "glm-5.3"
+}

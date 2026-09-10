@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 33,
+  "translation": "ໂມເຊສັ່ງໂທຣາແກ່ພວກເຮົາ ⟨ເປັນ⟩ຊັບສົມບັດຂອງຊຸມຊົນຢາອາໂຄບ",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "ໂທຣາ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ສັ່ງ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ແກ່ພວກເຮົາ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "ຊັບສົມບັດ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ຊຸມຊົນ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ຢາອາໂຄບ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:43:53.879615317Z",
+  "model": "glm-5.3"
+}

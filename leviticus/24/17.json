@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ແລະຜູ້ຊາຍຖ້າຕີຊີວິດຂອງມະນຸດໃດກໍຕາຍ ຕ້ອງຖືກຂ້າ.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ແລະຜູ້ຊາຍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ຖ້າ"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ຕີ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ຊີວິດ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ຂອງມະນຸດ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ຕາຍ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ຕ້ອງຖືກຂ້າ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:44:34.580402105Z",
+  "model": "glm-5.3"
+}

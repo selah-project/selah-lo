@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ແລະຈະພົບຄວາມນິຍົມແລະຄວາມປັນຍາດີໃນຕາຂອງເອໂລຮິມແລະມະນຸດ.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "ແລະຈະພົບ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ຄວາມນິຍົມ"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "ແລະຄວາມປັນຍາ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ໃນຕາຂອງ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ເອໂລຮິມ"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ແລະມະນຸດ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:07:38.115951995Z",
+  "model": "glm-5.3"
+}

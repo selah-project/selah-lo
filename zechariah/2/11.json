@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ໂອ ສີອົນ, ຈົ່ງໜີ, ຜູ້ທີ່ອາໄສຢູ່ກັບລູກສະຕີຂອງບາເບລ.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ໂອ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ສີອົນ"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "ຈົ່ງໜີ"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "ຜູ້ທີ່ອາໄສຢູ່"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ລູກສະຕີຂອງ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ບາເບລ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:21:51.170391788Z",
+  "model": "glm-5.3"
+}

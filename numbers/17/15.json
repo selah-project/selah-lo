@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 17,
+  "translation": "ອາຮາໂຣນກັບຄືນໄປຫາໂມເຊທີ່ປະຕູເຕັນການປະຊຸມ ແລະພະຍາດລະບາດໄດ້ຢຸດ.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ແລະກັບຄືນ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ອາຮາໂຣນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ໄປຫາ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ໄປຫາ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ປະຕູ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ເຕັນ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ການປະຊຸມ"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "ແລະພະຍາດລະບາດ"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "ໄດ້ຢຸດ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:13:26.092046556Z",
+  "model": "glm-5.3"
+}

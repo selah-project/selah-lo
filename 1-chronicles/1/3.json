@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 1:3",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ເຮໂນກ, ມະທູຊາລາຮ, ເລເມກ.",
+  "tokens": [
+    {
+      "surface": "חנוך",
+      "gloss": "ເຮໂນກ"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "ມະທູຊາລາຮ"
+    },
+    {
+      "surface": "למך",
+      "gloss": "ເລເມກ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:02:34.314559638Z",
+  "model": "glm-5.3"
+}

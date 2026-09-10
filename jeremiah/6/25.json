@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ຢ່າອອກໄປນອກທົ່ວນາ ແລະຕາມທາງຢ່າຍ່າງ ດັ່ງນັ້ນສັດຕູມີດາບ ຄວາມຢ້ານກົວຮອບດ້ານ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "ອອກໄປ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ນອກທົ່ວນາ"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "ແລະຕາມທາງ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "ຍ່າງ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ດັ່ງນັ້ນ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ດາບ"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "ຂອງສັດຕູ"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "ຄວາມຢ້ານກົວ"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ຮອບດ້ານ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:02:16.343123582Z",
+  "model": "glm-5.3"
+}

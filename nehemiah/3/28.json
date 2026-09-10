@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 3:28",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ເໜືອປະຕູມ້າ ໂກເຮນໄດ້ສ້ອມແປງ ແຕ່ລະຄົນຕໍ່ໜ້າເຮືອນຂອງຕົນ.",
+  "tokens": [
+    {
+      "surface": "מעל",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ປະຕູ"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "ມ້າ"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "ໄດ້ສ້ອມແປງ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ໂກເຮນ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ແຕ່ລະຄົນ"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ຕໍ່ໜ້າ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ເຮືອນຂອງຕົນ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:04:37.270069939Z",
+  "model": "glm-5.3"
+}

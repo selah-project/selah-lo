@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະຮູຣໄດ້ກຳເນີດ⟨את⟩ອູຣີ ແລະອູຣີໄດ້ກຳເນີດ⟨את⟩ເບສາເລນ.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "ແລະຮູຣ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ໄດ້ກຳເນີດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ອູຣີ"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ອູຣີ"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "ແລະອູຣີ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ໄດ້ກຳເນີດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເບສາເລນ"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "ເບສາເລນ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:06:31.244753912Z",
+  "model": "glm-5.3"
+}

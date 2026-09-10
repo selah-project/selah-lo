@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 4:18",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ຮູບຮ່າງຂອງສິ່ງທີ່ຄານຢູ່ໃນດິນ ຮູບຮ່າງຂອງປາທຸກໂຕທີ່ຢູ່ໃນນ້ຳໃຕ້ແຜ່ນດິນໂລກ",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "ຮູບຮ່າງຂອງ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ສິ່ງທີ່ຄານ"
+    },
+    {
+      "surface": "באדמה",
+      "gloss": "ຢູ່ໃນດິນ"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ຮູບຮ່າງຂອງ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "דגה",
+      "gloss": "ປາ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ຢູ່ໃນນ້ຳ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ໃຕ້"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ແຜ່ນດິນໂລກ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:55:10.938501114Z",
+  "model": "glm-5.3"
+}

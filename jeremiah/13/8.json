@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 13:8",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ແລະຄຳຂອງຢາເວມາຫາຂ້ອຍເວົ້າວ່າ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະມີ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳຂອງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ມາຫາຂ້ອຍ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ເວົ້າວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T22:41:09.716532701Z",
+  "model": "glm-5.3"
+}

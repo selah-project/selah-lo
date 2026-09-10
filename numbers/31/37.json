@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 31:37",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 31,
+  "translation": "ພັນທະແກ່ຢາເວຈາກແກະຄືຫົກຮ້ອຍເຈັດສິບຫ້າໂຕ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ຄື"
+    },
+    {
+      "surface": "המכס",
+      "gloss": "ພັນທະ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ແກ່ຢາເວ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ແກະ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ຫົກ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ຫ້າ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ແລະເຈັດສິບ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:31:40.487759276Z",
+  "model": "glm-5.3"
+}

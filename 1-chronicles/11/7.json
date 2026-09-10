@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ແລະດາວິດໄດ້ຢູ່ຢູ່ປ້ອມ ຍ້ອນສິ່ງນັ້ນ ພວກເຂົາໄດ້ເອີ້ນມັນວ່າ ເມືອງຂອງດາວິດ.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ແລະໄດ້ຢູ່"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ດາວິດ"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "ຢູ່ປ້ອມ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຍ້ອນ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ສິ່ງນັ້ນ"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ໄດ້ເອີ້ນ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ກັບມັນ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ເມືອງ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ຂອງດ຾ວິດ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:13:24.843431799Z",
+  "model": "glm-5.3"
+}

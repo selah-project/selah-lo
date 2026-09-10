@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 46:24",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 46,
+  "translation": "ລູກຊາຍຂອງນັບທາລີຄືຢາສເອນແລະໂກນີແລະເຢສຣແລະຊິເລມ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ແລະລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ນັບທາລີ"
+    },
+    {
+      "surface": "יחצאל",
+      "gloss": "ຢາສເອນ"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "ແລະໂກນີ"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "ແລະເຢສຣ"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "ແລະຊິເລມ"
+    }
+  ],
+  "timestamp": "2026-09-09T11:38:59.013121704Z",
+  "model": "glm-5.3"
+}

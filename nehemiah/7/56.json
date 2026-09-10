@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ລູກຫຼານຂອງນາຊີອາ, ລູກຫຼານຂອງຮາຕິຟາ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "ນາຊີອາ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "ຮາຕິຟາ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:05:49.234849790Z",
+  "model": "glm-5.3"
+}

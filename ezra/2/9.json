@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ລູກຫຼານຂອງຊັກຄາຍເຈັດຮ້ອຍຫົກສິບຄົນ",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "ຊັກຄາຍ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ເຈັດ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ຫົກສິບ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:17:48.634861796Z",
+  "model": "glm-5.3"
+}

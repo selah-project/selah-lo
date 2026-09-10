@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 6:31",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ລູກຂອງອາມັສິ ລູກຂອງບານິ ລູກຂອງເຊເມຣ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "אמצי",
+      "gloss": "ອາມັສິ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ບານິ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ເຊເມຣ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:16:07.119340166Z",
+  "model": "glm-5.3"
+}

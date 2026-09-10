@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ລູກຫຼານຂອງອາເຕຣ ຂອງເຮຄິຢາ ເກົ້າສິບແປດຄົນ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "ອາເຕຣ"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "ຂອງເຮຄິຢາ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ເກົ້າສິບ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ແລະແປດ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:46:20.953715075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 18,
+  "translation": "ຄົນໂງ່ບໍ່ຍິນດີໃນຄວາມເຂົ້າໃຈ ຫາກແຕ່ຍິນດີໃນການເປີດເຜີຍໃຈຂອງຕົນ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "ຍິນດີ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ຄົນໂງ່"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "ໃນຄວາມເຂົ້າໃຈ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ຫາກແຕ່"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ພຽງ"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "ໃນການເປີດເຜີຍ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ໃຈຂອງມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:44:32.857097828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ຈະບໍ່ມີພະອື່ນໃຫ້ເຈົ້າ ເທິງໜ້າຂອງເຮົາ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ໃຫ້ເຈົ້າ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ພະ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ອື່ນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ໜ້າຂອງເຮົາ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:22:24.223255394Z",
+  "model": "glm-5.3"
+}

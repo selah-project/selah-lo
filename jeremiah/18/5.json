@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 18:5",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 18,
+  "translation": "ແລະຄຳຂອງຢາເວມາຫາຂ້ອຍວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະມາຫາ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳຂອງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ມາຫາຂ້ອຍ"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T17:08:23.048440156Z",
+  "model": "glm-5.3"
+}

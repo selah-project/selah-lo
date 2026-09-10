@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 10:23",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ເປລາຕຢາ (ເປລາຕິຢາ), ຮານານ (ຮານານ), ອານາຢາ (ອານາຢາຫ).",
+  "tokens": [
+    {
+      "surface": "פלטיה",
+      "gloss": "ເປລາຕຢາ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ຮານານ"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "ອານາຢາ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:50:55.821047157Z",
+  "model": "glm-5.3"
+}

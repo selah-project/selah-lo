@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ແທ້ຈິງ ເພິ່ນໄດ້ຫັນມາໃນຂ້ອຍ ເພິ່ນຫັນມືຂອງເພິ່ນຕໍ່ຂ້ອຍ ຕະຫຼອດທັງວັນ",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ແທ້ຈິງ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ໃນຂ້ອຍ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ໄດ້ຫັນມາ"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "ເພິ່ນຫັນ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ມືຂອງເພິ່ນ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ຕະຫຼອດ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ທັງວັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:43:11.096599168Z",
+  "model": "glm-5.3"
+}

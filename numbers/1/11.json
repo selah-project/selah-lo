@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 1:11",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ຕໍ່ບິນຢາມິນ: ອາບິດານລູກຊາຍຂອງກິໂດນີ.",
+  "tokens": [
+    {
+      "surface": "לבנימן",
+      "gloss": "ຕໍ່ບິນຢາມິນ"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "ອາບິດານ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "ກິໂດນີ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:50:06.319041814Z",
+  "model": "glm-5.3"
+}

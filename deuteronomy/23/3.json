@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 23:3",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ລູກປະສົມຈະບໍ່ເຂົ້າໃນຊຸມຊົນຂອງຢາເວ ແມ່ນແຕ່ຊົ່ວທີສິບຂອງເຂົາຈະບໍ່ເຂົ້າໃນຊຸມຊົນຂອງຢາເວ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ຈະເຂົ້າ"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "ລູກປະສົມ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ໃນຊຸມຊົນ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ແມ່ນແຕ່"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ຊົ່ວ"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "ທີສິບ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ຈະເຂົ້າ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ຂອງເຂົາ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ໃນຊຸມຊົນ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:35:35.846371261Z",
+  "model": "glm-5.3"
+}

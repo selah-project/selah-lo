@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 25:22",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ຄືວ່າເຈົ້າວາງຖ່ານໄຟເທິງໜົວຂອງເພິ່ນ ແລະຢາເວຕອບແທນແກ່ເຈົ້າ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ຄືວ່າ"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "ຖ່ານໄຟ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ເຈົ້າ"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "ວາງ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ໜົວຂອງເພິ່ນ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ແລະຢາເວ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ຕອບແທນ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ແກ່ເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:51:17.648242656Z",
+  "model": "glm-5.3"
+}

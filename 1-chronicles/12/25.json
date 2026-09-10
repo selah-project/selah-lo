@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 12:25",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ລູກຫຼານຂອງຢູດາ ຜູ້ຍົກໂລຫະແລະຫອນ ຫົກພັນແລະແປດຮ້ອຍຄົນ ຜູ້ອອກໄປສົງຄາມ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ຢູດາ"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ຜູ້ຍົກ"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ໂລຫະ"
+    },
+    {
+      "surface": "ורמח",
+      "gloss": "ແລະຫອນ"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ຫົກ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ພັນ"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "ແລະແປດ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "ຜູ້ອອກໄປ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ສົງຄາມ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:30:32.342911977Z",
+  "model": "glm-5.3"
+}

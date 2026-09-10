@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 57,
+  "translation": "ບໍ່ມີຄວາມສະບາຍ, ເອໂລຮິມຂອງຂ້ອຍກ່າວ, ຕໍ່ຄົນຊົ່ວ.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ບໍ່ມີ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ຄວາມສະບາຍ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ກ່າວ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ເອໂລຮິມຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "ຕໍ່ຄົນຊົ່ວ"
+    }
+  ],
+  "timestamp": "2026-09-08T23:50:51.882494231Z",
+  "model": "glm-5.3"
+}

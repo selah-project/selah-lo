@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ເພິ່ນອ້ອມທາງຂອງຂ້ອຍດ້ວຍຫີນຕັດ ເຮັດໃຫ້ເສັ້ນທາງຂອງຂ້ອຍຄົດ.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "ອ້ອມ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ທາງຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "ດ້ວຍຫີນຕັດ"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "ເສັ້ນທາງຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "ເຮັດໃຫ້ຄົດ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:23:33.019837092Z",
+  "model": "glm-5.3"
+}

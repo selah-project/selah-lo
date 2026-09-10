@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ຄວາມສະບາຍບໍ່ເໝາະແກ່ຄົນໂງ່ ແມ່ນແຕ່ວ່າຂ້າທາດຈະຄອບຄອງເຈົ້າຄົນ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ເໝາະ"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "ແກ່ຄົນໂງ່"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "ຄວາມສະບາຍ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ແມ່ນແຕ່ວ່າ"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ຂ້າທາດ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ຈະຄອບຄອງ"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "ເຈົ້າຄົນ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:15:08.809124115Z",
+  "model": "glm-5.3"
+}

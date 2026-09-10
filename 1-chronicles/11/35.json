@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ອາຮິຢາມ ລູກຂອງ ຊາກາຣ ຮາຣາຣິ, ເອລິຟານ ລູກຂອງ ອູຣ.",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "ອາຮິຢາມ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ຊາກາຣ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ຮາຣາຣິ"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "ເອລິຟານ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ອູຣ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:23:58.375211583Z",
+  "model": "glm-5.3"
+}

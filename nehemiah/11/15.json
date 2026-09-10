@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 11:15",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ແລະຈາກເລວີຍິມ: ເຊມາຢາລູກຂອງຮັຊົບລູກຂອງອາຊຣິກາມລູກຂອງຮາຊັບຢາລູກຂອງບູນີ.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ແລະຈາກ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ເລວີຍິມ"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "ເຊມາຢາ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "ຮັຊົບ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "ອາຊຣິກາມ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ຮາຊັບຢາ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "בוני",
+      "gloss": "ບູນີ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:07:20.892669072Z",
+  "model": "glm-5.3"
+}

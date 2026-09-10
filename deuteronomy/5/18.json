@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ແລະຢ່າຜິດປະເວນີ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ແລະຢ່າບໍ່"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "ຜິດປະເວນີ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:44:07.097357690Z",
+  "model": "glm-5.3"
+}

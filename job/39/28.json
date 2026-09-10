@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 39:28",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 39,
+  "translation": "ຢູ່ຜາຫີນມັນອາໄສ ແລະມັນພັກ ຢູ່ຍອດຂອງຜາຫີນ ແລະປ້ອມ.",
+  "tokens": [
+    {
+      "surface": "סלע",
+      "gloss": "ຜາຫີນ"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ມັນອາໄສ"
+    },
+    {
+      "surface": "ויתלנן",
+      "gloss": "ແລະມັນພັກ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຢູ່"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ຍອດຂອງ"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "ຜາຫີນ"
+    },
+    {
+      "surface": "ומצודה",
+      "gloss": "ແລະປ້ອມ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:49:18.126434092Z",
+  "model": "glm-5.3"
+}

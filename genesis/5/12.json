@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ແລະກີນານມີຊີວິດເຈັດສິບປີ ແລະກຳເນີດ⟨את⟩ມາຮາລາອລ.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ແລະມີຊີວິດ"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "ກີນານ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ເຈັດສິບ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ແລະກຳເນີດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ມາຮາລາອລ"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "ມາຮາລາອລ"
+    }
+  ],
+  "timestamp": "2026-09-08T15:59:45.366631709Z",
+  "model": "glm-5.3"
+}

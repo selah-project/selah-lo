@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ລົມຂອງຢາເວເວົ້າໃນຂ້ອຍ ແລະຄຳຂອງເພິ່ນເໜືອລີ້ຂອງຂ້ອຍ.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ລົມ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ເວົ້າ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ໃນຂ້ອຍ"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "ແລະຄຳຂອງເພິ່ນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ລີ້ຂອງຂ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-08T22:10:12.191780491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 5:4",
+  "book": "2-samuel",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ລູກສາມສິບປີ ດາວິດໃນການຄອງຂອງເພິ່ນ ສີ່ສິບປີ ⟨ເພິ່ນ⟩ໄດ້ຄອງ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ລູກ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ສາມສິບ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ດາວິດ"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ໃນການຄອງຂອງເພິ່ນ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ສີ່ສິບ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ໄດ້ຄອງ"
+    }
+  ],
+  "timestamp": "2026-09-08T21:51:46.235492316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ແລະຢິຊາຢາຮາວກ່າວຕໍ່ຮິຊະກິຢາຮາວວ່າ: ຈົ່ງຟັງຄຳຂອງຢາເວ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະກ່າວ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ຢິຊາຢາຮາວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ຮິຊະກິຢາຮາວ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ຟັງ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T16:11:25.103050985Z",
+  "model": "glm-5.3"
+}

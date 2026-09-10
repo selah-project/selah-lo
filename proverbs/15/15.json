@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 15:15",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 15,
+  "translation": "ທຸກວັນຂອງຄົນທຸກຍາກເປັນຄວາມຮ້າຍ ແລະຫົວໃຈດີມີງານລ້ຽງຕະຫຼອດໄປ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ວັນຂອງ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ຄົນທຸກຍາກ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ເປັນຄວາມຮ້າຍ"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ແລະດີ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ຫົວໃຈ"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ງານລ້ຽງ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ຕະຫຼອດໄປ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:40:56.806067396Z",
+  "model": "glm-5.3"
+}

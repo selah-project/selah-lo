@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ຈາກໂກເຮນທັງຫຼາຍ: ຢາດາຢາລູກຊາຍຂອງຢໂວຢາຣິບ, ຢາຄິນ.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ໂກເຮນທັງຫຼາຍ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "ຢາດາຢາ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "ຢໂວຢາຣິບ"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "ຢາຄິນ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:56:22.069884630Z",
+  "model": "glm-5.3"
+}

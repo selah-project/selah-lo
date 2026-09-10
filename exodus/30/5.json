@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ເຈົ້າຈະເຮັດ⟨את⟩ແຄມ ເປັນໄມ້ອາຄາຊີ ແລະເຈົ້າຈະເຄືອບ⟨את⟩ພວກມັນດ້ວຍຄຳ.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ເຈົ້າຈະເຮັດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ແຄມ"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ແຄມ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ໄມ້"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ອາຄາຊີ"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ເຈົ້າຈະເຄືອບ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ແຄມ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ຄຳ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:56:41.550565103Z",
+  "model": "glm-5.3"
+}

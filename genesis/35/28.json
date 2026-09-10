@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 35,
+  "translation": "ແລະວັນຂອງຢິດສະຮາກ ⟨ເປັນ⟩ ໜຶ່ງຮ້ອຍປີ ແລະແປດສິບປີ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ແລະໄດ້ເປັນ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ວັນຂອງ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ຢິດສະຮາກ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ໜຶ່ງຮ້ອຍ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ແລະແປດສິບ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:51:51.301539667Z",
+  "model": "glm-5.3"
+}

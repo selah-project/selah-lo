@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 18,
+  "translation": "ອາບິຊາຍ ລູກຊາຍຂອງສຣູຢາ ໄດ້ຕີ⟨את⟩ເອໂດມ ໃນຮ່ອມນ້ຳເກືອ ສິບແປດພັນ.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "ແລະອາບິຊາຍ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ສຣູຢາ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ໄດ້ຕີ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເອໂດມ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ເອໂດມ"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "ໃນຮ່ອມ"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "ນ້ຳເກືອ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ແປດ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ພັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:39:26.318335920Z",
+  "model": "glm-5.3"
+}

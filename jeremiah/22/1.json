@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 22:1",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 22,
+  "translation": "ຢາເວກ່າວວ່າ ດັ່ງນີ້ ຈົ່ງລົງໄປຫຼັງຂອງກະສັດຢູດາ ແລະຈົ່ງເວົ້າຢູ່ທີ່ນັ້ນ⟨את⟩ຄຳນີ້",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ດັ່ງນີ້"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ຈົ່ງລົງໄປ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ຫຼັງຂອງ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ຢູດາ"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ແລະເຈົ້າຈະເວົ້າ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ຢູ່ທີ່ນັ້ນ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຄຳນີ້"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ນີ້"
+    }
+  ],
+  "timestamp": "2026-09-09T00:19:13.051531873Z",
+  "model": "glm-5.3"
+}

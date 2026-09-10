@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 15,
+  "translation": "ຢາເວຈະຄອງນິລັນດອນ ແລະຕະຫຼອດໄປ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "ຈະຄອງ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ນິລັນດອນ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ແລະຕະຫຼອດໄປ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:36:32.064224938Z",
+  "model": "glm-5.3"
+}

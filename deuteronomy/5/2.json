@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ຢາເວ ເອໂລຮິມຂອງພວກເຮົາ ຕັດສັນຍາກັບພວກເຮົາ ຢູ່ໂຮເຣບ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ເອໂລຮິມຂອງພວກເຮົາ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ຕັດ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ກັບພວກເຮົາ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ສັນຍາ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ຢູ່ໂຮເຣບ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:55:41.883627796Z",
+  "model": "glm-5.3"
+}

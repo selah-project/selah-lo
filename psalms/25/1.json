@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ຂອງດາວິດ ຫາເຈົ້າ ຢາເວ ຂ້ອຍຍົກຊີວິດຂອງຂ້ອຍ.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ຂອງດາວິດ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ຫາເຈົ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ຊີວິດຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ຂ້ອຍຍົກ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:54:23.273129267Z",
+  "model": "glm-5.3"
+}

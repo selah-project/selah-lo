@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 6:17",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ແລະຢາເວເວົ້າກັບໂມເຊວ່າ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ແລະເວົ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ:"
+    }
+  ],
+  "timestamp": "2026-09-08T18:16:59.633688502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 52,
+  "translation": "ເຈົ້າຮັກຄຳທັງຫຼາຍທີ່ກືນກິນ ລີ້ຂອງການຫຼອກລວງ.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ເຈົ້າຮັກ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງຫຼາຍ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ກືນກິນ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ລີ້"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ການຫຼອກລວງ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:40:56.699552545Z",
+  "model": "glm-5.3"
+}

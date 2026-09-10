@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 29:8",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 29,
+  "translation": "ຄົນຫົວຮຸນຊູກເມືອງຂຶ້ນ ແລະຄົນສະຫຼາດຫຼຽວຄືນຄວາມໂກດ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ຄົນຂອງ"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "ຄວາມຫົວຮຸນ"
+    },
+    {
+      "surface": "יפיחו",
+      "gloss": "ຊູກ"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "ເມືອງ"
+    },
+    {
+      "surface": "וחכמים",
+      "gloss": "ແຕ່ຄົນສະຫຼາດ"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "ຫຼຽວຄືນ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ຄວາມໂກດ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:58:20.456568354Z",
+  "model": "glm-5.3"
+}

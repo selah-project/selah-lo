@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ແລະຫຼັງວິຫານເປັນສີ່ສິບຫົວສອກມັນຄືວິຫານທາງໜ້າ",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "ແລະສີ່ສິບ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ຕາມຫົວສອກ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ເປັນ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ຫຼັງວິຫານ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ວິຫານ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ທາງໜ້າ"
+    }
+  ],
+  "timestamp": "2026-09-08T22:18:11.517502411Z",
+  "model": "glm-5.3"
+}

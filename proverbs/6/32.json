@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 6:32",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ຜູ້ລວງຍິງ ຂາດຈິດໃຈ ທໍາລາຍຊີວິດຂອງລາວ ເພິ່ນເຮັດມັນ.",
+  "tokens": [
+    {
+      "surface": "נאף",
+      "gloss": "ລວງຍິງ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ຍິງ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ຂາດ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ຈິດໃຈ"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "ທໍາລາຍ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ຊີວິດຂອງລາວ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "יעשנה",
+      "gloss": "ເຮັດມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:33:04.316354405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 32:11",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 32,
+  "translation": "ເພາະວ່າອາໂດນາຍ ຢາເວ ກ່າວດັ່ງນີ້: ດາບຂອງກະສັດບາເບລ ຈະມາຫາເຈົ້າ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະວ່າ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ດັ່ງນີ້"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ກ່າວ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ອາໂດນາຍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ດາບ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ບາເບລ"
+    },
+    {
+      "surface": "תבואך",
+      "gloss": "ຈະມາຫາເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T17:51:29.713752102Z",
+  "model": "glm-5.3"
+}

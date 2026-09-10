@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 92,
+  "translation": "ຄົນໂງ່ ບໍ່ຮູ້ ແລະຄົນໂງ່ເຂັດ ບໍ່ເຂົ້າໃຈ⟨את⟩ສິ່ງນີ້.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ໂງ່"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ຮູ້"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ແລະຄົນໂງ່ເຂັດ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ເຂົ້າໃຈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ສິ່ງນີ້"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ສິ່ງນີ້"
+    }
+  ],
+  "timestamp": "2026-09-09T04:50:19.263039922Z",
+  "model": "glm-5.3"
+}

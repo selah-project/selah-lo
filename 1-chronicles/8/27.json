@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 8:27",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະຢາຣາຊີຢາຮ ແລະເອລີຢາຮ ແລະຊິກະຣີ ເປັນລູກຊາຍຂອງຢາຣາຮຳ.",
+  "tokens": [
+    {
+      "surface": "ויערשיה",
+      "gloss": "ແລະຢາຣາຊີຢາຮ"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "ແລະເອລີຢາຮ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "ແລະຊິກະຣີ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "ຢາຣາຮຳ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:18:34.976188449Z",
+  "model": "glm-5.3"
+}

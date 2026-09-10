@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 15:30",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 15,
+  "translation": "ແສງຂອງຕາສົ່ງຄວາມສຸກແກ່ໃຈ ຂ່າວທີ່ດີເຮັດໃຫ້ກະດູກສະໝຸນໄມ",
+  "tokens": [
+    {
+      "surface": "מאור",
+      "gloss": "ແສງ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ຂອງຕາ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ສົ່ງຄວາມສຸກ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ແກ່ໃຈ"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "ຂ່າວທີ່"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "ເຮັດໃຫ້ສະໝຸນໄມ"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "ກະດູກ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:43:31.154084371Z",
+  "model": "glm-5.3"
+}

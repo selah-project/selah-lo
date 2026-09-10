@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 22:27",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 22,
+  "translation": "ເພາະເຂົາພົບນາງໃນທົ່ງ ເດັກຍິງຜູ້ຖືກໝັ້ນໝາຍໄວ້ຮ້ອງອອກ ແລະບໍ່ມີຜູ້ຊ່ວຍນາງ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ໃນທົ່ງ"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "ພົບນາງ"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "ຮ້ອງອອກ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ເດັກຍິງ"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "ຜູ້ຖືກໝັ້ນໝາຍໄວ້"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ແລະບໍ່ມີ"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "ຜູ້ຊ່ວຍ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ນາງ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:07:48.752607515Z",
+  "model": "glm-5.3"
+}

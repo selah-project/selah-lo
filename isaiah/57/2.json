@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 57,
+  "translation": "ມາຮອດຄວາມສະບາຍ ພັກຜ່ອນບົນຕຽງຂອງເຂົາ ຜູ້ຍ່າງຊື່ຕົງ",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "ມາຮອດ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ຄວາມສະບາຍ"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "ພັກຜ່ອນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ບົນ"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "ຕຽງຂອງເຂົາ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ຜູ້ຍ່າງ"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "ຊື່ຕົງ"
+    }
+  ],
+  "timestamp": "2026-09-09T16:46:37.252154516Z",
+  "model": "glm-5.3"
+}

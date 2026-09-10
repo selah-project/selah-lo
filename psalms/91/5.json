@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 91,
+  "translation": "ເຈົ້າບໍ່ຢ້າຈາກຄວາມຢ້າກົວໃນກາງຄືນ ຈາກລູກສອນທີ່ບິນໃນກາງເວັນ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ຢ້າ"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ຈາກຄວາມຢ້າກົວ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ກາງຄືນ"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ຈາກລູກສອນ"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "ບິນ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ກາງເວັນ"
+    }
+  ],
+  "timestamp": "2026-09-10T00:25:03.006992541Z",
+  "model": "glm-5.3"
+}

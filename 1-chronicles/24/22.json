@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 24:22",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ຂອງຢິດສະຮາຣິ ເຊໂລໂມດ ຂອງບັດຂອງເຊໂລໂມດຢາຮາດ",
+  "tokens": [
+    {
+      "surface": "ליצהרי",
+      "gloss": "ຂອງຢິດສະຮາຣິ"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "ເຊໂລໂມດ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ຂອງບັດຂອງ"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "ເຊໂລໂມດ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ຢາຮາດ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:42:41.781879007Z",
+  "model": "glm-5.3"
+}

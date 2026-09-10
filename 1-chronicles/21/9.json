@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ແລະຢາເວເວົ້າຕໍ່ກາດ ໂຊການຂອງດາວິດ ວ່າ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ແລະເພິ່ນເວົ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ກາດ"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ໂຊການ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ຂອງດາວິດ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:41:51.211816237Z",
+  "model": "glm-5.3"
+}

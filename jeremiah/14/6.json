@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 14:6",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ແລະມ້າປ່າຢືນຢູ່ບົນບ່ອນສູງ ດຶງລົມຄືຈ້ຽວ ຕາຂອງພວກມັນໝົດໄປ ເພາະບໍ່ມີຫຍ້າ.",
+  "tokens": [
+    {
+      "surface": "ופראים",
+      "gloss": "ແລະມ້າປ່າ"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "ຢືນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຢູ່ບົນ"
+    },
+    {
+      "surface": "שפים",
+      "gloss": "ບ່ອນສູງ"
+    },
+    {
+      "surface": "שאפו",
+      "gloss": "ດຶງ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ລົມ"
+    },
+    {
+      "surface": "כתנים",
+      "gloss": "ຄືຈ້ຽວ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ໝົດໄປ"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ຕາຂອງພວກມັນ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ບໍ່ມີ"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ຫຍ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:11:35.517270235Z",
+  "model": "glm-5.3"
+}

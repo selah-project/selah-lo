@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ຜູ້ຂຸດຂຸມຈະຕົກລົງໄປໃນນັ້ນ, ແລະຜູ້ທາລະຮົ່ມງູຈະກັດ.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "ຜູ້ຂຸດ"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "ຂຸມ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ໃນນັ້ນ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ຈະຕົກລົງໄປ"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "ແລະຜູ້ທາລະ"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ຮົ່ມ"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ຈະກັດ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ງູ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:26:08.793069491Z",
+  "model": "glm-5.3"
+}

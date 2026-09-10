@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 83,
+  "translation": "ກະບານ ແລະອາມໂອນ ແລະອາມາເລກ ເປເລຊາດ ພ້ອມກັບຜູ້ອາໄສຢູ່ໂຊຣ.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "ກະບານ"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "ແລະອາມໂອນ"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "ແລະອາມາເລກ"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "ເປເລຊາດ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ພ້ອມກັບ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ຜູ້ອາໄສຢູ່"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ໂຊຣ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:40:29.928015932Z",
+  "model": "glm-5.3"
+}

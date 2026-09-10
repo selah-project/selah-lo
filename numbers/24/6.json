@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 24:6",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ຄືຫໍ້ທີ່ຂາຍອອກ ຄືສວນເທິງລຳນ້ຳ ຄືຕົ້ນອາໂລທີ່ຢາເວປູກໄວ້ ຄືຕົ້ນສີດເທິງນ້ຳ.",
+  "tokens": [
+    {
+      "surface": "כנחלים",
+      "gloss": "ຄືຫໍ້"
+    },
+    {
+      "surface": "נטיו",
+      "gloss": "ຂາຍອອກ"
+    },
+    {
+      "surface": "כגנת",
+      "gloss": "ຄືສວນ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ລຳນ້ຳ"
+    },
+    {
+      "surface": "כאהלים",
+      "gloss": "ຄືຕົ້ນອາໂລ"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "ປູກ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "כארזים",
+      "gloss": "ຄືຕົ້ນສີດ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ນ້ຳ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:55:49.881469966Z",
+  "model": "glm-5.3"
+}

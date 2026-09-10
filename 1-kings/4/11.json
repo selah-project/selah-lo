@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 4:11",
+  "book": "1-kings",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ເບັນ-ອາບິນາດາບ — ທັງໝົດນາຟາດ-ໂດັນ; ຕາຟັດ ບັດຂອງຊະໂລໂມ ເປັນຍິງຂອງເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ບັດ"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "ອາບິນາດາບ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "ນາຟາດ"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "ໂດັນ"
+    },
+    {
+      "surface": "טפת",
+      "gloss": "ຕາຟັດ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ບັດ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ຊະໂລໂມ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ເປັນ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ຂອງເພິ່ນ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ເປັນຍິງ"
+    }
+  ],
+  "timestamp": "2026-09-08T22:13:53.598849066Z",
+  "model": "glm-5.3"
+}

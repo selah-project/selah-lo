@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 27,
+  "translation": "ແລະເລວີຈະຕອບແລະຈະເວົ້າຕໍ່ຄົນອິສະຣາເອນທຸກຄົນດ້ວຍສຽງດັງ.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "ຈະຕອບ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ເລວີ"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ແລະຈະເວົ້າ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ສຽງ"
+    },
+    {
+      "surface": "רם",
+      "gloss": "ດັງ"
+    }
+  ],
+  "timestamp": "2026-09-09T22:00:10.034769233Z",
+  "model": "glm-5.3"
+}

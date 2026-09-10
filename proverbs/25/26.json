@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 25:26",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ບໍ່ນ້ຳຂຸ່ນຈົນ ແລະແຫຼ່ງນ້ຳເສຍ ຄືຄົນຊອບທຳອ່ອນລົງຕໍ່ໜ້າຄົນຊົ່ວ.",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "ບໍ່ນ້ຳ"
+    },
+    {
+      "surface": "נרפש",
+      "gloss": "ຂຸ່ນຈົນ"
+    },
+    {
+      "surface": "ומקור",
+      "gloss": "ແລະແຫຼ່ງນ້ຳ"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ເສຍ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ຄົນຊອບທຳ"
+    },
+    {
+      "surface": "מט",
+      "gloss": "ອ່ອນລົງ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ຕໍ່ໜ້າ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ຄົນຊົ່ວ"
+    }
+  ],
+  "timestamp": "2026-09-10T00:24:24.787804209Z",
+  "model": "glm-5.3"
+}

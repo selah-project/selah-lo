@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 27:10",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 27,
+  "translation": "ຫຼືເຂົາຈະຍິນດີໃນຊັດດາຍ ຫຼືເຂົາຈະຮຽກເອໂລອາທຸກເວລາ?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "על",
+      "gloss": "ໃນ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ຊັດດາຍ"
+    },
+    {
+      "surface": "יתענג",
+      "gloss": "ຍິນດີ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ຮຽກ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ເອໂລອາ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ເວລາ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:31:48.412850589Z",
+  "model": "glm-5.3"
+}

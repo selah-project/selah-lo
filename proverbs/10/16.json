@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ຜົນງານຂອງຜູ້ຊອບທຳສູ່ຊີວິດ ຜົນຜະລິດຂອງຄົນຊົ່ວສູ່ບາບ.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "ຜົນງານ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ຂອງຜູ້ຊອບທຳ"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "ສູ່ຊີວິດ"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ຜົນຜະລິດ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ຂອງຄົນຊົ່ວ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ສູ່ບາບ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:10:43.731704737Z",
+  "model": "glm-5.3"
+}

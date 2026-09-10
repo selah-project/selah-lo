@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ແຕ່ຖ້າເຈົ້າຢຸດຈາກການຖວາຍຄຳສັນຍາບໍ່⟨ເປັນ⟩ບາບໃນເຈົ້າ.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ແຕ່ຖ້າ"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "ເຈົ້າຢຸດ"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "ຈາກການຖວາຍຄຳສັນຍາ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨ເປັນ⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ໃນເຈົ້າ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ບາບ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:37:55.587074916Z",
+  "model": "glm-5.3"
+}

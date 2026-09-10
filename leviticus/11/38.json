@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 11:38",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ຖ້າໃສ່ນ້ຳເທິງເມັດພັນ ແລະຊາກສັດຂອງພວກມັນຕົກເທິງມັນ ມັນບໍ່ສະອາດແກ່ພວກເຈົ້າ.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ຖ້າ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ໃສ່"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ເມັດພັນ"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "ແລະຕົກ"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "ຈາກຊາກສັດຂອງພວກມັນ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ເທິງມັນ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ບໍ່ສະອາດ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ແກ່ພວກເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:21:22.177931664Z",
+  "model": "glm-5.3"
+}

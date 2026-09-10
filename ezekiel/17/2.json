@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 17,
+  "translation": "ລູກຂອງມະນຸດ ຈົ່ງຕັ້ງປິດສາ ຈົ່ງເວົ້າຄຳປຽງຕໍ່ເຮືອນຂອງອິສະຣາເອນ,",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ລູກ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ຂອງມະນຸດ"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "ຈົ່ງຕັ້ງ"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "ປິດສາ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ແລະຈົ່ງເວົ້າຄຳປຽງ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ຄຳປຽງ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ເຮືອນ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T01:16:30.000146598Z",
+  "model": "glm-5.3"
+}

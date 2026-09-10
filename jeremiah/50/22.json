@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 50,
+  "translation": "ສຽງຂອງສົງຄາມຢູ່ໃນແຜ່ນດິນ ແລະຄວາມພັງທະລາຍໃຫຍ່.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ສຽງຂອງ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ສົງຄາມ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ຢູ່ໃນແຜ່ນດິນ"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ແລະຄວາມພັງທະລາຍ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ໃຫຍ່"
+    }
+  ],
+  "timestamp": "2026-09-09T17:30:36.651368686Z",
+  "model": "glm-5.3"
+}

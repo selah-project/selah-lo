@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 16:9",
+  "book": "1-samuel",
+  "lang": "lo",
+  "chapter": 16,
+  "translation": "ແລະຢິຊີໃຫ້ຊາມາຜ່ານມາ ແລະເພິ່ນກ່າວວ່າ: ຢາເວກໍບໍ່ໄດ້ເລືອກຄົນນີ້.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "ໃຫ້ຜ່ານມາ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ຢິຊີ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ຊາມາ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະເພິ່ນກ່າວ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ກໍ"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ຄົນນີ້"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ໄດ້ເລືອກ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-08T21:26:57.227651122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 10:18",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ອາເຕຣ ຮິສກິຢາ ອາຊູຣ,",
+  "tokens": [
+    {
+      "surface": "אטר",
+      "gloss": "ອາເຕຣ"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "ຮິສກິຢາ (ເຮເຊກິຢາ)"
+    },
+    {
+      "surface": "עזור",
+      "gloss": "ອາຊູຣ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:52:34.997641657Z",
+  "model": "glm-5.3"
+}

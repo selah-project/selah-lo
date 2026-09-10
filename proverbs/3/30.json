@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ຢ່າຂັດແຍ້ງກັບຄົນໂດຍບໍ່ມີເຫດຜົນ ຖ້າເພິ່ນບໍ່ໄດ້ຕອບແທນເຈົ້າຄວາມຊົ່ວ",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "ຂັດແຍ້ງ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ໂດຍບໍ່ມີເຫດຜົນ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ຖ້າ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "ຕອບແທນເຈົ້າ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ຄວາມຊົ່ວ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:08:25.701483781Z",
+  "model": "glm-5.3"
+}

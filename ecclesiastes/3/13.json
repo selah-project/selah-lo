@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ທັງທຸກຄົນກິນແລະດື່ມແລະເຫັນຄວາມດີໃນທຸກຄວາມອຸກອີ່ມຂອງເຂົາ ມັນ⟨ເປັນ⟩ຂອງຂວັນຂອງເອໂລຮິມ.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ທັງ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "ກິນ"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "ແລະດື່ມ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ແລະເຫັນ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ຄວາມດີ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ໃນທຸກ"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ຄວາມອຸກອີ່ມຂອງເຂົາ"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "ຂອງຂວັນ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ຂອງເອໂລຮິມ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:20:16.744507518Z",
+  "model": "glm-5.3"
+}

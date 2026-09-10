@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ດາວິດໄປ ໄປ ແລະໃຫຍ່ຂຶ້ນ ແລະຢາເວເສວາໂອດຢູ່ນຳເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ໄປ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ດາວິດ"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ໄປ"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "ແລະໃຫຍ່"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ແລະຢາເວ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ເສວາໂອດ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ນຳເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:13:56.791555546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 27,
+  "translation": "ຄຳຕິວາກທີ່ເປີດເຜີຍດີກວ່າຄວາມຮັກທີ່ປິດບັງ.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "ດີກວ່າ"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ຄຳຕິວາກ"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "ທີ່ເປີດເຜີຍ"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "ກວ່າຄວາມຮັກ"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "ທີ່ປິດບັງ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:57:14.547175174Z",
+  "model": "glm-5.3"
+}

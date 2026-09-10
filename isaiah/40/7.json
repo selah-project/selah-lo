@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 40,
+  "translation": "ຫຍ້າແຫ້ງ ດອກເຫີຍ ຍ້ອນວ່າລົມຂອງຢາເວໄດ້ພັດໃສ່ມັນ ແທ້ແມ່ນແທ້ ຊົນທັງຫຼາຍ⟨ເປັນ⟩ຫຍ້າ.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "ແຫ້ງ"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ຫຍ້າ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ເຫີຍ"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "ດອກ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ຍ້ອນວ່າ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ລົມ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "ໄດ້ພັດ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ໃສ່ມັນ"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "ແທ້ແມ່ນແທ້"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ຫຍ້າ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ຊົນທັງຫຼາຍ"
+    }
+  ],
+  "timestamp": "2026-09-08T23:39:37.472454666Z",
+  "model": "glm-5.3"
+}

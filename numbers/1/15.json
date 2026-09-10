@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ຂອງນາຟະຕາລີອາຮິຣາລູກຂອງເອນານ",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "ຂອງນາຟະຕາລີ"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "ອາຮິຣາ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "ເອນານ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:50:55.325772550Z",
+  "model": "glm-5.3"
+}

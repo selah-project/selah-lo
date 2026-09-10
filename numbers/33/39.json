@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 33:39",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 33,
+  "translation": "ແລະອາຮາໂຣນອາຍຸລູກໜຶ່ງຮ້ອຍຊາວສາມປີ ໃນການຕາຍຂອງເພິ່ນຢູ່ພູໂຮຣ.",
+  "tokens": [
+    {
+      "surface": "ואהרן",
+      "gloss": "ອາຮາໂຣນ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ສາມ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ແລະຊາວ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ແລະຮ້ອຍ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "ໃນການຕາຍຂອງເພິ່ນ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ຢູ່ພູ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ໂຮຣ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:57:48.178982604Z",
+  "model": "glm-5.3"
+}

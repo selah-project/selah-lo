@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 34,
+  "translation": "ລູກສິງຕົວຂາດແລະອົດຫິວ ແຕ່ຜູ້ແສວນຢາເວບໍ່ຂາດສິ່ງດີໃດ.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "ລູກສິງຕົວ"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "ຂາດ"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "ແລະອົດຫິວ"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "ແລະຜູ້ແສວນ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "ຂາດ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ສິ່ງດີ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:07:10.327844547Z",
+  "model": "glm-5.3"
+}

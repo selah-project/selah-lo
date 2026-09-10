@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ຂ້ອຍຄືຄົນນັ້ນຜູ້ເຫັນຄວາມທຸກທົນຢູ່ໃຕ້ຄັນຄໍ້ຄວາມໂກດຂອງເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ຂ້ອຍ"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ຄົນນັ້ນຜູ້ຊາຍ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ເຫັນ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ຄວາມທຸກທົນ"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ຢູ່ໃຕ້ຄັນຄໍ້"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "ຄວາມໂກດຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:23:55.022759503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 1:46",
+  "book": "1-kings",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ແລະຍິ່ງເຊໂລໂມໄດ້ນັ່ງຢູ່ເທິງບັນລັງຂອງອານາຈັກ",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ແລະຍິ່ງ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ໄດ້ນັ່ງ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ເຊໂລໂມ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ບັນລັງ"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ຂອງອານາຈັກ"
+    }
+  ],
+  "timestamp": "2026-09-08T22:13:03.782634228Z",
+  "model": "glm-5.3"
+}

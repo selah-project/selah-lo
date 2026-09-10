@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະວາງເທິງເພິ່ນ⟨את⟩ບົດໜ້າເອິກ ແລະໃສ່ໃນບົດໜ້າເອິກ⟨את⟩ອູຣິມແລະ⟨את⟩ທູມິມ.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ແລະວາງ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ເທິງເພິ່ນ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ບົດໜ້າເອິກ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ບົດໜ້າເອິກ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ແລະໃສ່"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ໃສ່ໃນ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ບົດໜ້າເອິກ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ອູຣິມ"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "ອູຣິມ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ທູມິມ"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "ທູມິມ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:24:32.030009221Z",
+  "model": "glm-5.3"
+}

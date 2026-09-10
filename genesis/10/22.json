@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ລູກຊາຍຂອງເຊມ: ເອລາມ ອຊູຣ ອຣະພັກຊາດ ລຸດ ແລະອຣາມ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ເຊມ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ເອລາມ"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "ແລະອຊູຣ"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "ແລະອຣະພັກຊາດ"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "ແລະລຸດ"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "ແລະອຣາມ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:10:06.092819795Z",
+  "model": "glm-5.3"
+}

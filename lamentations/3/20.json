@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ຈົ່ງຈື່ຈື່ຈໍາອີກ, ແລະຊີວິດຂອງຂ້ອຍຊື່ນຕໍ່າລົງໃນຂ້ອຍ.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ຈົ່ງຈື່"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "ຈື່ຈໍາອີກ"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "ແລະຊື່ນຕໍ່າລົງ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ຊີວິດຂອງຂ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:10:18.484503335Z",
+  "model": "glm-5.3"
+}

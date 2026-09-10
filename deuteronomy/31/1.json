@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 31,
+  "translation": "ໂມເຊໄດ້ໄປ ແລະໄດ້ເວົ້າ⟨את⟩ຄຳເຫຼົ່ານີ້ຕໍ່ອິສະຣາເອນທັງຫຼາຍ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ໄດ້ໄປ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ແລະໄດ້ເວົ້າ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຄຳເຫຼົ່ານີ້"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ຄຳເຫຼົ່ານີ້"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ເຫຼົ່ານີ້"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງຫຼາຍ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:43:26.746798563Z",
+  "model": "glm-5.3"
+}

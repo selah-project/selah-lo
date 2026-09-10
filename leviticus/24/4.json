@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ເທິງຄອນໄຟຈະລິດ ອາຮາໂຣນຈະຈັດ⟨את⟩ດອກໄຟທັງຫຼາຍ ຕໍ່ໜ້າຢາເວຕະຫຼອດ",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "ຄອນໄຟ"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "ຈະລິດ"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "ຈະຈັດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ດອກໄຟທັງຫຼາຍ"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "ດອກໄຟທັງຫຼາຍ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ຕໍ່ໜ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ຕະຫຼອດ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:47:38.724800298Z",
+  "model": "glm-5.3"
+}

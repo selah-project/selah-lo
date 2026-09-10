@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 13:41",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ແລະຖ້າຫົວຂອງເພິ່ນຫຼົງຈາກຂອບຂອງໜ້າຂອງເພິ່ນ ເພິ່ນສິວໜ້າ ເພິ່ນສະອາດ ເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ແລະຖ້າ"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ຂອບຂອງ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ໜ້າຂອງເພິ່ນ"
+    },
+    {
+      "surface": "ימרט",
+      "gloss": "ຫຼົງ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ຫົວຂອງເພິ່ນ"
+    },
+    {
+      "surface": "גבח",
+      "gloss": "ສິວໜ້າ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ສະອາດ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:30:12.678555777Z",
+  "model": "glm-5.3"
+}

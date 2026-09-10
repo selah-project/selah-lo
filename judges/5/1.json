@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 5:1",
+  "book": "judges",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ໃນວັນນັ້ນ ດີໂບຣາ ແລະບາຣາກ ລູກຊາຍຂອງອາບິໂນອາມ ໄດ້ຂັບຮ້ອງວ່າ",
+  "tokens": [
+    {
+      "surface": "ותשר",
+      "gloss": "ໄດ້ຂັບຮ້ອງ"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "ດີໂບຣາ"
+    },
+    {
+      "surface": "וברק",
+      "gloss": "ແລະບາຣາກ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "ອາບິໂນອາມ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ໃນວັນ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ນັ້ນ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T14:11:21.747247295Z",
+  "model": "glm-5.3"
+}

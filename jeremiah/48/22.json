@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 48,
+  "translation": "ແລະເທິງດີໂບນ ແລະເທິງເນໂບ ແລະເທິງເບັດດິບລັດທະຢາມ.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ແລະເທິງ"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "ດີໂບນ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ແລະເທິງ"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "ເນໂບ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ແລະເທິງ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ເບັດ"
+    },
+    {
+      "surface": "דבלתים",
+      "gloss": "ດິບລັດທະຢາມ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:48:19.375426873Z",
+  "model": "glm-5.3"
+}

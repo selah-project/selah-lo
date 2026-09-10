@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 9:25",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ແລະວັນຂອງຂ້ອຍເບົາກວ່ານັກແລ່ນ ໜີໄປບໍ່ເຫັນຄວາມດີ.",
+  "tokens": [
+    {
+      "surface": "וימי",
+      "gloss": "ແລະວັນຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ເບົາ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ກວ່າ"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "ນັກແລ່ນ"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "ໜີໄປ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ເຫັນ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ຄວາມດີ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:14:22.381691007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 1:1",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ອາດາມ, ເຊດ, ເນໂອຊ.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ອາດາມ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ເຊດ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ເນໂອຊ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:02:34.314233992Z",
+  "model": "glm-5.3"
+}

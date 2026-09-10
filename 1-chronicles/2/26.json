@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ມີແມ່ຍິງອີກຄົນໜຶ່ງຂອງເຢຣາມເອນ ຊື່ຂອງນາງ⟨ເປັນ⟩ອາຕາຣາ ນາງ⟨ເປັນ⟩ແມ່ຂອງໂອນາມ.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ແມ່ຍິງ"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "ອີກຄົນໜຶ່ງ"
+    },
+    {
+      "surface": "לירחמאל",
+      "gloss": "ຂອງເຢຣາມເອນ"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ຊື່ຂອງນາງ"
+    },
+    {
+      "surface": "עטרה",
+      "gloss": "ອາຕາຣາ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ນາງ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ແມ່ຂອງ"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ໂອນາມ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:04:54.429528837Z",
+  "model": "glm-5.3"
+}

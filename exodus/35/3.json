@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 35,
+  "translation": "ຢ່າຈຸດໄຟໃນບ່ອນຢູ່ທັງປວງຂອງພວກເຈົ້າໃນວັນຊັບບາດ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "ຈຸດ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ໄຟ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ໃນທັງປວງ"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "ບ່ອນຢູ່ຂອງພວກເຈົ້າ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ໃນວັນ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ຊັບບາດ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:06:00.826876258Z",
+  "model": "glm-5.3"
+}

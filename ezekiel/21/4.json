@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ແລະທຸກເນື້ອຈະເຫັນວ່າເຮົາ ຢາເວ ໄດ້ຈຸດມັນ ມັນຈະບໍ່ດັບ",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "ແລະຈະເຫັນ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ເນື້ອ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ເຮົາ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "ໄດ້ຈຸດມັນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ຈະດັບ"
+    }
+  ],
+  "timestamp": "2026-09-09T01:21:10.233669041Z",
+  "model": "glm-5.3"
+}

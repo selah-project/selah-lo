@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 35:12",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 35,
+  "translation": "ແລະຄຳຂອງຢາເວໄດ້ມາຫາເຢຣະມີຢາຮູ ໃຫ້ເວົ້າວ່າ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະຄຳ...ໄດ້ມາ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ເຢຣະມີຢາຮູ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ໃຫ້ເວົ້າວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:33:09.018127493Z",
+  "model": "glm-5.3"
+}

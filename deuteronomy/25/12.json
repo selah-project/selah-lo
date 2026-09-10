@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ຈົ່ງຕັດອອກ⟨את⟩ມືຂອງນາງ ຕາຂອງເຈົ້າຢ່າສົງສານນາງ",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "ຈົ່ງຕັດອອກ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ມືຂອງນາງ"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "ມືຂອງນາງ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ສົງສານ"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ຕາຂອງເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:38:14.980614825Z",
+  "model": "glm-5.3"
+}

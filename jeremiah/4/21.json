@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ຈົນຮອດໃດຂ້ອຍຈະເຫັນໜ່າງ? ຂ້ອຍຈະຟັງສຽງຂອງແຂນ?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ຈົນ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ຮອດໃດ"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ຂ້ອຍຈະເຫັນ"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ໜ່າງ"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "ຂ້ອຍຈະຟັງ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ສຽງຂອງ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ແຂນ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:01:20.430866515Z",
+  "model": "glm-5.3"
+}

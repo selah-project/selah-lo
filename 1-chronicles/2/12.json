@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ໂບອາຊກຳເນີດ⟨את⟩ໂອເບດ ແລະໂອເບດກຳເນີດ⟨את⟩ຢິຊາຍ.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "ໂບອາຊ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ກຳເນີດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ໂອເບດ"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ໂອເບດ"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "ແລະໂອເບດ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ກຳເນີດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຢິຊາຍ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ຢິຊາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:03:28.196332041Z",
+  "model": "glm-5.3"
+}

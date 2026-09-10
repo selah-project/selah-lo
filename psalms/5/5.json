@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ຍ່ອນວ່າເຈົ້າບໍ່ແມ່ນເອນຜູ້ພໍໃຈຄວາມຊົ່ວ, ຄວາມຮ້າຍຈະບໍ່ຢູ່ກັບເຈົ້າ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ຍ່ອນວ່າ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເອນ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ພໍໃຈ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ຄວາມຊົ່ວ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ເຈົ້າ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "ຈະຢູ່ກັບເຈົ້າ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ຄວາມຮ້າຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:25:31.925554395Z",
+  "model": "glm-5.3"
+}

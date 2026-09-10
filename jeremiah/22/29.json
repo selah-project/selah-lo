@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 22:29",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 22,
+  "translation": "ແຜ່ນດິນ ແຜ່ນດິນ ແຜ່ນດິນ ຈົ່ງຟັງຄຳຂອງຢາເວ.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ແຜ່ນດິນ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ແຜ່ນດິນ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ແຜ່ນດິນ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ຈົ່ງຟັງ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:15:21.323801020Z",
+  "model": "glm-5.3"
+}

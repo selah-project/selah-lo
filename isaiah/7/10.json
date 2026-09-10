@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 7:10",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ແລະຢາເວເພີ່ມກ່າວຕໍ່ອາຮາດວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "ແລະເພີ່ມ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ກ່າວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ອາຮາດ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T16:18:14.035105281Z",
+  "model": "glm-5.3"
+}

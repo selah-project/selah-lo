@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ຜູ້ຊາຍຂອງອານາໂທດ ໜຶ່ງຮ້ອຍຊາວແລະແປດຄົນ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ຜູ້ຊາຍຂອງ"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "ອານາໂທດ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ໜຶ່ງຮ້ອຍ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ຊາວ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ແລະແປດ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:47:05.807178212Z",
+  "model": "glm-5.3"
+}

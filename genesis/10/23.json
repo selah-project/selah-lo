@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 10:23",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ແລະລູກຊາຍຂອງອຣາມ: ອຸດ ຮຸດ ເກເທຣ ແລະມາດ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ແລະລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ອຣາມ"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ອຸດ"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "ແລະຮຸດ"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "ແລະເກເທຣ"
+    },
+    {
+      "surface": "ומש",
+      "gloss": "ແລະມາດ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:10:06.092973926Z",
+  "model": "glm-5.3"
+}

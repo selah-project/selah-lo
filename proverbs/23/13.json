@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ຢ່າງດັບການຝຶກຝົນຈາກເດັກນ້ອຍ ຍ້ອນເຈົ້າຕີເພິ່ນດ້ວຍຄານ ເພິ່ນຈະບໍ່ຕາຍ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ງດັບ"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "ຈາກເດັກນ້ອຍ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ການຝຶກຝົນ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ຍ້ອນ"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "ເຈົ້າຕີເພິ່ນ"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ດ້ວຍຄານ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ຕາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:16:29.419906075Z",
+  "model": "glm-5.3"
+}

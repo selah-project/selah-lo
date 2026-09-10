@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ທູດຂອງຄົນຊົ່ວຈະຕົກໃນຄວາມຊົ່ວ ແລະທູດຜູ້ສັດຊື້⟨ເປັນ⟩ຢາຮັກສາ.",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "ທູດ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ຂອງຄົນຊົ່ວ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ຈະຕົກ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ໃນຄວາມຊົ່ວ"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "ແລະທູດ"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "ຜູ້ສັດຊື້"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ຢາຮັກສາ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:38:39.020286473Z",
+  "model": "glm-5.3"
+}

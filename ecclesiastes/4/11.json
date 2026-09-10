@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ກໍຖ້າສອງຄົນນອນລົງຄວາມອົບອຸ່ນກໍມີແກ່ພວກເຂົາແລະຄົນດຽວຈະອົບອຸ່ນໄດ້ແນວໃດ",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ກໍ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ຖ້າ"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "ນອນລົງ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ສອງຄົນ"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ຄວາມອົບອຸ່ນກໍມີ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ແກ່ພວກເຂົາ"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "ແລະຄົນດຽວ"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ແນວໃດ"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "ຈະອົບອຸ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-10T00:28:26.763530695Z",
+  "model": "glm-5.3"
+}

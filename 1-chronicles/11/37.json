@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ເຮດໂຣ ຄາມິລ, ນາອາຣາຍ ບຸດ ຂອງ ອີດບາຍ.",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "ເຮດໂຣ"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "ຄາມິລ"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "ນາອາຣາຍ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ບຸດ ຂອງ"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "ອີດບາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:20:55.697735278Z",
+  "model": "glm-5.3"
+}

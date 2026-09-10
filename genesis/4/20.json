@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ແລະອາດາເກີດ⟨את⟩ຢາບານ ເພິ່ນເປັນພໍ່ຂອງຜູ້ອາໄສຢູ່ເຕັນ ແລະຜູ້ເລີ້ງສັດ.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ແລະອາດາເກີດ"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "ອາດາ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຢາບານ"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "ຢາບານ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ເປັນ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ພໍ່ຂອງ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ຜູ້ອາໄສຢູ່"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ເຕັນ"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "ແລະຜູ້ເລີ້ງສັດ"
+    }
+  ],
+  "timestamp": "2026-09-08T15:58:36.672511935Z",
+  "model": "glm-5.3"
+}

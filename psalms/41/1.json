@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 41,
+  "translation": "ແກ່ຜູ້ຄວບຄຸມ, ບົດຮ້ອງຂອງດາວິດ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ແກ່ຜູ້ຄວບຄຸມ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ບົດຮ້ອງ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ຂອງດາວິດ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:08:18.594351044Z",
+  "model": "glm-5.3"
+}

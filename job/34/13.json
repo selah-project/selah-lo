@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 34:13",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 34,
+  "translation": "ໃຜແຕ່ງຕັ້ງເທິງແຜ່ນດິນ ແລະໃຜວາງໂລກທັງໝົດ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ແຕ່ງຕັ້ງ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ເທິງມັນ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ແຜ່ນດິນ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ແລະໃຜ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ວາງ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ໂລກ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ທັງໝົດ"
+    }
+  ],
+  "timestamp": "2026-09-10T01:14:41.153437933Z",
+  "model": "glm-5.3"
+}

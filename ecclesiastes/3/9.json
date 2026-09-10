@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ມີຜົນປະໂຫຍດຫຍັງແກ່ຜູ້ກະທຳໃນສິ່ງທີ່ເພິ່ນອອກແຮງ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ຫຍັງ"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ຜົນປະໂຫຍດ"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "ຜູ້ກະທຳ"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ໃນສິ່ງທີ່"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ອອກແຮງ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:20:31.488421838Z",
+  "model": "glm-5.3"
+}

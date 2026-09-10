@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ຢາເວກ່າວຕໍ່ໂມເຊແລະຕໍ່ອາຮາໂຣນໃນແຜ່ນດິນມິດສະຣາຢິມວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະເພິ່ນກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ແລະຕໍ່"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ອາຮາໂຣນ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ໃນແຜ່ນດິນ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ມິດສະຣາຢິມ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T11:57:05.778633956Z",
+  "model": "glm-5.3"
+}

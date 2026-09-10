@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ຄວາມສະຫຼາດດີກວ່າເຄື່ອງສົງຄາມ ແຕ່ຄົນຜິດໜຶ່ງຄົນ ທຳລາຍສິນດີຫຼາຍ.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ຄວາມສະຫຼາດ"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "ກວ່າເຄື່ອງ"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ສົງຄາມ"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "ແຕ່ຄົນຜິດ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "ທຳລາຍ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ສິນດີ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ຫຼາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:23:24.538255359Z",
+  "model": "glm-5.3"
+}

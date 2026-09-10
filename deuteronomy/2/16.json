@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະມັນເກີດຂຶ້ນເມື່ອຜູ້ຊາຍຜູ້ຮົບທັງໝົດໝົດສິ້ນຕາຍຈາກທ່າມກາງປະຊາຊົນ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະມັນເກີດຂຶ້ນ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ເມື່ອ"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "ໝົດສິ້ນ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ຜູ້ຊາຍຂອງ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ການຮົບ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ຕາຍ"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ຈາກທ່າມກາງ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ປະຊາຊົນ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:16:13.685307358Z",
+  "model": "glm-5.3"
+}

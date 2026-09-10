@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 114,
+  "translation": "ພູທັງຫຼາຍເຕັ້ນຄືແກະຜູ້ ພູນ້ອຍຄືບັນດາລູກແກະ",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "ພູທັງຫຼາຍ"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "ເຕັ້ນ"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "ຄືແກະຜູ້"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ພູນ້ອຍ"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "ຄືບັນດາລູກ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ແກະ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:02:52.344098816Z",
+  "model": "glm-5.3"
+}

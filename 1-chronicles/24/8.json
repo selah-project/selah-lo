@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ຮາຣາມເປັນທີສາມ ເຊາຣິມເປັນທີສີ່.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "ຮາຣາມ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ທີສາມ"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "ເຊາຣິມ"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "ທີສີ່"
+    }
+  ],
+  "timestamp": "2026-09-09T09:44:10.173004101Z",
+  "model": "glm-5.3"
+}

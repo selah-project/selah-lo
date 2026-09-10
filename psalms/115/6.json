@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 115,
+  "translation": "ຫູແກ່ພວກມັນ ແລະບໍ່ຟັງ ດັງຂອງພວກມັນ ແລະບໍ່ດົມກິ່ນ",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "ຫູ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ແກ່ພວກມັນ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ຟັງ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ດັງ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ແກ່ພວກມັນ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "ດົມກິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:59:51.726032038Z",
+  "model": "glm-5.3"
+}

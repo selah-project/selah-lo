@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 7:21",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ງົວໜຶ່ງໂຕລູກຂອງຝູງແກະຜູ້ໜຶ່ງໂຕລູກແກະໜຶ່ງໂຕລູກຂອງປີຂອງມັນເປັນເຄື່ອງເຜົາ.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ງົວ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ຝູງ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ແກະຜູ້"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ລູກແກະ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ປີຂອງມັນ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ເປັນເຄື່ອງເຜົາ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:59:45.226462218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ຈົ່ງລຸກຂຶ້ນ ຢາເວ, ເອນ, ຈົ່ງຍົກມືຂອງເຈົ້າ, ຢ່າລືມຄົນທຸກຍາກ.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "ຈົ່ງລຸກຂຶ້ນ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເອນ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ຈົ່ງຍົກ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ມືຂອງເຈົ້າ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ລືມ"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ຄົນທຸກຍາກ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:02:49.206725942Z",
+  "model": "glm-5.3"
+}

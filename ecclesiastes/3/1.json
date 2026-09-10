@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ສຳລັບທຸກສິ່ງມີເວລາກຳນົດ ແລະເວລາສຳລັບທຸກຄວາມປາຖະໜາພາຍໃຕ້ຟ້າ.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "ສຳລັບທຸກສິ່ງ"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "ເວລາກຳນົດ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ແລະເວລາ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ສຳລັບທຸກ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ຄວາມປາຖະໜາ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ພາຍໃຕ້"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ຟ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:20:31.592820536Z",
+  "model": "glm-5.3"
+}

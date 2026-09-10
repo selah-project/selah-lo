@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ວັນທັງໝົດຂອງຄີນານແມ່ນສິບປີ ແລະເກົ້າຮ້ອຍປີ ແລະເພິ່ນຕາຍ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ແລະເປັນ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "ຄີນານ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ແລະເກົ້າ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ແລະຕາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T10:57:17.512970057Z",
+  "model": "glm-5.3"
+}

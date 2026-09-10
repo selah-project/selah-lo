@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ກະສັດເຊໂລໂມສ້າງອັບຣິໂຍນແກ່ຕົວເພິ່ນເອງ ຈາກໄມ້ຂອງເລບານອນ.",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "ອັບຣິໂຍນ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ສ້າງ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ແກ່ຕົວເພິ່ນເອງ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ເຊໂລໂມ"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "ຈາກໄມ້ຂອງ"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "ເລບານອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:55:57.301860415Z",
+  "model": "glm-5.3"
+}

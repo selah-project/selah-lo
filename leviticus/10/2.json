@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ແລະໄຟອອກມາຈາກໜ້າຢາເວ ແລະໄຫມ້⟨את⟩ພວກເຂົາ ແລະພວກເຂົາຕາຍຕໍ່ໜ້າຢາເວ.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "ແລະອອກມາ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ໄຟ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ຈາກໜ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ແລະໄຫມ້"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ພວກເຂົາ",
+      "marks": "ພວກເຂົາ"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "ແລະພວກເຂົາຕາຍ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ຕໍ່ໜ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:51:51.938097761Z",
+  "model": "glm-5.3"
+}

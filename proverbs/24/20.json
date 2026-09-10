@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ຍ້ອນວ່າບໍ່ມີຕອນທ້າຍແກ່ຄວາມຊົ່ວ ດອກໄຟຂອງຄົນຊົ່ວດັບ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ຍ້ອນວ່າ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ຕອນທ້າຍ"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ແກ່ຄວາມຊົ່ວ"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ດອກໄຟ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ຂອງຄົນຊົ່ວ"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "ດັບ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:18:04.988082807Z",
+  "model": "glm-5.3"
+}

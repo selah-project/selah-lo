@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ເພິ່ນພາຂ້ອຍໄປຫາເຮືອນເຫຼົ້າ ແລະທຸງຂອງເພິ່ນເໜືອຂ້ອຍແມ່ນຄວາມຮັກ.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "ເພິ່ນພາຂ້ອຍໄປ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ເຮືອນ"
+    },
+    {
+      "surface": "היין",
+      "gloss": "ເຫຼົ້າ"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "ແລະທຸງຂອງເພິ່ນ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ເໜືອຂ້ອຍ"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ຄວາມຮັກ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:56:03.727279378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 29:17",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 29,
+  "translation": "ຕາຂອງເລອານຸ່ມນຸ້ນ ສ່ວນຣາເຮນເປັນຜູ້ງາມຮູບຊົງ ແລະຜູ້ງາມໜ້າຕາ.",
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "ຕາຂອງ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ເລອາ"
+    },
+    {
+      "surface": "רכות",
+      "gloss": "ນຸ່ມນຸ້ນ"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "ສ່ວນຣາເຮນ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ເປັນ"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ງາມ"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ຮູບຊົງ"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "ແລະງາມ"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ໜ້າຕາ"
+    }
+  ],
+  "timestamp": "2026-09-09T11:25:28.961497373Z",
+  "model": "glm-5.3"
+}

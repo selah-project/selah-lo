@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 34,
+  "translation": "ຈົ່ງຊີມຈົ່ງເບິ່ງວ່າຢາເວດີ, ຄວາມສຸກຂອງຜູ້ຊາຍຜູ້ລີ້ຢູ່ໃນເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "ຈົ່ງຊີມ"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ແລະຈົ່ງເບິ່ງ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ຄວາມສຸກຂອງ"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ຜູ້ຊາຍ"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "ລີ້ຢູ່"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ໃນເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:07:10.327420157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ຄວາມເມດຕາເຫຼົ່ານັ້ນໃໝ່ທຸກເຊົ້າ ຄວາມສັດຊື່ຂອງເຈົ້າຫຼວງ.",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "ໃໝ່"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "ທຸກເຊົ້າ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ຫຼວງ"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ຄວາມສັດຊື່ຂອງເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:08:46.646583189Z",
+  "model": "glm-5.3"
+}

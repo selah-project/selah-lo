@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 49:14",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 49,
+  "translation": "ຢິສະສາການ⟨ເປັນ⟩ລູກໂພນກະດູກໃຫຍ່ ນອນພັກຢູ່ລະຫວ່າງຄອກແກະ.",
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "ຢິສະສາການ"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "ລູກໂພນ"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "ກະດູກ"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "ນອນພັກ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ລະຫວ່າງ"
+    },
+    {
+      "surface": "המשפתים",
+      "gloss": "ຄອກແກະ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:37:16.929959033Z",
+  "model": "glm-5.3"
+}

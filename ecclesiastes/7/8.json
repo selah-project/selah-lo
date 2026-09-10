@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ທ້າຍທາຍຂອງເລື່ອງດີກວ່າເບື້ອງຕົ້ນຂອງມັນ ວິນຍານຍາວດີກວ່າວິນຍານສູງ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ດີກວ່າ"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ທ້າຍທາຍ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຂອງເລື່ອງ"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "ກວ່າເບື້ອງຕົ້ນຂອງມັນ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ດີກວ່າ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ຍາວ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ວິນຍານ"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "ກວ່າສູງ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ວິນຍານ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:46:10.209361746Z",
+  "model": "glm-5.3"
+}

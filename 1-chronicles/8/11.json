@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະຈາກຮູຊິມເພິ່ນໄດ້ມີລູກ⟨את⟩ອາບິຕູບ ແລະ⟨את⟩ເອນປານ.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "ແລະຈາກຮູຊິມ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ເພິ່ນໄດ້ມີລູກ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ອາບິຕູບ"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "ອາບິຕູບ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ເອນປານ"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "ເອນປານ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:16:10.603233726Z",
+  "model": "glm-5.3"
+}

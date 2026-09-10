@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ຜູ້ບາດເຈັບຖືກບີບ ແລະຖືກຕັດອະໄວຍວະຈະບໍ່ເຂົ້າສູ່ການຊຸມນຸມຂອງຢາເວ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ຈະເຂົ້າ"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "ບາດເຈັບ"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "ຖືກບີບ"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "ແລະຖືກຕັດ"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "ອະໄວຍວະ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ສູ່ການຊຸມນຸມ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:58:29.652347503Z",
+  "model": "glm-5.3"
+}

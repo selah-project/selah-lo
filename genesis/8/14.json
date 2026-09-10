@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະໃນເດືອນທີສອງ ໃນວັນທີເຈັດ ແລະຊາວວັນຂອງເດືອນ ແຜ່ນດິນໂລກແຫ້ງ.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "ແລະໃນເດືອນ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ທີສອງ"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "ໃນເຈັດ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ແລະຊາວ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ຂອງເດືອນ"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "ແຫ້ງ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ແຜ່ນດິນໂລກ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:27:52.462431160Z",
+  "model": "glm-5.3"
+}

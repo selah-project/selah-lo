@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 2:21",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ລູກຫຼານຂອງບິດເລເຫັມ ໜຶ່ງຮ້ອຍຊາວສາມຄົນ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ບິດ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ເລເຫັມ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ໜຶ່ງຮ້ອຍ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ຊາວ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ແລະສາມ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:13:39.188975353Z",
+  "model": "glm-5.3"
+}

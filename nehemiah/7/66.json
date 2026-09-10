@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ຊຸມຊົນທັງໝົດນັບເປັນໜຶ່ງດຽວ ສີ່ໝື່ນສອງພັນສາມຮ້ອຍຫົກສິບ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ຊຸມຊົນ"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ເປັນໜຶ່ງດຽວ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ສີ່"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "ໝື່ນ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ສອງພັນ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ສາມ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ແລະຫົກສິບ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:07:04.483393767Z",
+  "model": "glm-5.3"
+}

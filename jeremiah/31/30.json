@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 31:30",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 31,
+  "translation": "ແຕ່ຄົນໜຶ່ງຈະຕາຍໃນຄວາມຜິດຂອງລາວ ທຸກຄົນທີ່ກິນໝາກອງຸ່ນ ແຂ້ວຂອງລາວຈະໝິນ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ຍ້ອນວ່າ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ແຕ່"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "בעונו",
+      "gloss": "ໃນຄວາມຜິດຂອງລາວ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ຈະຕາຍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "ຜູ້ກິນ"
+    },
+    {
+      "surface": "הבסר",
+      "gloss": "ໝາກອງຸ່ນ"
+    },
+    {
+      "surface": "תקהינה",
+      "gloss": "ຈະໝິນ"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "ແຂ້ວຂອງລາວ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:29:52.356779253Z",
+  "model": "glm-5.3"
+}

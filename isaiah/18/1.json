@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 18,
+  "translation": "ໂອ້ແຜ່ນດິນສຽງຟົດຟາດຂອງປີກ, ຜູ້ທີ່ຢູ່ກາຍມະນານແມ່ນ້ຳຂອງຄູຊ.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ໂອ້"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ແຜ່ນດິນ"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "ສຽງຟົດຟາດຂອງ"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "ປີກ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ຜູ້ທີ່"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ກາຍມະນານ"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "ແມ່ນ້ຳຂອງ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ຄູຊ"
+    }
+  ],
+  "timestamp": "2026-09-08T23:25:14.983116133Z",
+  "model": "glm-5.3"
+}

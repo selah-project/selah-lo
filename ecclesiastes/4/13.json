@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ເດັກທຸກຍາກແລະສະຫຼາດດີກວ່າກະສັດອາຍຸຍາວແລະໂງ່ຜູ້ທີ່ບໍ່ຮູ້ຮັບຄຳເຕືອນອີກຕໍ່ໄປ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ດີກວ່າ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ເດັກ"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "ທຸກຍາກ"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ແລະສະຫຼາດ"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "ກວ່າກະສັດ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ອາຍຸຍາວ"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ແລະໂງ່"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ຜູ້ທີ່"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ຮູ້"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "ຮັບຄຳເຕືອນ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ອີກຕໍ່ໄປ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:44:36.332602652Z",
+  "model": "glm-5.3"
+}

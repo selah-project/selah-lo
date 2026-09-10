@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ແລະອັບຣາຮາມ(ອັບຣາຮາມ)ກ່າວວ່າ:ຂ້ອຍຈະສາບານ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະກ່າວ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ອັບຣາຮາມ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ຂ້ອຍ"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "ຈະສາບານ"
+    }
+  ],
+  "timestamp": "2026-09-09T11:17:04.211378970Z",
+  "model": "glm-5.3"
+}

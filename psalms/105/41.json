@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 105,
+  "translation": "ຢາເວເປີດຫີນ ແລະນ້ຳໄຫຼອອກ ນ້ຳໄຫຼໄປໃນທະເລສົບຄືລຳນ້ຳ",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "ເປີດ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ຫີນ"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "ແລະນ້ຳໄຫຼອອກ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ໄຫຼໄປ"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "ໃນທະເລສົບ"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ຄືລຳນ້ຳ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:56:13.380647486Z",
+  "model": "glm-5.3"
+}

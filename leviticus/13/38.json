@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 13:38",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ແລະຜູ້ຊາຍຫຼືຜູ້ຍິງເມື່ອມີຢູ່ໃນຜິວຂອງເນື້ອຂອງເຂົາເຈົ້າຈຸກຂາວ ຈຸກຂາວ",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ແລະຜູ້ຊາຍ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ຜູ້ຍິງ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເມື່ອ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ໃນຜິວ"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "ຂອງເນື້ອຂອງເຂົາເຈົ້າ"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "ຈຸກຂາວ"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "ຈຸກຂາວ"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "ຂາວ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:28:23.946173846Z",
+  "model": "glm-5.3"
+}

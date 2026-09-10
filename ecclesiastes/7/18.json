@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ດີທີ່ເຈົ້າຈະຍຶດອັນນີ້ ແລະກໍຈາກອັນນັ້ນ ຢ່າປ່ອຍ⟨את⟩ມືຂອງເຈົ້າ ເພາະຜູ້ທີ່ຍໍາເກງເອໂລຮິມຈະອອກ⟨את⟩ທັງຫຼາຍ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "ເຈົ້າຈະຍຶດ"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ອັນນີ້"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ແລະກໍ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ຈາກອັນນັ້ນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "ປ່ອຍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ມືຂອງເຈົ້າ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ມືຂອງເຈົ້າ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ຜູ້ທີ່ຍໍາເກງ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ເອໂລຮິມ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ຈະອອກ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ທັງຫຼາຍ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ທັງຫຼາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:44:36.867418027Z",
+  "model": "glm-5.3"
+}

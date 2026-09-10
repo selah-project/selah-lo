@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ແລະໂມເຊກ່າວຕໍ່ລູກຫຼານຂອງອິສະຣາເອນ ໃຫ້ປະຕິບັດປະສາຮ",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ແລະກ່າວ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ໃຫ້ປະຕິບັດ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ປະສາຮ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:07:22.107362807Z",
+  "model": "glm-5.3"
+}

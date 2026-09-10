@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 32:18",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 32,
+  "translation": "ຫີນຜູ້ໃຫ້ເກີດເຈົ້າ ເຈົ້າລືມ, ແລະເຈົ້າລືມເອນຜູ້ນຳເກີດເຈົ້າ.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "ຫີນ"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "ຜູ້ໃຫ້ເກີດເຈົ້າ"
+    },
+    {
+      "surface": "תשי",
+      "gloss": "ເຈົ້າລືມ"
+    },
+    {
+      "surface": "ותשכח",
+      "gloss": "ແລະເຈົ້າລືມ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເອນ"
+    },
+    {
+      "surface": "מחללך",
+      "gloss": "ຜູ້ນຳເກີດເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-10T00:59:04.237385478Z",
+  "model": "glm-5.3"
+}

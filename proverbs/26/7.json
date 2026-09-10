@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 26:7",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ຂາຂອງຄົນກຶກຫົດລົງ ຄືກັນກັບຄຳພູດໃນປາກຂອງຄົນໂງ່.",
+  "tokens": [
+    {
+      "surface": "דליו",
+      "gloss": "ຫົດລົງ"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "ຂາທັງສອງ"
+    },
+    {
+      "surface": "מפסח",
+      "gloss": "ຂອງຄົນກຶກ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ແລະຄຳພູດ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ໃນປາກ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ຂອງຄົນໂງ່"
+    }
+  ],
+  "timestamp": "2026-09-09T05:54:44.521101113Z",
+  "model": "glm-5.3"
+}

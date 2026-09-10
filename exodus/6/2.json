@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 6:2",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ແລະເອໂລຮິມເວົ້າກັບໂມເຊ ແລະກ່າວກັບເພິ່ນວ່າ: ເຮົາ⟨ເປັນ⟩ຢາເວ.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ແລະເພິ່ນເວົ້າ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ເອໂລຮິມ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະກ່າວ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ກັບເພິ່ນ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ເຮົາ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:24:15.362389439Z",
+  "model": "glm-5.3"
+}

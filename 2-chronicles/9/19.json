@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 9:19",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ແລະຊວມສິບສອງໂຕຢູ່ທີ່ນັ້ນເທິງຂັ້ນທັງຫົກດ້ານນີ້ແລະດ້ານນັ້ນ ບໍ່ໄດ້ຖືກເຮັດແບບນັ້ນແກ່ອານາຈັກໃດ",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "ແລະສອງ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "ຊວມ"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ຢືນ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ຢູ່ທີ່ນັ້ນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ຫົກ"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ຂັ້ນ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ດ້ານນີ້"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "ແລະດ້ານນັ້ນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ຖືກເຮັດ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ແບບນັ້ນ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ແກ່"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "ອານາຈັກ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:22:49.069330962Z",
+  "model": "glm-5.3"
+}

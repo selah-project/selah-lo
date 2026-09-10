@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ເພາະແມ່ກວາງໃນທົ່ງກໍຄອດ ແລະປະຖິ້ມ ເພາະບໍ່ມີຫຍ້າ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ກໍ"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "ແມ່ກວາງ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ໃນທົ່ງ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ຄອດ"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "ແລະປະຖິ້ມ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ຫຍ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:11:35.517006199Z",
+  "model": "glm-5.3"
+}

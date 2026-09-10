@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະລູກຊາຍຂອງມິຄາ ⟨ເປັນ⟩ ປິໂທນ ແລະເມເລກ ແລະຕາເຣອາ ແລະອາຮາສ",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ແລະລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ມິຄາ"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "ປິໂທນ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ແລະເມເລກ"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "ແລະຕາເຣອາ"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "ແລະອາຮາສ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:20:50.292180596Z",
+  "model": "glm-5.3"
+}

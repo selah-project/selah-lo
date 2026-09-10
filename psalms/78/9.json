@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 78,
+  "translation": "ລູກຫຼານຂອງເອຟຣາຢິມ ຜູ້ຍິງຂ້າວ ຫັນກັບໃນວັນການຮົບ",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ເອຟຣາຢິມ"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "ຜູ້…ຂ້າວ"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "ຜູ້ຍິງ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ຂ້າວ"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "ຫັນກັບ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ໃນວັນ"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ການຮົບ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:49:03.645519306Z",
+  "model": "glm-5.3"
+}

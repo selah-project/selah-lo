@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 11:39",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ສະເລກຄົນອາມອນ ນາຣາຍຄົນເບຣອດ ຜູ້ຖືເຄື່ອງຂອງໂຢອາບລູກຊາຍຂອງສຣູຢາ.",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "ສະເລກ"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "ຄົນອາມອນ"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "ນາຣາຍ"
+    },
+    {
+      "surface": "הברתי",
+      "gloss": "ຄົນເບຣອດ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ຜູ້ຖື"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ເຄື່ອງ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ໂຢອາບ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ສຣູຢາ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:14:26.242199438Z",
+  "model": "glm-5.3"
+}

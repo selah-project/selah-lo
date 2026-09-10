@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ຢ່າກິນບົນເລືອດຢ່າທຳນາຍແລະຢ່າທຳນາຍດ້ວຍເຄື່ອງໝາຍຟ້າ",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ພວກເຈົ້າກິນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ບົນ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ເລືອດ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "ພວກເຈົ້າທຳນາຍ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະຢ່າ"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "ພວກເຈົ້າທຳນາຍດ້ວຍເຄື່ອງໝາຍຟ້າ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:39:10.751595319Z",
+  "model": "glm-5.3"
+}

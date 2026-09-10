@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 26:12",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ທັງໝົດຈຳນວນຫົວໜ້າຂອງບັນດາບິດາ ຂອງນັກຮົບຜູ້ກ້າ ຄືສອງພັນແລະຫົກຮ້ອຍຄົນ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ຈຳນວນ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ຫົວໜ້າ"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ຂອງບັນດາບິດາ"
+    },
+    {
+      "surface": "לגבורי",
+      "gloss": "ຂອງນັກຮົບຜູ້"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ກ້າ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ສອງພັນ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ແລະຫົກ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:29:44.236761250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 10:21",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ສິ້ນຝີຂອງຄົນຊອບທຳລ້ຽງຄົນຫຼາຍ ແລະຄົນໂງ່ຕາຍເພາະຂາດຫົວໃຈ.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "ສິ້ນຝີ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ຂອງຄົນຊອບທຳ"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "ລ້ຽງ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ຄົນຫຼາຍ"
+    },
+    {
+      "surface": "ואוילים",
+      "gloss": "ແລະຄົນໂງ່"
+    },
+    {
+      "surface": "בחסר",
+      "gloss": "ເພາະຂາດ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ຫົວໃຈ"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "ຕາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:10:21.162986825Z",
+  "model": "glm-5.3"
+}

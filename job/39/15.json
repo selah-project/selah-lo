@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 39:15",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 39,
+  "translation": "ແລະນາງລືມວ່າ ຕີນຈະເຜົ້າມັນ ແລະສັດຂອງທົ່ງຈະຕືມມັນ",
+  "tokens": [
+    {
+      "surface": "ותשכח",
+      "gloss": "ແລະນາງລືມ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ຕີນ"
+    },
+    {
+      "surface": "תזורה",
+      "gloss": "ຈະເຜົ້າ"
+    },
+    {
+      "surface": "וחית",
+      "gloss": "ແລະສັດ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ຂອງທົ່ງ"
+    },
+    {
+      "surface": "תדושה",
+      "gloss": "ຈະຕືມ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:50:38.027518743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 76,
+  "translation": "ເອໂລຮິມຮູ້ຈັກໃນຢູດາ ຊື່ຂອງເພິ່ນໃຫຍ່ໃນອິສະຣາເອນ.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "ຮູ້ຈັກ"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ໃນຢູດາ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ເອໂລຮິມ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ໃນອິສະຣາເອນ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ໃຫຍ່"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ຊື່ຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:33:07.950040992Z",
+  "model": "glm-5.3"
+}

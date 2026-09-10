@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ແລະ⟨את⟩ອາຣວາດີ ແລະ⟨את⟩ເສມຣີ ແລະ⟨את⟩ຮະມາດີ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ອາຣວາດີ"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "ອາຣວາດີ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ເສມຣີ"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "ເສມຣີ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ຮະມາດີ"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "ຮະມາດີ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:02:16.366444257Z",
+  "model": "glm-5.3"
+}

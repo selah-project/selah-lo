@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 21:27",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ແລະຢາເວກ່າວແກ່ທູດອົງ ແລະເພິ່ນຄືນດາບຂອງເພິ່ນເຂົ້າງັມຂອງມັນ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "ແກ່ທູດອົງ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ແລະຄືນ"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "ດາບຂອງເພິ່ນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເຂົ້າ"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "ງັມຂອງມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:36:08.854826769Z",
+  "model": "glm-5.3"
+}

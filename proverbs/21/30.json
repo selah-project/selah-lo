@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ບໍ່ມີຄວາມປັນຍາ ບໍ່ມີຄວາມເຂົ້າໃຈ ແລະບໍ່ມີຄຳແນະນຳຕໍ່ຢາເວ.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ບໍ່ມີ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ຄວາມປັນຍາ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ແລະບໍ່ມີ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ຄວາມເຂົ້າໃຈ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ແລະບໍ່ມີ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ຄຳແນະນຳ"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:16:04.776229951Z",
+  "model": "glm-5.3"
+}

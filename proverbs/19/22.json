@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ຄວາມປາຖະໜາຂອງຄົນ ຄື ເຮເສດຂອງເພິ່ນ ແລະ ຄົນທຸກດີກວ່າຄົນໝົດ.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "ຄວາມປາຖະໜາ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ຂອງຄົນ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ເຮເສດຂອງເພິ່ນ"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ແລະດີ"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ຄົນທຸກ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ກວ່າຄົນ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ໝົດ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:15:17.904891737Z",
+  "model": "glm-5.3"
+}

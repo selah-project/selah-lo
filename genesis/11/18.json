@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ແລະເປເລກໄດ້ມີຊີວິດສາມສິບປີແລະໄດ້ກຳເນິດ⟨את⟩ຣູ.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ໄດ້ມີຊີວິດ"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ເປເລກ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ສາມສິບ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ແລະໄດ້ກຳເນິດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຣູ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "ຣູ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:11:25.669193610Z",
+  "model": "glm-5.3"
+}

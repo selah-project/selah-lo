@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 62,
+  "translation": "ແກ່ຜູ້ຄວບຄຸມ ແກ່ຢິດທູນ ມິຊມໍ ຂອງດາວິດ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ແກ່ຜູ້ຄວບຄຸມ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ແກ່"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "ຢິດທູນ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ມິຊມໍ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ຂອງດາວິດ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:43:01.262216679Z",
+  "model": "glm-5.3"
+}

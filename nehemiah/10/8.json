@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 10:8",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ເມຊູລາມ ອາບິຢາຮ ມິຢາມິນ",
+  "tokens": [
+    {
+      "surface": "משלם",
+      "gloss": "ເມຊູລາມ"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ອາບິຢາຮ"
+    },
+    {
+      "surface": "מימן",
+      "gloss": "ມິຢາມິນ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:05:51.850234773Z",
+  "model": "glm-5.3"
+}

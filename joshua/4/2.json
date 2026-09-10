@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ຈົ່ງເອົາໃຫ້ພວກເຈົ້າເອງຈາກໝູ່ປະຊາຊົນສິບສອງຄົນ ຄົນໜຶ່ງຄົນໜຶ່ງຈາກເຜົ່າ",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "ເອົາ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ໃຫ້ພວກເຈົ້າເອງ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ໝູ່ປະຊາຊົນ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນໜຶ່ງ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນໜຶ່ງ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "ຈາກເຜົ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:49:52.104392814Z",
+  "model": "glm-5.3"
+}

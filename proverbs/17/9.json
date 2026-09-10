@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 17:9",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 17,
+  "translation": "ຜູ້ປິດບັງຄວາມຜິດຊອກຫາຄວາມຮັກ ແລະຜູ້ຊ້ຳເລື່ອງແຍກຫ່າງໝູ່ສະໜິດ.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "ຜູ້ປິດບັງ"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ຄວາມຜິດ"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ຊອກຫາ"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ຄວາມຮັກ"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "ແລະຜູ້ຊ້ຳ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ເລື່ອງ"
+    },
+    {
+      "surface": "מפריד",
+      "gloss": "ແຍກຫ່າງ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ໝູ່ສະໜິດ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:41:22.029790093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 32,
+  "translation": "ໂມເຊສຳເລັດການກ່າວ⟨את⟩ທຸກຄຳທັງໝົດເຫຼົ່ານີ້ຕໍ່ທຸກຄົນອິສະຣາເອນ.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ສຳເລັດ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ການກ່າວ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ທຸກຄຳທັງໝົດເຫຼົ່ານີ້"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ຄຳທັງໝົດເຫຼົ່ານີ້"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ເຫຼົ່ານີ້"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກຄົນ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:17:53.509605612Z",
+  "model": "glm-5.3"
+}

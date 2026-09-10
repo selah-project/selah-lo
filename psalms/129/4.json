@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 129,
+  "translation": "ຢາເວຊອບທຳ ເພິ່ນຕັດເຊືອກຂອງຄົນຊົ່ວ",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ຊອບທຳ"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "ຕັດ"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "ເຊືອກ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ຄົນຊົ່ວ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:12:44.755374567Z",
+  "model": "glm-5.3"
+}

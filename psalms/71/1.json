@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 71,
+  "translation": "ໃນເຈົ້າ ຢາເວ ຂ້ອຍໄດ້ອາໄສ; ຢ່າໃຫ້ຂ້ອຍອາຍຕະຫຼອດໄປ.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "ໃນເຈົ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ຂ້ອຍໄດ້ອາໄສ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ຂ້ອຍອາຍ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ຕະຫຼອດໄປ"
+    }
+  ],
+  "timestamp": "2026-09-10T00:23:01.754406532Z",
+  "model": "glm-5.3"
+}

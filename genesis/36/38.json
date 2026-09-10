@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 36:38",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 36,
+  "translation": "ຊາອູນໄດ້ຕາຍ ແລະບາອານຮານານລູກຊາຍຂອງອາກບອນໄດ້ຄອງແທນເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ໄດ້ຕາຍ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ຊາອູນ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ແລະໄດ້ຄອງ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ແທນເພິ່ນ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ບາອານ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ຮານານ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "ອາກບອນ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:49:26.784459383Z",
+  "model": "glm-5.3"
+}

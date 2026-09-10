@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 22,
+  "translation": "ຢ່າຍ້າຍເຂດແດນແຫ່ງຍຸກບູຮານ ທີ່ບັນພະບຸລຸດຂອງເຈົ້າວາງໄວ້",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "ຍ້າຍ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ເຂດແດນ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ແຫ່ງຍຸກບູຮານ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ວາງໄວ້"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "ບັນພະບຸລຸດຂອງເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:16:57.656094905Z",
+  "model": "glm-5.3"
+}

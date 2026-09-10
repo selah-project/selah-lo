@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 4:25",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ຊາລູມບັດຂອງເພິ່ນ ມິບສາມບັດຂອງເພິ່ນ ມິຊມາບັດຂອງເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "שלם",
+      "gloss": "ຊາລູມ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ບັດຂອງເພິ່ນ"
+    },
+    {
+      "surface": "מבשם",
+      "gloss": "ມິບສາມ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ບັດຂອງເພິ່ນ"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ມິຊມາ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ບັດຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:10:53.060684657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 34,
+  "translation": "ຍ້ອນພະນັ້ນ ຄູແກະທັງຫຼາຍ ຈົ່ງຟັງຄຳຢາເວ.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ຍ້ອນພະນັ້ນ"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ຄູແກະທັງຫຼາຍ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ຈົ່ງຟັງ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T01:42:09.370390206Z",
+  "model": "glm-5.3"
+}

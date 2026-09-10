@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 94,
+  "translation": "ຜູ້ປູກຫູຈະບໍ່ຟັງບໍ ຫຼືຜູ້ສ້າງຕາຈະບໍ່ເບິ່ງບໍ",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "ຜູ້ປູກ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ຫູ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ຫຼືບໍ່"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ຟັງ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ຜູ້ສ້າງ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ຕາ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ຫຼືບໍ່"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ເບິ່ງ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:11:06.991167687Z",
+  "model": "glm-5.3"
+}

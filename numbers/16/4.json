@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 16,
+  "translation": "ໂມເຊໄດ້ຟັງ ແລະເພິ່ນຫົບໜ້າລົງ.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ໄດ້ຟັງ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ແລະຫົບໜ້າລົງ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ລົງເທິງ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ໜ້າຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:02:43.841157741Z",
+  "model": "glm-5.3"
+}

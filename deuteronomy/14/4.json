@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ນີ້ຄືສັດທີ່ພວກເຈົ້າຈະກິນ: ໂຕງົວ, ໂຕແກະຂອງແກະ ແລະໂຕແກະຂອງແພະ.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ສັດ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ພວກເຈົ້າຈະກິນ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ໂຕງົວ"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ໂຕແກະ"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "ຂອງແກະ"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ແລະໂຕແກະ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ຂອງແພະ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:54:31.415431212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ຜ່ານໄປໃນຖະໜົນໃກ້ມຸມຂອງນາງ ແລະທາງໄປຫາເຮືອນຂອງນາງ ເພິ່ນຍ່າງ.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "ຜ່ານໄປ"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "ໃນຖະໜົນ"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ໃກ້"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ມຸມຂອງນາງ"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ແລະທາງ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ໄປຫາເຮືອນຂອງນາງ"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "ເພິ່ນຍ່າງ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:07:48.095222452Z",
+  "model": "glm-5.3"
+}

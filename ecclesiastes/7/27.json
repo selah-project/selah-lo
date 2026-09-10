@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ຈົ່ງເບິ່ງນີ້ ຂ້ອຍພົບ ໂກເຮເລັດກ່າວວ່າ ໜຶ່ງຕໍ່ໜຶ່ງ ເພື່ອຊອກຫາບັນຊີ.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ຈົ່ງເບິ່ງ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ຂ້ອຍພົບ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "ກ່າວ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ໂກເຮເລັດ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ຕໍ່ໜຶ່ງ"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "ເພື່ອຊອກຫາ"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ບັນຊີ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:24:37.069100357Z",
+  "model": "glm-5.3"
+}

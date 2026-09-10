@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ກ່ອນທີ່ເຊືອກເງິນຈະຖືກຕັດ ແລະໂຖນ້ຳທອງຈະຖືກດຶງ ແລະໄຫຈະແຕກທີ່ນ້ຳພຸ ແລະຈັກສາຍໂຊ່ຈະຖືກບີບຫັນລົງສູ່ບໍ່ນ້ຳ.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ກ່ອນທີ່"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ຈະ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "ຖືກຕັດ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ເຊືອກ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ເງິນ"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "ແລະຈະຖືກດຶງ"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "ໂຖນ້ຳ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ຂອງທອງ"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "ແລະຈະແຕກ"
+    },
+    {
+      "surface": "כד",
+      "gloss": "ໄຫ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "ນ້ຳພຸ"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "ແລະຈະຖືກບີບຫັນ"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ຈັກສາຍໂຊ່"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ສູ່"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "ບໍ່ນ້ຳ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:33:43.373840607Z",
+  "model": "glm-5.3"
+}

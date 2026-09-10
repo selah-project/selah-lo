@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ກະສັດແລະຮາມານມາດື່ມນໍາເອສະເທີລາຊິນີ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ແລະມາ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ແລະຮາມານ"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ເພື່ອດື່ມ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ນໍາ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ເອສະເທີ"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ລາຊິນີ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:44:44.088073493Z",
+  "model": "glm-5.3"
+}

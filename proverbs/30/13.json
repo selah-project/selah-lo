@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 30:13",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ຊົ່ວຊັນ ແນວໃດຕາຂອງມັນສູງ ແລະເປື້ອນຕາຂອງມັນຖືກຍົກຂຶ້ນ",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ຊົ່ວຊັນ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ແນວໃດ"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "ສູງ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ຕາຂອງມັນ"
+    },
+    {
+      "surface": "ועפעפיו",
+      "gloss": "ແລະເປື້ອນຕາຂອງມັນ"
+    },
+    {
+      "surface": "ינשאו",
+      "gloss": "ຖືກຍົກຂຶ້ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:00:41.454387926Z",
+  "model": "glm-5.3"
+}

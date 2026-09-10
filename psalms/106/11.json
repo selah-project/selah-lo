@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 106,
+  "translation": "ແລະນ້ຳກວມສັດຕູຂອງພວກເຂົາ ບໍ່ມີໜຶ່ງໃນພວກເຂົາຖືກເຫຼືອ.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "ແລະກວມ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "ສັດຕູຂອງພວກເຂົາ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ໃນພວກເຂົາ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "ຖືກເຫຼືອ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:57:11.244301982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 19:11",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ຜູ້ທີ່ສຳຜາຍກັບຄົນຕາຍ ຕໍ່ທຸກຊີວິດຂອງມະນຸດ ຈະມົນເຈັດວັນ.",
+  "tokens": [
+    {
+      "surface": "הנגע",
+      "gloss": "ຜູ້ທີ່ສຳຜາຍ"
+    },
+    {
+      "surface": "במת",
+      "gloss": "ກັບຄົນຕາຍ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ຕໍ່ທຸກ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ຊີວິດ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ຂອງມະນຸດ"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ຈະມົນ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ເຈັດ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ວັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:54:54.796270588Z",
+  "model": "glm-5.3"
+}

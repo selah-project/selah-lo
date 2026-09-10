@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 118:10",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 118,
+  "translation": "ຊາດທັງຫຼາຍແວດຮອບຂ້ອຍ ໃນຊື່ຢາເວວ່າຂ້ອຍຕັດພວກມັນ",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ທັງຫຼາຍ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ຊາດ"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ແວດຮອບຂ້ອຍ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ໃນຊື່"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "ຂ້ອຍຕັດພວກມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:04:52.608381604Z",
+  "model": "glm-5.3"
+}

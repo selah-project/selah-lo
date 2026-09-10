@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 6:24",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ຢາເວຈະອວຍພອນເຈົ້າ ແລະຢາເວຈະຮັກສາເຈົ້າ.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "ຢາເວຈະອວຍພອນເຈົ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "וישמרך",
+      "gloss": "ແລະຢາເວຈະຮັກສາເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:52:11.183394461Z",
+  "model": "glm-5.3"
+}

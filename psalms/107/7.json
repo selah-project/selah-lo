@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 107,
+  "translation": "ແລະເພິ່ນນຳພວກເຂົາໄປໃນທາງຊື່ ເພື່ອໄປຫາເມືອງບ່ອນຢູ່.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "ແລະເພິ່ນນຳພວກເຂົາໄປ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ໃນທາງ"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "ຊື່"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ເພື່ອໄປ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ເມືອງ"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "ບ່ອນຢູ່"
+    }
+  ],
+  "timestamp": "2026-09-10T01:13:36.506889544Z",
+  "model": "glm-5.3"
+}

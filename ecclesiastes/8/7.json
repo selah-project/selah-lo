@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ເພາະເພິ່ນບໍ່ຮູ້ສິ່ງໃດຈະເປັນ ເພາະເມື່ອມັນເປັນ ໃຜຈະບອກເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ເພິ່ນບໍ່"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ຮູ້"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ສິ່ງໃດ"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ຈະເປັນ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ເມື່ອ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ມັນເປັນ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ຈະບອກ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:29:38.703001019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 8:15",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະເຊບາດຢາ ແລະອາຣາດ ແລະອາເດຣ.",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "ແລະເຊບາດຢາ"
+    },
+    {
+      "surface": "וערד",
+      "gloss": "ແລະອາຣາດ"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "ແລະອາເດຣ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:11:26.597782556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 34:3",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 34,
+  "translation": "ຄົນຈະບໍ່ຂຶ້ນໄປກັບເຈົ້າ ແລະຄົນກໍຢ່າໃຫ້ຖືກເຫັນທົ່ວພູທັງໝົດ ແມ້ແຕ່ແກະແລະງົວກໍຢ່າໃຫ້ກິນຫຍ້າໜ້າພູນັ້ນ.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ແລະຄົນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ຈະຂຶ້ນ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ກັບເຈົ້າ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ແລະກໍ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ຖືກເຫັນ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ທົ່ວ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ພູ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ແມ້ແຕ່"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ແກະ"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "ແລະງົວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "ກິນຫຍ້າ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ໜ້າ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ພູ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ນັ້ນ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:02:31.660690977Z",
+  "model": "glm-5.3"
+}

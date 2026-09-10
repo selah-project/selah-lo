@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ຄອງລູກສອນຂອງມັນຄືຂຸມທີ່ເປີດ ທັງໝົດເປັນນັກຮົບແຂງແຮງ",
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "ຄອງລູກສອນຂອງມັນ"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "ຄືຂຸມ"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "ທີ່ເປີດ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "ນັກຮົບແຂງແຮງ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:03:58.182509389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 92,
+  "translation": "ຍັງຈະອອກຜົນໃນວັນແກ່ ຊຸ່ມຊື່ນແລະຂຽວສົດ⟨ເປັນ⟩.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "ຍັງ"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "ຈະອອກຜົນ"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "ໃນວັນແກ່"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "ຊຸ່ມຊື່ນ"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "ແລະຂຽວສົດ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨ເປັນ⟩"
+    }
+  ],
+  "timestamp": "2026-09-09T04:48:46.212048565Z",
+  "model": "glm-5.3"
+}

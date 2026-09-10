@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ແລະຊຸປິມ ແລະຮຸປິມເປັນລູກຊາຍຂອງອີຣ ຮຸຊິມເປັນລູກຊາຍຂອງອາເຮຣ.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "ແລະຊຸປິມ"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "ແລະຮຸປິມ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ອີຣ"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ຮຸຊິມ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ອາເຮຣ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:17:33.812556133Z",
+  "model": "glm-5.3"
+}

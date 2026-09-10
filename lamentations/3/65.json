@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "lamentations 3:65",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ເຈົ້າໃຫ້ແກ່ພວກເຂົາຄວາມມືດຂອງໃຈ, ຄຳສາບານຂອງເຈົ້າແກ່ພວກເຂົາ.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "ເຈົ້າໃຫ້"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ແກ່ພວກເຂົາ"
+    },
+    {
+      "surface": "מגנת",
+      "gloss": "ຄວາມມືດຂອງ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ໃຈ"
+    },
+    {
+      "surface": "תאלתך",
+      "gloss": "ຄຳສາບານຂອງເຈົ້າ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ແກ່ພວກເຂົາ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:08:22.593555292Z",
+  "model": "glm-5.3"
+}

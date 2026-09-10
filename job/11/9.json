@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 11:9",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ມັດຕາຂອງມັນຍາວກວ່າແຜ່ນດິນແລະກວ້າງກວ່າທະເລ.",
+  "tokens": [
+    {
+      "surface": "ארכה",
+      "gloss": "ຍາວກວ່າ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ແຜ່ນດິນ"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ມັດຕາຂອງມັນ"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "ກວ້າງກວ່າ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ກວ່າ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ທະເລ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:15:40.535594121Z",
+  "model": "glm-5.3"
+}

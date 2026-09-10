@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 144,
+  "translation": "ມະນຸດຄ້າຍຄືອາຍ ວັນຂອງເພິ່ນຄ້າຍຄືເງົາທີ່ຜ່ານໄປ.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ມະນຸດ"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "ເປັນອາຍ"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ຄ້າຍຄື"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ວັນຂອງເພິ່ນ"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "ຄ້າຍຄືເງົາ"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "ທີ່ຜ່ານໄປ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:20:45.828588207Z",
+  "model": "glm-5.3"
+}

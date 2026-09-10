@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະຊາຍຄົນໜຶ່ງຈາກວົງສາການຂອງເລວີໄປຮັບ⟨את⟩ລູກສາວຂອງເລວີ",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ໄດ້ໄປ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຊາຍຄົນໜຶ່ງ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ຈາກວົງສາການຂອງ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ເລວີ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ໄດ້ຮັບ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ລູກສາວຂອງເລວີ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ລູກສາວ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ຂອງເລວີ"
+    }
+  ],
+  "timestamp": "2026-09-09T11:48:20.291364757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 16,
+  "translation": "ທີ່ເພິ່ນຕັດກັບ⟨את⟩ອັບຣາຮາມ ແລະສັນຍາສັບຂອງເພິ່ນຕໍ່ຢິດສະຮາກ",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ຕັດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ອັບຣາຮາມ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ອັບຣາຮາມ"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "ແລະສັນຍາສັບຂອງເພິ່ນ"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ຕໍ່ຢິດສະຮາກ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:33:19.625452248Z",
+  "model": "glm-5.3"
+}

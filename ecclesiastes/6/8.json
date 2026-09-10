@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ເພາະວ່າຜູ້ມີປັນຍາມີຫຍັງຍ້ອນກວ່າຜູ້ໂງ່ ຄົນທຸກຮູ້ຫຍັງໃນການເດີນຕໍ່ໜ້າຜູ້ທີ່ມີຊີວິດ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະວ່າ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ຫຍັງ"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ຍ້ອນກວ່າ"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ແກ່ຜູ້ມີປັນຍາ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ກວ່າ"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "ຜູ້ໂງ່"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ຫຍັງ"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ແກ່ຄົນທຸກ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ຮູ້"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "ເດີນ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ຕໍ່ໜ້າ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ຜູ້ທີ່ມີຊີວິດ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:44:25.587348891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ແລະຄຳ ຢາເວ ໄດ້ມາ ໂດຍມືຂອງຮັກກາຍ ຜູ້ປະກາດ ວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະໄດ້ມາ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ໂດຍມື"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "ຮັກກາຍ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ຜູ້ປະກາດ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:12:37.969645361Z",
+  "model": "glm-5.3"
+}

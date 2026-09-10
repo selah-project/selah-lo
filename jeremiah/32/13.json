@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 32:13",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 32,
+  "translation": "ຂ້ອຍສັ່ງ⟨את⟩ບາຣູກຕໍ່ໜ້າຕາຂອງເຂົາເຈົ້າວ່າ",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "ຂ້ອຍສັ່ງ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ບາຣູກ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ບາຣູກ"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "ຕໍ່ໜ້າຕາຂອງເຂົາເຈົ້າ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:32:37.996422049Z",
+  "model": "glm-5.3"
+}

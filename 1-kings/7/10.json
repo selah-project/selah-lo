@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ແລະພື້ນຖານເປັນຫີນລ້າງຄ່າ ຫີນໃຫຍ່ ຫີນສິບສອກ ແລະຫີນແປດສອກ.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "ແລະພື້ນຖານ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ຫີນ"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "ລ້າງຄ່າ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ຫີນ"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ໃຫຍ່"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "ຫີນ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ສອກ"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ແລະຫີນ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ແປດ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ສອກ"
+    }
+  ],
+  "timestamp": "2026-09-08T22:17:56.750690550Z",
+  "model": "glm-5.3"
+}

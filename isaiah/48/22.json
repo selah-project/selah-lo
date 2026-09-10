@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 48,
+  "translation": "ບໍ່ມີຄວາມສະຫງົບ ຢາເວກ່າວ ແກ່ຄົນຊົ່ວ.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ບໍ່ມີ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ຄວາມສະຫງົບ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ເພິ່ນກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "ແກ່ຄົນຊົ່ວ"
+    }
+  ],
+  "timestamp": "2026-09-08T23:42:51.696959120Z",
+  "model": "glm-5.3"
+}

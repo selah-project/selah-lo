@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 22,
+  "translation": "ໃນວັນນັ້ນມັນຖືກກິນ ພວກເຈົ້າຢ່າເຫຼືອມັນໄວ້ຈົນເຖິງຕອນເຊົ້າ ເຮົາເປັນຢາເວ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ໃນວັນ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ນັ້ນ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ມັນຖືກກິນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "ພວກເຈົ້າເຫຼືອ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ຈາກມັນ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ຈົນເຖິງ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ຕອນເຊົ້າ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ເຮົາ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:41:43.395858030Z",
+  "model": "glm-5.3"
+}

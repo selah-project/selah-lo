@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ມິຊມາ ແລະດູມາ ມາຊາ ຮາດາດ ແລະຕີມາ.",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "ມິຊມາ"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "ແລະດູມາ"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ມາຊາ"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "ຮາດາດ"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "ແລະຕີມາ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:04:14.937569286Z",
+  "model": "glm-5.3"
+}

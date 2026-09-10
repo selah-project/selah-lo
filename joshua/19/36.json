@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 19:36",
+  "book": "joshua",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ແລະອາດາມາ ແລະຮາມາ ແລະຮາໂຊຣ.",
+  "tokens": [
+    {
+      "surface": "ואדמה",
+      "gloss": "ແລະອາດາມາ"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "ແລະຮາມາ"
+    },
+    {
+      "surface": "וחצור",
+      "gloss": "ແລະຮາໂຊຣ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:40:41.642281802Z",
+  "model": "glm-5.3"
+}

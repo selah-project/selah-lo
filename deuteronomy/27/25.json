@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 27,
+  "translation": "ຈົ່ງສາບາດເຂົາຜູ້ຮັບສິນບົນເພື່ອຂ້າຄົນ ເລືອດຜູ້ບໍລິສຸດ ແລະປະຊາຊົນທັງປວງຈະເວົ້າວ່າ ອາເມນ.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ຈົ່ງສາບາດ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ຜູ້ຮັບ"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ສິນບົນ"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "ເພື່ອຂ້າ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ເລືອດ"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ບໍລິສຸດ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ແລະຈະເວົ້າ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງປວງ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ປະຊາຊົນ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ອາເມນ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:10:40.962748863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 10:24",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ໂຮເຊອາ (ໂຮເຊອາ), ຮານານຢາ (ຮານານຍາ), ຮາຊູບ (ຮາຊົບ).",
+  "tokens": [
+    {
+      "surface": "הושע",
+      "gloss": "ໂຮເຊອາ"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "ຮານານຢາ"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "ຮາຊູບ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:50:55.821133225Z",
+  "model": "glm-5.3"
+}

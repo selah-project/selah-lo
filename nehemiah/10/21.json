@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 10:21",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ມັກປີອາຊ (ມັກປີອາສ), ເມຊຸລາມ (ເມຊູລຳ), ເຮຊີຣ (ເຮຊີ).",
+  "tokens": [
+    {
+      "surface": "מגפיעש",
+      "gloss": "ມັກປີອາຊ"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "ເມຊຸລາມ"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "ເຮຊີຣ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:50:55.820632034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 17,
+  "translation": "ຫົວໃຈຊຶມເຊື່ອວຽກກວ່າທຸກສິ່ງ ແລະມັນປ່ວຍເຮືອຍ ໃຜຈະຮູ້ຈັກມັນ?",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "ຊຶມເຊື່ອວຽກ"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "ຫົວໃຈ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ກວ່າທຸກສິ່ງ"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "ແລະປ່ວຍເຮືອຍ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "ຈະຮູ້ຈັກມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:12:09.103577590Z",
+  "model": "glm-5.3"
+}

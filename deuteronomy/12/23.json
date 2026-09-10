@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ພຽງແຕ່ໜັກແໜ້ນ ເພື່ອບໍ່ກິນເລືອດ ເພາະເລືອດຄືຊີວິດ ແລະເຈົ້າຈົ່ງຢ່າກິນຊີວິດນຳກັບເນື້ອ.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ພຽງແຕ່"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ໜັກແໜ້ນ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ເພື່ອບໍ່"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ກິນ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ເລືອດ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະວ່າ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ເລືອດ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ຄື"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ຊີວິດ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະຈົ່ງຢ່າ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ກິນ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ຊີວິດ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ນຳກັບ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ເນື້ອ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:55:34.761261971Z",
+  "model": "glm-5.3"
+}

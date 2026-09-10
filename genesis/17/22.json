@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 17,
+  "translation": "ເພິ່ນຈົບການເວົ້າກັບ⟨את⟩ລາວແລ້ວ ແລະເອໂລຮິມຂຶ້ນຈາກອັບຣາຮາມ.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ຈົບ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ການເວົ້າ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ກັບ⟨את⟩ລາວ",
+      "marks": "ລາວ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ແລະຂຶ້ນ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ເອໂລຮິມ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ຈາກບົນ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ອັບຣາຮາມ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:19:40.009019044Z",
+  "model": "glm-5.3"
+}

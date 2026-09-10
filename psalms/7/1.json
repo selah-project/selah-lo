@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ຊິກາຍົນຂອງດາວິດ ທີ່ເພິ່ນຮ້ອງຕໍ່ຢາເວ ວ່າດ້ວຍຄຳຂອງຄູຊບຸດຊາຍເຜົ່າບິນຢາມິນ.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "ຊິກາຍົນ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ຂອງດາວິດ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ຮ້ອງ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ຕໍ່ຢາເວ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ວ່າດ້ວຍ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ຄຳຂອງ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ຄູຊ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ບຸດ"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "ບິນຢາມິນ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:36:08.512873967Z",
+  "model": "glm-5.3"
+}

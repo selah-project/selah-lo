@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ຜູ້ທີ່ເຝົ້ານາມລົມບໍ່ຫວ່າງ ແລະຜູ້ທີ່ເບິ່ງຂຽນມ້ວນບໍ່ເກັບກູ້.",
+  "tokens": [
+    {
+      "surface": "שֹׁמֵר",
+      "gloss": "ຜູ້ທີ່ເຝົ້ານາມ"
+    },
+    {
+      "surface": "רוּחַ",
+      "gloss": "ລົມ"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יִזְרָע",
+      "gloss": "ຫວ່າງ"
+    },
+    {
+      "surface": "וְרֹאֶה",
+      "gloss": "ແລະຜູ້ທີ່ເບິ່ງ"
+    },
+    {
+      "surface": "בָּעָבִים",
+      "gloss": "ຂຽນມ້ວນ"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יִקְצוֹר",
+      "gloss": "ເກັບກູ້"
+    }
+  ],
+  "timestamp": "2026-09-09T07:29:46.391537932Z",
+  "model": "glm-5.3"
+}

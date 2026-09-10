@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 77,
+  "translation": "ສຳລັບຜູ້ຄວບຄຸມ, ບົນ⟨ເຢດູທູນ⟩, ຂອງອາສາຟ, ບົດຮ້ອງ",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ສຳລັບຜູ້ຄວບຄຸມ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ບົນ"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "ເຢດູທູນ"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ຂອງອາສາຟ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ບົດຮ້ອງ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:49:50.648869040Z",
+  "model": "glm-5.3"
+}

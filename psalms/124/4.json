@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 124,
+  "translation": "ຄັ້ງນັ້ນນ້ຳຖ້ວມພວກເຮົາ ລຳນ້ຳຜ່ານເໜືອຊີວິດຂອງພວກເຮົາ",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "ຄັ້ງນັ້ນ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "ຖ້ວມພວກເຮົາ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ລຳນ້ຳ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ຜ່ານ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ຊີວິດຂອງພວກເຮົາ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:14:50.077364439Z",
+  "model": "glm-5.3"
+}

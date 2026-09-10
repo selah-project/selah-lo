@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ຈາກອາໂຣເອຣ ຜູ້ທີ່ຢູ່ເທິງຝັ່ງຂອງລຳນ້ຳອາຣໂນນ ຮອດພູຊີໂອນລູກໜຶ່ງ ⟨ຄື⟩ ເຮຣມອນ",
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "ອາໂຣເອຣ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ຜູ້ທີ່"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ຝັ່ງ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ລຳນ້ຳ"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ອາຣໂນນ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ຮອດ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ພູ"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "ຊີໂອນ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ຄື⟩"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "ເຮຣມອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:23:04.715058006Z",
+  "model": "glm-5.3"
+}

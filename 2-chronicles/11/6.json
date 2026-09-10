@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ແລະໄດ້ສ້າງ⟨את⟩ບີດເລເຮັມແລະ⟨את⟩ເອຕາມແລະ⟨את⟩ທໂຄອາ",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ແລະໄດ້ສ້າງ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ບີດເລເຮັມ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ບີດ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ເລເຮັມ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ເອຕາມ"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "ເອຕາມ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ທໂຄອາ"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "ທໂຄອາ"
+    }
+  ],
+  "timestamp": "2026-09-09T10:04:25.414035021Z",
+  "model": "glm-5.3"
+}

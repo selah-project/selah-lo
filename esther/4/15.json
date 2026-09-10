@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ແລະເອສະເທີເວົ້າໃຫ້ຕອບຄືນຫາໂມຣະເດຄາຍ",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ແລະເພິ່ນເວົ້າ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ເອສະເທີ"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "ໃຫ້ຕອບຄືນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ໂມຣະເດຄາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:48:15.312733830Z",
+  "model": "glm-5.3"
+}

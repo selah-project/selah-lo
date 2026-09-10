@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ແລະເຈົ້າຈະວາງ⟨את⟩ພວກມັນເປັນສອງແຖວ ແຖວໜຶ່ງຫົກໜ່ວຍ ເທິງໂຕະບໍລິສຸດ ຕໍ່ໜ້າຢາເວ.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ແລະເຈົ້າຈະວາງ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ພວກມັນ (ເຂົ້າໜົມ)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "ແຖວ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ຫົກ"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "ແຖວ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ໂຕະ"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "ບໍລິສຸດ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ຕໍ່ໜ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:43:53.161417950Z",
+  "model": "glm-5.3"
+}

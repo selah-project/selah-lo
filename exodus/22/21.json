@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 22,
+  "translation": "ທຸກແມ່ມ່າຍ ແລະລູກກຳພອນ ພວກເຈົ້າຢ່າຂົ່ມເຫັງ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "ແມ່ມ່າຍ"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "ແລະລູກກຳພອນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "ຂົ່ມເຫັງ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:45:26.394777455Z",
+  "model": "glm-5.3"
+}

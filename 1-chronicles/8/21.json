@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະ ອາດາຢາ ແລະ ເບຣາຢາ ແລະ ຊິມຣາດ ⟨ເປັນ⟩ ລູກຊາຍຂອງ ຊິມອີ.",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "ແລະ ອາດາຢາ"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "ແລະ ເບຣາຢາ"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ແລະ ຊິມຣາດ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ຊິມອີ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:11:18.372048533Z",
+  "model": "glm-5.3"
+}

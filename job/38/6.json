@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 38:6",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 38,
+  "translation": "ເໜືອຫຍັງ ພື້ນຖານຂອງມັນຖືກກົມລົງ ຫຼືໃຜວາງຫີນມຸມຂອງມັນ?",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ຫຍັງ"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "ພື້ນຖານຂອງມັນ"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "ຖືກກົມລົງ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "ວາງ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ຫີນ"
+    },
+    {
+      "surface": "פנתה",
+      "gloss": "ມຸມຂອງມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:47:39.501276460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 6:28",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ຫຼືຊາຍຈະຍ່າງເທິງຖ່ານໄຟໄດ້ ໂດຍຕີນຂອງລາວຈະບໍ່ຖືກໄໝ້ບໍ່?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ຫຼື...ບໍ່"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ຈະຍ່າງ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຊາຍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "הגחלים",
+      "gloss": "ຖ່ານໄຟ"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "ໂດຍຕີນຂອງລາວ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תכוינה",
+      "gloss": "ຖືກໄໝ້"
+    }
+  ],
+  "timestamp": "2026-09-09T05:32:36.431741021Z",
+  "model": "glm-5.3"
+}

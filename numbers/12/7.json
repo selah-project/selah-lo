@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ບໍ່ຄືກັນກັບຂ້າຮັບໃຊ້ຂອງເຮົາໂມເຊ ເພິ່ນສັດຊື່ໃນທັງໝົດບ້ານຂອງເຮົາ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ຄືກັນ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ຂ້າຮັບໃຊ້ຂອງເຮົາ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ໃນທັງໝົດ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ບ້ານຂອງເຮົາ"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "ສັດຊື່"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:10:24.696657997Z",
+  "model": "glm-5.3"
+}

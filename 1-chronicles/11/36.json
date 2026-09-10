@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 11:36",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ເຮເພຣ ເມຄາຣາທິ, ອາຮິຢາ ເພໂລນິ.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "ເຮເພຣ"
+    },
+    {
+      "surface": "המכרתי",
+      "gloss": "ເມຄາຣາທິ"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ອາຮິຢາ"
+    },
+    {
+      "surface": "הפלני",
+      "gloss": "ເພໂລນິ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:23:58.375330095Z",
+  "model": "glm-5.3"
+}

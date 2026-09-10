@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ແລະເມື່ອພວກເຮົາໃກ້ເຂົ້າຮົບ, ໂກເຮນຈະເຂົ້າມາໃກ້ ແລະຈະເວົ້າຕໍ່ຊົນພົນ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ແລະເປັນວ່າ"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "ເມື່ອພວກເຮົາໃກ້"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເຂົ້າ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ຮົບ"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "ໂກເຮນຈະເຂົ້າມາໃກ້"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ໂກເຮນ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ແລະຈະເວົ້າ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ຊົນພົນ"
+    }
+  ],
+  "timestamp": "2026-09-09T22:01:07.609378480Z",
+  "model": "glm-5.3"
+}

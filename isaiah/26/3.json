@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ຈິດທີ່ຕັ້ງມັ່ນ ເຈົ້າຈະຮັກສາສັນຕິ ສັນຕິ ເພາະວ່າໃນເຈົ້າວາງໃຈ.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "ຈິດ"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "ທີ່ຕັ້ງມັ່ນ"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "ເຈົ້າຈະຮັກສາ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ສັນຕິ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ສັນຕິ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະວ່າ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ໃນເຈົ້າ"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "ວາງໃຈ"
+    }
+  ],
+  "timestamp": "2026-09-08T23:27:27.729443901Z",
+  "model": "glm-5.3"
+}

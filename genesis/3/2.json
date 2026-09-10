@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ແລະແມ່ຍິງເວົ້າກັບງູວ່າ ພວກເຮົາກິນໝາກໄມ້ຈາກຕົ້ນໄມ້ໃນສວນ.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ແລະເວົ້າ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ແມ່ຍິງ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ງູ"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ຈາກໝາກໄມ້"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ຂອງຕົ້ນໄມ້"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ໃນສວນ"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "ພວກເຮົາກິນ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:01:14.853838666Z",
+  "model": "glm-5.3"
+}

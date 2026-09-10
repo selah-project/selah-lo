@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ແລະພວກເຂົາບອກມາຣດຄາຍ⟨את⟩ຄຳຂອງເອສເທີ.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "ແລະພວກເຂົາບອກ"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "ແກ່ມາຣດຄາຍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຄຳຂອງເອສເທີ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ເອສເທີ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:33:31.510972115Z",
+  "model": "glm-5.3"
+}

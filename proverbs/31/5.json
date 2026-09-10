@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 31:5",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 31,
+  "translation": "ບໍ່ໃຫ້ເຂົາດື່ມແລະລືມກົດໝາຍແລະປ່ຽນຄຳຕັດສິນຂອງທຸກລູກຫຼານຂອງຄວາມທຸກຍາກ",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ບໍ່ໃຫ້"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ດື່ມ"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "ແລະລືມ"
+    },
+    {
+      "surface": "מחקק",
+      "gloss": "ກົດໝາຍ"
+    },
+    {
+      "surface": "וישנה",
+      "gloss": "ແລະປ່ຽນ"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ຄຳຕັດສິນ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ຄວາມທຸກຍາກ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:20:55.296346490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ແລະຢິດສະຮາກຢູ່ໃນເກຣາຣ.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ແລະຢູ່"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ຢິດສະຮາກ"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "ໃນເກຣາຣ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:35:15.543761038Z",
+  "model": "glm-5.3"
+}

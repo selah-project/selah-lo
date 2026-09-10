@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ແລະສະເພາະກະລິດຂອງເຄື່ອງນຸ່ງ ແລະຂອງເຮືອນ",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "ແລະສະເພາະກະລິດ"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "ເຄື່ອງນຸ່ງ"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ແລະຂອງເຮືອນ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:28:28.616548465Z",
+  "model": "glm-5.3"
+}

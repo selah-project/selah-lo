@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ນີ້ຄືກົດໝາຍຂອງບູຊາສັນຕິສຸດ ທີ່ຄົນໜຶ່ງນຳມາສະເຫຼີມແກ່ຢາເວ.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ແລະນີ້"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ກົດໝາຍຂອງ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ບູຊາ"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ສັນຕິສຸດ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ນຳມາສະເຫຼີມ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ແກ່ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:16:58.876819263Z",
+  "model": "glm-5.3"
+}

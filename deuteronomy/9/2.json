@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 9:2",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ຊົນຊາດ ໃຫຍ່ ແລະສູງ ຄືລູກຫຼານຂອງອານາກ ເຊິ່ງເຈົ້າຮູ້ ແລະເຈົ້າໄດ້ຟັງວ່າ ໃຜຈະຢືນຢູ່ໜ້າລູກຫຼານຂອງອານາກ?",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ຊົນຊາດ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ໃຫຍ່"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ແລະສູງ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "ענקים",
+      "gloss": "ອານາກ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ເຊິ່ງ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ເຈົ້າ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ຮູ້"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ແລະເຈົ້າ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ໄດ້ຟັງ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "ຢືນ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ໜ້າ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "ענק",
+      "gloss": "ອານາກ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:58:41.886700873Z",
+  "model": "glm-5.3"
+}

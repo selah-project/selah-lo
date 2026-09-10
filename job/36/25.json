@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 36,
+  "translation": "ມະນຸດທັງໝົດໄດ້ເຫັນມັນ ມະນຸດເບິ່ງມັນຈາກໄກ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ມະນຸດ"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ໄດ້ເຫັນ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ມະນຸດ"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ເບິ່ງ"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ຈາກໄກ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:42:15.743650432Z",
+  "model": "glm-5.3"
+}

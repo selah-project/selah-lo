@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "lo",
+  "chapter": 16,
+  "translation": "ເກີດມີຄຳຂອງຢາເວມາຫາເຢຮູລູກຊາຍຂອງຮານານິວ່າດ້ວຍບາຊາວ່າ",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ເກີດມີ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ມາຫາ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ເຢຮູ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ຮານານິ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ວ່າດ້ວຍ"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ບາຊາ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T22:34:11.833984762Z",
+  "model": "glm-5.3"
+}

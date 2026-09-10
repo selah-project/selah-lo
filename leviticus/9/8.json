@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ອາຮາໂຣນໄດ້ເຂົ້າມາຕິດບູຊາ ແລະໄດ້ຊັດ⟨את⟩ລູກວັດໂຕ ຂອງບາບ ທີ່ເປັນຂອງເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ໄດ້ເຂົ້າມາຕິດ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ອາຮາໂຣນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ໄປຫາ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ບູຊາ"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "ແລະໄດ້ຊັດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ລູກວັດ"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "ລູກວັດ"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ຂອງບາບ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:23:15.268747095Z",
+  "model": "glm-5.3"
+}

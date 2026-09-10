@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 7:27",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ນູນລູກຂອງເພິ່ນເຢໂຮຊູອາລູກຂອງເພິ່ນ",
+  "tokens": [
+    {
+      "surface": "נון",
+      "gloss": "ນູນ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ລູກຂອງເພິ່ນ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ເຢໂຮຊູອາ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ລູກຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:12:39.190673196Z",
+  "model": "glm-5.3"
+}

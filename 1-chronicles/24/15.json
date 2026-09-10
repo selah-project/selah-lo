@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ແກ່ຮີຊິຣທີສິບເຈັດ ແກ່ຮິພິສສາດທີສິບແປດ.",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "ແກ່ຮີຊິຣ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ເຈັດ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "ແກ່ຮິພິສສາດ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ແປດ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:43:22.341107824Z",
+  "model": "glm-5.3"
+}

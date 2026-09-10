@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ຊົມໜາກຂອງຫົວຂອງພວກເຮົາໄດ້ຫຼົງລົງ ເສັ້ຍຢູ່ພວກເຮົາ ຍ້ອນພວກເຮົາໄດ້ກະທຳບາບ.",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "ໄດ້ຫຼົງລົງ"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ຊົມໜາກ"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "ຫົວຂອງພວກເຮົາ"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ເສັ້ຍ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ຢູ່"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ພວກເຮົາ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ຍ້ອນ"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "ພວກເຮົາໄດ້ກະທຳບາບ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:43:34.107288769Z",
+  "model": "glm-5.3"
+}

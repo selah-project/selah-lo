@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະຕອນນີ້ບັນຍັດອັນນີ້ສຳລັບພວກເຈົ້າ ໂກເຮນ (ປະໂລຫິດ)",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ແລະຕອນນີ້"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ຕໍ່ພວກເຈົ້າ"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ບັນຍັດ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ອັນນີ້"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ໂກເຮນ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:30:56.288590012Z",
+  "model": "glm-5.3"
+}

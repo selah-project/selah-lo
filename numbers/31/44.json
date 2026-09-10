@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 31,
+  "translation": "ແລະມ້ຽນສາມສິບຫົກໝື່ນໂຕ",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "ແລະມ້ຽນ"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ຫົກ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ແລະສາມສິບ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ໝື່ນ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:32:24.560031654Z",
+  "model": "glm-5.3"
+}

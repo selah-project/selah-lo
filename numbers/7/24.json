@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 7:24",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ໃນວັນທີສາມເຈົ້ານາຍຂອງລູກຫຼານເຊບູລຸນເອລີອາບລູກຂອງເຮໂລນ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ໃນວັນ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ທີສາມ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ເຈົ້ານາຍ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ຕໍ່ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ເຊບູລຸນ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ເອລີອາບ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "ເຮໂລນ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:59:45.227047783Z",
+  "model": "glm-5.3"
+}

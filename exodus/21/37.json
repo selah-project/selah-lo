@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 21:37",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ຖ້າຄົນໃດລັກງົວຫຼືແກະໜຶ່ງໂຕ ແລ້ວຊາຫຼືຂາຍມັນໄປ ເພິ່ນຈະຈ່າຍງົວຫ້າໂຕແທນງົວ ແລະແກະຝູງສີ່ໂຕແທນແກະ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ຖ້າ"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "ລັກ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນໃດ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ງົວ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ແກະ"
+    },
+    {
+      "surface": "וטבחו",
+      "gloss": "ແລ້ວຊາ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "ຂາຍມັນໄປ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ຫ້າ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ງົວ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ຈະຈ່າຍ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ແທນ"
+    },
+    {
+      "surface": "השור",
+      "gloss": "ງົວ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ແລະສີ່"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ແກະຝູງ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ແທນ"
+    },
+    {
+      "surface": "השה",
+      "gloss": "ແກະ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:44:08.674672140Z",
+  "model": "glm-5.3"
+}

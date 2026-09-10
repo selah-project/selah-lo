@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 34,
+  "translation": "ຢາເວຮັກສາກະດູກທັງໝົດຂອງເພິ່ນ ໜຶ່ງຈາກພວກມັນບໍ່ຖືກຫັກ.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ຢາເວຮັກສາ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "ກະດູກຂອງເພິ່ນ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "ຈາກພວກມັນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "ຖືກຫັກ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:35:33.105647347Z",
+  "model": "glm-5.3"
+}

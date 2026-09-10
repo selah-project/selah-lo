@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 17:3",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 17,
+  "translation": "ເຕາະຫຼອມສຳລັບເງົາ ແລະເຕາະໄຟສຳລັບຄຳ ແລະຢາເວທົດສອບໃຈ",
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "ເຕາະຫຼອມ"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "ສຳລັບເງົາ"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "ແລະເຕາະໄຟ"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "ສຳລັບຄຳ"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "ແລະຜູ້ທົດສອບ"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "ໃຈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:13:46.552226964Z",
+  "model": "glm-5.3"
+}

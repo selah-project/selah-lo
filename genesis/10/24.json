@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ແລະອຣະພັກຊາດມີລູກ⟨את⟩ເຊລາ, ແລະເຊລາມີລູກ⟨את⟩ເອບຣ.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "ແລະອຣະພັກຊາດ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ມີລູກ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເຊລາ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ເຊລາ"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ແລະເຊລາ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ມີລູກ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເອບຣ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ເອບຣ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:10:06.093112988Z",
+  "model": "glm-5.3"
+}

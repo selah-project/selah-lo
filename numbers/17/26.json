@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 17,
+  "translation": "ໂມເຊໄດ້ເຮັດຕາມທີ່ຢາເວສັ່ງ⟨את⟩ເພິ່ນ ດັ່ງນັ້ນເພິ່ນໄດ້ເຮັດ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ແລະໂມເຊໄດ້ເຮັດ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ຕາມທີ່"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ສັ່ງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ເພິ່ນ",
+      "marks": "ໂມເຊ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ດັ່ງນັ້ນ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ໄດ້ເຮັດ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:16:25.285502017Z",
+  "model": "glm-5.3"
+}

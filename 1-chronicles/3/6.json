@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ແລະອິບານ ແລະເອລິຊາມາ ແລະເອລິເພເລດ.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "ແລະອິບານ"
+    },
+    {
+      "surface": "ואלישמע",
+      "gloss": "ແລະເອລິຊາມາ"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "ແລະເອລິເພເລດ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:09:20.122126414Z",
+  "model": "glm-5.3"
+}

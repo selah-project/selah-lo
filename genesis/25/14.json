@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ແລະມິຊມາ ແລະດູມາ ແລະມາສາ.",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "ແລະມິຊມາ"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "ແລະດູມາ"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "ແລະມາສາ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:32:21.021981490Z",
+  "model": "glm-5.3"
+}

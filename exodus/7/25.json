@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ແລະເຈັດວັນໄດ້ສຳເລັດພາຍຫຼັງຢາເວຕີ⟨את⟩ແມ່ນ້ຳນີນ.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "ໄດ້ສຳເລັດ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ເຈັດ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ພາຍຫຼັງ"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "ຕີ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ແມ່ນ້ຳນີນ"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ແມ່ນ້ຳນີນ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:26:56.099069734Z",
+  "model": "glm-5.3"
+}

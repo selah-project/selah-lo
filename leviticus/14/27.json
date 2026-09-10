@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 14:27",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ແລະໂກເຮນຈະພົ່ນດ້ວຍນິ້ວຂວາຂອງເພິ່ນ ຈາກນ້ຳມັນທີ່ຢູ່ເທິງຝາມມືຊ້າຍ ເຈັດເທື່ອ ໜ້າຢາເວ.",
+  "tokens": [
+    {
+      "surface": "והזה",
+      "gloss": "ແລະພົ່ນ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ໂກເຮນ"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "ດ້ວຍນິ້ວຂອງເພິ່ນ"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "ຂວາ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ນ້ຳມັນ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "ຝາມມື"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ຊ້າຍ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ເຈັດ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ເທື່ອ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ໜ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:30:07.859866879Z",
+  "model": "glm-5.3"
+}

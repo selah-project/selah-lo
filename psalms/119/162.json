@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 119,
+  "translation": "ຂ້ອຍຍິນດີໃນຄຳຂອງເຈົ້າ ຄືຜູ້ທີ່ພົບເຄື່ອງລັດຫຼາຍ.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "ຂ້ອຍຍິນດີ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ຂ້ອຍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ໃນ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ຄຳຂອງເຈົ້າ"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "ຄືຜູ້ທີ່ພົບ"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ເຄື່ອງລັດ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ຫຼາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:02:26.748876990Z",
+  "model": "glm-5.3"
+}

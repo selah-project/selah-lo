@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະອາຍນ້ຳຂຶ້ນມາຈາກແຜ່ນດິນໂລກ ແລະຫົດ⟨את⟩ໜ້າທັງໝົດຂອງດິນ.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "ແລະອາຍນ້ຳ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ຂຶ້ນມາ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ແຜ່ນດິນໂລກ"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "ແລະຫົດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ໜ້າທັງໝົດຂອງດິນ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ໜ້າ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ຂອງດິນ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:29:11.478895483Z",
+  "model": "glm-5.3"
+}

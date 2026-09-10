@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ແລະຢາເວກ່າວຕໍ່ຂ້ອຍວ່າຂ້ອຍໄດ້ເຫັນ⟨את⟩ປະຊາຊົນນີ້ ແລະເບິ່ງແມປະຊາຊົນແຂງທ້າຍຄໍ⟨ເປັນ⟩",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະຢາເວກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ຕໍ່ຂ້ອຍ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ຂ້ອຍໄດ້ເຫັນ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ປະຊາຊົນ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ປະຊາຊົນ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ແລະເບິ່ງແມ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ປະຊາຊົນ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ແຂງ"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "ທ້າຍຄໍ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເປັນ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:52:00.614610207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ແລະເພິ່ນຂຶ້ນຈາກບ່ອນນັ້ນສູ່ບີຣຊາບາ.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ແລະເພິ່ນຂຶ້ນ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ຈາກບ່ອນນັ້ນ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ບີຣ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ຊາບາ"
+    }
+  ],
+  "timestamp": "2026-09-09T11:21:39.408901671Z",
+  "model": "glm-5.3"
+}

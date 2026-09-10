@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ຫີນໂຊຮາມ ແລະຫີນປະດັບ ສຳລັບເອໂປດ ແລະສຳລັບໂຮຊັນ",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "ຫີນ"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "ໂຊຮາມ"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ແລະຫີນ"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "ປະດັບ"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "ສຳລັບເອໂປດ"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "ແລະສຳລັບໂຮຊັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:09:19.139097765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ແລະອາຣອນຂອງຢາເວຢູ່ໃນທົ່ງນາຂອງຟະລິຊະຕິນເຈັດເດືອນ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະຢູ່"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ອາຣອນ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ຢູ່ໃນທົ່ງນາ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ຟະລິຊະຕິນ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ເຈັດ"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ເດືອນ"
+    }
+  ],
+  "timestamp": "2026-09-08T21:18:14.468139895Z",
+  "model": "glm-5.3"
+}

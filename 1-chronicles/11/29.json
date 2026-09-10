@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 11:29",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ສິບກາຍຮູຊາດ ອີລາຍອາໂຮຮິ.",
+  "tokens": [
+    {
+      "surface": "סִבְּכַי",
+      "gloss": "ສິບກາຍ"
+    },
+    {
+      "surface": "הַחֻשָתִי",
+      "gloss": "ຮູຊາດ"
+    },
+    {
+      "surface": "עִילַי",
+      "gloss": "ອີລາຍ"
+    },
+    {
+      "surface": "הָאֲחוֹחִי",
+      "gloss": "ອາໂຮຮິ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:24:15.851500998Z",
+  "model": "glm-5.3"
+}

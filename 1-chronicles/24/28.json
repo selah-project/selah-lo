@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ຕໍ່ມາຮະລີ: ເອນະອາຊາຣ ແລະບໍ່ມີລູກແກ່ເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "ຕໍ່ມາຮະລີ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ເອນະອາຊາຣ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ແກ່ເພິ່ນ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ລູກ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:19:25.526709349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 97,
+  "translation": "ໄຟຍ່າງໜ້າຂອງເພິ່ນ ແລະໄຫມ້ອ້ອມຄັບສັດຕູຂອງເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "ໄຟ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ຂ້າງໜ້າຂອງເພິ່ນ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ຍ່າງ"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "ແລະໄຫມ້"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ອ້ອມຄັບ"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "ສັດຕູຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:54:33.702601543Z",
+  "model": "glm-5.3"
+}

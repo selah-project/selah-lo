@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 43:16",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 43,
+  "translation": "ແລະອາຣິເອລສອງສິບຊີ່ຍາວ ເປັນສອງສິບຊີ່ກວ້າງ ສີ່ຫຼ່ຽມຕໍ່ສີ່ດ້ານຂອງມັນ.",
+  "tokens": [
+    {
+      "surface": "והאראיל",
+      "gloss": "ແລະອາຣິເອລ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ຍາວ"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "ເປັນສອງ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ກວ້າງ"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "ສີ່ຫຼ່ຽມ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "ສີ່"
+    },
+    {
+      "surface": "רבעיו",
+      "gloss": "ດ້ານຂອງມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T01:59:59.923280081Z",
+  "model": "glm-5.3"
+}

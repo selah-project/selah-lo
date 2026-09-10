@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ລະອາຕັນມຸມອີກ ແລະເກີດບຸດຊາຍຄົນທີ6 ໃຫ້ຢາອາໂຄບ.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ຕັນມຸມ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ອີກ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ລະອາ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ເກີດ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ບຸດຊາຍ"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "ທີ6"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ໃຫ້ຢາອາໂຄບ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:41:45.224042185Z",
+  "model": "glm-5.3"
+}

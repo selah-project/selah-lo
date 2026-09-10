@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 40,
+  "translation": "ແລະຢາເວຕອບ⟨את⟩ອີໂຍບ ຈາກພະຍຸງລົມ ແລະເພິ່ນກ່າວວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ແລະຕອບ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ອີໂຍບ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ອີໂຍບ"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "ພະຍຸງລົມ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະເພິ່ນກ່າວ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:37:02.512927030Z",
+  "model": "glm-5.3"
+}

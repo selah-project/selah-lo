@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 17:18",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 17,
+  "translation": "ຄົນຂາດໃຈຕອງຕົບມືລົງ, ເປັນຜູ້ຄ້ຳປະກັນໜ້າໝູ່ຂອງຕົນ.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ຂາດ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ໃຈຕອງ"
+    },
+    {
+      "surface": "תוקע",
+      "gloss": "ຕົບ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ມືລົງ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ເປັນຜູ້ຄ້ຳປະກັນ"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "ຄຳປະກັນ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ໜ້າ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ໝູ່ຂອງຕົນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:13:12.842980310Z",
+  "model": "glm-5.3"
+}

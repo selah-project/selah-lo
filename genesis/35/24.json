@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 35,
+  "translation": "ລູກຊາຍຂອງຣາເຊນ: ໂຢເຊັບ ແລະບິນຢາມິນ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ຣາເຊນ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ໂຢເຊັບ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ແລະບິນຢາມິນ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:48:52.289473291Z",
+  "model": "glm-5.3"
+}

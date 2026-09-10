@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 49:18",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 49,
+  "translation": "ຂ້ອຍລໍຖ້າຄວາມລອດຂອງເຈົ້າ ຢາເວ",
+  "tokens": [
+    {
+      "surface": "לישועתך",
+      "gloss": "ເພື່ອຄວາມລອດຂອງເຈົ້າ"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ຂ້ອຍລໍຖ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T11:43:47.425261418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 32:21",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 32,
+  "translation": "ຂ້ອຍຂໍຢ່າຍົກໜ້າຂອງຄົນ ແລະຕໍ່ຄົນຂ້ອຍຈະບໍ່ຍ້ອງຍໍ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ເຖີດ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ຂ້ອຍຂໍຍົກ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ໜ້າ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຂອງຄົນ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ແລະຕໍ່"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "אכנה",
+      "gloss": "ຍ້ອງຍໍ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:34:15.253803952Z",
+  "model": "glm-5.3"
+}

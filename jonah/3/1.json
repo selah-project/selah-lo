@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ແລະຄຳຂອງຢາເວມາຫາໂຢນາ ເປັນຄັ້ງທີສອງ ວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະເກີດຂຶ້ນ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ມາຫາ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ໂຢນາ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ເປັນຄັ້ງທີສອງ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T02:46:16.452075366Z",
+  "model": "glm-5.3"
+}

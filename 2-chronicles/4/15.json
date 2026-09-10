@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "⟨את⟩ທະເລອັນໜຶ່ງ ແລະ⟨את⟩ງົວສິບສອງໂຕຢູ່ຂ້າງລຸ່ມມັນ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ທະເລ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ທະເລ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ງົວ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ງົວ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ຢູ່ຂ້າງລຸ່ມມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:57:49.991432955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "judges 20:47",
+  "book": "judges",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ແລະຫົກຮ້ອຍຄົນປ່ຽນໜ້າໜີໄປປ່າຫາກະສິກຣິມໂມນ ແລະຢູ່ທີ່ກະສິກຣິມໂມນສີ່ເດືອນ.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "ປ່ຽນໜ້າ"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ໜີ"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "ໄປປ່າ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "ກະສິກ"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "ຣິມໂມນ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ຫົກ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ຢູ່"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "ຢູ່ທີ່ກະສິກ"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ຣິມໂມນ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ສີ່"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ເດືອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:58:49.179378714Z",
+  "model": "glm-5.3"
+}

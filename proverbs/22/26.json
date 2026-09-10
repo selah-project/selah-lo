@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 22:26",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 22,
+  "translation": "ຢ່າເປັນຢູ່ໃນຜູ້ຕີຝາມື ທ່າມໃນຜູ້ຄ້ຳປະກັນໜີ້ສິນ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ເປັນ"
+    },
+    {
+      "surface": "בתקעי",
+      "gloss": "ຢູ່ໃນຜູ້ຕີ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ຝາມື"
+    },
+    {
+      "surface": "בערבים",
+      "gloss": "ທ່າມໃນຜູ້ຄ້ຳປະກັນ"
+    },
+    {
+      "surface": "משאות",
+      "gloss": "ໜີ້ສິນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:16:17.482432939Z",
+  "model": "glm-5.3"
+}

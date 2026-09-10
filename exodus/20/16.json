@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ຢ່າຕອບຕໍ່ເພື່ອນຂອງເຈົ້າເປັນພະຍານເທັດ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ຕອບ"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ຕໍ່ເພື່ອນຂອງເຈົ້າ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ພະຍານ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ເທັດ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:38:28.487696882Z",
+  "model": "glm-5.3"
+}

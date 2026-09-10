@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ສອງຄົນດີກວ່າໜຶ່ງຄົນ ຍ້ອນວ່າມີຜົນຕອບແທນດີແກ່ພວກເຂົາໃນການອອກແຮງຂອງພວກເຂົາ.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "ດີກວ່າ"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ສອງຄົນ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ກວ່າ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ໜຶ່ງຄົນ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ຍ້ອນວ່າ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ແກ່ພວກເຂົາ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ຜົນຕອບແທນ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "ໃນການອອກແຮງຂອງພວກເຂົາ"
+    }
+  ],
+  "timestamp": "2026-09-10T00:28:06.853961348Z",
+  "model": "glm-5.3"
+}

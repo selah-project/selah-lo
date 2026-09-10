@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 27:12",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 27,
+  "translation": "ຜູ້ພິຈານເຫັນຄວາມຊົວກໍໄດ້ຫລົບຊ້ອນ ຄົນໂງ່ຜ່ານໄປກໍໄດ້ຮັບໂທດ.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "ຜູ້ພິຈານ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ເຫັນ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ຄວາມຊົວ"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "ໄດ້ຫລົບຊ້ອນ"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "ຄົນໂງ່"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ຜ່ານໄປ"
+    },
+    {
+      "surface": "נענשו",
+      "gloss": "ໄດ້ຮັບໂທດ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:18:47.303449871Z",
+  "model": "glm-5.3"
+}

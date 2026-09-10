@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ລູກຊາຍຂອງເກຮາດ ອາມຣາມ ຢິດສະຮາຣ ເຮບຣອນ ແລະອຸຊີເອນ ສີ່ຄົນ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ເກຮາດ"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "ອາມຣາມ"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ຢິດສະຮາຣ"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ເຮບຣອນ"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ແລະ ອຸຊີເອນ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ສີ່"
+    }
+  ],
+  "timestamp": "2026-09-09T09:43:52.372404106Z",
+  "model": "glm-5.3"
+}

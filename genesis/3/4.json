@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ແລະງູເວົ້າກັບແມ່ຍິງວ່າ ພວກເຈົ້າຈະບໍ່ຕາຍຢ່າງແນ່ນອນ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະເວົ້າ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ງູ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ແມ່ຍິງ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ຕາຍ"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "ພວກເຈົ້າຈະຕາຍ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:01:14.854242254Z",
+  "model": "glm-5.3"
+}

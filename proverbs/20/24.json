@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 20:24",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ບາດກ້າວຂອງຊາຍ ມາຈາກຢາເວ ແລະມະນຸດ ເຂົ້າໃຈທາງຂອງຕົນແນວໃດ",
+  "tokens": [
+    {
+      "surface": "מיהוָה",
+      "gloss": "ຈາກຢາເວ"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "ບາດກ້າວຂອງ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ຊາຍ"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ແລະມະນຸດ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ແນວໃດ"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ເຂົ້າໃຈ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ທາງຂອງຕົນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:15:45.795132666Z",
+  "model": "glm-5.3"
+}

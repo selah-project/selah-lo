@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 10:38",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ແລະບານີ ແລະບິນນູຍ ຊິເມຍ",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ແລະບານີ"
+    },
+    {
+      "surface": "ובנוי",
+      "gloss": "ແລະບິນນູຍ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ຊິເມຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:29:07.858803597Z",
+  "model": "glm-5.3"
+}

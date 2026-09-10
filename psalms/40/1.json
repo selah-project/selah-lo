@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 40,
+  "translation": "ສຳລັບແກ່ຜູ້ຄວບຄຸມ ຂອງດາວິດ ບົດຂັດພິນ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ສຳລັບແກ່ຜູ້ຄວບຄຸມ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ຂອງດາວິດ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ບົດຂັດພິນ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:08:32.161223645Z",
+  "model": "glm-5.3"
+}

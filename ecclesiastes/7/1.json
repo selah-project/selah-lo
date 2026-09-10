@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ຊື່ດີດີກວ່ານ້ຳມັນລະລາດດີ ແລະວັນຂອງຄວາມຕາຍດີກວ່າວັນເກີດຂອງເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ດີກວ່າ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ຊື່"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ກວ່ານ້ຳມັນລະລາດດີ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ແລະວັນ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ຂອງຄວາມຕາຍ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ກວ່າວັນ"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "ເກີດຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:27:17.358691190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ຕາຂອງຂ້ອຍຕະຫຼອດຕໍ່ຢາເວ ຍ້ອນເພິ່ນນຳຕີນຂອງຂ້ອຍອອກຈາກຕາຂ່າຍ.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ຕາຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ຕະຫຼອດ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ຍ້ອນ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ນຳອອກ"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "ຈາກຕາຂ່າຍ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ຕີນຂອງຂ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:32:38.583013488Z",
+  "model": "glm-5.3"
+}

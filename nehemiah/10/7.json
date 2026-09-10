@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 10:7",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ດານີເອນ ກິນເນທອນ ບາຣູກ",
+  "tokens": [
+    {
+      "surface": "דניאל",
+      "gloss": "ດານີເອນ"
+    },
+    {
+      "surface": "גנתון",
+      "gloss": "ກິນເນທອນ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ບາຣູກ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:05:51.850007819Z",
+  "model": "glm-5.3"
+}

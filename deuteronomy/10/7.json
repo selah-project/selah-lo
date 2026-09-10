@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ຈາກທີ່ນັ້ນພວກເຂົາເດີນທາງມາກຸດໂກດາ ແລະຈາກກຸດໂກດາມາໂຢດບາທ ແຜ່ນດິນຂອງຫ້ວຍນ້ຳ.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "ຈາກທີ່ນັ້ນ"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "ເດີນທາງ"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "ກຸດໂກດາ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ແລະຈາກ"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "ກຸດໂກດາ"
+    },
+    {
+      "surface": "יטבתה",
+      "gloss": "ໂຢດບາທ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ແຜ່ນດິນ"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "ຫ້ວຍ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ນ້ຳ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:50:50.149131862Z",
+  "model": "glm-5.3"
+}

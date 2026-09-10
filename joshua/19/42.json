@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 19:42",
+  "book": "joshua",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ແລະຊາລັບບິນ ແລະອາຢາລູນ ແລະຢິທະລາຮ.",
+  "tokens": [
+    {
+      "surface": "ושעלבין",
+      "gloss": "ແລະຊາລັບບິນ"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "ແລະອາຢາລູນ"
+    },
+    {
+      "surface": "ויתלה",
+      "gloss": "ແລະຢິທະລາຮ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:39:30.782565130Z",
+  "model": "glm-5.3"
+}

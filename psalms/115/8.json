@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 115,
+  "translation": "ຄືພວກມັນ ຜູ້ສ້າງພວກມັນ⟨ເປັນ⟩ ທຸກຜູ້ທີ່ຫວັງພຶງພວກມັນ.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "ຄືພວກມັນ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨ເປັນ⟩"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ຜູ້ສ້າງພວກມັນ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ຫວັງພຶງ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ພຶງພວກມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:11:11.259241942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ເຈົ້າຖືກສາບານໃນເມືອງ ແລະເຈົ້າຖືກສາບານໃນທົ່ງ",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ຖືກສາບານ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ເຈົ້າ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ໃນເມືອງ"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "ແລະຖືກສາບານ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ເຈົ້າ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ໃນທົ່ງ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:11:33.991220476Z",
+  "model": "glm-5.3"
+}

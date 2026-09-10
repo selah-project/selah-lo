@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ກະສັດນັ່ງເທິງບັນລັງຂອງຄວາມຊອບທຳ ຈະກຳຈັດທຸກຄວາມຊົ່ວດ້ວຍຕາຂອງເພິ່ນ",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ນັ່ງ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ບັນລັງ"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ຂອງຄວາມຊອບທຳ"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "ຈະກຳຈັດ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ດ້ວຍຕາຂອງເພິ່ນ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ຄວາມຊົ່ວ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:47:32.341234537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 5:2",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ເພື່ອຮັກສາຄວາມພິຈານາ ແລະປາກຂອງເຈົ້າຮັກສາຄວາມຮູ້.",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "ເພື່ອຮັກສາ"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "ຄວາມພິຈານາ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ແລະຄວາມຮູ້"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "ປາກຂອງເຈົ້າ"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "ຈະຮັກສາ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:30:22.251071580Z",
+  "model": "glm-5.3"
+}

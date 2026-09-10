@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 1:41",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ລູກຫຼານຂອງອານາ ດິໂຊນ ແລະລູກຫຼານຂອງດິໂຊນ ຮຳຣານ ເອຊບານ ຢິດຣານ ແລະກຣານ",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ອານາ"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "ດິໂຊນ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ແລະລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "ດິໂຊນ"
+    },
+    {
+      "surface": "חמרן",
+      "gloss": "ຮຳຣານ"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "ເອຊບານ"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "ຢິດຣານ"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "ແລະກຣານ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:09:36.409180332Z",
+  "model": "glm-5.3"
+}

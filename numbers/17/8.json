@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 17,
+  "translation": "ແລະໂມເຊ ແລະອາຮາໂຣນ ມາຮອດໜ້າເຕັນປະຊຸມ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ແລະມາ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ແລະອາຮາໂຣນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຮອດ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ໜ້າ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ເຕັນ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ປະຊຸມ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:13:46.388958665Z",
+  "model": "glm-5.3"
+}

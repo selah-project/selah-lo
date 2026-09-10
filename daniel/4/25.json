@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ທັງໝົດໄດ້ມາເທິງເນບູຄັດເນສຊັນກະສັດ.",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "ໄດ້ມາເທິງ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "ເນບູຄັດເນສຊັນ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ກະສັດ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:58:11.613784925Z",
+  "model": "glm-5.3"
+}

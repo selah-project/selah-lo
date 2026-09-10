@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ຢ່າເປັນຄົນຊົ່ວຫຼາຍເກີນໄປ ແລະຢ່າເປັນຄົນໂງ່ ເປັນຫຍັງເຈົ້າຈະຕາຍໂດຍບໍ່ມີເວລາຂອງເຈົ້າ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "ເປັນຄົນຊົ່ວ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ຫຼາຍເກີນໄປ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ແລະຢ່າ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ເປັນ"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "ຄົນໂງ່"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ເປັນຫຍັງ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ຕາຍ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ໂດຍບໍ່ມີ"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "ເວລາຂອງເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:44:36.867177987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 37,
+  "translation": "ຈົ່ງວາງທາງຂອງເຈົ້າຕໍ່ຢາເວ ແລະໄວ້ວາງໃຈໃນເພິ່ນ ແລະເພິ່ນຈະເຮັດ.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "ວາງ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ທາງຂອງເຈົ້າ"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "ແລະໄວ້ວາງໃຈ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ໃນເພິ່ນ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ແລະເພິ່ນ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ຈະເຮັດ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:35:06.213969454Z",
+  "model": "glm-5.3"
+}

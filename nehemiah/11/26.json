@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ແລະຢູ່ເຢຊົວແລະຢູ່ໂມລາດາແລະຢູ່ເບັດເພເລດ.",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "ແລະຢູ່ເຢຊົວ"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "ແລະຢູ່ໂມລາດາ"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "ແລະຢູ່ເບັດ"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "ເພເລດ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:53:39.959376570Z",
+  "model": "glm-5.3"
+}

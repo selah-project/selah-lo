@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ຮາດາດ ແລະເທມາ ເຢຕູຣ ນາຟິຊ ແລະກາດມາ.",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "ຮາດາດ"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "ແລະເທມາ"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "ເຢຕູຣ"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "ນາຟິຊ"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "ແລະກາດມາ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:32:21.022111635Z",
+  "model": "glm-5.3"
+}

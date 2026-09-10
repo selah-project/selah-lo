@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ແລະໂນອາມີອາຍຸຫົກຮ້ອຍປີ, ແລະນ້ຳຖ້ວມເປັນນ້ຳເທິງແຜ່ນດິນ.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "ແລະໂນອາ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ຫົກ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "ແລະນ້ຳຖ້ວມ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ເປັນ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ແຜ່ນດິນ"
+    }
+  ],
+  "timestamp": "2026-09-09T10:59:38.513333069Z",
+  "model": "glm-5.3"
+}

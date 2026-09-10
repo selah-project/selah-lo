@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ພາລະຂອງນິນີເວ ໜັງສືຂອງນິມິດຂອງນາຮູມ ຊາວເມືອງເອລະໂກຊ.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ພາລະ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ນິນີເວ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ໜັງສື"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "ນິມິດ"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "ນາຮູມ"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "ຊາວເມືອງເອລະໂກຊ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:01:24.504634457Z",
+  "model": "glm-5.3"
+}

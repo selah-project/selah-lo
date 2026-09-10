@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 36:41",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 36,
+  "translation": "ຫົວໜ້າອາໂລລິບາມາ ຫົວໜ້າເອລາ ຫົວໜ້າປິໂນນ.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "ຫົວໜ້າ"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "ອາໂລລິບາມາ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ຫົວໜ້າ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ເອລາ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ຫົວໜ້າ"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "ປິໂນນ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:48:15.689179182Z",
+  "model": "glm-5.3"
+}

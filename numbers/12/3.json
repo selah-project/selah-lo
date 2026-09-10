@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ໜີ້ຄົນໂມເຊ ອ່ອນນ້ອຍຫຼາຍ ກວ່າຄົນທັງຫຼາຍທີ່ຢູ່ເທິງໜ້າຂອງແຜ່ນດິນ.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "ໜີ້ຄົນ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ອ່ອນນ້ອຍ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ຫຼາຍ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ກວ່າທຸກ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ໜ້າຂອງ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ແຜ່ນດິນ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:59:02.000632845Z",
+  "model": "glm-5.3"
+}

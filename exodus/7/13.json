@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ແລະຫົວໃຈຂອງປຣາໂອ (ຟາໂຣ) ຂ້ຽວແຂງ ແລະເພິ່ນບໍ່ຟັງຕໍ່ພວກເຂົາ ຄືທີ່ຢາເວໄດ້ກ່າວ",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ຂ້ຽວແຂງ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ໃຈ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ປຣາໂອ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ຟັງ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ຕໍ່ພວກເຂົາ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ຄືທີ່"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ໄດ້ກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:23:40.159380969Z",
+  "model": "glm-5.3"
+}

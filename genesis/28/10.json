@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ແລະຢາອາໂຄບອອກຈາກບະເອຣຊະບາ ແລະໄປຫາຮາຣານ.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ອອກຈາກ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ຢາອາໂຄບ"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "ຈາກບະເອຣ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ຊະບາ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ໄປ"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "ຫາຮາຣານ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:38:34.117707591Z",
+  "model": "glm-5.3"
+}

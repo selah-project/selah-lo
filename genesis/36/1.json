@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 36,
+  "translation": "ແລະນີ້ ເປັນວົງວະລີຂອງເອຊາວ ເພິ່ນຄືເອໂດມ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ແລະນີ້"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "ວົງວະລີຂອງ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ເອຊາວ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນຄື"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ເອໂດມ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:51:02.205734237Z",
+  "model": "glm-5.3"
+}

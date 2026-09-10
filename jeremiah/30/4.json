@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ແລະນີ້ແມ່ນຄຳທີ່ຢາເວໄດ້ເວົ້າວ່າດ້ວຍອິສະຣາເອນ ແລະວ່າດ້ວຍເຢຮູດາ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ແລະນີ້ແມ່ນ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ໄດ້ເວົ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ວ່າດ້ວຍ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ແລະວ່າດ້ວຍ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ເຢຮູດາ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:29:22.999543030Z",
+  "model": "glm-5.3"
+}

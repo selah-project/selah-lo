@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 1:25",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ເອເບີຣ, ເປເລັກ, ເຣູ.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "ເອເບີຣ"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ເປເລັກ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "ເຣູ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:01:14.510291835Z",
+  "model": "glm-5.3"
+}

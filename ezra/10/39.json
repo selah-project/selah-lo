@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 10:39",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ແລະເຊເລມຢາຮ ແລະນາທັນ ແລະອາດາຢາຮ",
+  "tokens": [
+    {
+      "surface": "ושלמיה",
+      "gloss": "ແລະເຊເລມຢາຮ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ແລະນາທັນ"
+    },
+    {
+      "surface": "ועדיה",
+      "gloss": "ແລະອາດາຢາຮ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:29:07.858947078Z",
+  "model": "glm-5.3"
+}

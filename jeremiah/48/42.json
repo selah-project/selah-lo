@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 48:42",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 48,
+  "translation": "ແລະໂມອາບຈະຖືກທຳລາຍຈາກເປັນຊາດ ຍ້ອນວ່າເພິ່ນໄດ້ອວດໃຫຍ່ຕໍ່ຢາເວ.",
+  "tokens": [
+    {
+      "surface": "ונשמד",
+      "gloss": "ແລະຈະຖືກທຳລາຍ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ໂມອາບ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ຈາກເປັນຊາດ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ຍ້ອນວ່າ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "ໄດ້ອວດໃຫຍ່"
+    }
+  ],
+  "timestamp": "2026-09-09T17:25:50.592207121Z",
+  "model": "glm-5.3"
+}

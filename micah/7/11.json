@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 7:11",
+  "book": "micah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ວັນທີ່ຈະສ້າງກຳແພງຂອງເຈົ້າ ໃນວັນນັ້ນຄຳສັ່ງຈະຫ່າງໄກ",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ທີ່ຈະສ້າງ"
+    },
+    {
+      "surface": "גדריך",
+      "gloss": "ກຳແພງຂອງເຈົ້າ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ນັ້ນ"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "ຈະຫ່າງໄກ"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ຄຳສັ່ງ"
+    }
+  ],
+  "timestamp": "2026-09-09T02:55:25.914473021Z",
+  "model": "glm-5.3"
+}

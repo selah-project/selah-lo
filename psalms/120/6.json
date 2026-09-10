@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 120,
+  "translation": "ດົນເກີນໄປແລ້ວ ທີ່ຊີວິດຂອງຂ້ອຍຢູ່ຮ່ວມກັບຜູ້ຊັງຄວາມສະບາຍ.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "ດົນເກີນໄປ"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "ຢູ່"
+    },
+    {
+      "surface": "לה",
+      "gloss": ""
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ຊີວິດຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ຮ່ວມກັບ"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ຜູ້ຊັງ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ຄວາມສະບາຍ"
+    }
+  ],
+  "timestamp": "2026-09-10T00:24:00.222876925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "nehemiah 7:52",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ບຸດຂອງເບດສາຍ ບຸດຂອງເມູນິມ ບຸດຂອງເນຟູຊິມ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ບຸດຂອງ"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "ເບດສາຍ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ບຸດຂອງ"
+    },
+    {
+      "surface": "מעונים",
+      "gloss": "ເມູນິມ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ບຸດຂອງ"
+    },
+    {
+      "surface": "נפושסים",
+      "gloss": "ເນຟູຊິມ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:46:35.298013255Z",
+  "model": "glm-5.3"
+}

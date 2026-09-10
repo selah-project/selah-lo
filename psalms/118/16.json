@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 118,
+  "translation": "ມືຂວາຂອງຢາເວຖືກຍົກສູງ ມືຂວາຂອງຢາເວທຳຄວາມກ້າຫານ.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "ມືຂວາ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "ຖືກຍົກສູງ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ມືຂວາ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ທຳ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ຄວາມກ້າຫານ"
+    }
+  ],
+  "timestamp": "2026-09-10T00:24:13.282801232Z",
+  "model": "glm-5.3"
+}

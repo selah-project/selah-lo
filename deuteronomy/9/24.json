@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ພວກເຈົ້າເປັນຄົນກະບົດຕໍ່ຢາເວ ນັບແຕ່ມື້ທີ່ເຮົາຮູ້ຈັກ⟨את⟩ພວກເຈົ້າ",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "ກະບົດ"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ພວກເຈົ້າເປັນ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ນັບແຕ່ມື້"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "ທີ່ເຮົາຮູ້ຈັກ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ພວກເຈົ້າ",
+      "marks": "ພວກເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:25:24.438102238Z",
+  "model": "glm-5.3"
+}

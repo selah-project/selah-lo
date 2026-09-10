@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ແລະໂນາກເລີ່ມເປັນຜູ້ຂອງດິນ ແລະປູກສວນອະງຸ່ນແຫ່ງໜຶ່ງ.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ແລະເລີ່ມ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ໂນາກ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຜູ້"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ຂອງດິນ"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "ແລະປູກ"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ສວນອະງຸ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:27:34.731742027Z",
+  "model": "glm-5.3"
+}

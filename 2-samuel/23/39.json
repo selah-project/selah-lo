@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ອູຣິຢາຊາວຮິດ — ທັງໝົດສາມສິບແລະເຈັດຄົນ.",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "ອູຣິຢາ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ຊາວຮິດ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ສາມສິບ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ແລະເຈັດ"
+    }
+  ],
+  "timestamp": "2026-09-08T22:09:15.522369956Z",
+  "model": "glm-5.3"
+}

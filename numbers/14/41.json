@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 14:41",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ແລະໂມເຊກ່າວວ່າ: ເປັນຫຍັງພວກເຈົ້າລະເມີດ⟨את⟩ປາກຂອງຢາເວ ມັນບໍ່ສຳເລັດ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະໂມເຊກ່າວ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ເປັນຫຍັງ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ພວກເຈົ້າ"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ລະເມີດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ປາກຂອງຢາເວ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ປາກ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ແລະມັນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תצלח",
+      "gloss": "ສຳເລັດ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:01:13.519448115Z",
+  "model": "glm-5.3"
+}

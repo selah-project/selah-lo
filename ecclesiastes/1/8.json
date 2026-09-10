@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ຄຳເວົ້າທັງທຸກເໝົາລ້ຳ; ຄົນບໍ່ສາມາດເວົ້າໄດ້; ຕາບໍ່ອີ່ມທີ່ຈະເບິ່ງ ແລະຫູບໍ່ເຕັມທີ່ຈະຟັງ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ທັງທຸກ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ຄຳເວົ້າ"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "ເໝົາລ້ຳ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ສາມາດ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ເວົ້າ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ອີ່ມ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ຕາ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ທີ່ຈະເບິ່ງ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ເຕັມ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ຫູ"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ທີ່ຈະຟັງ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:45:07.904922571Z",
+  "model": "glm-5.3"
+}

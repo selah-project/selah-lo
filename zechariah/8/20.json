@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ດັ່ງນີ້ຢາເວເສວາໂອດກ່າວ: ຍັງຊົນຊາດຫຼາຍຊົນຈະມາ ແລະຊາວເມືອງຂອງເມືອງຫຼາຍໜ້າ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ດັ່ງນີ້"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ເສວາໂອດ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ຍັງ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ຈະມາ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ຊົນຊານຫຼາຍຊົນ"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ແລະຊາວເມືອງຂອງ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ເມືອງ"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ຫຼາຍໜ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:18:40.377989098Z",
+  "model": "glm-5.3"
+}

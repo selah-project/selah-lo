@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 44:16",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 44,
+  "translation": "ຄຳທີ່ເຈົ້າໄດ້ເວົ້າຕໍ່ພວກເຮົາໃນນາມຂອງຢາເວ ພວກເຮົາຈະບໍ່ຟັງເຈົ້າ.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ເຈົ້າໄດ້ເວົ້າ"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ຕໍ່ພວກເຮົາ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ໃນນາມ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "ຟັງ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ຕໍ່ເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:44:33.638165335Z",
+  "model": "glm-5.3"
+}

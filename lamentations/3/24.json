@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ຊີວິດຂອງຂ້ອຍເວົ້າວ່າ ຢາເວເປັນເສດສ່ວນຂອງຂ້ອຍ ຍ້ອນສະນັ້ນຂ້ອຍຫວັງໃນເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "ເສດສ່ວນຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "ເວົ້າ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ຊີວິດຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຍ້ອນ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ສະນັ້ນ"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "ຂ້ອຍຫວັງ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ໃນເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:08:46.646681181Z",
+  "model": "glm-5.3"
+}

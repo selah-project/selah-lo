@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ບຸດຂອງຊັກຄາຍ ເຈັດຮ້ອຍຫົກສິບຄົນ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ບຸດຂອງ"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "ຊັກຄາຍ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ເຈັດ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ແລະຫົກສິບ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:46:12.254011328Z",
+  "model": "glm-5.3"
+}

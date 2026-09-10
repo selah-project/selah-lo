@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ແລະຮູ້ຈັກວ່າ ຢາເວໄດ້ແຍກຜູ້ຊອບທຳໄວ້ກັບ; ຢາເວຈະຟັງເມື່ອຂ້ອຍຮ້ອງຫາ.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "ແລະຮູ້ຈັກ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "ໄດ້ແຍກ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ຜູ້ຊອບທຳ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ໄວ້ກັບ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ຈະຟັງ"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "ເມື່ອຂ້ອຍຮ້ອງ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ຫາ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:35:10.195090430Z",
+  "model": "glm-5.3"
+}

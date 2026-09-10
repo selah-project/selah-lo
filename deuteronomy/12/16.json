@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ພຽງແຕ່ເລືອດພວກເຈົ້າບໍ່ຈະກິນເທິງແຜ່ນດິນພວກເຈົ້າຈະຮົ່ວມັນຄືນ້ຳ",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ພຽງແຕ່"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ເລືອດ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ພວກເຈົ້າຈະກິນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ແຜ່ນດິນ"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ພວກເຈົ້າຈະຮົ່ວ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ຄືນ້ຳ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:55:26.453397442Z",
+  "model": "glm-5.3"
+}

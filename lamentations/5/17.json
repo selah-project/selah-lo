@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ເພາະສິ່ງນີ້ໃຈຂອງພວກເຮົາອ່ອນເພົາ ເພາະສິ່ງເຫຼົ່ານີ້ຕາຂອງພວກເຮົາມົວໝືດ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ສິ່ງນີ້"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ເປັນ"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "ອ່ອນເພົາ"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ໃຈຂອງພວກເຮົາ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ສິ່ງເຫຼົ່ານີ້"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "ມົວໝືດ"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "ຕາຂອງພວກເຮົາ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:18:20.387865216Z",
+  "model": "glm-5.3"
+}

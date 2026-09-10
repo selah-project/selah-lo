@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 8:16",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ຈົ່ງຜູກພະຍານ ຈົ່ງປະທັບທານັກ ໃນຜູ້ຮຽນຂອງຂ້ອຍ.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "ຈົ່ງຜູກ"
+    },
+    {
+      "surface": "תעודה",
+      "gloss": "ພະຍານ"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "ຈົ່ງປະທັບ"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "ທານັກ"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "ໃນຜູ້ຮຽນຂອງຂ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T16:18:53.959411306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 83,
+  "translation": "ເອໂລຮິມ ຢ່າງຽບຕໍ່ເຈົ້າ, ຢ່ານິງງຽບ ແລະຢ່າສະຫງົບ, ເອນ.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ເອໂລຮິມ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ຄວາມງຽບ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ຕໍ່ເຈົ້າ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ນິງງຽບ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ແລະຢ່າ"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "ສະຫງົບ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:40:10.175378921Z",
+  "model": "glm-5.3"
+}

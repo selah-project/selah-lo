@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 115:5",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 115,
+  "translation": "ປາກແກ່ພວກມັນ ແລະບໍ່ເວົ້າ ຕາຂອງພວກມັນ ແລະບໍ່ເຫັນ",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "ປາກ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ແກ່ພວກມັນ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ເວົ້າ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ຕາ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ແກ່ພວກມັນ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ເຫັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:59:51.724021991Z",
+  "model": "glm-5.3"
+}

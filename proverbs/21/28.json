@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ພະຍານຂອງຄວາມຕົວະຈະພັງພຽງ ແລະຄົນຜູ້ຟັງຈະເວົ້າຕະຫຼອດໄປ",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ພະຍານ"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ຂອງຄວາມຕົວະ"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "ຈະພັງພຽງ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ແລະຄົນ"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "ຜູ້ຟັງ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ຕະຫຼອດໄປ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ຈະເວົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:15:49.353775265Z",
+  "model": "glm-5.3"
+}

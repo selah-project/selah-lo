@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ແລະເພິ່ນປົກ⟨את⟩ເຄຣູບດ້ວຍຄຳ.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ແລະເພິ່ນປົກ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເຄຣູບ"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "ເຄຣູບ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ຄຳ"
+    }
+  ],
+  "timestamp": "2026-09-08T22:19:19.807529778Z",
+  "model": "glm-5.3"
+}

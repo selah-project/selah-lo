@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ຖ້າງູກັດໂດຍບໍ່ມີຄຳມົນງູ ກໍບໍ່ມີປະໂຫຍດແກ່ຜູ້ເປັນເຈົ້າຂອງລີ້.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ຖ້າ"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ກັດ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ງູ"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "ໂດຍບໍ່ມີ"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "ຄຳມົນງູ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ກໍບໍ່ມີ"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ປະໂຫຍດ"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ແກ່ຜູ້ເປັນເຈົ້າຂອງ"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "ລີ້"
+    }
+  ],
+  "timestamp": "2026-09-09T07:24:40.185641339Z",
+  "model": "glm-5.3"
+}

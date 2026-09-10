@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 148,
+  "translation": "ຈົ່ງສະຫວາດາ⟨את⟩ພຣະນາມຂອງຢາເວ ຍ່ອນວ່າເພິ່ນສັ່ງ ແລະຖືກສ້າງ.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "ສະຫວາດາ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ພຣະນາມ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ພຣະນາມ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ຍ່ອນວ່າ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ສັ່ງ"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "ແລະຖືກສ້າງ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:24:53.511757406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ເຮສຣອນຕະກູນຂອງເຮສຣອນິ; ກາຣມີຕະກູນຂອງກາຣມິ.",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "ເຮສຣອນ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ຕະກູນ"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "ຂອງເຮສຣອນິ"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "ກາຣມີ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ຕະກູນ"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "ຂອງກາຣມິ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:22:48.946884947Z",
+  "model": "glm-5.3"
+}

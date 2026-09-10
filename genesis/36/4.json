@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 36,
+  "translation": "ອາດາໄດ້ຄາຍແກ່ເອຊາວ⟨את⟩ເອລີຟາດ ແລະບາສະມາດໄດ້ຄາຍ⟨את⟩ຣາຢູເອນ.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ແລະໄດ້ຄາຍ"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "ອາດາ"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "ແກ່ເອຊາວ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເອລີຟາດ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ເອລີຟາດ"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "ແລະບາສະມາດ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ໄດ້ຄາຍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຣາຢູເອນ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "ຣາຢູເອນ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:51:02.206336416Z",
+  "model": "glm-5.3"
+}

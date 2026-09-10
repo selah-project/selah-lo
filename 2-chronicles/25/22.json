@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 25:22",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ຢູດາຖືກຂົ່ມຕໍ່ໜ້າອິສະຣາເອນ ແລະຄົນທຸກຄົນໜີໄປຫາເຕັນຂອງຕົນ",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "ຖືກຂົ່ມ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ຢູດາ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ຕໍ່ໜ້າ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ໜີ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນທຸກຄົນ"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "ໄປຫາເຕັນຂອງຕົນ"
+    }
+  ],
+  "timestamp": "2026-09-09T10:34:14.370522141Z",
+  "model": "glm-5.3"
+}

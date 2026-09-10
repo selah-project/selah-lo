@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 5:5",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ມິຄາລູກຊາຍຂອງເພິ່ນ ຣາອາຢາລູກຊາຍຂອງເພິ່ນ ບາອາລລູກຊາຍຂອງເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "מיכה",
+      "gloss": "ມິຄາ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ລູກຊາຍຂອງເພິ່ນ"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "ຣາອາຢາ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ລູກຊາຍຂອງເພິ່ນ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ບາອາລ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ລູກຊາຍຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:09:23.587208448Z",
+  "model": "glm-5.3"
+}

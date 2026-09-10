@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 7:34",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ແລະບຸດທັງຫຼາຍຂອງເຊເມຣ: ອາຄິ ໂຣຮາກາ ເຢຄຸບາຮ ແລະອາຣາມ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ແລະບຸດທັງຫຼາຍ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ເຊເມຣ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ອາຄິ"
+    },
+    {
+      "surface": "ורוהגה",
+      "gloss": "ໂຣຮາກາ"
+    },
+    {
+      "surface": "יחבה",
+      "gloss": "ເຢຄຸບາຮ"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "ແລະອາຣາມ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:17:08.798031681Z",
+  "model": "glm-5.3"
+}

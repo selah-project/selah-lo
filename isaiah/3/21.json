@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ແຫວນແລະແຫວນຈັກດັງ",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "ແຫວນ"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "ແລະແຫວນຈັກ"
+    },
+    {
+      "surface": "האף",
+      "gloss": "ດັງ"
+    }
+  ],
+  "timestamp": "2026-09-08T23:13:41.609960601Z",
+  "model": "glm-5.3"
+}

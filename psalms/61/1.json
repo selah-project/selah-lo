@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 61,
+  "translation": "ແກ່ຜູ້ຄວບຄຸມ ເທິງພິນຊາດຂອງດາວິດ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ແກ່ຜູ້ຄວບຄຸມ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "ພິນຊາດ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ຂອງດາວິດ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:24:20.930500472Z",
+  "model": "glm-5.3"
+}

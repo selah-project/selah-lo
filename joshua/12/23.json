@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 12:23",
+  "book": "joshua",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ກະສັດແຫ່ງໂດນ ລະນາຟັດໂດນ ໜຶ່ງ ກະສັດແຫ່ງໂກຍິມ ລະກິນການ ໜຶ່ງ",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ໂດນ"
+    },
+    {
+      "surface": "לנפת",
+      "gloss": "ລະນາຟັດ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ໂດນ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ໂກຍິມ"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "ລະກິນການ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:57:16.385442794Z",
+  "model": "glm-5.3"
+}

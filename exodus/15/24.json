@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 15,
+  "translation": "ແລະປະຊາຊົນໄດ້ຮ້ອງຄຽດຕໍ່ໂມເຊວ່າ: ພວກເຮົາຈະດື່ມຫຍັງ?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "ໄດ້ຮ້ອງຄຽດ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ປະຊາຊົນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ (ໂມເຊ)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ຫຍັງ"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "ພວກເຮົາຈະດື່ມ"
+    }
+  ],
+  "timestamp": "2026-09-09T11:58:40.657311840Z",
+  "model": "glm-5.3"
+}

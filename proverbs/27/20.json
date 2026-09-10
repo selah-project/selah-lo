@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 27:20",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 27,
+  "translation": "ເຊໂອນ ແລະອາບັດໂດນ ບໍ່ອີ່ມ ແລະຕາຂອງມະນຸດກໍບໍ່ອີ່ມ.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "ເຊໂອນ"
+    },
+    {
+      "surface": "ואבדה",
+      "gloss": "ແລະອາບັດໂດນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "ອີ່ມ"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "ແລະຕາຂອງ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ມະນຸດ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "ອີ່ມ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:19:13.190997100Z",
+  "model": "glm-5.3"
+}

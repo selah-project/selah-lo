@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 8:36",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ອາຮາໂຣນແລະລູກຊາຍຂອງເພິ່ນໄດ້ເຮັດ⟨את⟩ຄຳທັງຫຼາຍທີ່ຢາເວສັ່ງໂດຍມືຂອງໂມເຊ",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ໄດ້ເຮັດ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ອາຮາໂຣນ"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ແລະລູກຊາຍຂອງເພິ່ນ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຄຳທັງຫຼາຍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງຫຼາຍ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ຄຳທັງຫຼາຍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ສັ່ງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ໂດຍມືຂອງ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:23:59.722431401Z",
+  "model": "glm-5.3"
+}

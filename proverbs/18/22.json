@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 18:22",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 18,
+  "translation": "ຜູ້ທີ່ພົບເມຍ ພົບສິ່ງທີ່ດີ ແລະໄດ້ຮັບຄວາມພໍໃຈຈາກຢາເວ.",
+  "tokens": [
+    {
+      "surface": "מצא",
+      "gloss": "ພົບ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ເມຍ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ພົບ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ສິ່ງທີ່ດີ"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "ແລະໄດ້ຮັບ"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ຄວາມພໍໃຈ"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ຈາກຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:15:46.575014322Z",
+  "model": "glm-5.3"
+}

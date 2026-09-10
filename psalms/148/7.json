@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 148,
+  "translation": "ຈົ່ງສະຫວາດາ⟨את⟩ຢາເວຈາກແຜ່ນດິນ ຕານີນ ແລະຄວາມເລິກທັງໝົດ.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ສະຫວາດາ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຢາເວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ແຜ່ນດິນ"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "ຕານີນ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ແລະທັງໝົດ"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "ຄວາມເລິກ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:24:53.512122721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 17,
+  "translation": "ຜູ້ກະທຳຊົ່ວເອົາໃຈຟັງຮິດຄວາມຊົ່ວ ແລະຄວາມເທັດເອົາຫູຟັງລີ້ນຄວາມພິນາດ",
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "ຜູ້ກະທຳຊົ່ວ"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "ເອົາໃຈຟັງ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ຮິດ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ຄວາມຊົ່ວ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ຄວາມເທັດ"
+    },
+    {
+      "surface": "מזין",
+      "gloss": "ເອົາຫູຟັງ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ລີ້ນ"
+    },
+    {
+      "surface": "הות",
+      "gloss": "ຄວາມພິນາດ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:13:46.553707181Z",
+  "model": "glm-5.3"
+}

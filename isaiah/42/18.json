@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 42:18",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 42,
+  "translation": "ຄົນໜວກ ຈົ່ງຟັງ ຄົນຕາບອດ ຈົ່ງເບິ່ງ ເພື່ອເຫັນ",
+  "tokens": [
+    {
+      "surface": "החרשים",
+      "gloss": "ຄົນໜວກ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ຈົ່ງຟັງ"
+    },
+    {
+      "surface": "והעורים",
+      "gloss": "ແລະຄົນຕາບອດ"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "ຈົ່ງເບິ່ງ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ເພື່ອເຫັນ"
+    }
+  ],
+  "timestamp": "2026-09-08T23:41:50.411025701Z",
+  "model": "glm-5.3"
+}

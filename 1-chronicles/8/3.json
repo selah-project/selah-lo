@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະເບລາມີລູກຊາຍ ຄື ອັດດາຣ ແລະເກຣາ ແລະອາບິຢູດ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ແລະມີ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ລູກຊາຍ"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "ແກ່ເບລາ"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "ອັດດາຣ"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "ແລະເກຣາ"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "ແລະອາບິຢູດ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:19:40.609175149Z",
+  "model": "glm-5.3"
+}

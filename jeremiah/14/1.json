@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ຄຳຂອງຢາເວທີ່ເກີດຂຶ້ນມາຫາເຢເຣມິຢາຫູວ່າກ່ຽວກັບຄວາມແຫ້ງແລ້ງ",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ເກີດຂຶ້ນ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ມາຫາ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ເຢເຣມິຢາຫູ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ວ່າກ່ຽວກັບ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ເລື່ອງຂອງ"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "ຄວາມແຫ້ງແລ້ງ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:13:34.180633960Z",
+  "model": "glm-5.3"
+}

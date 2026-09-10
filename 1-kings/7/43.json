@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ແລະ⟨את⟩ຖານສິບຫຼັງ ແລະ⟨את⟩ອ່າງນ້ຳສິບອັນ ເທິງຖານ",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ຖານ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ຖານ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ອ່າງນ້ຳ"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "ອ່າງນ້ຳ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ຖານ"
+    }
+  ],
+  "timestamp": "2026-09-09T15:32:30.529747542Z",
+  "model": "glm-5.3"
+}

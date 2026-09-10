@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ເພງບູຊາ, ເພງຮ້ອງຂອງການອຸປະສົມຫຼັງຊື່ຂອງດາວິດ.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ເພງບູຊາ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ເພງຮ້ອງ"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "ການອຸປະສົມຫຼັງຊື່"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ຫຼັງຊື່"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ຂອງດາວິດ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:03:24.978459242Z",
+  "model": "glm-5.3"
+}

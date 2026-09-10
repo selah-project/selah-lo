@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 23:36",
+  "book": "2-samuel",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ຢິການ ລູກຊາຍຂອງ ນາທານ ຈາກໂຊບາ, ບານິ ກາດິ.",
+  "tokens": [
+    {
+      "surface": "יגאל",
+      "gloss": "ຢິການ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ນາທານ"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ໂຊບາ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ບານິ"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "ກາດິ"
+    }
+  ],
+  "timestamp": "2026-09-08T22:09:54.591801936Z",
+  "model": "glm-5.3"
+}

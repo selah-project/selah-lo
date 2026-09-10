@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 35:1",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 35,
+  "translation": "ແລະຢາເວໄດ້ກ່າວກັບໂມເຊ ຢູ່ທົ່ງພຽງຂອງໂມອາບ ຕອນແມ່ນ້ຳຢອຣດານ ຕໍ່ເຢຣິໂຄ ວ່າ",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ແລະຢາເວໄດ້ກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "ຢູ່ທົ່ງພຽງ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ໂມອາບ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຕອນ"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "ຢອຣດານ"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "ເຢຣິໂຄ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:38:59.723078286Z",
+  "model": "glm-5.3"
+}

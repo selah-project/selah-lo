@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 1:47",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ແລະຮາດັດຕາຍ ແລະສາມລາຈາກມາຊຣີກາຄອງແທນເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ແລະຕາຍ"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ຮາດັດ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ແລະຄອງ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ແທນເພິ່ນ"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "ສາມລາ"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "ຈາກມາຊຣີກາ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:31:22.572980757Z",
+  "model": "glm-5.3"
+}

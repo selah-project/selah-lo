@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 20:13",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ຢ່າຮັກການນອນ ປານທ່ານຈະທຸກຍາກ ຈົ່ງເປີດຕາຂອງເຈົ້າ ຈົ່ງອີ່ມດ້ວຍເຂົ້າ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תאהב",
+      "gloss": "ຮັກ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ການນອນ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ປານ"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "ທ່ານຈະທຸກຍາກ"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "ເປີດ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ຕາຂອງເຈົ້າ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ອີ່ມ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ເຂົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:48:24.824430048Z",
+  "model": "glm-5.3"
+}

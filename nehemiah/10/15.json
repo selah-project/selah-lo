@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ຫົວຂອງຂອງປະຊາຊົນ: ປຣະໂຊດ ປາກາດໂມອາບ ເອລາມ ຊັດຕູອາ ບານີ.",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "ຫົວຂອງ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ຂອງປະຊາຊົນ"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "ປຣະໂຊດ"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "ປາກາດ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ໂມອາບ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ເອລາມ"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "ຊັດຕູອາ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ບານີ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:53:28.913674322Z",
+  "model": "glm-5.3"
+}

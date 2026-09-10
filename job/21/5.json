@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 21:5",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ຈົ່ງຫັນມາຫາຂ້ອຍ ຈົ່ງຕົກໃຈ ແລະຈົ່ງວາງມືເທິງປາກ.",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "ຈົ່ງຫັນມາຫາ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ຂ້ອຍ"
+    },
+    {
+      "surface": "והשמו",
+      "gloss": "ຈົ່ງຕົກໃຈ"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "ຈົ່ງວາງ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ມື"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ປາກ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:26:43.880304192Z",
+  "model": "glm-5.3"
+}

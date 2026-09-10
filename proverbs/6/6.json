@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ໄປຫາມົດເຈົ້າຄົນຂີ້ເມືອກ ຈົ່ງເບິ່ງທາງຂອງມັນ ແລະຈົ່ງສະຫຼາດ.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ໄປ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "ມົດ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ຄົນຂີ້ເມືອກ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ຈົ່ງເບິ່ງ"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "ທາງຂອງມັນ"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ແລະຈົ່ງສະຫຼາດ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:30:45.068342674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 37,
+  "translation": "ແລະເພິ່ນກ່າວກັບພວກເຂົາວ່າ: ຈົ່ງຟັງເຖີດ ຄວາມຝັນນີ້ ທີ່ຂ້ອຍໄດ້ຝັນ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະເພິ່ນກ່າວ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ກັບພວກເຂົາ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ຈົ່ງຟັງ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ເຖີດ"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ຄວາມຝັນ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ໄດ້ຝັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T11:28:57.985795853Z",
+  "model": "glm-5.3"
+}

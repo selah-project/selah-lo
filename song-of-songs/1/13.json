@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ໝວດຢາມົກຄືຄູ່ຮັກຂອງຂ້ອຍແກ່ຂ້ອຍ ນອນຄ້າງລະຫວ່າງເຕົ້ານົມຂອງຂ້ອຍ.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "ໝວດ"
+    },
+    {
+      "surface": "המר",
+      "gloss": "ຢາມົກ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ຄູ່ຮັກຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ແກ່ຂ້ອຍ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ລະຫວ່າງ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ເຕົ້ານົມຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ນອນຄ້າງ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:54:06.269061131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 10:25",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ຮາໂລເຊດ ປິລະຮາ ໂຊເບກ",
+  "tokens": [
+    {
+      "surface": "הַלּוֹחֵשׁ",
+      "gloss": "ຮາໂລເຊດ"
+    },
+    {
+      "surface": "פִּלְחָא",
+      "gloss": "ປິລະຮາ"
+    },
+    {
+      "surface": "שׁוֹבֵק",
+      "gloss": "ໂຊເບກ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:51:57.808518165Z",
+  "model": "glm-5.3"
+}

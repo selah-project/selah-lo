@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 21:13",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ແລະຄຳຂອງຢາເວມາຫາຂ້ອຍເພື່ອກ່າວວ່າ",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະເກີດໄດ້"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ມາຫາຂ້ອຍ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ເພື່ອກ່າວວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T17:43:58.664810831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 11:29",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ແລະຢູ່ຢີນຣິມມົນ ແລະຢູ່ສຣາອາຮ ແລະຢູ່ຢິຣະໂມດ",
+  "tokens": [
+    {
+      "surface": "ובעין",
+      "gloss": "ແລະຢູ່ຢີນ"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ຣິມມົນ"
+    },
+    {
+      "surface": "ובצרעה",
+      "gloss": "ແລະຢູ່ສຣາອາຮ"
+    },
+    {
+      "surface": "ובירמות",
+      "gloss": "ແລະຢູ່ຢິຣະໂມດ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:55:12.196742508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 12:4",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ອິດໂດ ກິນເນໂທຍ ອາບິຢາຮາ.",
+  "tokens": [
+    {
+      "surface": "עדוא",
+      "gloss": "ອິດໂດ"
+    },
+    {
+      "surface": "גנתוי",
+      "gloss": "ກິນເນໂທຍ"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ອາບິຢາຮາ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:56:31.635238292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 72,
+  "translation": "ພູຍົກສັນຕິພາບແກ່ປະຊາຊົນ ແລະພູນ້ອຍດ້ວຍຄວາມຊອບທຳ",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "ຍົກ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ພູ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ສັນຕິພາບ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ແກ່ປະຊາຊົນ"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "ແລະພູນ້ອຍ"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "ດ້ວຍຄວາມຊອບທຳ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:46:35.762084165Z",
+  "model": "glm-5.3"
+}

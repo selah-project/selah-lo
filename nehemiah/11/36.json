@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 11:36",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ແລະຈາກຄົນເລວິມ ພາກສ່ວນຂອງຢູດາ ຢູ່ຕໍ່ບິນຢາມິນ.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ແລະຈາກ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ເລວິມ"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "ພາກສ່ວນ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ຢູດາ"
+    },
+    {
+      "surface": "לבנימין",
+      "gloss": "ຕໍ່ບິນຢາມິນ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:56:10.543753708Z",
+  "model": "glm-5.3"
+}

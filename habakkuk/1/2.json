@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ຈົນຮອດໃດ ຢາເວ ຂ້ອຍຮ້ອງ ແລະບໍ່ຟັງ ຂ້ອຍສົ່ງສຽງຫາເຈົ້າວ່າຄວາມຮຸນແຮງ ແລະບໍ່ຊ່ວຍ.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ຈົນຮອດ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ໃດ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ຂ້ອຍຮ້ອງ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ຟັງ"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ຂ້ອຍສົ່ງສຽງ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ຫາເຈົ້າ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ຄວາມຮຸນແຮງ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "ຊ່ວຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:00:22.407205482Z",
+  "model": "glm-5.3"
+}

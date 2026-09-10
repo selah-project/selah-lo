@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ໂຢເອນເປັນຫົວໜ້າ ແລະຊາຟາມເປັນຕົວທີສອງ ແລະຢານາຍ ແລະຊາຟາດ ຢູ່ໃນບາຊານ.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "ໂຢເອນ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ຫົວໜ້າ"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "ແລະຊາຟາມ"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "ຕົວທີສອງ"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "ແລະຢານາຍ"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "ແລະຊາຟາດ"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "ໃນບາຊານ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:12:04.687533814Z",
+  "model": "glm-5.3"
+}

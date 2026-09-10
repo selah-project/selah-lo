@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ກໍຊີວິດໂດຍບໍ່ມີຄວາມຮູ້ບໍ່ດີ ແລະຜູ້ຟ້າວດ້ວຍຕີນຜິດບາບ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ກໍ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ໂດຍບໍ່ມີ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ຄວາມຮູ້"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ຊີວິດ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "ແລະຜູ້ຟ້າວ"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "ດ້ວຍຕີນ"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "ຜິດບາບ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:14:53.617569203Z",
+  "model": "glm-5.3"
+}

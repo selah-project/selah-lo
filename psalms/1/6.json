@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ຍ້ອນວ່າຢາເວຮູ້ທາງຂອງຄົນຊອບທຳ ແລະທາງຂອງຄົນຊົ່ວຈະພັງພາຍ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ຍ້ອນວ່າ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ຮູ້"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ທາງຂອງ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ຄົນຊອບທຳ"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ແລະທາງຂອງ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ຄົນຊົ່ວ"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ຈະພັງພາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:31:28.034447822Z",
+  "model": "glm-5.3"
+}

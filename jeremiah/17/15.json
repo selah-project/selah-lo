@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 17,
+  "translation": "ເບິ່ງແມ ພວກເຂົາເວົ້າຕໍ່ຂ້ອຍວ່າ: „ຄໍາຂອງຢາເວຢູ່ໃສ? ຈົ່ງມາເຖີດ“",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ເບິ່ງແມ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ພວກເຂົາ"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ເວົ້າ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ຕໍ່ຂ້ອຍ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ຢູ່ໃສ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄໍາ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ມາ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ເຖີດ"
+    }
+  ],
+  "timestamp": "2026-09-09T17:09:23.159893267Z",
+  "model": "glm-5.3"
+}

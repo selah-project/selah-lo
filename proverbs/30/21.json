@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ພາຍໃຕ້ສາມສິ່ງແຜ່ນດິນສັ່ນຄອງ ແລະພາຍໃຕ້ສີ່ສິ່ງແຜ່ນດິນບໍ່ສາມາດທົນຮັບ.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ພາຍໃຕ້"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ສາມ"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "ສັ່ນຄອງ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ແຜ່ນດິນ"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ແລະພາຍໃຕ້"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ສີ່"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ສາມາດ"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ທົນຮັບ"
+    }
+  ],
+  "timestamp": "2026-09-10T00:27:25.604951131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ແລະເພິ່ນໄດ້ຊັນ⟨את⟩ນົກຕົວໜຶ່ງ ໃນຈອນດິນເຜົາ ເໜືອນ້ຳທີ່ມີຊີວິດ.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ແລະເພິ່ນໄດ້ຊັນ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ນົກຕົວໜຶ່ງ"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "ນົກ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ຕົວໜຶ່ງ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ໃນ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ຈອນ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ດິນເຜົາ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ທີ່ມີຊີວິດ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:27:24.987572717Z",
+  "model": "glm-5.3"
+}

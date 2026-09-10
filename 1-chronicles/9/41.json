@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ແລະລູກຊາຍຂອງໄມຄາຄືປິໂທນ ເມເລັກ ແລະຕາຮເຣອາ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ແລະລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ໄມຄາ"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "ປິໂທນ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ເມເລັກ"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "ແລະຕາຮເຣອາ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:22:03.780032176Z",
+  "model": "glm-5.3"
+}

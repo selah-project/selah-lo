@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 48:21",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 48,
+  "translation": "ແລະຄຳຕັດສິນມາຮອດແຜ່ນດິນທົ່ງພຽງ ເຖິງໂຮໂລນ ແລະເຖິງຢາດສະ ແລະເທິງໂມຟາດ.",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "ແລະຄຳຕັດສິນ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ມາຮອດ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເຖິງ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ແຜ່ນດິນ"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "ທົ່ງພຽງ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເຖິງ"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "ໂຮໂລນ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ແລະເຖິງ"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "ຢາດສະ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ແລະເທິງ"
+    },
+    {
+      "surface": "מופעת",
+      "gloss": "ໂມຟາດ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:48:19.375159099Z",
+  "model": "glm-5.3"
+}

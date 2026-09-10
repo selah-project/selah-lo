@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 20:14",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ຢ່າຜິດລອກກາມ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "ຜິດລອກກາມ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:38:28.487436991Z",
+  "model": "glm-5.3"
+}

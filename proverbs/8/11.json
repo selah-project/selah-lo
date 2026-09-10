@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 8:11",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ເພາະປັນຍາດີກວ່າພຽວໄພ ແລະທຸກສິ່ງທີ່ປາຖະໜາ ບໍ່ທຽບເທົ່າກັບນາງ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ດີກວ່າ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ປັນຍາ"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "ກວ່າພຽວໄພ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ແລະທຸກສິ່ງ"
+    },
+    {
+      "surface": "חפצים",
+      "gloss": "ທີ່ປາຖະໜາ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ישוו",
+      "gloss": "ທຽບເທົ່າ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ກັບນາງ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:31:48.260632665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 36,
+  "translation": "ເຫຼົ່ານີ້⟨ເປັນ⟩ລູກຊາຍຂອງດິຊານ: ອຸດ ແລະອາຣານ.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ເຫຼົ່ານີ້"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "ດິຊານ"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ອຸດ"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "ແລະອາຣານ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:48:04.786440265Z",
+  "model": "glm-5.3"
+}

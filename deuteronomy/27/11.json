@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 27,
+  "translation": "ແລະໂມເຊສັ່ງ⟨את⟩ປະຊາຊົນໃນວັນນັ້ນວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ແລະໂມເຊສັ່ງ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ປະຊາຊົນ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ປະຊາຊົນ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ໃນວັນ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ນັ້ນ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:08:41.291134702Z",
+  "model": "glm-5.3"
+}

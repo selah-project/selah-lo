@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ມາອາຊຢາ ບິນກາຍ ຊະມາຢາ — ເຫຼົ່ານີ້ເປັນໂກເຮນທັງຫຼາຍ",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "ມາອາຊຢາ"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "ບິນກາຍ"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "ຊະມາຢາ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ເຫຼົ່ານີ້"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ໂກເຮນທັງຫຼາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:52:05.681875562Z",
+  "model": "glm-5.3"
+}

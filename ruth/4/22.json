@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ແລະໂອເບດມີບັດ⟨את⟩ຢິຊາຍ ແລະຢິຊາຍມີບັດ⟨את⟩ດາວິດ.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "ແລະໂອເບດ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ມີບັດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຢິຊາຍ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ຢິຊາຍ"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "ແລະຢິຊາຍ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ມີບັດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ດາວິດ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ດາວິດ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:40:35.768191570Z",
+  "model": "glm-5.3"
+}

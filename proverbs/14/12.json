@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 14:12",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ມີທາງໜຶ່ງຊື່ຕໍ່ໜ້າມະນຸດ ແຕ່ທີດທ້າຍຂອງມັນຄືທາງຂອງຄວາມຕາຍ.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ທາງໜຶ່ງ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ຊື່"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ຕໍ່ໜ້າ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ມະນຸດ"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "ແລະທີດທ້າຍຂອງມັນ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ທາງຂອງ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ຄວາມຕາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:36:39.446566099Z",
+  "model": "glm-5.3"
+}

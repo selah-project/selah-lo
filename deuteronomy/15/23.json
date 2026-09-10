@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 15,
+  "translation": "ພຽງແຕ່⟨את⟩ເລືອດຂອງມັນ ເຈົ້າຢ່າກິນ ເທິງແຜ່ນດິນເຈົ້າທັບມັນດັ່ງນ້ຳ.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ພຽງແຕ່"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເລືອດຂອງມັນ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ເລືອດຂອງມັນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ເຈົ້າກິນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ແຜ່ນດິນ"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ເຈົ້າທັບມັນ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ດັ່ງນ້ຳ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:54:22.190949303Z",
+  "model": "glm-5.3"
+}

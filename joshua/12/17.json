@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 12:17",
+  "book": "joshua",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ກະສັດຂອງຕັບປົວກ ໜຶ່ງ ກະສັດຂອງເຮເພຣນ ໜຶ່ງ.",
+  "tokens": [
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "ກະສັດຂອງ"
+    },
+    {
+      "surface": "תַּפּוּחַ",
+      "gloss": "ຕັບປົວກ"
+    },
+    {
+      "surface": "אֶחָד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "ກະສັດຂອງ"
+    },
+    {
+      "surface": "חֵפֶר",
+      "gloss": "ເຮເພຣນ"
+    },
+    {
+      "surface": "אֶחָד",
+      "gloss": "ໜຶ່ງ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:56:54.835257204Z",
+  "model": "glm-5.3"
+}

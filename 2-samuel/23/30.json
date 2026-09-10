@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 23:30",
+  "book": "2-samuel",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ເບນາຢາຮຄົນປິຣາໂທນ, ຮິດດາຍຈາກລຳນ້ຳຂອງກາອາຊ.",
+  "tokens": [
+    {
+      "surface": "בניהו",
+      "gloss": "ເບນາຢາຮ"
+    },
+    {
+      "surface": "פרעתני",
+      "gloss": "ຄົນປິຣາໂທນ"
+    },
+    {
+      "surface": "הדי",
+      "gloss": "ຮິດດາຍ"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "ຈາກລຳນ້ຳຂອງ"
+    },
+    {
+      "surface": "געש",
+      "gloss": "ກາອາຊ"
+    }
+  ],
+  "timestamp": "2026-09-08T22:10:10.722092836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 4:1",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ເປັນແນວໃດຄຳມືດລົງ! ຄຳບໍລິສຸດປ່ຽນ! ຫີນຂອງບ່ອນບູຊາຖືກໂປດຢູ່ຫົວທຸກຖະໜົນ.",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "ເປັນແນວໃດ"
+    },
+    {
+      "surface": "יועם",
+      "gloss": "ມືດລົງ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "ປ່ຽນ"
+    },
+    {
+      "surface": "הכתם",
+      "gloss": "ຄຳບໍລິສຸດ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ທີ່ດີ"
+    },
+    {
+      "surface": "תשתפכנה",
+      "gloss": "ຖືກໂປດ"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "ຫີນ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ຂອງບ່ອນບູຊາ"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "ຢູ່ຫົວ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "ຖະໜົນ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:12:15.803544785Z",
+  "model": "glm-5.3"
+}

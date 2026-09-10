@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ແລະອານົຊມີຊີວິດເກົ້າສິບປີ ແລະກຳເນີດ⟨את⟩ກີນານ.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ແລະມີຊີວິດ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ອານົຊ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ເກົ້າສິບ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ແລະກຳເນີດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ກີນານ"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "ກີນານ"
+    }
+  ],
+  "timestamp": "2026-09-08T15:59:45.365801357Z",
+  "model": "glm-5.3"
+}

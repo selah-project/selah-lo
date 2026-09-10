@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 7:52",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ໂຕຜູ້ຂອງແຜວງເງົ້າ ໜຶ່ງໂຕ ເປັນຂອງຖວາຍແກ້ຄວາມຜິດ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ໂຕຜູ້"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ຂອງແຜວງເງົ້າ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ເປັນຂອງຖວາຍແກ້ຄວາມຜິດ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:01:10.704383305Z",
+  "model": "glm-5.3"
+}

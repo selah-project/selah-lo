@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ແລະດານີເອນຢູ່ຮອດປີໜຶ່ງຂອງໂຄຣັດກະສັດ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະ...ຢູ່"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ດານີເອນ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ຮອດ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "ຂອງໂຄຣັດ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ກະສັດ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:41:39.280400345Z",
+  "model": "glm-5.3"
+}

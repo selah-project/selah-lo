@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະໂຢນາອະທິຖານຕໍ່ຢາເວ ເອໂລຮິມຂອງເພິ່ນ ຈາກທ້ອງຂອງປາ.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "ອະທິຖານ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ໂຢນາ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ເອໂລຮິມຂອງເພິ່ນ"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "ຈາກທ້ອງຂອງ"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "ປາ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:15:30.367387478Z",
+  "model": "glm-5.3"
+}

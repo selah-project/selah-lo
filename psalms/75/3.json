@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 75,
+  "translation": "ເມື່ອເຮົາຮັບເວລານັດໝາຍ ເຮົາຈະຕັດສິນດ້ວຍຄວາມຊອບທຳ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເມື່ອ"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ເຮົາຮັບ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ເວລານັດໝາຍ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ເຮົາ"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ຄວາມຊອບທຳ"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "ຈະຕັດສິນ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:34:39.573195238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 107,
+  "translation": "ຄົນຊອບທຳເຫັນແລະດີໃຈ ແລະຄວາມຜິດທຸກຢ່າງອັດປາກຂອງມັນ.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "ເຫັນ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ຄົນຊອບທຳ"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ແລະດີໃຈ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ແລະທຸກຢ່າງ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ຄວາມຜິດ"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "ອັດ"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ປາກຂອງມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:00:30.008940287Z",
+  "model": "glm-5.3"
+}

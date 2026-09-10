@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 16:21",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 16,
+  "translation": "ຢ່າປັກອາເຊຣາຮາຕົ້ນໄມ້ໃດໜຶ່ງແກ່ຕົນຢູ່ຂ້າງແທ່ນບູຊາຂອງຢາເວ ເອໂລຮິມຂອງເຈົ້າທີ່ເຈົ້າຈະສ້າງແກ່ຕົນ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "ປັກ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ແກ່ຕົນ"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "ອາເຊຣາຮາ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ຕົ້ນໄມ້"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ຢູ່ຂ້າງ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ແທ່ນບູຊາ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ເອໂລຮິມຂອງເຈົ້າ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ສ້າງ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ແກ່ຕົນ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:00:36.448693865Z",
+  "model": "glm-5.3"
+}

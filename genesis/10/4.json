@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 10:4",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ແລະລູກຊາຍຂອງຢາວານ: ເອລີຊາ ແລະທາຣຊີ ຄິຕິມ ແລະໂດດານິມ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ແລະລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "יון",
+      "gloss": "ຢາວານ"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "ເອລີຊາ"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "ແລະທາຣຊີ"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "ຄິຕິມ"
+    },
+    {
+      "surface": "ודדנים",
+      "gloss": "ແລະໂດດານິມ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:07:25.887529557Z",
+  "model": "glm-5.3"
+}

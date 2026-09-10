@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 23:33",
+  "book": "2-samuel",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ຊາມາ ຮາຣາຣິ, ອາຮີອາມ ລູກຊາຍຂອງ ຊາຣາຣ ອາຣາຣິ.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ຊາມາ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ຮາຣາຣິ"
+    },
+    {
+      "surface": "אחיאם",
+      "gloss": "ອາຮີອາມ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "שרר",
+      "gloss": "ຊາຣາຣ"
+    },
+    {
+      "surface": "האררי",
+      "gloss": "ອາຣາຣິ"
+    }
+  ],
+  "timestamp": "2026-09-08T22:09:54.591389869Z",
+  "model": "glm-5.3"
+}

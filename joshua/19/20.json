@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ແລະເຮຣະບິດ ແລະຄິຊີອານ ແລະອາເບດ.",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "ແລະເຮຣະບິດ"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "ແລະຄິຊີອານ"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "ແລະອາເບດ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:40:09.086182988Z",
+  "model": "glm-5.3"
+}

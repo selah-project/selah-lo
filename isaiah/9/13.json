@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 9:13",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ຢາເວໄດ້ຕັດຈາກອິສະຣາເອນຫົວແລະຫາງປາກມພູມປາແລະກໍ້ນຢູ່ໜຶ່ງວັນ.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "ໄດ້ຕັດ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ຈາກອິສະຣາເອນ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ຫົວ"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "ແລະຫາງ"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "ປາກມພູມປາ"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "ແລະກໍ້ນ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    }
+  ],
+  "timestamp": "2026-09-08T23:20:01.401581404Z",
+  "model": "glm-5.3"
+}

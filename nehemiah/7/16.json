@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 7:16",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ບຸດຂອງເບບາຍ ຫົກຮ້ອຍຊາວແປດຄົນ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ບຸດຂອງ"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "ເບບາຍ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ຫົກ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ຊາວ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ແລະແປດ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:46:12.254238112Z",
+  "model": "glm-5.3"
+}

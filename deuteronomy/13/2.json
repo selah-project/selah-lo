@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ຖ້ານັກພະຍານາພູດ ຫຼືຜູ້ຝັນຄວາມຝັນ ຂຶ້ນຢູ່ທ່າມກາງພວກເຈົ້າ ແລະໃຫ້ແກ່ເຈົ້າ ໝາຍ ຫຼືປາຫຼາດ,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ຖ້າ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ຂຶ້ນ"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ທ່າມກາງພວກເຈົ້າ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ນັກພະຍານາພູດ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "ຜູ້ຝັນ"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ຄວາມຝັນ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ແລະໃຫ້"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ແກ່ເຈົ້າ"
+    },
+    {
+      "surface": "אות",
+      "gloss": "ໝາຍ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "ປາຫຼາດ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:57:15.780533860Z",
+  "model": "glm-5.3"
+}

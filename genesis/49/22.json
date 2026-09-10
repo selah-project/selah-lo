@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 49:22",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 49,
+  "translation": "ໂຢເຊັບ ⟨ເປັນ⟩ ລູກອອກຜົນ, ລູກອອກຜົນຂ້າງນ້ຳພຸ, ຍິງສາວທັງຫຼາຍຍ່າງຂຶ້ນເໜືອກຳແພງ",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ລູກ"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "ອອກຜົນ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ໂຢເຊັບ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກ"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "ອອກຜົນ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ຂ້າງ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ນ້ຳພຸ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ຍິງສາວທັງຫຼາຍ"
+    },
+    {
+      "surface": "צעדה",
+      "gloss": "ຍ່າງຂຶ້ນ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ກຳແພງ"
+    }
+  ],
+  "timestamp": "2026-09-09T11:44:57.077302372Z",
+  "model": "glm-5.3"
+}

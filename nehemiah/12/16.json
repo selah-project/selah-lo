@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 12:16",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ຂອງອິດໂດ ຊະຄາຣິຢາ; ຂອງກິນະໂທນ ເມຊູລາມ.",
+  "tokens": [
+    {
+      "surface": "לעדיא",
+      "gloss": "ຂອງອິດໂດ"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "ຊະຄາຣິຢາ"
+    },
+    {
+      "surface": "לגנתון",
+      "gloss": "ຂອງກິນະໂທນ"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "ເມຊູລາມ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:54:59.872771924Z",
+  "model": "glm-5.3"
+}

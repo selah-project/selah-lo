@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ອາຍ ອາຍທັງຫຼາຍ ໂກເຮເລັດກ່າວວ່າ ທັງໝົດ ⟨ເປັນ⟩ ອາຍ.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "ອາຍ"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ອາຍທັງຫຼາຍ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ກ່າວວ່າ"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "ໂກເຮເລັດ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ອາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:33:43.374080947Z",
+  "model": "glm-5.3"
+}

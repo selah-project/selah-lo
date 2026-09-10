@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 78,
+  "translation": "ແລະອາໂດນາຍຕື່ນຄືຜູ້ນອນ ຄືນັກຮົບທີ່ຮ້ອງຈາກເຫຼົ້າ.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "ຕື່ນ"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "ຄືຜູ້ນອນ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ອາໂດນາຍ"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "ຄືນັກຮົບ"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "ຮ້ອງ"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "ຈາກເຫຼົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:36:14.655631538Z",
+  "model": "glm-5.3"
+}

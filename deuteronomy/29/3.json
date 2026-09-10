@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 29,
+  "translation": "ແລະຢາເວບໍ່ໄດ້ໃຫ້ພວກເຈົ້າມີຫົວໃຈເພື່ອຮູ້ ຕາເພື່ອເຫັນ ແລະຫູເພື່ອຟັງ ຈົນເຖິງວັນນີ້.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ໄດ້ໃຫ້"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ແກ່ພວກເຈົ້າ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ຫົວໃຈ"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ເພື່ອຮູ້"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ແລະຕາ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ເພື່ອເຫັນ"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "ແລະຫູ"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ເພື່ອຟັງ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ຈົນເຖິງ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ນີ້"
+    }
+  ],
+  "timestamp": "2026-09-08T20:14:59.494571399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ເຈົ້າຂ້າມມື້ນີ້ ⟨את⟩ຊາຍແດນຂອງໂມອາບ ຄື⟨את⟩ອາຣ.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ເຈົ້າ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ຂ້າມ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ມື້ນີ້"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຊາຍແດນຂອງໂມອາບ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ຊາຍແດນ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ໂມອາບ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ອາຣ"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ອາຣ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:40:47.142604344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 101,
+  "translation": "ໃຈທີ່ບິດເບືອນຈະຫັນພົ້ນຈາກຂ້ອຍ ຄວາມຊົ່ວຂ້ອຍບໍ່ຈະຮູ້",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "ໃຈ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ທີ່ບິດເບືອນ"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ຈະຫັນພົ້ນ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ຈາກຂ້ອຍ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ຄວາມຊົ່ວ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ຂ້ອຍຈະຮູ້"
+    }
+  ],
+  "timestamp": "2026-09-09T04:54:24.078474505Z",
+  "model": "glm-5.3"
+}

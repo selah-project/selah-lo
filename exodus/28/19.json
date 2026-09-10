@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 28:19",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ແລະແຖວທີສາມຄື ຫີນສີມັງຄານ ຫີນອາເກດ ແລະອະເມທິດ",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "ແລະແຖວ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ທີສາມ"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ຫີນສີມັງຄານ"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ຫີນອາເກດ"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "ແລະອະເມທິດ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:54:06.486007455Z",
+  "model": "glm-5.3"
+}

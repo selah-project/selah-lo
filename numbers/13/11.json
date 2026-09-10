@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ຕະກູນໂຢເຊັບ ຕະກູນມະນັດເຊ: ກັດດີລູກຊາຍຂອງຊູຊິ.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ຕະກູນ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ໂຢເຊັບ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ຕະກູນ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ມະນັດເຊ"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "ກັດດີ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "ຊູຊິ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:07:41.148306424Z",
+  "model": "glm-5.3"
+}

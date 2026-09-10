@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 35,
+  "translation": "ແລະຊຸມຊົນລູກຫຼານອິສະຣາເອນທັງໝົດອອກໄປຈາກໜ້າໂມເຊ.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ແລະພວກເຂົາອອກໄປ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ຊຸມຊົນ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ຈາກໜ້າ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:21:52.167610635Z",
+  "model": "glm-5.3"
+}

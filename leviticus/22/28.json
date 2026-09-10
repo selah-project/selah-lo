@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 22,
+  "translation": "ແລະງົວ ຫຼືສັດລ້ຽງ ພວກເຈົ້າຈົ່ງຢ່າຊັດ⟨את⟩ມັນແລະ⟨את⟩ລູກຂອງມັນໃນວັນໜຶ່ງ",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "ແລະງົວ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ສັດລ້ຽງ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ມັນ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ລູກຂອງມັນ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ລູກຂອງມັນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ຈົ່ງຢ່າ"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "ພວກເຈົ້າຊັດ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ໃນວັນ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:40:33.387550513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 28:5",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ແຜ່ນດິນຈາກມັນອອກອາຫານ ແລະໃຕ້ມັນຖືກພັບຄືໄຟ.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ແຜ່ນດິນ"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ຈາກມັນ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ອອກ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ອາຫານ"
+    },
+    {
+      "surface": "ותחתיה",
+      "gloss": "ແລະໃຕ້ມັນ"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "ຖືກພັບ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ຄື"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ໄຟ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:31:48.477110709Z",
+  "model": "glm-5.3"
+}

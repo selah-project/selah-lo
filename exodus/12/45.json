@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ຄົນພັກຖິ່ນແລະຄົນເຮັດວຽກຮັບຈ້າງຈະບໍ່ກິນໃນມັນ.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "ຄົນພັກຖິ່ນ"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "ແລະຄົນເຮັດວຽກຮັບຈ້າງ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ຈະກິນ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ໃນມັນ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:32:25.937817783Z",
+  "model": "glm-5.3"
+}

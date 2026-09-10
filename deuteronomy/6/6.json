@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ແລະຄຳເຫຼົ່ມນີ້ທີ່ເຮົາບັນຍັດເຈົ້າມື້ນີ້ ຈະ⟨ເປັນ⟩ເທິງຫົວໃຈຂອງເຈົ້າ",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ແລະຈະ⟨ເປັນ⟩"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ເຫຼົ່ມນີ້"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ເຮົາ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ບັນຍັດເຈົ້າ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ມື້ນີ້"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ຫົວໃຈຂອງເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:25:57.464452985Z",
+  "model": "glm-5.3"
+}

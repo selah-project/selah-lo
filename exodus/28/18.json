@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ແລະແຖວທີສອງຄື ຫີນຂຽວແກມ ໄພລິນ ແລະຢາໂລ່",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "ແລະແຖວ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ທີສອງ"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "ຫີນຂຽວແກມ"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "ໄພລິນ"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "ແລະຢາໂລ່"
+    }
+  ],
+  "timestamp": "2026-09-08T17:54:06.485895045Z",
+  "model": "glm-5.3"
+}

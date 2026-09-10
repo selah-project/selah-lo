@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ລູກຫຼານຂອງຮາຣິມ ໜຶ່ງພັນແລະສິບເຈັດຄົນ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ຮາຣິມ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ໜຶ່ງພັນ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ແລະເຈັດ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:18:12.256888472Z",
+  "model": "glm-5.3"
+}

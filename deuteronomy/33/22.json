@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 33,
+  "translation": "ແລະຕໍ່ດານ ເພິ່ນກ່າວວ່າ: ດານ ⟨ເປັນ⟩ ລູກສິງ, ຈະໂດດຈາກບາຊານ.",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "ແລະຕໍ່ດານ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ເພິ່ນກ່າວ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ດານ"
+    },
+    {
+      "surface": "גור",
+      "gloss": "ລູກ"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ສິງ"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "ຈະໂດດ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ບາຊານ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:57:50.662620199Z",
+  "model": "glm-5.3"
+}

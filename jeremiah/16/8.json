@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 16,
+  "translation": "ແລະເຈົ້າຢ່າເຂົ້າໄປໃນເຮືອນງານລ້ຽງດື່ມ ເພື່ອນັ່ງກິນ⟨את⟩ແລະດື່ມ",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ແລະເຮືອນ"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ງານລ້ຽງດື່ມ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ເຂົ້າໄປ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ເພື່ອນັ່ງ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ກິນ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ກິນ"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "ແລະດື່ມ"
+    }
+  ],
+  "timestamp": "2026-09-09T17:08:14.622516753Z",
+  "model": "glm-5.3"
+}

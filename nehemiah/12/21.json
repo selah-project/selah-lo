@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 12:21",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ຂອງຫີວກິຢາ, ຮາຊັບຢາ; ຂອງຢະດາຢາ, ເນທັນເອນ.",
+  "tokens": [
+    {
+      "surface": "לחלקיה",
+      "gloss": "ຂອງຫີວກິຢາ"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ຮາຊັບຢາ"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "ຂອງຢະດາຢາ"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "ເນທັນເອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:08:59.161321061Z",
+  "model": "glm-5.3"
+}

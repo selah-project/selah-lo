@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 7:50",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ກຳມືຄຳໜຶ່ງອັນ ໜັກສິບເຊເກນ ເຕັມຄວາມຫອມ.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ກຳມືຄຳ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ເຕັມ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ຄວາມຫອມ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:01:10.704118917Z",
+  "model": "glm-5.3"
+}

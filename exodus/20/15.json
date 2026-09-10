@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 20:15",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ຢ່າລັກ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "ລັກ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:38:28.487571355Z",
+  "model": "glm-5.3"
+}

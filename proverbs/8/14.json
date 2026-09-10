@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ຄຳແນະນຳຂອງຂ້ອຍ ແລະຄວາມຊຳນານ ຂ້ອຍ⟨ເປັນ⟩ຄວາມເຂົ້າໃຈ ກຳລັງຂອງຂ້ອຍ.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ຄຳແນະນຳ"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "ແລະຄວາມຊຳນານ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ຂ້ອຍ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ຄວາມເຂົ້າໃຈ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "ກຳລັງ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:09:54.846387861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 35:19",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 35,
+  "translation": "ໃນສິບແປດປີ ຂອງການຄອງແຜ່ນຂອງໂຢເຊັບ ຊົ່ວອັນນີ້ໄດ້ຖືກຈັດຂຶ້ນ",
+  "tokens": [
+    {
+      "surface": "בשמונה",
+      "gloss": "ໃນແປດ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "ຂອງການຄອງແຜ່ນ"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ໂຢເຊັບ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ໄດ້ຖືກຈັດຂຶ້ນ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ຊົ່ວ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ອັນນີ້"
+    }
+  ],
+  "timestamp": "2026-09-09T20:35:07.620727715Z",
+  "model": "glm-5.3"
+}

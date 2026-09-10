@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 36,
+  "translation": "ຫົວໜ້າເຄນາດ ຫົວໜ້າເທມານ ຫົວໜ້າມິບຊານ.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "ຫົວໜ້າ"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "ເຄນາດ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ຫົວໜ້າ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "ເທມານ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ຫົວໜ້າ"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "ມິບຊານ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:48:15.689438720Z",
+  "model": "glm-5.3"
+}

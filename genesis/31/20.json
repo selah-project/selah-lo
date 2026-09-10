@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 31,
+  "translation": "ຢາອາໂຄບໄດ້ລອກຫຼີກ⟨את⟩ໃຈຂອງລາບານຄົນອາຣາເມຍ ໃນທີ່ບໍ່ໄດ້ແຈ້ງແກ່ເພິ່ນວ່າເພິ່ນແອບໜີ.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "ໄດ້ລອກຫຼີກ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ຢາອາໂຄບ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ໃຈ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ໃຈ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ຂອງລາບານ"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "ຄົນອາຣາເມຍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ໃນທີ່"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ໄດ້ແຈ້ງ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ແກ່ເພິ່ນ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ແອບໜີ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T11:26:57.051995799Z",
+  "model": "glm-5.3"
+}

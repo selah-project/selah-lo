@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ແລະຜູ້ຕີສັດຈະທົດແທນມັນ ແລະຜູ້ຕີຄົນຈະຖືກຂ້າ.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "ແລະຜູ້ຕີ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ສັດ"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "ຈະທົດແທນມັນ"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "ແລະຜູ້ຕີ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ຈະຖືກຂ້າ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:45:52.058149507Z",
+  "model": "glm-5.3"
+}

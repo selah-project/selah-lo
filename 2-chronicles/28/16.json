@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ໃນເວລານັ້ນກະສັດອາຄາສສົ່ງຫາກະສັດຂອງອາຊູນເພື່ອຊ່ວຍເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "ໃນເວລາ"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ນັ້ນ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ສົ່ງ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ອາຄາສ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ກະສັດຂອງ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ອາຊູນ"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "ເພື່ອຊ່ວຍ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:32:06.772563840Z",
+  "model": "glm-5.3"
+}

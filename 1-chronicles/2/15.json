@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 2:15",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ໂອເຊມເປັນຄົນທີຫົກ ດາວິດເປັນຄົນທີເຈັດ.",
+  "tokens": [
+    {
+      "surface": "אֹצֶם",
+      "gloss": "ໂອເຊມ"
+    },
+    {
+      "surface": "הַשִּׁשִּׁי",
+      "gloss": "ທີຫົກ"
+    },
+    {
+      "surface": "דָּוִיד",
+      "gloss": "ດາວິດ"
+    },
+    {
+      "surface": "הַשְּׁבִעִי",
+      "gloss": "ທີເຈັດ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:10:53.764270646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ແລະລູກຂອງເກຮາທ: ອັມຣາມ ແລະຢິສະຮາຣ ແລະຮັບຣົນ ແລະອຸຊິເອນ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ແລະລູກຂອງ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ເກຮາທ"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "ອັມຣາມ"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "ແລະຢິສະຮາຣ"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "ແລະຮັບຣົນ"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ແລະອຸຊິເອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:14:02.939091373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ປັນຍາສ້າງເຮືອນຂອງນາງ ຕັດເສາຂອງນາງເຈັດອັນ.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "ປັນຍາ"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "ສ້າງ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ເຮືອນຂອງນາງ"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "ຕັດ"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "ເສາຂອງນາງ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ເຈັດ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:10:57.177145419Z",
+  "model": "glm-5.3"
+}

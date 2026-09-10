@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ແລະລູກຫຼານຂອງໂກເມຣ ອັຊກັນດ ແລະດິພັດ ແລະໂຕັກຣະມາ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ແລະລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ໂກເມຣ"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "ອັຊກັນດ"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "ແລະດິພັດ"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "ແລະໂຕັກຣະມາ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:01:42.617737330Z",
+  "model": "glm-5.3"
+}

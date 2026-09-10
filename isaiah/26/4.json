@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ຈົ່ງວາງໃຈໃນຢາເວຕະຫຼອດຕະຫຼອດ ເພາະວ່າໃນຢາ ຢາເວ ⟨ເປັນ⟩ຫີນຕະຫຼອດນິດ.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "ຈົ່ງວາງໃຈ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ໃນຢາເວ"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ຕະຫຼອດ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ຕະຫຼອດ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະວ່າ"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "ໃນຢາ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ຫີນ"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ຕະຫຼອດນິດ"
+    }
+  ],
+  "timestamp": "2026-09-08T23:27:27.729554538Z",
+  "model": "glm-5.3"
+}

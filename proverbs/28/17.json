@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ຄົນທີ່ທຳຮ້າຍໃນເລືອດຂອງຄົນຈະໜີລົງຫຼຸມ ຢ່າມີໃຜຮັບສະໜັບເຂົາ.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ທຳຮ້າຍ"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ໃນເລືອດ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ຂອງຄົນ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ຈົນເຖິງ"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ຫຼຸມ"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "ຈະໜີ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "ຈະຮັບສະໜັບ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ເຂົາ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:19:43.506749281Z",
+  "model": "glm-5.3"
+}

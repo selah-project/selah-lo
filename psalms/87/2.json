@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 87,
+  "translation": "ຢາເວຮັກປະຕູຂອງສີຢູນ ຫຼາຍກວ່າບ່ອນຢູ່ທັງໝົດຂອງຢາອາໂຄບ",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ຮັກ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "ປະຕູຂອງ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ສີຢູນ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ຫຼາຍກວ່າທັງໝົດ"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "ບ່ອນຢູ່"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ຢາອາໂຄບ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:43:18.664919630Z",
+  "model": "glm-5.3"
+}

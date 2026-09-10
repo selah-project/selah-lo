@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 31,
+  "translation": "ແລະວັກເຈັດສິບສອງພັນໂຕ",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "ແລະວັກ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ແລະເຈັດສິບ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ພັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:14:22.038861677Z",
+  "model": "glm-5.3"
+}

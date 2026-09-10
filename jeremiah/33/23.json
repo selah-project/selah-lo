@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 33:23",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 33,
+  "translation": "ແລະຄຳຂອງຢາເວມາຫາຢິຣະມະຢາຮູວ່າ",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະເກີດວ່າ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ມາຫາ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ຢິຣະມະຢາຮູ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T17:19:08.035235392Z",
+  "model": "glm-5.3"
+}

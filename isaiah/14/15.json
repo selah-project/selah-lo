@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ແຕ່ເຈົ້າຈະຖືກລົງສູ່ເຊໂອນສູ່ຂອບສ່ວນລຶກຂອງຫຼຸມ",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ແຕ່"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ສູ່"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ເຊໂອນ"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "ຈະຖືກລົງ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ສູ່"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "ຂອບສ່ວນລຶກ"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ຫຼຸມ"
+    }
+  ],
+  "timestamp": "2026-09-09T16:23:24.262732694Z",
+  "model": "glm-5.3"
+}

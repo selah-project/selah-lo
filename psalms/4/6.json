@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ຈົ່ງຖວາຍບູຊາຂອງຄວາມຊອບທຳ ແລະໄວ້ວາງໃຈຕໍ່ຢາເວ",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "ຖວາຍບູຊາ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ການບູຊາຂອງ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ຄວາມຊອບທຳ"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "ແລະໄວ້ວາງໃຈ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:33:04.152100214Z",
+  "model": "glm-5.3"
+}

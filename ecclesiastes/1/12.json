@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ຂ້ອຍໂກເຮເລັດ ໄດ້ເປັນກະສັດ ເໜືອອິດສະຣາເອນ ໃນເຢຣູຊາລາຢິມ",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ຂ້ອຍ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ໂກເຮເລັດ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ໄດ້ເປັນ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິດສະຣາເອນ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ໃນເຢຣູຊາລາຢິມ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:45:26.823225208Z",
+  "model": "glm-5.3"
+}

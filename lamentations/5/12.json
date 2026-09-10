@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ເຈົ້າຊາຍຖືກແຂວນໂດຍມືຂອງເຂົາເຈົ້າ ໜ້າຂອງຜູ້ເຖົ້າບໍ່ໄດ້ຮັບກຽດ.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "ເຈົ້າຊາຍ"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ໂດຍມືຂອງເຂົາເຈົ້າ"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "ຖືກແຂວນ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ໜ້າຂອງ"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ຜູ້ເຖົ້າ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "ໄດ້ຮັບກຽດ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:18:09.413993167Z",
+  "model": "glm-5.3"
+}

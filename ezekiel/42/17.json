@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 42:17",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 42,
+  "translation": "ເພິ່ນໄດ້ວັດທິດເໜືອ ຫ້າຮ້ອຍກໍາໂດຍກໍາວັດຊີ່ວັດ ອ້ອມຂ້າງ",
+  "tokens": [
+    {
+      "surface": "מָדַד",
+      "gloss": "ວັດ"
+    },
+    {
+      "surface": "רוּחַ",
+      "gloss": "ທິດ"
+    },
+    {
+      "surface": "הַצָּפוֹן",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "חֲמֵשׁ",
+      "gloss": "ຫ້າ"
+    },
+    {
+      "surface": "מֵאוֹת",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "קָנִים",
+      "gloss": "ກໍາ"
+    },
+    {
+      "surface": "בִּקְנֵה",
+      "gloss": "ດ້ວຍກໍາ"
+    },
+    {
+      "surface": "הַמִּדָּה",
+      "gloss": "ຊີ່ວັດ"
+    },
+    {
+      "surface": "סָבִיב",
+      "gloss": "ອ້ອມຂ້າງ"
+    }
+  ],
+  "timestamp": "2026-09-09T17:57:05.841086470Z",
+  "model": "glm-5.3"
+}

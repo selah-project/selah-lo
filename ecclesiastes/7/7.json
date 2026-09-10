@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ເພາະຄວາມຂົ່ມເບັງເຮັດໃຫ້ຄົນສະຫຼາດວິ້ນ ແລະຂອງຂວັນທຳລາຍ⟨את⟩ຫົວໃຈ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "ຄວາມຂົ່ມເບັງ"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "ເຮັດໃຫ້ວິ້ນ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ຄົນສະຫຼາດ"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "ແລະທຳລາຍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຫົວໃຈ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ຫົວໃຈ"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "ຂອງຂວັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:24:10.056399845Z",
+  "model": "glm-5.3"
+}

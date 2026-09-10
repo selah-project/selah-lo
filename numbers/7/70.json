@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "numbers 7:70",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ແພະຜູ້ໜຶ່ງໂຕ ເປັນບູຊາບາບ.",
+  "tokens": [
+    {
+      "surface": "שָׂעִיר",
+      "gloss": "ແພະຜູ້"
+    },
+    {
+      "surface": "עִזִּים",
+      "gloss": "ຂອງແພະ"
+    },
+    {
+      "surface": "אֶחָד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "לְחַטָּאת",
+      "gloss": "ເປັນບູຊາບາບ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:52:14.633450722Z",
+  "model": "glm-5.3"
+}

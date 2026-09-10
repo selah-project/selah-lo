@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ແລະມັນເປັນມາ ທັງແຜ່ນດິນໂລກມີຝີມົວໜຶ່ງ ແລະຄຳເວົ້າໜຶ່ງ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະມັນເປັນມາ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ແຜ່ນດິນໂລກ"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ຝີມົວ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ແລະຄຳເວົ້າ"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "ໜຶ່ງ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:12:32.464192704Z",
+  "model": "glm-5.3"
+}

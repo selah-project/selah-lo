@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "nehemiah 7:41",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ລູກຫຼານຂອງຟັຊຮູຣ ໜຶ່ງພັນ ສອງຮ້ອຍ ສີ່ສິບ ແລະເຈັດຄົນ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "ຟັຊຮູຣ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ໜຶ່ງພັນ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ສອງຮ້ອຍ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ສີ່ສິບ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ແລະເຈັດ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:46:39.052232246Z",
+  "model": "glm-5.3"
+}

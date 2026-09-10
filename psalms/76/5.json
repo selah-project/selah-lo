@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 76,
+  "translation": "ສະຫວ່າງເຈົ້າ⟨ເປັນ⟩ຜູ້ຍິ່ງໃຫຍ່ກວ່າພູຂອງຝູງສັດລ່າ.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "ສະຫວ່າງ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ເຈົ້າ"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ຜູ້ຍິ່ງໃຫຽ່"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "ກວ່າພູຂອງ"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ຝູງສັດລ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:33:35.458970787Z",
+  "model": "glm-5.3"
+}

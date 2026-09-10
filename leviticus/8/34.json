@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 8:34",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ຄືດັ່ງທີ່ໄດ້ເຮັດໃນວັນນີ້ ຢາເວສັ່ງໃຫ້ເຮັດ ເພື່ອປະທານແທນພວກເຈົ້າ",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "ຄືດັ່ງທີ່"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ໄດ້ເຮັດ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ໃນວັນ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ສັ່ງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ໃຫ້ເຮັດ"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "ເພື່ອປະທານ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ແທນພວກເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:23:59.722058892Z",
+  "model": "glm-5.3"
+}

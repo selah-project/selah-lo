@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ແລະເອໂລຮິມກ່າວກັບໂນອາ ແລະກັບລູກຊາຍຂອງເພິ່ນ⟨את⟩ກັບເພິ່ນ ວ່າ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະ...ກ່າວ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ເອໂລຮິມ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ໂນອາ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ແລະກັບ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ລູກຊາຍຂອງເພິ່ນ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ກັບເພິ່ນ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:03:37.789898448Z",
+  "model": "glm-5.3"
+}

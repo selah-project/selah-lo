@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 8:13",
+  "book": "judges",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະກິດໂອນບຸດຂອງໂຢອາຊຊັງກັບຈາກສົງຄາມ ຈາກທາງຂຶ້ນຂອງຮາເຣສ.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ຊັງກັບ"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "ກິດໂອນ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ບຸດຂອງ"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ໂຢອາຊ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ສົງຄາມ"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ຈາກທາງຂຶ້ນ"
+    },
+    {
+      "surface": "החרס",
+      "gloss": "ຮາເຣສ"
+    }
+  ],
+  "timestamp": "2026-09-09T22:08:07.056086149Z",
+  "model": "glm-5.3"
+}

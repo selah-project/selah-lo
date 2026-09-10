@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ຊຸມຊົນອິສະຣາເອນທັງປວງຈະປະຕິບັດ⟨את⟩ມັນ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ທັງປວງ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ຊຸມຊົນ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ຈະປະຕິບັດ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ມັນ",
+      "marks": "ມັນ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:32:25.938193869Z",
+  "model": "glm-5.3"
+}

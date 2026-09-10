@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ພວກເຈົ້າຈະບໍ່ເຮັດແບບນັ້ນຕໍ່ຢາເວ ເອໂລຮິມຂອງພວກເຈົ້າ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ພວກເຈົ້າຈະເຮັດ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ແບບນັ້ນ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ຕໍ່ຢາເວ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ເອໂລຮິມຂອງພວກເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:28:54.481907429Z",
+  "model": "glm-5.3"
+}

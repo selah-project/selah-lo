@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ແລະ⟨את⟩ຫົວໄຕສອງ ແລະ⟨את⟩ມັນທີ່ເທິງມັນທີ່ເທິງເອວ ແລະ⟨את⟩ໜ້າຕັບເທິງຕັບ ເທິງຫົວໄຕເພິ່ນຖອນມັນອອກ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ຫົວໄຕສອງ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ຫົວໄຕ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ມັນ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "ເທິງມັນ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "ເອວ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ໜ້າຕັບ"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ໜ້າຕັບ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ຕັບ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ຫົວໄຕ"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ເພິ່ນຖອນມັນອອກ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:46:50.664964613Z",
+  "model": "glm-5.3"
+}

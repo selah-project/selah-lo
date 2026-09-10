@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "lo",
+  "chapter": 18,
+  "translation": "ແລະຊາອູນໄດ້ມອງ⟨את⟩ດາວິດຕັ້ງແຕ່ມື້ນັ້ນໄປຕໍ່ໄປ",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະເກີດຂຶ້ນ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ຊາອູນ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ມອງ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ດາວິດ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ດາວິດ"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "ຕັ້ງແຕ່ມື້"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ນັ້ນ"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "ໄປຕໍ່ໄປ"
+    }
+  ],
+  "timestamp": "2026-09-09T22:13:39.923710749Z",
+  "model": "glm-5.3"
+}

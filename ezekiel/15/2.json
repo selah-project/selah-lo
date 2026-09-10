@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 15:2",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 15,
+  "translation": "ລູກມະນຸດ, ໄມ້ພັດຈະເປັນຫຍັງກວ່າໄມ້ອື່ນທຸກຊະນິດ, ກິ່ງພັດທີ່ຢູ່ໃນໄມ້ຂອງປ່າ?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ລູກ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ມະນຸດ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ຫຍັງ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ຈະເປັນ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ໄມ້"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "ຂອງພັດ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ກວ່າທັງໝົດ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ໄມ້"
+    },
+    {
+      "surface": "הזמורה",
+      "gloss": "ກິ່ງຂອງພັດ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ຢູ່"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "ໃນໄມ້ຂອງ"
+    },
+    {
+      "surface": "היער",
+      "gloss": "ປ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T01:11:21.817054373Z",
+  "model": "glm-5.3"
+}

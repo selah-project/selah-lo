@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ແລະໃນວັນເມື່ອເຫັນຜິວຫນັງມີຊີວິດໃນລາວ ເພິ່ນຈະບໍ່ສະອາດ",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ແລະໃນວັນ"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "ເມື່ອເຫັນ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ໃນລາວ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ຜິວຫນັງ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ມີຊີວິດ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ເພິ່ນຈະບໍ່ສະອາດ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:28:39.927482236Z",
+  "model": "glm-5.3"
+}

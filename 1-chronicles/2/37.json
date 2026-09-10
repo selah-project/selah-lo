@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະຊາບາດກຳເນີດ⟨את⟩ເອັບລານ ແລະເອັບລານກຳເນີດ⟨את⟩ໂອເບດ.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "ແລະຊາບາດ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ກຳເນີດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເອັບລານ"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "ເອັບລານ"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "ແລະເອັບລານ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ກຳເນີດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ໂອເບດ"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ໂອເບດ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:03:06.257327192Z",
+  "model": "glm-5.3"
+}

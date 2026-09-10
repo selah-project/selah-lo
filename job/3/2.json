@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 3:2",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ແລະໂຢບໄດ້ຕອບ ແລະໄດ້ເວົ້າວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ແລະໄດ້ຕອບ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ໂຢບ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະໄດ້ເວົ້າວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:03:58.771271610Z",
+  "model": "glm-5.3"
+}

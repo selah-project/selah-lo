@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 9:3",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ຖ້າເພິ່ນຢາກໂຕ້ຖຽງກັບມັນ ມັນຕອບເພິ່ນບໍ່ໄດ້ ໜຶ່ງ ໃນພັນ",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ຖ້າ"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "ຢາກ"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "ໂຕ້ຖຽງ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ກັບມັນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "ຕອບເພິ່ນ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ໃນ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ພັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:25:17.848488840Z",
+  "model": "glm-5.3"
+}

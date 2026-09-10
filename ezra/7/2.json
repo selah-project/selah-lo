@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ບ່ອນຊາວລຳ ບ່ອນຊາໂດກ ບ່ອນອາຮິຕູບ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ບ່ອນ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ຊາວລຳ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ບ່ອນ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ຊາໂດກ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ບ່ອນ"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "ອາຮິຕູບ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:27:11.592575562Z",
+  "model": "glm-5.3"
+}

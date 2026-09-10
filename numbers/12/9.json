@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ແລະດັງຂອງຢາເວລຸກຂຶ້ນຕໍ່ພວກເຂົາ ແລະເພິ່ນຈາກໄປ.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ແລະລຸກຂຶ້ນ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ດັງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ຕໍ່ພວກເຂົາ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ແລະເພິ່ນຈາກໄປ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:58:28.546008141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 10:31",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ມັດເມນາໜີ, ຊາວເມືອງເກບິມໜີຊ່ວງ.",
+  "tokens": [
+    {
+      "surface": "נדדה",
+      "gloss": "ໜີ"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "ມັດເມນາ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ຊາວເມືອງ"
+    },
+    {
+      "surface": "הגבים",
+      "gloss": "ເກບິມ"
+    },
+    {
+      "surface": "העיזו",
+      "gloss": "ໜີຊ່ວງ"
+    }
+  ],
+  "timestamp": "2026-09-09T16:21:49.602791403Z",
+  "model": "glm-5.3"
+}

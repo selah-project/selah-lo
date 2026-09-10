@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 50,
+  "translation": "ຈາກຊີໂອນຄວາມງາມຄົບຖ້ວນ ເອໂລຮິມສະຫວ່າງ",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "ຈາກຊີໂອນ"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "ຄວາມຄົບຖ້ວນ"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "ຄວາມງາມ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ເອໂລຮິມ"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "ສະຫວ່າງ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:39:04.103194449Z",
+  "model": "glm-5.3"
+}

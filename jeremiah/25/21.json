@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "⟨את⟩ອາດູມ ແລະ⟨את⟩ໂມອາບ ແລະ⟨את⟩ລູກຫຼານຂອງອາມູນ",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ອາດູມ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ອາດູມ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ໂມອາບ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ໂມອາບ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ລູກຫຼານຂອງອາມູນ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ອາມູນ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:20:15.825420294Z",
+  "model": "glm-5.3"
+}

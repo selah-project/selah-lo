@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 108,
+  "translation": "ເພງ ບົດດົນຕີບູຊາ ຂອງດາວິດ.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ເພງ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ບົດດົນຕີບູຊາ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ຂອງດາວິດ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:01:23.055494662Z",
+  "model": "glm-5.3"
+}

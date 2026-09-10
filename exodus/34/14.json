@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 34:14",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 34,
+  "translation": "ເພາະວ່າຢ່າໄຫວ້ຕໍ່ເອນອື່ນ ເພາະວ່າຢາເວຊື່ຂອງເພິ່ນ⟨ເປັນ⟩ອິດສາ ເພິ່ນ⟨ເປັນ⟩ເອນອິດສາ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະວ່າ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "ໄຫວ້"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ຕໍ່ເອນ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ອື່ນ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະວ່າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ອິດສາ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ຊື່ຂອງເພິ່ນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເອນ"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ອິດສາ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:45:29.253773974Z",
+  "model": "glm-5.3"
+}

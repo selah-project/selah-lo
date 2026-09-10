@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ສາມເທດ ຈົ່ງກະທຳບຸນບູຊາຕໍ່ເຮົາໃນປີ.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "ສາມ"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "ເທດ"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "ຈົ່ງກະທຳບຸນບູຊາ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ຕໍ່ເຮົາ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ໃນປີ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:47:42.114492548Z",
+  "model": "glm-5.3"
+}

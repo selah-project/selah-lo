@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ແລະເພິ່ນເວົ້າວ່າຂ້ອຍເປັນຜູ້ຮັບໃຊ້ຂອງອັບຣາຮາມ",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະເພິ່ນເວົ້າ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ຜູ້ຮັບໃຊ້"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ອັບຣາຮາມ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ຂ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-10T01:53:23.153936349Z",
+  "model": "glm-5.3"
+}

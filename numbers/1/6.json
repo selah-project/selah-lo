@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ຂອງຊິເມອນ ເຊລູມີເອນລູກຊາຍຂອງຊູຣິຊັດດາຍ.",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "ຂອງຊິເມອນ"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "ເຊລູມີເອນ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "ຊູຣິຊັດດາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:51:29.641572961Z",
+  "model": "glm-5.3"
+}

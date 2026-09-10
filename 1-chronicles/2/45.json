@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ລູກຊາຍຂອງຊາມມາຍ ⟨ເປັນ⟩ ມາໂອນ ແລະມາໂອນ ⟨ເປັນ⟩ ພໍ່ຂອງເບດສູຣ.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ຊາມມາຍ"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ມາໂອນ"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "ແລະມາໂອນ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ພໍ່ຂອງ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ເບດ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ສູຣ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:04:39.651518879Z",
+  "model": "glm-5.3"
+}

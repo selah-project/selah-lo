@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 22:14",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 22,
+  "translation": "ປາກຂອງແມ່ຍິງແປກໜາມເປັນຂຸມເລິກ ຄົນທີ່ຢາເວພິດຖ່ານຈະຕົກລົງໄປໃນນັ້ນ",
+  "tokens": [
+    {
+      "surface": "שוחה",
+      "gloss": "ຂຸມ"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "ເລິກ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ປາກ"
+    },
+    {
+      "surface": "זרות",
+      "gloss": "ແມ່ຍິງແປກໜາມ"
+    },
+    {
+      "surface": "זעום",
+      "gloss": "ຄວາມພິດຖ່ານ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ຈະຕົກ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ລົງໄປໃນນັ້ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:15:59.704782361Z",
+  "model": "glm-5.3"
+}

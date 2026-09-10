@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "haggai 1:15",
+  "book": "haggai",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ໃນວັນຊາວແລະສີ່ຂອງເດືອນ ໃນເດືອນທີຫົກ ໃນປີທີສອງຂອງດາຣິຢົດກະສັດ",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ໃນວັນ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ຊາວ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ແລະສີ່"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ຂອງເດືອນ"
+    },
+    {
+      "surface": "בששי",
+      "gloss": "ໃນທີຫົກ"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "ໃນປີ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "ຂອງດາຣິຢົດ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ກະສັດ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:19:27.686189714Z",
+  "model": "glm-5.3"
+}

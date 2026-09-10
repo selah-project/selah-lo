@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ດັ່ງນີ້ຢາເວເອໂລຮິມຂອງຂ້ອຍກ່າວ: ຈົ່ງລ້ຽງ⟨את⟩ຝູງແບະຂອງການຂ້າ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ດັ່ງນີ້"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ເອໂລຮິມຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ຈົ່ງລ້ຽງ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຝູງແບະ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ຝູງແບະ"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "ຂອງການຂ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:23:39.248042394Z",
+  "model": "glm-5.3"
+}

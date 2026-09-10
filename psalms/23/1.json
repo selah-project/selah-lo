@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ບົດຮ້ອງຂອງດາວິດ ຢາເວເປັນຜູ້ລ້ຽງຂອງຂ້ອຍ ຂ້ອຍບໍ່ຂາດ",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ບົດຮ້ອງຂອງ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ຂອງດາວິດ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "ເປັນຜູ້ລ້ຽງຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "ຂາດ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:51:44.925414274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ອັບຣາຮາມໄດ້ເພີ່ມຮັບເມຍ ແລະຊື່ຂອງນາງແມ່ນກຸຕູຣາ",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ໄດ້ເພີ່ມ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ອັບຣາຮາມ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ຮັບເມຍ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ເມຍ"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ແລະຊື່ຂອງນາງ"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "ກຸຕູຣາ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:34:16.721025584Z",
+  "model": "glm-5.3"
+}

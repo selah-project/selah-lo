@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "lo",
+  "chapter": 18,
+  "translation": "ແລະມິສເພ ແລະເຄຟິຣາ ແລະໂມສາ",
+  "tokens": [
+    {
+      "surface": "וְהַמִּצְפֶּ֥ה",
+      "gloss": "ແລະມິສເພ"
+    },
+    {
+      "surface": "וְהַכְּפִירָ֖ה",
+      "gloss": "ແລະເຄຟິຣາ"
+    },
+    {
+      "surface": "וְהַמֹּצָֽה",
+      "gloss": "ແລະໂມສາ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:39:33.340913747Z",
+  "model": "glm-5.3"
+}

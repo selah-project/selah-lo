@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 34,
+  "translation": "ຮາໂມຣພໍ່ຂອງເຊເຄັມໄດ້ອອກມາຫາຢາອາໂຄບ ເພື່ອເວົ້າກັບ⟨את⟩ເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ໄດ້ອອກມາ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ຮາໂມຣ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ພໍ່ຂອງ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ເຊເຄັມ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ຢາອາໂຄບ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ເພື່ອເວົ້າກັບ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T11:29:23.964854832Z",
+  "model": "glm-5.3"
+}

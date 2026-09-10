@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 6:26",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ລູກຊາຍຂອງເອດນີ ລູກຊາຍຂອງຊຣາຮ ລູກຊາຍຂອງອາດາຢາ",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "אתני",
+      "gloss": "ເອດນີ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ຊຣາຮ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "ອາດາຢາ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:16:51.510310761Z",
+  "model": "glm-5.3"
+}

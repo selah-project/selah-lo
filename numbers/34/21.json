@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 34:21",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 34,
+  "translation": "ຂອງສາຂາບິນຢາມິນ ເອລິດາດ ລູກຊາຍຂອງຄິສະໂລນ.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ຂອງສາຂາ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ບິນຢາມິນ"
+    },
+    {
+      "surface": "אלידד",
+      "gloss": "ເອລິດາດ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "ຄິສະໂລນ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:36:54.890360451Z",
+  "model": "glm-5.3"
+}

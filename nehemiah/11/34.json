@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 11:34",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ຫາດິດ, ສະໂບຢິມ, ນະບັລາດ.",
+  "tokens": [
+    {
+      "surface": "חדיד",
+      "gloss": "ຫາດິດ"
+    },
+    {
+      "surface": "צבעים",
+      "gloss": "ສະໂບຢິມ"
+    },
+    {
+      "surface": "נבלט",
+      "gloss": "ນະບັລາດ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:56:10.543557895Z",
+  "model": "glm-5.3"
+}

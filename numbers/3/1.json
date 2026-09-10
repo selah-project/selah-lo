@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ແລະນີ້⟨ເປັນ⟩ວົງວະນາຂອງອາຮາໂຣນ ແລະໂມເຊ ໃນມື້ທີ່ຢາເວກ່າວ⟨את⟩ໂມເຊ ຢູ່ພູສີໂອນ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ແລະນີ້"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ວົງວະນາ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ອາຮາໂຣນ"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "ແລະໂມເຊ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ໃນມື້"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ໂມເຊ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ຢູ່ພູ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ສີໂອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:54:31.513207950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ແລະລູກຫຼານຂອງເຢຮາເລເລັນ ຄືຊິບ ແລະຊິບາ ຕິຣິຢາ ແລະອາຊາຣານ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ແລະລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "ເຢຮາເລເລັນ"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ຊິບ"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "ແລະຊິບາ"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "ຕິຣິຢາ"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "ແລະອາຊາຣານ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:11:01.057242967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 88:5",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 88,
+  "translation": "ຂ້ອຍຖືກນັບຮ່ວມກັບຜູ້ລົງໄປຫາຂຸມ ຂ້ອຍເປັນຄືຜູ້ຊາຍບໍ່ມີກຳລັງ",
+  "tokens": [
+    {
+      "surface": "נחשבתי",
+      "gloss": "ຖືກນັບ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ຮ່ວມກັບ"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "ຜູ້ລົງໄປຫາ"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ຂຸມ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ຂ້ອຍເປັນ"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "ຄືຜູ້ຊາຍ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ບໍ່ມີ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ກຳລັງ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:44:56.115919971Z",
+  "model": "glm-5.3"
+}

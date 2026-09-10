@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ເພາະຄົນຊົ່ວອວດເຖິງຄວາມປາດເຊົາຂອງຕົນ ແລະຄົນໂລບສັນລະເສີນຕົນ ດູຖູກຢາເວ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "ອວດ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ຄົນຊົ່ວ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເຖິງ"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "ຄວາມປາດເຊົາ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ຂອງຕົນ"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "ແລະຄົນໂລບ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ສັນລະເສີນ"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "ດູຖູກ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:04:51.156813023Z",
+  "model": "glm-5.3"
+}

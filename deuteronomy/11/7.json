@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ດວາ ຕາຂອງພວກເຈົ້າເຫັນ⟨את⟩ທັງໝົດວຽກອັນໃຫຍ່ຂອງຢາເວ ທີ່ເພິ່ນໄດ້ທຳ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ດວາ"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ຕາຂອງພວກເຈົ້າ"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ເຫັນ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ທັງໝົດວຽກອັນໃຫຍ່ຂອງຢາເວ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ວຽກ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ອັນໃຫຍ່"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ໄດ້ທຳ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:26:22.534331076Z",
+  "model": "glm-5.3"
+}

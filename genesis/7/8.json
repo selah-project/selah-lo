@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ຈາກສັດທີ່ສະອາດ ແລະຈາກສັດທີ່ບໍ່ແມ່ນສະອາດ ແລະຈາກນົກ ແລະທຸກສິ່ງທີ່ຄຸດຄຽວເທິງແຜ່ນດິນ.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ສັດ"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "ທີ່ສະອາດ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ແລະຈາກ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ສັດ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "ບໍ່ແມ່ນ"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "ສະອາດ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ແລະຈາກ"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ນົກ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ແລະທຸກ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ຄຸດຄຽວ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ແຜ່ນດິນ"
+    }
+  ],
+  "timestamp": "2026-09-09T11:00:13.945984009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ແລະຕໍ່ມິຄັນລູກສາວຂອງຊາອູນ ບໍ່ມີລູກຈົນເຖິງວັນຄວາມຕາຍຂອງນາງ.",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "ແລະຕໍ່ມິຄັນ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ລູກສາວຂອງ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ຊາອູນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ເປັນ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ແກ່ນາງ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ລູກ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ຈົນເຖິງ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "ຄວາມຕາຍຂອງນາງ"
+    }
+  ],
+  "timestamp": "2026-09-09T15:06:25.874435780Z",
+  "model": "glm-5.3"
+}

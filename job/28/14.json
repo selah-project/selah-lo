@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 28:14",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ຄວາມເລິກກ່າວວ່າມັນບໍ່ຢູ່ໃນເຮົາ ແລະທະເລກ່າວວ່າມັນບໍ່ມີກັບເຮົາ.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "ຄວາມເລິກ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ກ່າວ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ໃນເຮົາ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "וים",
+      "gloss": "ແລະທະເລ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ກ່າວ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ບໍ່ມີ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ກັບເຮົາ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:33:22.688756400Z",
+  "model": "glm-5.3"
+}

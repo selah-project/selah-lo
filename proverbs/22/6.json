@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 22,
+  "translation": "ຈົ່ງຝຶກລູກໜຸ່ມຕາມປາກຂອງທາງຂອງລາວ; ຖ້າແມ່ນເມື່ອລາວແກ່ນແລ້ວ ລາວກໍຈະບໍ່ຫຼີກຈາກມັນ.",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "ຈົ່ງຝຶກ"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ຕໍ່ລູກໜຸ່ມ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຕາມ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ປາກ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ຂອງທາງຂອງລາວ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ກໍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເມື່ອ"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "ລາວແກ່ນແລ້ວ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ຫຼີກ"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ຈາກມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:16:22.919010542Z",
+  "model": "glm-5.3"
+}

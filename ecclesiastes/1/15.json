@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ສິ່ງທີ່ບິດບໍ່ສາມາດແກ້ໃຫ້ຊື່ ແລະສິ່ງທີ່ຂາດບໍ່ສາມາດນັບໄດ້.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "ສິ່ງທີ່ບິດ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ສາມາດ"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "ແກ້ໃຫ້ຊື່"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "ແລະສິ່ງທີ່ຂາດ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ສາມາດ"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "ນັບໄດ້"
+    }
+  ],
+  "timestamp": "2026-09-09T07:20:33.381763211Z",
+  "model": "glm-5.3"
+}

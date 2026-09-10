@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ແລະພວກເຈົ້າບໍ່ຍອມພາໄປຂຶ້ນ ແລະກະບົດ⟨את⟩ປາກຂອງຢາເວເອໂລຮິມຂອງພວກເຈົ້າ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "ເຈົ້າຍອມພາ"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "ໄປຂຶ້ນ"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "ແລະກະບົດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ປາກ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ປາກ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ເອໂລຮິມຂອງພວກເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:43:09.593194670Z",
+  "model": "glm-5.3"
+}

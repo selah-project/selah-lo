@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ແລະໜັງແກະຜູ້ທີ່ມັດແດງ ແລະໜັງຕາຮາຊ ແລະໄມ້ຊິຕຕິມ.",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "ແລະໜັງ"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ຂອງແກະຜູ້"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "ທີ່ມັດແດງ"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "ແລະໜັງ"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "ຂອງຕາຮາຊ"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "ແລະໄມ້"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ຊິຕຕິມ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:10:25.827526279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ແລະເຟຣອນຕອບ⟨את⟩ອັບຣາຮາມວ່າກັບເພິ່ນ",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ແລະຕອບ"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "ເຟຣອນ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ອັບຣາຮາມ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ອັບຣາຮາມ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ກັບເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:26:06.446813731Z",
+  "model": "glm-5.3"
+}

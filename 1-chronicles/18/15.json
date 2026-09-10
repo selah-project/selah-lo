@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 18:15",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 18,
+  "translation": "ແລະໂຢອາບບຸດຊະຣຸຢາ ເໜືອກອງທັບ ແລະເຢໂຮຊາຟາດບຸດອາຮີລຸດ ຜູ້ບັນທຶກ",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "ແລະໂຢອາບ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ບຸດ"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ຊະຣຸຢາ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ກອງທັບ"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "ແລະເຢໂຮຊາຟາດ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ບຸດ"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "ອາຮີລຸດ"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "ຜູ້ບັນທຶກ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:36:01.341304920Z",
+  "model": "glm-5.3"
+}

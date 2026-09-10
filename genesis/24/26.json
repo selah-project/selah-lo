@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 24:26",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ຊາຍຄົນນັ້ນກົມລົງແລະໄຫວ້ຢາເວ.",
+  "tokens": [
+    {
+      "surface": "ויקד",
+      "gloss": "ແລະກົມລົງ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ຊາຍຄົນນັ້ນ"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ແລະໄຫວ້"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ຕໍ່ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:30:37.782467255Z",
+  "model": "glm-5.3"
+}

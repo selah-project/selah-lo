@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ບຸດອາຍຸໜຶ່ງປີຄືຊາອູນໃນການຄອງຂອງເພິ່ນ ແລະສອງປີເພິ່ນຄອງຢູ່ອິສະຣາເອນ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ບຸດ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ຊາອູນ"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ໃນການຄອງຂອງເພິ່ນ"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ແລະສອງ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ຄອງ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຢູ່"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T14:42:36.233703372Z",
+  "model": "glm-5.3"
+}

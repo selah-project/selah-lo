@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ແລະຣາອາ ແລະ⟨את⟩ໄອຢາ ແລະດາຢາຕາມຊະນິດຂອງມັນ.",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "ແລະຣາອາ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ໄອຢາ"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ໄອຢາ"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "ແລະດາຢາ"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ຕາມຊະນິດຂອງມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:28:32.812871959Z",
+  "model": "glm-5.3"
+}

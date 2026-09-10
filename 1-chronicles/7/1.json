@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ລູກຫຼານຂອງຢິສະສະຄາຣ: ໂທລາ, ປູອາ, ຢາຊູບ ແລະຊິມຣອນ, ສີ່ຄົນ.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ຕໍ່ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ຢິສະສະຄາຣ"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "ໂທລາ"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "ແລະປູອາ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ຢາຊູບ"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "ແລະຊິມຣອນ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ສີ່"
+    }
+  ],
+  "timestamp": "2026-09-09T09:20:33.231127441Z",
+  "model": "glm-5.3"
+}

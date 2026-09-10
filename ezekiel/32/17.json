@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 32:17",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 32,
+  "translation": "ໃນປີທີສິບສອງ ວັນທີສິບຫ້າຂອງເດືອນ ຄຳຂອງຢາເວມາຫາຂ້ອຍວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະເກີດຂຶ້ນ"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "ໃນສອງ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "ໃນຫ້າ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ຂອງເດືອນ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ມາ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ຫາຂ້ອຍ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T01:40:41.073085683Z",
+  "model": "glm-5.3"
+}

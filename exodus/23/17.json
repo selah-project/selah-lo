@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 23:17",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ສາມຄັ້ງໃນປີ ຊາຍທັງຫຼາຍຂອງເຈົ້າຈະປະກົດຕົວຕໍ່ໜ້າຮາອາໂດນ ຢາເວ.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "ສາມ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ຄັ້ງ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ໃນປີ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ຈະປະກົດຕົວ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງຫຼາຍ"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "ຊາຍຂອງເຈົ້າ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ໜ້າ"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "ຮາອາໂດນ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:47:08.575892732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 9:4",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ໃຜເປັນຄົນໂງ່ ຈົ່ງຫັນມາຫານີ້ ຄົນຂາດໃຈ ນາງເວົ້າກັບເຂົາວ່າ",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "ເປັນຄົນໂງ່"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "ຈົ່ງຫັນມາ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ຫານີ້"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ຄົນຂາດ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ໃຈ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "ນາງເວົ້າກັບ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ເຂົາ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:10:09.508520985Z",
+  "model": "glm-5.3"
+}

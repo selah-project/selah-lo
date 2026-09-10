@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ຊຸມຊົນທັງໝົດ ເປັນອັນດຽວ ສີ່ໝື່ນ ສອງພັນ ສາມຮ້ອຍ ຫົກສິບຄົນ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ຊຸມຊົນ"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ເປັນອັນດຽວ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ສີ່"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "ໝື່ນ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ສອງພັນ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ສາມ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ຫົກສິບ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:21:55.074844192Z",
+  "model": "glm-5.3"
+}

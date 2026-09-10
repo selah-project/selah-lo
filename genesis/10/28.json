@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ແລະ⟨את⟩ໂອບານແລະ⟨את⟩ອາບີມາເອນແລະ⟨את⟩ເຊບາ",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ໂອບານ"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "ໂອບານ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ອາບີມາເອນ"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "ອາບີມາເອນ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ເຊບາ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ເຊບາ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:09:54.044999270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 2:26",
+  "book": "1-samuel",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະເດັກນ້ອຍຊາມູເອນເດີນຂຶ້ນ ແລະໃຫຍ່ຂຶ້ນ ແລະດີ ທັງກັບຢາເວ ແລະທັງກັບຄົນ",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "ແລະເດັກນ້ອຍ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ຊາມູເອນ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ເດີນ"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "ແລະໃຫຍ່ຂຶ້ນ"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ແລະດີ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ທັງ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ແລະທັງ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ຄົນ"
+    }
+  ],
+  "timestamp": "2026-09-08T21:14:20.219662606Z",
+  "model": "glm-5.3"
+}

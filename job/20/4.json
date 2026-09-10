@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ສິ່ງນີ້ເຈົ້າຮູ້ຈາກບູຮານ ນັບແຕ່ວາງມະນຸດໄວ້ເທິງແຜ່ນດິນໂລກບໍ?",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "ສິ່ງນີ້"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ເຈົ້າຮູ້"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ບູຮານ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ນັບແຕ່"
+    },
+    {
+      "surface": "שים",
+      "gloss": "ວາງ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ມະນຸດ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ແຜ່ນດິນໂລກ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:28:34.318413605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 4:2",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ຖ້າມີຄົນລອງຄຳໃດກັບເຈົ້າ ເຈົ້າຈະເມື່ອຍບໍ ແຕ່ໃຜຈະສາມາດຢຸດຄຳໄວ້ໄດ້",
+  "tokens": [
+    {
+      "surface": "הנסה",
+      "gloss": "ລອງ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ກັບເຈົ້າ"
+    },
+    {
+      "surface": "תלאה",
+      "gloss": "ເມື່ອຍ"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "ແລະຢຸດ"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ສາມາດ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:18:16.133617501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ລູກຫຼານຂອງບິກວັຍສອງພັນຫ້າສິບຫົກຄົນ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "ບິກວັຍ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ສອງພັນ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ຫ້າສິບ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ແລະຫົກ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:17:28.698643504Z",
+  "model": "glm-5.3"
+}

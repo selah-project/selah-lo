@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ແລະນາງອາລ⟨את⟩ໂລຣູຮາມາ ແລະນາງຖືພອດ ແລະນາງເກີດລູກຊາຍ.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "ແລະນາງອາລ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ໂລຣູຮາມາ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ໂລ"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "ຣູຮາມາ"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ແລະນາງຖືພອດ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ແລະນາງເກີດລູກ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍ"
+    }
+  ],
+  "timestamp": "2026-09-10T01:25:43.149701789Z",
+  "model": "glm-5.3"
+}

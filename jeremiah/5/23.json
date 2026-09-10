@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 5:23",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ແລະປະຊາຊົນນີ້ມີຫົວໃຈກະບົດແລະດືັດດ້ານ; ພວກເຂົາຫັນຫຼີກແລ້ວກໍໄປ.",
+  "tokens": [
+    {
+      "surface": "ולעם",
+      "gloss": "ແລະຕໍ່ປະຊາຊົນ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ຫົວໃຈ"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "ກະບົດ"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "ແລະດືັດດ້ານ"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "ພວກເຂົາຫັນຫຼີກ"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ແລະໄປ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:05:03.836032033Z",
+  "model": "glm-5.3"
+}

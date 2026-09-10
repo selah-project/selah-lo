@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ແກ່ຜູ້ຄວບຄຸມ ຕາມອາລະມົດລາເບນ ມິຊະໂມນຂອງດາວິດ",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ແກ່ຜູ້ຄວບຄຸມ"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "ອາລະມົດ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ລາເບນ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ມິຊະໂມນ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ຂອງດາວິດ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:44:07.431439722Z",
+  "model": "glm-5.3"
+}

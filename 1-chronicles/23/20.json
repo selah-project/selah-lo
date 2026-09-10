@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ລູກຊາຍຂອງອຸຊິເອນ ມິຄາ ຫົວໜ້າ ແລະຢິຊິຢາ ທີສອງ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "ອຸຊິເອນ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ມິຄາ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ຫົວໜ້າ"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "ແລະຢິຊິຢາ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ທີສອງ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:17:45.643733525Z",
+  "model": "glm-5.3"
+}

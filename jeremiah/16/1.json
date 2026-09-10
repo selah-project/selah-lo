@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 16:1",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 16,
+  "translation": "ຄຳຂອງຢາເວມາຮອດຂ້ອຍວ່າ",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະມາຮອດ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ມາຫາຂ້ອຍ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:13:03.932867637Z",
+  "model": "glm-5.3"
+}

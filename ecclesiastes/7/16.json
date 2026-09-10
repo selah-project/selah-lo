@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ຢ່າເປັນຄົນຊອບທຳຫຼາຍເກີນໄປ ແລະຢ່າສະແດງຕົນວ່າສະຫຼາດເກີນໄປ ເປັນຫຍັງເຈົ້າຈະພັງຫາຍ",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ເປັນ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ຄົນຊອບທຳ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ຫຼາຍເກີນໄປ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ແລະຢ່າ"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "ສະແດງຕົນວ່າສະຫຼາດ"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ເກີນໄປ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ເປັນຫຍັງ"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "ພັງຫາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:25:49.136150696Z",
+  "model": "glm-5.3"
+}

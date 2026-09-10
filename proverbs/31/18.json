@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 31:18",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 31,
+  "translation": "ນາງໄດ້ລອດລອງວ່າກຳໄລຂອງນາງດີ ຕະເປີຂອງນາງບໍ່ດັບໃນກາງຄືນ.",
+  "tokens": [
+    {
+      "surface": "טעמה",
+      "gloss": "ນາງໄດ້ລອດລອງ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "ກຳໄລຂອງນາງ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "ຈະດັບ"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "ໃນກາງຄືນ"
+    },
+    {
+      "surface": "נרה",
+      "gloss": "ຕະເປີຂອງນາງ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:17:28.394669542Z",
+  "model": "glm-5.3"
+}

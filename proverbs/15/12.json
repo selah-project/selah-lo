@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 15:12",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 15,
+  "translation": "ຄົນປະຊົດບໍ່ຮັກຜູ້ຕັກເຕືອນເພິ່ນ ເພິ່ນບໍ່ໄປຫາຄົນສະຫຼາດ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "ຮັກ"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "ຄົນປະຊົດ"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "ຜູ້ຕັກເຕືອນ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ຄົນສະຫຼາດ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ໄປ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:41:04.605904430Z",
+  "model": "glm-5.3"
+}

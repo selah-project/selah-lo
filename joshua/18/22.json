@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "lo",
+  "chapter": 18,
+  "translation": "ແລະເບັດອາຣະບາ ແລະເຊມາຣາຢິມ ແລະເບັດເອລ.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ແລະເບັດ"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ອາຣະບາ"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "ແລະເຊມາຣາຢິມ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ແລະເບັດ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເອລ"
+    }
+  ],
+  "timestamp": "2026-09-09T14:03:14.940042349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 7:37",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ລູກຫຼານຂອງໂລດ, ຊາດິດ ແລະໂອໂນ: ເຈັດຮ້ອຍຊາວໜຶ່ງຄົນ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "לד",
+      "gloss": "ໂລດ"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "ຊາດິດ"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "ແລະໂອໂນ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ເຈັດ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ແລະຊາວ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ແລະໜຶ່ງ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:47:17.551819868Z",
+  "model": "glm-5.3"
+}

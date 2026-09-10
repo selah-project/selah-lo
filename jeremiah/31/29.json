@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 31:29",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 31,
+  "translation": "ໃນວັນນັ້ນ ພວກເຂົາຈະບໍ່ເວົ້າອີກວ່າ ພໍ່ໄດ້ກິນໝາກອງຸ່ນ ແລະແຂ້ວຂອງລູກຈະໝິນ.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "ໃນວັນທັງຫຼາຍ"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ນັ້ນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ຈະເວົ້າ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ອີກ"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ພໍ່"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ໄດ້ກິນ"
+    },
+    {
+      "surface": "בסר",
+      "gloss": "ໝາກອງຸ່ນ"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ແລະແຂ້ວ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ຂອງລູກ"
+    },
+    {
+      "surface": "תקהינה",
+      "gloss": "ຈະໝິນ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:29:52.356546075Z",
+  "model": "glm-5.3"
+}

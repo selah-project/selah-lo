@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 35,
+  "translation": "ຂໍໃຫ້ພວກເຂົາເປັນແຕຽງຢູ່ໜ້າລົມ ແລະທູດອົງຂອງຢາເວຂັບພວກເຂົາໄປ",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ເປັນ"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "ແຕຽງ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ຢູ່ໜ້າ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ລົມ"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "ແລະທູດອົງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "ຂັບພວກເຂົາໄປ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:01:42.813626623Z",
+  "model": "glm-5.3"
+}

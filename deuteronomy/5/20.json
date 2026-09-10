@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ແລະຢ່າຕອບປະຈໍາກັນຂອງເຈົ້າເປັນພະຍານເທັດ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ແລະຢ່າບໍ່"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ຕອບ"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ປະຈໍາກັນຂອງເຈົ້າ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ພະຍານ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ເທັດ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:44:07.097553233Z",
+  "model": "glm-5.3"
+}

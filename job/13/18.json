@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 13:18",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ເບິ່ງແມ ເຖີດ, ຂ້ອຍໄດ້ຈັດລຽງຄະດີ, ຂ້ອຍຮູ້ວ່າຂ້ອຍຊອບທຳ",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ເບິ່ງແມ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ເຖີດ"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "ຂ້ອຍໄດ້ຈັດລຽງ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ຄະດີ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ຂ້ອຍຮູ້"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ຂ້ອຍ"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "ຊອບທຳ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:25:50.311767660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "lamentations 3:66",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ເຈົ້າໄລ່ຕາມໃນຄວາມໂກດ ແລະທຳລາຍພວກມັນ ຈາກພື້ນຜິວຂອງຟ້າສະຫວັນ ຢາເວ.",
+  "tokens": [
+    {
+      "surface": "תרדף",
+      "gloss": "ເຈົ້າໄລ່ຕາມ"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ໃນຄວາມໂກດ"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "ແລະທຳລາຍພວກມັນ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ຈາກພື້ນຜິວຂອງ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ຟ້າສະຫວັນ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:08:22.593939845Z",
+  "model": "glm-5.3"
+}

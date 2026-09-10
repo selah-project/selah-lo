@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ໃນປີທີ່ແປດສິບຂອງກະສັດຍາຣະບະອາມ ອາບິຢາຄອງເໜືອຢູດາ.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ໃນປີ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ແປດ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ຂອງກະສັດ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ຍາຣະບະອາມ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ຄອງ"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ອາບິຢາ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ຢູດາ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:24:53.761444198Z",
+  "model": "glm-5.3"
+}

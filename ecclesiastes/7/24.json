@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ໄກຫຼາຍສິ່ງທີ່ໄດ້ເປັນມາ ແລະເລິກ ເລິກຫຼາຍ ໃຜຈະຊອກພົບມັນ?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "ໄກ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ສິ່ງທີ່"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ໄດ້ເປັນມາ"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ແລະເລິກ"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ເລິກ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "ຊອກພົບມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:25:52.314930699Z",
+  "model": "glm-5.3"
+}

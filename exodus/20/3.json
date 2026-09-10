@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ບໍ່ມີພະອື່ນອື່ນ ແກ່ເຈົ້າ ຢູ່ເໜືອໜ້າຂອງເຮົາ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ແກ່ເຈົ້າ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ພະອື່ນ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ອື່ນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຢູ່ເໜືອ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ໜ້າຂອງເຮົາ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:42:11.494302827Z",
+  "model": "glm-5.3"
+}

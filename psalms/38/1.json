@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 38,
+  "translation": "ເພງຂອງດາວິດ ເພື່ອເຮັດໃຫ້ຈື່.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ເພງ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ຂອງດາວິດ"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "ເພື່ອເຮັດໃຫ້ຈື່"
+    }
+  ],
+  "timestamp": "2026-09-09T04:07:38.836439955Z",
+  "model": "glm-5.3"
+}

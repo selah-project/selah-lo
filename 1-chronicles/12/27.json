@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ຈາກລູກຫຼານຂອງເລວີ ສີ່ພັນແລະຫົກຮ້ອຍຄົນ.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "ເລວີ"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "ສີ່"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ພັນ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ແລະຫົກ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:30:32.343268565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ພວກເຈົ້າເຮັດຫຍັງໃນວັນນັດໝາຍ ແລະໃນວັນບຸນຂອງຢາເວ",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ຫຍັງ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ພວກເຈົ້າເຮັດ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ໃນວັນ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ນັດໝາຍ"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "ແລະໃນວັນ"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ບຸນ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T02:23:56.733203131Z",
+  "model": "glm-5.3"
+}

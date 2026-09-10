@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 14:9",
+  "book": "zechariah",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ຢາເວຈະເປັນກະສັດເໜືອແຜ່ນດິນທັງພວກ; ໃນວັນນັ້ນ ຢາເວ ⟨ເປັນ⟩ ໜຶ່ງ ແລະຊື່ຂອງເພິ່ນໜຶ່ງ",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ຈະເປັນ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ເປັນກະສັດ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງພວກ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ແຜ່ນດິນ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ໃນວັນ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ນັ້ນ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ຈະເປັນ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ແລະຊື່ຂອງເພິ່ນ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:00:49.045255885Z",
+  "model": "glm-5.3"
+}

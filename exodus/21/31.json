@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ຫຼືຂວານລູກຊາຍ ຫຼືຂວານລູກສາວ ຕາມກົດໝາຍນີ້ ຈະເຮັດກັບເຂົາ.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍ"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "ຂວານ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ລູກສາວ"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "ຂວານ"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ຕາມກົດໝາຍ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ຈະເຮັດ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ກັບເຂົາ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:07:02.654260331Z",
+  "model": "glm-5.3"
+}

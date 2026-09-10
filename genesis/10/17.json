@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ແລະ⟨את⟩ຮິວີ ແລະ⟨את⟩ອາຣັກີ ແລະ⟨את⟩ສີນີ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ຮິວີ"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ຮິວີ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ອາຣັກີ"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "ອາຣັກີ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ສີນີ"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "ສີນີ"
+    }
+  ],
+  "timestamp": "2026-09-09T11:00:28.059085596Z",
+  "model": "glm-5.3"
+}

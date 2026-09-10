@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ເຮເສດຂອງຢາເວ ວ່າພວກເຮົາບໍ່ໝົດໄປ ວ່າຄວາມເມດຕາຂອງເພິ່ນບໍ່ສິ້ນ.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "ເຮເສດຂອງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "ພວກເຮົາໝົດໄປ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ສິ້ນ"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "ຄວາມເມດຕາຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:08:46.646480638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ເພາະວ່າ ເຮົາໂງ່ກວ່າຄົນ ແລະບໍ່ມີຄວາມເຂົ້າໃຈຂອງມະນຸດແກ່ເຮົາ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະວ່າ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ໂງ່"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ເຮົາ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ກວ່າຄົນ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "ຄວາມເຂົ້າໃຈ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ຂອງມະນຸດ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ແກ່ເຮົາ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:19:40.167814757Z",
+  "model": "glm-5.3"
+}

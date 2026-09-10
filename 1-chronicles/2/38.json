@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະໂອເບດກຳເນີດ⟨את⟩ເຢຮູ ແລະເຢຮູກຳເນີດ⟨את⟩ອາຊາຣາຢາ.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "ແລະໂອເບດ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ກຳເນີດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເຢຮູ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ເຢຮູ"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "ແລະເຢຮູ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ກຳເນີດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ອາຊາຣາຢາ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ອາຊາຣາຢາ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:03:06.257514979Z",
+  "model": "glm-5.3"
+}

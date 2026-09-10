@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 35:4",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 35,
+  "translation": "ໂມເຊເວົ້າກັບຊຸມຊົນທັງປວງຂອງລູກຫຼານອິສະຣາເອນວ່າ: ຄຳນີ້ແມ່ນສິ່ງທີ່ຢາເວສັ່ງວ່າ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະເວົ້າ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງປວງ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ຊຸມຊົນ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ສັ່ງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:06:00.827044708Z",
+  "model": "glm-5.3"
+}

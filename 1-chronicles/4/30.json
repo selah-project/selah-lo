@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ແລະໃນເບັດທູເອນ ແລະໃນຮາຣະມາ ແລະໃນຊິກລາກ.",
+  "tokens": [
+    {
+      "surface": "ובבתואל",
+      "gloss": "ແລະໃນເບັດທູເອນ"
+    },
+    {
+      "surface": "ובחרמה",
+      "gloss": "ແລະໃນຮາຣະມາ"
+    },
+    {
+      "surface": "ובציקלג",
+      "gloss": "ແລະໃນຊິກລາກ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:12:32.956652972Z",
+  "model": "glm-5.3"
+}

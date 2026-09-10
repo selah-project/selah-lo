@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ແລະມາຮາລາເອນມີຊີວິດຫ້າປີ ແລະຫົກສິບປີ ແລະໄດ້ກຳເນດ⟨את⟩ເຢຣດ.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ມີຊີວິດ"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "ມາຮາລາເອນ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ຫ້າ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ແລະຫົກສິບ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ໄດ້ກຳເນດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເຢຣດ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ເຢຣດ"
+    }
+  ],
+  "timestamp": "2026-09-09T10:58:04.146640516Z",
+  "model": "glm-5.3"
+}

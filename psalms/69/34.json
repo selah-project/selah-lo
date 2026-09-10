@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 69,
+  "translation": "ເພາະຢາເວຟັງຄົນຂັດສິ້ນແລະ⟨את⟩ຊະນະຂອງເພິ່ນບໍ່ຖືກດູຖູກ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ຟັງ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "ຄົນຂັດສິ້ນ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ຊະນະຂອງເພິ່ນ"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "ຊະນະຂອງເພິ່ນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ຖືກດູຖູກ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:27:29.598533231Z",
+  "model": "glm-5.3"
+}

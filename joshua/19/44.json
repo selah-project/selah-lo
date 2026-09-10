@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "joshua 19:44",
+  "book": "joshua",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ແລະເອັນທະເກະຮ ແລະກິບບທອນ ແລະບາອາລາດ.",
+  "tokens": [
+    {
+      "surface": "ואלתקה",
+      "gloss": "ແລະເອັນທະເກະຮ"
+    },
+    {
+      "surface": "וגבתון",
+      "gloss": "ແລະກິບບທອນ"
+    },
+    {
+      "surface": "ובעלת",
+      "gloss": "ແລະບາອາລາດ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:39:30.782797225Z",
+  "model": "glm-5.3"
+}

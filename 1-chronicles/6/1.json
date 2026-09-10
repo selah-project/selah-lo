@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ລູກຂອງເລວີ: ເກຣຊົມ ເກຮາທ ແລະມຣາຣິ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ເລວີ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ເກຣຊົມ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ເກຮາທ"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "ແລະມຣາຣິ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:14:02.938712181Z",
+  "model": "glm-5.3"
+}

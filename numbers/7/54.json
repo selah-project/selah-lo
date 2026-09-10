@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 7:54",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ໃນວັນທີ່ແປດ ຫົວໜ້າຂອງລູກຫຼານມະນັດເຊ ຄືກາມລິເອນ ລູກຊາຍຂອງເປດາສູຣ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ໃນວັນ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ທີ່ແປດ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ຫົວໜ້າ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ຂອງລູກຫຼານ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ມະນັດເຊ"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "ກາມລິເອນ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "ເປດາ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ສູຣ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:00:41.445490250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 85,
+  "translation": "ແກ່ຜູ້ຄວບຄຸມ ຂອງລູກຫຼານຂອງໂກຣາຮ ບົດສວດ",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ແກ່ຜູ້ຄວບຄຸມ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ຂອງລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ໂກຣາຮ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ບົດສວດ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:43:16.377658333Z",
+  "model": "glm-5.3"
+}

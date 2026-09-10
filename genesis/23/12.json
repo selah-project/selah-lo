@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ແລະອັບຣາຮາມໄດ້ໄຫວ້ ຕໍ່ໜ້າຊົນຂອງແຜ່ນດິນ",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "ແລະໄດ້ໄຫວ້"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ອັບຣາຮາມ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ຕໍ່ໜ້າ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ຊົນ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ຂອງແຜ່ນດິນ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:33:03.046954762Z",
+  "model": "glm-5.3"
+}

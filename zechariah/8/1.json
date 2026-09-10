@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 8:1",
+  "book": "zechariah",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະມີຄຳຂອງຢາເວເສວາໂອດມາກ່າວວ່າ",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະມີ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ເສວາໂອດ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ກ່າວວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:20:30.370734795Z",
+  "model": "glm-5.3"
+}

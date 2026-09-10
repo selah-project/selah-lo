@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ຄົນຜູ້ມີປັນຍາມີກຳລັງ ແລະຄົນມີຄວາມຮູ້ເພີ່ມຄວາມໜັກແກ່ນກຳລັງ.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ຜູ້ມີປັນຍາ"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "ມີກຳລັງ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ແລະຄົນ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ມີຄວາມຮູ້"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "ເພີ່ມຄວາມໜັກແກ່ນ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ກຳລັງ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:50:27.384291342Z",
+  "model": "glm-5.3"
+}

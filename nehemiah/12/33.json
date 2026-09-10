@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 12:33",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ແລະອາຊຣາຢາ, ອຊຣາ ແລະມະຊຸນລາມ,",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "ແລະອາຊຣາຢາ"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "ອຊຣາ"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "ແລະມະຊຸນລາມ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:56:00.845687274Z",
+  "model": "glm-5.3"
+}

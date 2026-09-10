@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 49:32",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 49,
+  "translation": "ການຊື້ທົ່ງນາ ແລະຖ້ຳທີ່ຢູ່ໃນນັ້ນ ⟨ເປັນ⟩ຈາກ⟨את⟩ລູກຫຼານຂອງຮິດ",
+  "tokens": [
+    {
+      "surface": "מקנה",
+      "gloss": "ການຊື້"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ທົ່ງນາ"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "ແລະຖ້ຳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ໃນນັ້ນ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ຈາກ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ຮິດ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:17:39.362691880Z",
+  "model": "glm-5.3"
+}

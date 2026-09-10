@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະເຊໂລໂມໄປຫາຮາມາດ-ໂສບາ ແລະໄດ້ຊະນະມັນ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ແລະເຊໂລໂມໄດ້ໄປ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ເຊໂລໂມ (ໂຊໂລໂມນ)"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ຮາມາດ"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "ໂສບາ"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ແລະໄດ້ຊະນະ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ເໜືອມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:35:08.902172059Z",
+  "model": "glm-5.3"
+}

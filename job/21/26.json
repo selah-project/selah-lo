@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 21:26",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ນອນຢູ່ນຳກັນເທິງຝຸ່ນດິນ ແລະ ໜອນຊຶກຄຸມພວກເຂົາ.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "ນຳກັນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ຝຸ່ນດິນ"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "ນອນ"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "ແລະ ໜອນຊຶກ"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "ຄຸມ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ພວກເຂົາ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:28:09.997484262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ໃນທຸກເວລາເສື້ອຜ້າຂອງເຈົ້າ⟨ເປັນ⟩ສີຂາວ ແລະຢ່າໃຫ້ນ້ຳມັນຂາດເທິງຫົວຂອງເຈົ້າ",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ໃນທຸກ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ເວລາ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨ເປັນ⟩"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "ເສື້ອຜ້າຂອງເຈົ້າ"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "ສີຂາວ"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ແລະນ້ຳມັນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ຫົວຂອງເຈົ້າ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ຂາດ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:47:33.701522891Z",
+  "model": "glm-5.3"
+}

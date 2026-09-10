@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 34,
+  "translation": "ແລະຂອງສາຂາລູກຫຼານຂອງດານ ຫົວໜ້າ ບຸກກີ ລູກຊາຍຂອງໂຢກະລີ.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "ແລະຂອງສາຂາ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ດານ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ຫົວໜ້າ"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "ບຸກກີ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "ໂຢກະລີ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:36:54.890583036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 18:28",
+  "book": "1-samuel",
+  "lang": "lo",
+  "chapter": 18,
+  "translation": "ຊາອູນເຫັນແລະຮູ້ວ່າ ຢາເວຢູ່ກັບດາວິດ ແລະມິຄານລູກສາວຂອງຊາອູນຮັກເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ເຫັນ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ຊາອູນ"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ຮູ້"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ຢູ່ກັບ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ດາວິດ"
+    },
+    {
+      "surface": "ומיכל",
+      "gloss": "ແລະມິຄານ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ລູກສາວ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ຊາອູນ"
+    },
+    {
+      "surface": "אהבתהו",
+      "gloss": "ຮັກເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T14:55:34.165126680Z",
+  "model": "glm-5.3"
+}

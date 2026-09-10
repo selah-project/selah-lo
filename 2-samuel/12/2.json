@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ຜູ້ຮັ່ງມີມີແກະ ແລະງົວຫຼາຍຢ່າງຫຼວງຫຼາຍ",
+  "tokens": [
+    {
+      "surface": "לעשיר",
+      "gloss": "ແກ່ຜູ້ຮັ່ງມີ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ແກະ"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ແລະງົວ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ຫຼາຍ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ຢ່າງຫຼວງຫຼາຍ"
+    }
+  ],
+  "timestamp": "2026-09-08T21:57:12.633394603Z",
+  "model": "glm-5.3"
+}

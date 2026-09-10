@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 14:14",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ຂ້ອຍຈະຂຶ້ນເໜືອຍອດຂອງເມກ ຂ້ອຍຈະເຮັດຕົນໃຫ້ຄືອີລິໂອນ",
+  "tokens": [
+    {
+      "surface": "אעלה",
+      "gloss": "ຂ້ອຍຈະຂຶ້ນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "ຍອດຂອງ"
+    },
+    {
+      "surface": "עב",
+      "gloss": "ເມກ"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ຂ້ອຍຈະເຮັດຕົນໃຫ້ຄື"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "ອີລິໂອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T16:25:03.799962568Z",
+  "model": "glm-5.3"
+}

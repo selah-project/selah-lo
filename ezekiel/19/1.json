@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ເຈົ້າ ຈົ່ງຍົກບົດໄວ້ທອກຮົມ ຕໍ່ເຈົ້ານາຍຂອງອິສະຣາເອນ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ເຈົ້າ"
+    },
+    {
+      "surface": "שא",
+      "gloss": "ຈົ່ງຍົກ"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ບົດໄວ້ທອກຮົມ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "ເຈົ້ານາຍຂອງ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T17:39:42.483199664Z",
+  "model": "glm-5.3"
+}

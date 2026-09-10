@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 11:37",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ຖ້າຊາກສັດຂອງພວກມັນຕົກລົງເທິງເມັດພັນໜ່ວຍໃດກໍຕາມທີ່ປູກ ເມັດພັນນັ້ນສະອາດ.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ຖ້າ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ຕົກ"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "ຈາກຊາກສັດຂອງພວກມັນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ເມັດພັນ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ໜ່ວຍໃດກໍຕາມທີ່ປູກ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "ປູກ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ສະອາດ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ມັນ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:21:22.177552442Z",
+  "model": "glm-5.3"
+}

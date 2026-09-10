@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 26:49",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ຂອງເຢສຣ ຕະກູນຢສຣອີ ຂອງຊິເລັມ ຕະກູນຊິເລັມອີ.",
+  "tokens": [
+    {
+      "surface": "ליצר",
+      "gloss": "ຂອງເຢສຣ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ຕະກູນ"
+    },
+    {
+      "surface": "היצרי",
+      "gloss": "ຢສຣອີ"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "ຂອງຊິເລັມ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ຕະກູນ"
+    },
+    {
+      "surface": "השלמי",
+      "gloss": "ຊິເລັມອີ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:27:16.085957998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 14:17",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ຜູ້ຕົວດັດສັ້ນເຮັດຄວາມໂງ່ ແລະຜູ້ຊາຍແຫ່ງແຜນຮ້າຍຖືກເກລີຍ.",
+  "tokens": [
+    {
+      "surface": "קצר",
+      "gloss": "ສັ້ນ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ຕົວດັດ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ເຮັດ"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ຄວາມໂງ່"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ແລະຜູ້ຊາຍ"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "ແຜນຮ້າຍ"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "ຖືກເກລີຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:15:12.296856492Z",
+  "model": "glm-5.3"
+}

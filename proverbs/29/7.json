@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 29,
+  "translation": "ຄົນຊອບທຳຮູ້ຄະດີຂອງຄົນທຸກຍາກ ແຕ່ຄົນຊົ່ວບໍ່ເຂົ້າໃຈຄວາມຮູ້.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "ຮູ້"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ຄົນຊອບທຳ"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ຄະດີ"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ຂອງຄົນທຸກຍາກ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ແຕ່ຄົນຊົ່ວ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ເຂົ້າໃຈ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ຄວາມຮູ້"
+    }
+  ],
+  "timestamp": "2026-09-09T05:58:20.456417269Z",
+  "model": "glm-5.3"
+}

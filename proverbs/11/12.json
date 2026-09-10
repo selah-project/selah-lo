@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ຄົນທີ່ດູ່ຕ່ຽງເພື່ອນຂອງມັນຂາດໃຈ ແລະຄົນມີສະຕິປັນຍາຈະເງົາ",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "ຄົນທີ່ດູ່ຕ່ຽງ"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "ເພື່ອນຂອງມັນ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ຂາດ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ໃຈ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ແລະຄົນ"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "ມີສະຕິປັນຍາ"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "ຈະເງົາ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:14:16.577038015Z",
+  "model": "glm-5.3"
+}

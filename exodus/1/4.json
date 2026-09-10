@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ດານ ແລະນາບຕາລີ ກາດ ແລະອາເຊຣ.",
+  "tokens": [
+    {
+      "surface": "דָּן",
+      "gloss": "ດານ"
+    },
+    {
+      "surface": "וְנַפְתָּלִֽי",
+      "gloss": "ແລະນາບຕາລີ (ນາບທາລີ)"
+    },
+    {
+      "surface": "גָּֽד",
+      "gloss": "ກາດ (ກັດ)"
+    },
+    {
+      "surface": "וְאָשֵֽׁר",
+      "gloss": "ແລະອາເຊຣ (ອາເຊີ)"
+    }
+  ],
+  "timestamp": "2026-09-09T11:46:34.983091647Z",
+  "model": "glm-5.3"
+}

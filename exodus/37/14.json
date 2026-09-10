@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 37,
+  "translation": "ວົງຄຳຢູ່ຕິດກັບຂອບ ເປັນບ່ອນໃຫ້ໄມ້ຄໍ້າ ເພື່ອຫາງ⟨את⟩ໂຕະ",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "ຕິດກັບ"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "ຂອບ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ຢູ່"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "ວົງຄຳ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ບ່ອນ"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "ໄມ້ຄໍ້າ"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ເພື່ອຫາງ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ໂຕະ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ໂຕະ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:23:08.872020029Z",
+  "model": "glm-5.3"
+}

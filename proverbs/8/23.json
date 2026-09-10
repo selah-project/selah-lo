@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 8:23",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ຈາກບູຮານຂ້ອຍຖືກຕັ້ງໄວ້ ຈາກຕົ້ນ ກ່ອນແຜ່ນດິນໂລກເກີດ.",
+  "tokens": [
+    {
+      "surface": "מעולם",
+      "gloss": "ຈາກບູຮານ"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "ຂ້ອຍຖືກຕັ້ງໄວ້"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "ຈາກຕົ້ນ"
+    },
+    {
+      "surface": "מקדמי",
+      "gloss": "ກ່ອນ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ແຜ່ນດິນໂລກ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:12:51.273478106Z",
+  "model": "glm-5.3"
+}

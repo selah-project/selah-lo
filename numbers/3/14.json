@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ແລະຢາເວເວົ້າກັບໂມເຊໃນທະເລສະຫວັນຊີນາຍວ່າ",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ແລະເວົ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ໃນທະເລສະຫວັນ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ຊີນາຍ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:55:48.231213769Z",
+  "model": "glm-5.3"
+}

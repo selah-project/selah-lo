@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 34,
+  "translation": "ແລະໂມເຊຮີບຮ້ອນ ແລະກົ້ມຫາດິນ ແລະໄຫວ້.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "ແລະຮີບຮ້ອນ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "ແລະກົ້ມ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ຫາດິນ"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ແລະໄຫວ້"
+    }
+  ],
+  "timestamp": "2026-09-08T18:01:29.851506250Z",
+  "model": "glm-5.3"
+}

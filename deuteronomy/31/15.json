@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 31,
+  "translation": "ແລະຢາເວປາກົດໃນເຕັນ ໃນເສົ້າເມກ ແລະເສົ້າເມກໄດ້ຢືນຢູ່ທີ່ປະຕູເຕັນ.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ແລະປາກົດ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ໃນເຕັນ"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "ໃນເສົ້າ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ເມກ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ແລະໄດ້ຢືນ"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "ເສົ້າ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ຂອງເມກ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຢູ່ທີ່"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ປະຕູ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ເຕັນ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:20:20.136686985Z",
+  "model": "glm-5.3"
+}

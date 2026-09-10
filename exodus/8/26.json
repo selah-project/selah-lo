@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະໂມເຊອອກຈາກຟາໂຣ ແລະອະທິຖານຕໍ່ຢາເວ.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ແລະອອກ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ຟາໂຣ"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "ແລະອະທິຖານ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:28:25.103596969Z",
+  "model": "glm-5.3"
+}

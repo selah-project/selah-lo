@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 36:27",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 36,
+  "translation": "ເພາະເພິ່ນຫຼຸດຫຍາຍຂອງນ້ຳ ຝົນຖືກກັ່ນອອກເປັນອາຍຂອງມັນ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "ຫຼຸດ"
+    },
+    {
+      "surface": "נטפי",
+      "gloss": "ຫຍາຍ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "יזקו",
+      "gloss": "ກັ່ນ"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ຝົນ"
+    },
+    {
+      "surface": "לאדו",
+      "gloss": "ເປັນອາຍຂອງມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:42:15.744079282Z",
+  "model": "glm-5.3"
+}

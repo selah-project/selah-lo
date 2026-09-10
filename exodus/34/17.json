@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 34,
+  "translation": "ຈົ່ງບໍ່ເຮັດພະຮູບຫຼໍ່ໃຫ້ເຈົ້າ.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ພະຮູບຫຼໍ່"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ຫຼໍ່"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ຈົ່ງເຮັດ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ໃຫ້ເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:18:32.554684793Z",
+  "model": "glm-5.3"
+}

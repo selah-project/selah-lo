@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 25:2",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ແລະເພິ່ນເຮັດສິ່ງທີ່ຊອບໃນຕາຂອງຢາເວ ພຽງແຕ່ບໍ່ດ້ວຍໃຈສົມບູນ",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ແລະເພິ່ນເຮັດ"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ສິ່ງທີ່ຊອບ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ໃນຕາຂອງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ພຽງແຕ່"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "ດ້ວຍໃຈ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ສົມບູນ"
+    }
+  ],
+  "timestamp": "2026-09-09T10:35:20.413616537Z",
+  "model": "glm-5.3"
+}

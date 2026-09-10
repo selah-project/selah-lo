@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 17:1",
+  "book": "judges",
+  "lang": "lo",
+  "chapter": 17,
+  "translation": "ມີຊາຍຄົນໜຶ່ງຈາກພູເອຟຣາຢິມ ຊື່ຂອງເພິ່ນຄືມິຂາຢູຮູ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຊາຍຄົນ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ຈາກພູ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ເອຟຣາຢິມ"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ຊື່ຂອງເພິ່ນຄື"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "ມິຂາຢູຮູ"
+    }
+  ],
+  "timestamp": "2026-09-08T21:05:58.412782871Z",
+  "model": "glm-5.3"
+}

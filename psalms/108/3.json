@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 108,
+  "translation": "ຈົ່ງຕື່ນ ພິນ ແລະຈິນນົນ, ຂ້ອຍຈະປຸກອາລຸນ.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "ຈົ່ງຕື່ນ"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "ພິນ"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ແລະຈິນນົນ"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ຂ້ອຍຈະປຸກ"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ອາລຸນ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:01:23.055906459Z",
+  "model": "glm-5.3"
+}

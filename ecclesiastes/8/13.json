@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 8:13",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະຄວາມດີຈະບໍ່ມີແກ່ຄົນຊົ່ວ ແລະເຂົາຈະບໍ່ຍືດຍາວວັນເທົ່າກັບເງົາ ຜູ້ທີ່ເຂົາບໍ່ຢ້ານໜ້າເອໂລຮິມ",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "ແລະຄວາມດີ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ຈະມີ"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "ແກ່ຄົນຊົ່ວ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "ຈະຍືດຍາວ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "ເທົ່າກັບເງົາ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ຜູ້ທີ່"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ເຂົາບໍ່"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ຢ້ານ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ໜ້າ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ເອໂລຮິມ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:31:10.324897657Z",
+  "model": "glm-5.3"
+}

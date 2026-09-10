@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ເຊລາດໄດ້ມີຊີວິດສາມສິບປີ ແລະໄດ້ກຳເນີດ⟨את⟩ເອເບນ.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "ເຊລາດ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ໄດ້ມີຊີວິດ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ສາມສິບ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ແລະໄດ້ກຳເນີດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເອເບນ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ເອເບນ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:11:17.443916681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ເວລາຊອກຫາ ແລະເວລາເສຍໄປ ເວລາຮັກສາ ແລະເວລາຂວາງ.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ເວລາ"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ຊອກຫາ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ແລະເວລາ"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "ເສຍໄປ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ເວລາ"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "ຮັກສາ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ແລະເວລາ"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "ຂວາງ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:19:09.103428698Z",
+  "model": "glm-5.3"
+}

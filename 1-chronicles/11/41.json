@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ອູຣິຢາ ຮິດຕີ ຊາບາດ ລູກຂອງ ອາຮລາຍ",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "ອູຣິຢາ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ຮິດຕີ"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "ຊາບາດ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "ອາຮລາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:12:48.841183529Z",
+  "model": "glm-5.3"
+}

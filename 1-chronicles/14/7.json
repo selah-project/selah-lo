@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 14:7",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ແລະເອລິຊາມາ ແລະບີອນຢາດ ແລະເອນິເຟເຣດ.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "ແລະເອລິຊາມາ"
+    },
+    {
+      "surface": "ובעלידע",
+      "gloss": "ແລະບີອນຢາດ"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "ແລະເອນິເຟເຣດ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:30:07.223596616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 27,
+  "translation": "ຈົ່ງຖືກສາບານຜູ້ນອນກັບສັດທຸກຊະນິດ ແລະປະຊາຊົນທັງຫຼາຍຈະເວົ້າວ່າ ອາແມນ.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ຖືກສາບານ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ນອນກັບ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ສັດ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ແລະເວົ້າ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງຫຼາຍ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ປະຊາຊົນ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ອາແມນ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:10:32.923191733Z",
+  "model": "glm-5.3"
+}

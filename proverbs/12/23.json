@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 12:23",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ຄົນສະຫຼາກປິດບັງຄວາມຮູ້ ແຕ່ໃຈຂອງຄົນໂງ່ຈະຮຽກຄວາມໂງ່.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ສະຫຼາກ"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "ປິດບັງ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ຄວາມຮູ້"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ແຕ່ໃຈ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ຂອງຄົນໂງ່"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ຈະຮຽກ"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ຄວາມໂງ່"
+    }
+  ],
+  "timestamp": "2026-09-09T19:12:03.273869280Z",
+  "model": "glm-5.3"
+}

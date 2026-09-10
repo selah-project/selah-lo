@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ລູກຊາຍຂອງເຮເລອາຄື: ເສຣັດ ຢິດສະຮາຣ ແລະເອດະນານ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ແລະລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "ເຮເລອາ"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "ເສຣັດ"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "ຢິດສະຮາຣ"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "ແລະເອດະນານ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:09:58.055870538Z",
+  "model": "glm-5.3"
+}

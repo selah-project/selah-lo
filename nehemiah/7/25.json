@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ລູກຫຼານຂອງກິບອນ ເກົ້າສິບແລະຫ້າຄົນ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "ກິບອນ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ເກົ້າສິບ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ແລະຫ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:47:05.806806765Z",
+  "model": "glm-5.3"
+}

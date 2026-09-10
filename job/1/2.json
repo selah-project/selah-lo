@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ແລະເກີດແກ່ເພິ່ນລູກຊາຍເຈັດຄົນ ແລະລູກຍິງສາມຄົນ.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "ແລະເກີດ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ແກ່ເພິ່ນ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ເຈັດ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ລູກຊາຍ"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "ແລະສາມ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ລູກຍິງ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:21:54.991676652Z",
+  "model": "glm-5.3"
+}

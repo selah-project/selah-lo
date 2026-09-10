@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 64,
+  "translation": "ແກ່ຜູ້ຄວບຄຸມ ເພງຂອງດາວິດ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ແກ່ຜູ້ຄວບຄຸມ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ເພງ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ຂອງດາວິດ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:25:22.965666359Z",
+  "model": "glm-5.3"
+}

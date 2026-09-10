@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ສິງຄຳຮ້ອງໃຜບໍ່ຢ້າກົວອາໂດນາຍ ຢາເວໄດ້ກ່າວໃຜບໍ່ທຳນາວີ.",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "ສິງ"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "ຄຳຮ້ອງ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ຢ້າກົວ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ອາໂດນາຍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ໄດ້ກ່າວ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "ທຳນາວີ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:07:50.321497005Z",
+  "model": "glm-5.3"
+}

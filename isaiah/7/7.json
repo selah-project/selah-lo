@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ດັ່ງນີ້ ອາໂດນາຍ ຢາເວ ກ່າວ: ມັນຈະບໍ່ຕັ້ງຂຶ້ນ ແລະມັນຈະບໍ່ເປັນ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ດັ່ງນີ້"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ກ່າວ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ອາໂດນາຍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ຕັ້ງຂຶ້ນ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ເປັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T16:18:26.661250561Z",
+  "model": "glm-5.3"
+}

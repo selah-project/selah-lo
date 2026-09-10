@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ບ່ອນຊະຣາຄິຢາຮ ບ່ອນອຸຊີ ບ່ອນບູກີ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ບ່ອນ"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "ຊະຣາຄິຢາຮ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ບ່ອນ"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ອຸຊີ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ບ່ອນ"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "ບູກີ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:27:11.592801154Z",
+  "model": "glm-5.3"
+}

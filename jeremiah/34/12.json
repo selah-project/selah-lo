@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 34:12",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 34,
+  "translation": "ແລະຄຳຂອງຢາເວມາຫາເຢຣະມີຢາ ຈາກ⟨את⟩ຢາເວ ກ່າວວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະເກີດຂຶ້ນ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳຂອງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ມາຫາ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ເຢຣະມີຢາ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ຈາກ⟨את⟩",
+      "marks": "ຢາເວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ກ່າວວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T17:18:19.695766235Z",
+  "model": "glm-5.3"
+}

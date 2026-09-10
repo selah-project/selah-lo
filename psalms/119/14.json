@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 119,
+  "translation": "ຂ້ອຍຍິນດີໃນທາງຂອງຄຳພະຍານຂອງເຈົ້າ ຄືກັບທຶນທັງປວນ.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "ໃນທາງ"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ຂອງຄຳພະຍານຂອງເຈົ້າ"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "ຂ້ອຍຍິນດີ"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "ຄືກັບ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງປວນ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ທຶນ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:06:33.411491231Z",
+  "model": "glm-5.3"
+}

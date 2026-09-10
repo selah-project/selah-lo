@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ຕາຂອງຂ້ອຍໄຫຼແລະບໍ່ຢຸດໂດຍບໍ່ມີການພັກຜ່ອນ.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ຕາຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "ໄຫຼ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "ຢຸດ"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ໂດຍບໍ່ມີ"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "ການພັກຜ່ອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:08:51.329267084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 13:23",
+  "book": "1-samuel",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ທະຫານຂອງຟີລິດອອກໄປຫາຊ່ອງຜ່ານຂອງມິກມາສ.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ອອກໄປ"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "ທະຫານ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ຂອງຟີລິດ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ຊ່ອງຜ່ານ"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "ມິກມາສ"
+    }
+  ],
+  "timestamp": "2026-09-09T14:42:02.005988541Z",
+  "model": "glm-5.3"
+}

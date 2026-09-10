@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 92,
+  "translation": "ແລະເຈົ້າ ຢູ່ສູງຕະຫຼອດການ ຢາເວ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ແລະເຈົ້າ"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ຢູ່ສູງ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ຕະຫຼອດການ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:48:59.725589201Z",
+  "model": "glm-5.3"
+}

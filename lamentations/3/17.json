@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ໄດ້ຂັບຊີວິດຂອງຂ້ອຍໃຫ້ຫ່າງຈາກຄວາມສະບາຍ, ຂ້ອຍລືມຄວາມດີໄປແລ້ວ.",
+  "tokens": [
+    {
+      "surface": "ותזנח",
+      "gloss": "ໄດ້ຂັບໃຫ້ຫ່າງ"
+    },
+    {
+      "surface": "משלום",
+      "gloss": "ຈາກຄວາມສະບາຍ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ຊີວິດຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "ຂ້ອຍລືມ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ຄວາມດີ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:10:18.484061620Z",
+  "model": "glm-5.3"
+}

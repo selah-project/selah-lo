@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ເອນຈະບິດຄວາມຍຸຕິ ຫຼືຊັດດາຍຈະບິດຄວາມຊອບທຳຫຼາວ",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "ເອນ"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "ຈະບິດ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ຄວາມຍຸຕິ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ຊັດດາຍ"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "ຈະບິດ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ຄວາມຊອບທຳ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:11:51.084397114Z",
+  "model": "glm-5.3"
+}

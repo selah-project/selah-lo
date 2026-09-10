@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 49:21",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 49,
+  "translation": "ນາຟທາລີ ⟨ເປັນ⟩ ກວາງຖືກປ່ອຍອອກ, ຜູ້ໃຫ້ຄຳສວຍງາມ",
+  "tokens": [
+    {
+      "surface": "נפתלי",
+      "gloss": "ນາຟທາລີ"
+    },
+    {
+      "surface": "אילה",
+      "gloss": "ກວາງ"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "ຖືກປ່ອຍອອກ"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "ຜູ້ໃຫ້"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "ງາມສວຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T11:44:57.077001323Z",
+  "model": "glm-5.3"
+}

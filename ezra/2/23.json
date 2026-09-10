@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ຄົນຂອງອານາໂທດ ໜຶ່ງຮ້ອຍຊາວແປດຄົນ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ຄົນຂອງ"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "ອານາໂທດ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ໜຶ່ງຮ້ອຍ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ຊາວ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ແລະແປດ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:13:39.189519768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ແລະຮິຣາມສົ່ງແກ່ກະສັດ ໜຶ່ງຮ້ອຍຊາວກິກັນຄຳ.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ແລະສົ່ງ"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ຮິຣາມ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ແກ່ກະສັດ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ໜຶ່ງຮ້ອຍ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ແລະຊາວ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ກິກັນ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ຄຳ"
+    }
+  ],
+  "timestamp": "2026-09-08T22:25:57.746500383Z",
+  "model": "glm-5.3"
+}

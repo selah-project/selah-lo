@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 22,
+  "translation": "ເອໂລຮິມໄດ້ມາຫາບາລາອາມ ແລະເພິ່ນກ່າວວ່າ: ໃຜແມ່ນຄົນເຫຼົ່ານີ້ນຳເຈົ້າ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ໄດ້ມາຫາ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ເອໂລຮິມ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ບາລາອາມ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະເພິ່ນກ່າວ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ເຫຼົ່ານີ້"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ນຳເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:05:16.199259497Z",
+  "model": "glm-5.3"
+}

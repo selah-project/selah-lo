@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 132,
+  "translation": "ເພາະຢາເວໄດ້ເລືອກຊີໂອນ ມັນປາຖະໜາເປັນບ່ອນພັກຂອງເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ໄດ້ເລືອກ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ຊີໂອນ"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "ມັນປາຖະໜາ"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "ເປັນບ່ອນພັກ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:03:33.823057393Z",
+  "model": "glm-5.3"
+}

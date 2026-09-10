@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 131,
+  "translation": "ອິສະຣາເອນ ຈົ່ງຫວັງໃນ ຢາເວ ນັບແຕ່ບັດນີ້ ຈົນເຖິງຕະຫຼອດໄປ.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "ຈົ່ງຫວັງ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ໃນ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ນັບແຕ່ບັດນີ້"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ຈົນເຖິງ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ຕະຫຼອດໄປ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:12:41.897020878Z",
+  "model": "glm-5.3"
+}

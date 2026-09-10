@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ຂ້ອຍບໍ່ສາມາດແບກ⟨את⟩ຄົນທັງຫຼາຍນີ້ໂດຍດຽວ ເພາະວ່າມັນໜັກເກີນຂ້ອຍ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ສາມາດ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ຂ້ອຍ"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ໂດຍດຽວ"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ເພື່ອແບກ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຄົນທັງຫຼາຍນີ້"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງຫຼາຍ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະວ່າ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ໜັກ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ເກີນຂ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:00:02.416470339Z",
+  "model": "glm-5.3"
+}

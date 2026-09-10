@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 32:6",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 32,
+  "translation": "ແລະເຢເຣມິຢາກ່າວວ່າ: ຄຳຂອງຢາເວໄດ້ເກີດມາຫາຂ້ອຍໂດຍກ່າວວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະເພິ່ນກ່າວ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ເຢເຣມິຢາ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ໄດ້ເກີດມີ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ມາຫາຂ້ອຍ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ໂດຍກ່າວວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T22:45:10.693771431Z",
+  "model": "glm-5.3"
+}

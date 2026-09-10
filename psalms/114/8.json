@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 114,
+  "translation": "ຜູ້ຫັນຫີນຜາເປັນ⟨ໜອງ⟩ນ້ຳ ຫີນກັບເປັນ⟨ບ່ອນພົ້ນ⟩ນ້ຳ",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "ຜູ້ຫັນ"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "ຫີນຜາ"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "ໜອງ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "ຫີນກັບ"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "ເປັນບ່ອນພົ້ນ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ນ້ຳ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:02:52.344329168Z",
+  "model": "glm-5.3"
+}

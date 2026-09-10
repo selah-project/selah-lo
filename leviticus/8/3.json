@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະຈົ່ງຊຸມ⟨את⟩ທັງໝົດຂອງຊຸມຊົນທີ່ປາກປະຕູເຕັນແຫ່ງການພົບ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ທັງໝົດຂອງຊຸມຊົນ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ຊຸມຊົນ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ຈົ່ງຊຸມ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ປາກປະຕູ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ເຕັນ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ການພົບ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:20:17.168397589Z",
+  "model": "glm-5.3"
+}

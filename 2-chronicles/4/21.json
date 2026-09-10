@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 4:21",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ແລະດອກໄມ້ ແລະຕະຫຼອດໄຟ ແລະຄີດເປັນຄຳ ມັນເປັນຄຳທີ່ສົມບູນ",
+  "tokens": [
+    {
+      "surface": "והפרח",
+      "gloss": "ແລະດອກໄມ້"
+    },
+    {
+      "surface": "והנרות",
+      "gloss": "ແລະຕະຫຼອດໄຟ"
+    },
+    {
+      "surface": "והמלקחים",
+      "gloss": "ແລະຄີດ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "ຄວາມສົມບູນ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ຄຳ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:56:20.042805686Z",
+  "model": "glm-5.3"
+}

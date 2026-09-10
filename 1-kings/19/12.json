@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "lo",
+  "chapter": 19,
+  "translation": "ແລະຫຼັງຈາກແຜ່ນດິນໄຫວ ໄຟ; ບໍ່ໃນໄຟ ຢາເວ; ແລະຫຼັງຈາກໄຟ ສຽງງຽບ ເບົາ.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ແລະຫຼັງຈາກ"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "ແຜ່ນດິນໄຫວ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ໄຟ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ໃນໄຟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ແລະຫຼັງຈາກ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ໄຟ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ສຽງ"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "ງຽບ"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "ເບົາ"
+    }
+  ],
+  "timestamp": "2026-09-09T15:46:55.250926088Z",
+  "model": "glm-5.3"
+}

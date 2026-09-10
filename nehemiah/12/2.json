@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 12:2",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ອາມາຣະຢາຮາ ມາລຸກ ຮາຕູຊ.",
+  "tokens": [
+    {
+      "surface": "אמריה",
+      "gloss": "ອາມາຣະຢາຮາ"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "ມາລຸກ"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "ຮາຕູຊ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:56:31.635027309Z",
+  "model": "glm-5.3"
+}

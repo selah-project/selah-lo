@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 13:7",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ຂອງເຜົ່າຢິຊາກາຣ ຢິການລູກຊາຍຂອງໂຢເຊັບ.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ຂອງເຜົ່າ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ຢິຊາກາຣ"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ຢິການ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ໂຢເຊັບ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:07:39.608314811Z",
+  "model": "glm-5.3"
+}

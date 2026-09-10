@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 12:34",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ຢູດາ ບິນຢາມິນ, ຊະມາຢາ ແລະຢິຣມາຢາ,",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "ຢູດາ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ແລະບິນຢາມິນ"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "ແລະຊະມາຢາ"
+    },
+    {
+      "surface": "וירמיה",
+      "gloss": "ແລະຢິຣມາຢາ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:56:00.845923586Z",
+  "model": "glm-5.3"
+}

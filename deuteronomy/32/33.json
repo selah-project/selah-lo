@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 32,
+  "translation": "ພິດຂອງຕານີນຄືເຫຼົ້າຂອງພວກມັນ ແລະພິດຮ້ອນຂອງງູອຳມະຫານ.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "ພິດ"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "ຂອງຕານີນ"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "ເຫຼົ້າຂອງພວກມັນ"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "ແລະພິດຮ້ອນ"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "ຂອງງູ"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "ອຳມະຫານ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:17:03.363722012Z",
+  "model": "glm-5.3"
+}

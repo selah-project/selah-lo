@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ແລະຊີວິດຂອງຂ້ອຍຢ້ານຢ້ຽມຫຼາຍຫຼັງ ແລະເຈົ້າ ຢາເວ ຈົນເມື່ອໃດ.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "ແລະຊີວິດຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "ຢ້ານຢ້ຽມ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ຫຼາຍຫຼັງ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະເຈົ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ຈົນເມື່ອ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ໃດ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:35:46.379556406Z",
+  "model": "glm-5.3"
+}

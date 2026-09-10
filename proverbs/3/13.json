@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ຄວາມສຸກແກ່ມະນຸດຜູ້ຊຶ່ງຊອກພົບປັນຍາ ແລະມະນຸດຜູ້ຊຶ່ງໄດ້ຄວາມເຂົ້າໃຈ.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ຄວາມສຸກແກ່"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ມະນຸດ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ຊອກພົບ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ປັນຍາ"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ແລະມະນຸດ"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "ໄດ້ຄວາມ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ເຂົ້າໃຈ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:08:10.414955784Z",
+  "model": "glm-5.3"
+}

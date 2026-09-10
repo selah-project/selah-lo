@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 17,
+  "translation": "ແລະໂມເຊສ້າງແທ່ນບູຊາໜຶ່ງ ແລະຮຽງຊື່ຂອງມັນວ່າ ຢາເວ ນິສີ (ທຸງຂອງຂ້ອຍ).",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ສ້າງ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ແທ່ນບູຊາ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ຮຽງ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ຊື່ຂອງມັນ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "ນິສີ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:02:53.442593326Z",
+  "model": "glm-5.3"
+}

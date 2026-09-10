@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 9:15",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ແລະກະສັດເຊໂລໂມໄດ້ສ້າງປ້ອງໃຫຍ່ຄຳຕີບາງສອງຮ້ອຍອັນ ຫົກຮ້ອຍຄຳຕີບາງຂຶ້ນຢູ່ບົນປ້ອງອັນໜຶ່ງ",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ແລະໄດ້ສ້າງ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ເຊໂລໂມ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ສອງຮ້ອຍ"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ປ້ອງໃຫຍ່"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "ຕີບາງ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ຫົກ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "ຕີບາງ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ຂຶ້ນຢູ່ບົນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ບົນ"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "ປ້ອງ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ອັນໜຶ່ງ"
+    }
+  ],
+  "timestamp": "2026-09-09T10:06:05.438264282Z",
+  "model": "glm-5.3"
+}

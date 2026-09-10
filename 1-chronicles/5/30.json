@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ເອລາຊາຣ໌ໄດ້ກຳເນດ⟨את⟩ປິນາຊັດ ປິນາຊັດໄດ້ກຳເນດ⟨את⟩ອະບິຊູອາ.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "ເອລາຊາຣ໌"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ໄດ້ກຳເນດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ປິນາຊັດ"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "ປິນາຊັດ"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "ປິນາຊັດ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ໄດ້ກຳເນດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ອະບິຊູອາ"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "ອະບິຊູອາ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:11:44.989712843Z",
+  "model": "glm-5.3"
+}

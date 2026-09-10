@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ທັງໝົດໄປຫາບ່ອນໜຶ່ງ ທັງໝົດ⟨ເປັນ⟩ຈາກຝຸ່ນດິນ ແລະທັງໝົດກັບຫາຝຸ່ນດິນ.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ໄປ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ບ່ອນ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ເປັນ⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ຝຸ່ນດິນ"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "ແລະທັງໝົດ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ຝຸ່ນດິນ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:21:11.466108181Z",
+  "model": "glm-5.3"
+}

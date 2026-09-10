@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 140,
+  "translation": "ສຳລັບຜູ້ຄວບຄຸມ ບົດຂັດຂອງ ດາວິດ",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ສຳລັບຜູ້ຄວບຄຸມ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ບົດຂັດ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ຂອງ ດາວິດ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:05:03.099856545Z",
+  "model": "glm-5.3"
+}

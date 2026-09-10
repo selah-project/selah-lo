@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 18,
+  "translation": "ແລະ⟨את⟩ຊາຍ ເຈົ້າຈະບໍ່ນອນຮ່ວມຕາມການນອນກັບຜູ້ຍິງ; ສິ່ງຮັບກຽດມັນຄື.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ຊາຍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ເຈົ້າຈະນອນຮ່ວມ"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "ຕາມການນອນກັບ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ຜູ້ຍິງ"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ສິ່ງຮັບກຽດ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ມັນຄື"
+    }
+  ],
+  "timestamp": "2026-09-09T23:50:37.281872073Z",
+  "model": "glm-5.3"
+}

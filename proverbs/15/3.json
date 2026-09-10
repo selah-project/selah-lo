@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 15,
+  "translation": "ໃນທຸກບ່ອນຕາຂອງຢາເວເບິ່ງຄົນຊົ່ວ ແລະຄົນດີ.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ໃນທຸກ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ບ່ອນ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ຕາຂອງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "ເບິ່ງ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ຄົນຊົ່ວ"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "ແລະຄົນດີ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:42:05.350001177Z",
+  "model": "glm-5.3"
+}

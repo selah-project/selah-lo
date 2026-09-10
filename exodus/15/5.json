@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 15:5",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 15,
+  "translation": "ຄວາມເລິກກວມພວກເຂົາ, ພວກເຂົາຈົມລົງສູ່ຄວາມເລິກຄືຫີນ.",
+  "tokens": [
+    {
+      "surface": "תהמת",
+      "gloss": "ຄວາມເລິກ"
+    },
+    {
+      "surface": "יכסימו",
+      "gloss": "ກວມພວກເຂົາ"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ຈົມລົງ"
+    },
+    {
+      "surface": "במצולת",
+      "gloss": "ສູ່ຄວາມເລິກ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ຄື"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ຫີນ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:34:38.837342422Z",
+  "model": "glm-5.3"
+}

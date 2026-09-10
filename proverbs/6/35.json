@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ລາວຈະບໍ່ເບິ່ງໜ້າຄ່າແທນອັນໃດ, ແລະບໍ່ຍອມ ເຖິງແມ່ນເຈົ້າເພີ່ມຂອງກຳນັດ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ລາວຈະຮັບເອົາ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ໜ້າຂອງ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "ຄ່າແທນ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "ຍອມ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເຖິງແມ່ນ"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "ເຈົ້າເພີ່ມ"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ຂອງກຳນັດ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:30:36.305486724Z",
+  "model": "glm-5.3"
+}

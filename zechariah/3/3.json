@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 3:3",
+  "book": "zechariah",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ເຢໂຮຊູອານຸ່ງເສື້ອຜືນທີ່ສະພາຍ ແລະຢືນຢູ່ໜ້າທູດ.",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "ແລະເຢໂຮຊູອາ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ຢູ່"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "ນຸ່ງ"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "ເສື້ອຜືນ"
+    },
+    {
+      "surface": "צואים",
+      "gloss": "ທີ່ສະພາຍ"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "ແລະຢືນ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ໜ້າ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ທູດ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:15:54.021710969Z",
+  "model": "glm-5.3"
+}

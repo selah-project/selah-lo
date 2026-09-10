@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 11:33",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ອັດມາເວດ ບາຮຣູມິ, ເອລິຢາບາ ຊາອັລໂບນິ.",
+  "tokens": [
+    {
+      "surface": "עזמות",
+      "gloss": "ອັດມາເວດ"
+    },
+    {
+      "surface": "הבחרומי",
+      "gloss": "ບາຮຣູມິ"
+    },
+    {
+      "surface": "אליחבא",
+      "gloss": "ເອລິຢາບາ"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "ຊາອັລໂບນິ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:23:58.374855917Z",
+  "model": "glm-5.3"
+}

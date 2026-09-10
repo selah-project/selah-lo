@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ຄົນຂອງເນໂບອື່ນ ຫ້າສິບສອງຄົນ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ຄົນຂອງ"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "ເນໂບ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ອື່ນ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ຫ້າສິບ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ສອງ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:46:07.243693707Z",
+  "model": "glm-5.3"
+}

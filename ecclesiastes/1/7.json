@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ນ້ຳຕົກທັງທຸກໄຫຼໄປຫາທະເລ ແລະທະເລບໍ່ເຕັມ; ພວກມັນກັບຄືນໄປຫາບ່ອນທີ່ນ້ຳຕົກໄຫຼ ເພື່ອໄຫຼຄືນ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ທັງທຸກ"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "ນ້ຳຕົກ"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ໄຫຼ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ໄປຫາ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ທະເລ"
+    },
+    {
+      "surface": "והים",
+      "gloss": "ແລະທະເລ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ເຕັມ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ໄປຫາ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ບ່ອນ"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "ທີ່ນ້ຳຕົກ"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ໄຫຼ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ບ່ອນນັ້ນ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ພວກມັນ"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "ກັບຄືນ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ເພື່ອໄຫຼ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:45:07.904210628Z",
+  "model": "glm-5.3"
+}

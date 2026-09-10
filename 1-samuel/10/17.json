@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ແລະຊາມູເອນຮຽກ⟨את⟩ປະຊາຊົນມາຫາຢາເວຢູ່ມິສປາ.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ແລະຮຽກ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ຊາມູເອນ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ປະຊາຊົນ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ປະຊາຊົນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "ມິສປາ"
+    }
+  ],
+  "timestamp": "2026-09-08T21:22:25.808894982Z",
+  "model": "glm-5.3"
+}

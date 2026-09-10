@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ຄົນທຸກທີ່ຂົ່ມເຫັງຄົນອ່ອນແອ ຄືຝົນຕາທີ່ພັດພັນ ແລະບໍ່ມີອາຫານ.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "ຂົ່ມເຫັງ"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ຄົນອ່ອນແອ"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ຝົນຕາ"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "ພັດພັນ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ແລະບໍ່ມີ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ອາຫານ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:59:40.801935575Z",
+  "model": "glm-5.3"
+}

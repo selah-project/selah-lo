@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 10:9",
+  "book": "joshua",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ເຢໂຮຊູອາມາຫາພວກເຂົາທັນທີ ເພິ່ນຂຶ້ນທັງຄືນຈາກກິນການ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ແລະມາຫາ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ຫາພວກເຂົາ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ເຢໂຮຊູອາ"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ທັນທີ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ຄືນ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ຂຶ້ນ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ກິນການ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:52:51.694728579Z",
+  "model": "glm-5.3"
+}

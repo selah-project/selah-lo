@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 10:6",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ຮາຣິມ ເມຣີໂມດ ໂອບັດຢາ",
+  "tokens": [
+    {
+      "surface": "חרם",
+      "gloss": "ຮາຣິມ"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "ເມຣີໂມດ"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "ໂອບັດຢາ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:05:56.827222552Z",
+  "model": "glm-5.3"
+}

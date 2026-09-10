@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 33,
+  "translation": "ຈົ່ງມີຊີວິດ ຣາອູເບນ ແລະຢ່າຕາຍ ແລະຈົ່ງເປັນຈຳນວນຄົນຂອງເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "ຈົ່ງມີຊີວິດ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ຣາອູເບນ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ແລະຢ່າ"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "ຕາຍ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະຈົ່ງເປັນ"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "ຄົນຂອງເພິ່ນ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ຈຳນວນ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:19:07.446858079Z",
+  "model": "glm-5.3"
+}

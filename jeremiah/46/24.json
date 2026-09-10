@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 46:24",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 46,
+  "translation": "ລູກສາວມິດສະຣາຢິມອາຍ ນາງຖືກມອບໃຫ້ແກ່ມືຂອງຊົນຊາດທິດເໜືອ.",
+  "tokens": [
+    {
+      "surface": "הבישה",
+      "gloss": "ອາຍ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ລູກສາວ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ມິດສະຣາຢິມ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ຖືກມອບໃຫ້"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ແກ່ມື"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ຊົນຊາດ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ທິດເໜືອ"
+    }
+  ],
+  "timestamp": "2026-09-09T17:25:36.610597827Z",
+  "model": "glm-5.3"
+}

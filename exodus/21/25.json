@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ຮອຍໄໝໄຟແທນຮອຍໄໝໄຟ, ບາດແຜແທນບາດແຜ, ຮອຍຟົດແທນຮອຍຟົດ.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "ຮອຍໄໝໄຟ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ແທນ"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "ຮອຍໄໝໄຟ"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "ບາດແຜ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ແທນ"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "ບາດແຜ"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "ຮອຍຟົດ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ແທນ"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "ຮອຍຟົດ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:46:09.854866016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 9:2",
+  "book": "zechariah",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ແລະຮາມາດທັງຈະມີຊາຍແດນຢູ່ບ່ອນນັ້ນ ໂສຣ ແລະໂສິໂດນ ເພາະວ່າມັນສະຫຼາດຫຼາຍ.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ແລະທັງ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ຮາມາດ"
+    },
+    {
+      "surface": "תגבל",
+      "gloss": "ຈະມີຊາຍແດນ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ຢູ່ບ່ອນນັ້ນ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ໂສຣ"
+    },
+    {
+      "surface": "וצידון",
+      "gloss": "ແລະໂສິໂດນ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະວ່າ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ສະຫຼາດ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ຫຼາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:20:58.453218250Z",
+  "model": "glm-5.3"
+}

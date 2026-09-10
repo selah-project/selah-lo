@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ບຸດຊາຍຂອງຊິມອົນແມ່ນເນມູເອນ ແລະຢາມິນ ຢາຣິບ ຊຣາຮ ແລະຊາອູນ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ບຸດຊາຍຂອງ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ຊິມອົນ"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "ເນມູເອນ"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ແລະຢາມິນ"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ຢາຣິບ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ຊຣາຮ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ຊາອູນ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:32:50.038693851Z",
+  "model": "glm-5.3"
+}

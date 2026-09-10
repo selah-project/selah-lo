@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ຢ່າຖາມປາກຄວາຍ ໃນການຮຽບຂອງມັນ",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "ຖາມປາກ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ຄວາຍ"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "ໃນການຮຽບຂອງມັນ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:07:43.775948533Z",
+  "model": "glm-5.3"
+}

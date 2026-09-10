@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 46:16",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 46,
+  "translation": "ແລະບັດຂອງກາດສິຟໂຢນ ຮາກີ ຊູນີ ອັດບອນ ອີຣີ ອາໂຣດີ ແລະອາເຣລີ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ແລະບັດ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ກາດ"
+    },
+    {
+      "surface": "צפיון",
+      "gloss": "ສິຟໂຢນ"
+    },
+    {
+      "surface": "וחגי",
+      "gloss": "ແລະຮາກີ"
+    },
+    {
+      "surface": "שוני",
+      "gloss": "ຊູນີ"
+    },
+    {
+      "surface": "ואצבן",
+      "gloss": "ແລະອັດບອນ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ອີຣີ"
+    },
+    {
+      "surface": "וארודי",
+      "gloss": "ແລະອາໂຣດີ"
+    },
+    {
+      "surface": "ואראלי",
+      "gloss": "ແລະອາເຣລີ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:08:38.513143500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ແລະທູດອົງຂອງຢາເວຮັບປະກັນຕໍ່ເຢໂຮຊູອາວ່າ",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "ແລະຮັບປະກັນ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ທູດອົງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຂອງຢາເວ"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "ຕໍ່ເຢໂຮຊູອາ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:18:28.941783079Z",
+  "model": "glm-5.3"
+}

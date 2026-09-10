@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 34,
+  "translation": "ໃຜຄົນປາດປານຊີວິດ ຮັກວັນທັງຫຼາຍ ເພື່ອເຫັນຄວາມດີ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "ປາດປານ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ຊີວິດ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ຮັກ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ວັນທັງຫຼາຍ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ເພື່ອເຫັນ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ຄວາມດີ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:00:42.768361931Z",
+  "model": "glm-5.3"
+}

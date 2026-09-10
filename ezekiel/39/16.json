@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 39:16",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 39,
+  "translation": "ແລະດ້ວຍຊື່ຂອງເມືອງຄືຮາມູນາ, ແລະພວກເຂົາຈະຊຳລະແຜ່ນດິນ.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ແລະດ້ວຍ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ຊື່"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ຂອງເມືອງ"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "ຮາມູນາ"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "ແລະພວກເຂົາຈະຊຳລະ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ແຜ່ນດິນ"
+    }
+  ],
+  "timestamp": "2026-09-09T01:49:17.295280874Z",
+  "model": "glm-5.3"
+}

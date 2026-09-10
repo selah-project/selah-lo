@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ແລະຢາເວໄດ້ເປີດ⟨את⟩ຫູຂອງເຊມາ ໜຶ່ງວັນກ່ອນການມາຂອງຊາອູນ ເພື່ອກ່າວວ່າ.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ແລະຢາເວ"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ໄດ້ເປີດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຫູຂອງເຊມາ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ຫູ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ເຊມາ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ກ່ອນ"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "ການມາ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ຊາອູນ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ເພື່ອກ່າວວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T21:21:26.371748034Z",
+  "model": "glm-5.3"
+}

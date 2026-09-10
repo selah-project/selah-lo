@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 147,
+  "translation": "ເພິ່ນບໍ່ພໍໃຈໃນພະລັງຂອງມ້າ ເພິ່ນບໍ່ພໍໃຈໃນຂາຂອງມະນຸດ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "ໃນພະລັງຂອງ"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ມ້າ"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "ພໍໃຈ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "ໃນຂາຂອງ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ມະນຸດ"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ພໍໃຈ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:23:09.102430033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 20:26",
+  "book": "2-samuel",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ແລະກໍອີຣາຢາອີຣິໄດ້ເປັນໂກເຮນຂອງດາວິດ.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ແລະກໍ"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "ອີຣາ"
+    },
+    {
+      "surface": "היארי",
+      "gloss": "ຢາອີຣິ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ໄດ້ເປັນ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ໂກເຮນ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ຂອງດາວິດ"
+    }
+  ],
+  "timestamp": "2026-09-08T22:03:15.336594957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 18:10",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 18,
+  "translation": "ຊື່ຂອງຢາເວ⟨ເປັນ⟩ຫໍຄອຍອັນມີກຳລັງ ຄົນຊອບທຳແລ່ນເຂົ້າໄປໃນນັ້ນ ແລະຈະຖືກຍົກສູງ.",
+  "tokens": [
+    {
+      "surface": "מגדל",
+      "gloss": "ຫໍຄອຍ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ກຳລັງ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ຊື່"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ໃນນັ້ນ"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "ແລ່ນ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ຄົນຊອບທຳ"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "ແລະຈະຖືກຍົກສູງ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:14:04.494720539Z",
+  "model": "glm-5.3"
+}

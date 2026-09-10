@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 89,
+  "translation": "ຈົນເມື່ອໃດ ຢາເວ ເຈົ້າຈະຊ່ອນຕະຫຼອດໄປ ຄວາມໂກດຂອງເຈົ້າຈະໄໝ້ຄືໄຟ?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ຈົນເມື່ອໃດ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ໃດ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ເຈົ້າຈະຊ່ອນ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ຕະຫຼອດໄປ"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ຈະໄໝ້"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ຄື"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ໄຟ"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "ຄວາມໂກດຂອງເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:46:30.768809801Z",
+  "model": "glm-5.3"
+}

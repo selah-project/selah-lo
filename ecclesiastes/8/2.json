@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ຂ້ອຍ ຈົ່ງຮັກສາປາກຂອງກະສັດ ແລະຍ້ອນສັນຍາຂອງເອໂລຮິມ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ຂ້ອຍ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ປາກຂອງ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "ຈົ່ງຮັກສາ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ແລະ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ຍ້ອນ"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "ສັນຍາຂອງ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ເອໂລຮິມ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:27:41.521282215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ແລະວັນຢາ, ເມເຣໂມດ, ເອນຢາຊິບ.",
+  "tokens": [
+    {
+      "surface": "וניה",
+      "gloss": "ແລະວັນຢາ"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "ເມເຣໂມດ"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "ເອນຢາຊິບ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:28:25.950276634Z",
+  "model": "glm-5.3"
+}

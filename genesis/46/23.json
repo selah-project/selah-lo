@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 46:23",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 46,
+  "translation": "ລູກຊາຍຂອງດານຄືຮູຊິມ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ແລະລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ດານ"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "ຮູຊິມ"
+    }
+  ],
+  "timestamp": "2026-09-09T11:38:59.012875091Z",
+  "model": "glm-5.3"
+}

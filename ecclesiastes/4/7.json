@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ແລະຂ້ອຍໄດ້ຫັນກັບແລະໄດ້ເຫັນອາຍພາຍໃຕ້ດວງຕາເວັນ.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "ແລະຂ້ອຍໄດ້ຫັນກັບ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ຂ້ອຍ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ແລະໄດ້ເຫັນ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ອາຍ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ພາຍໃຕ້"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ດວງຕາເວັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:22:51.969759770Z",
+  "model": "glm-5.3"
+}

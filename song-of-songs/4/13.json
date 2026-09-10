@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 4:13",
+  "book": "song-of-songs",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ຍອດຂອງເຈົ້າສວນໝາກທັນພ້ອມໝາກອັນປະເສີດ, ຂີ້ຕະຍອພ້ອມຕົ້ນນາດ.",
+  "tokens": [
+    {
+      "surface": "שלחיך",
+      "gloss": "ຍອດຂອງເຈົ້າ"
+    },
+    {
+      "surface": "פרדס",
+      "gloss": "ສວນ"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "ໝາກທັນ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ພ້ອມ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ໝາກ"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "ອັນປະເສີດ"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "ຂີ້ຕະຍອ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ພ້ອມ"
+    },
+    {
+      "surface": "נרדים",
+      "gloss": "ຕົ້ນນາດ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:20:54.554906056Z",
+  "model": "glm-5.3"
+}

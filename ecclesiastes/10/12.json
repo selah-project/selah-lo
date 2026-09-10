@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ຄຳຈາກປາກຂອງຄົນປັນຍາເປັນຄວາມງາມ ແຕ່ຣິບຂອງຄົນໂງ່ຈະກືນມັນເອງ.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ຄຳຈາກ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ປາກຂອງ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ຄົນປັນຍາ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ຄວາມງາມ"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "ແຕ່ຣິບຂອງ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ຄົນໂງ່"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "ຈະກືນມັນເອງ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:24:40.185744410Z",
+  "model": "glm-5.3"
+}

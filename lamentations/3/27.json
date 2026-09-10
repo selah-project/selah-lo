@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ດີສໍາລັບຜູ້ຊາຍທີ່ເພິ່ນແບກແອກໃນຄວາມເປັນໜຸ່ມຂອງເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "ສໍາລັບຜູ້ຊາຍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ເພິ່ນແບກ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ແອກ"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "ໃນຄວາມເປັນໜຸ່ມຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:42:55.341519525Z",
+  "model": "glm-5.3"
+}

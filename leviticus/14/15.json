@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ແລະໂກເຮນເອົາຈາກໂລກຂອງນ້ຳມັນ ແລະທາບເທິງຝີມືຊ້າຍຂອງໂກເຮນ.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ແລະເອົາ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ໂກເຮນ"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "ຈາກໂລກ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ຂອງນ້ຳມັນ"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "ແລະທາບ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ຝີມື"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ຂອງໂກເຮນ"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ຊ້າຍ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:29:53.530358307Z",
+  "model": "glm-5.3"
+}

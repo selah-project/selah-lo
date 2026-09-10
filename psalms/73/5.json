@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 73,
+  "translation": "ໃນຄວາມທຸກຂອງມະນຸດເຂົາບໍ່ມີ ແລະກັບມະນຸດເຂົາບໍ່ຖືກຕີ",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "ໃນຄວາມທຸກຂອງ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ມະນຸດ"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "ເຂົາບໍ່ມີ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ແລະກັບ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ມະນຸດ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "ຖືກຕີ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:32:55.690325616Z",
+  "model": "glm-5.3"
+}

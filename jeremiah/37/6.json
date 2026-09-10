@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 37:6",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 37,
+  "translation": "ແລະຄຳຂອງຢາເວມາຫາຢິຣະມະຢາຮູຜູ້ພະຍາກວ່າ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະເປັນແລ້ວ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ມາຫາ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ຢິຣະມະຢາຮູ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ຜູ້ພະຍາກ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:37:30.537530681Z",
+  "model": "glm-5.3"
+}

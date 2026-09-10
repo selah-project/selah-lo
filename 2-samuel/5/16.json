@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 5:16",
+  "book": "2-samuel",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ເອລິຊາມາ ເອລິຢາດາ ແລະເອລິຟາເລັດ.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "ເອລິຊາມາ"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "ເອລິຢາດາ"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "ເອລິຟາເລັດ"
+    }
+  ],
+  "timestamp": "2026-09-08T21:49:01.899354222Z",
+  "model": "glm-5.3"
+}

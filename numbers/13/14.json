@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ສຳລັບຊົນພັນຂອງນາຟະຕາລີ: ນາຄະບີລູກຊາຍຂອງວອຟສີ.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ສຳລັບຊົນພັນຂອງ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ນາຟະຕາລີ"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "ນາຄະບີ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "ວອຟສີ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:08:19.145469113Z",
+  "model": "glm-5.3"
+}

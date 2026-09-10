@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 10:35",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ເບນາຢາ, ເບດາຢາ, ເກລູໄຮ.",
+  "tokens": [
+    {
+      "surface": "בניה",
+      "gloss": "ເບນາຢາ"
+    },
+    {
+      "surface": "בדיה",
+      "gloss": "ເບດາຢາ"
+    },
+    {
+      "surface": "כלהי",
+      "gloss": "ເກລູໄຮ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:28:25.950171327Z",
+  "model": "glm-5.3"
+}

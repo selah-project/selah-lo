@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 27,
+  "translation": "ແລະຖ້າລາວບໍ່ຊື້ຄືນ⟨את⟩ນາບົດ, ຫຼືຖ້າລາວຂາຍ⟨את⟩ນາບົດແກ່ຊາຍຄົນອື່ນ, ນາບົດນັ້ນຈະບໍ່ຖືກຊື້ຄືນອີກ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ແລະຖ້າ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ຊື້ຄືນ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ນາບົດ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ນາບົດ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ຫຼືຖ້າ"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "ຂາຍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ນາບົດ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ນາບົດ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ແກ່ຊາຍຄົນ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ອື່ນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ຊື້ຄືນ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ອີກ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:52:33.014612135Z",
+  "model": "glm-5.3"
+}

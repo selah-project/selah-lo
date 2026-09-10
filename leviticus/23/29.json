@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 23:29",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ຍ້ອນວ່າທຸກຄົນທີ່ບໍ່ຂ້ຽນຕົນຕົວຈິງວັນນີ້ ຄົນນັ້ນຈະຖືກຕັດອອກຈາກຄົນຂອງມັນ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ຍ້ອນວ່າ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ຂ້ຽນຕົນ"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "ຕົວຈິງ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "ແລະຈະຖືກຕັດອອກ"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "ຈາກຄົນຂອງມັນ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:46:05.716174568Z",
+  "model": "glm-5.3"
+}

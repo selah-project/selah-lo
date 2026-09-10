@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 40,
+  "translation": "ແລະເພິ່ນໄດ້ວັດ⟨את⟩ມຸງຂອງປະຕູຈາກດ້ານເຮືອນ ໜຶ່ງກ້າ",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ແລະເພິ່ນໄດ້ວັດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ມຸງ"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ມຸງ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ຂອງປະຕູ"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "ຈາກດ້ານເຮືອນ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ກ້າ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    }
+  ],
+  "timestamp": "2026-09-10T01:10:02.394717792Z",
+  "model": "glm-5.3"
+}

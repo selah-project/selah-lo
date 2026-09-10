@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ເພາະວ່າ ນົວໄຖນາສິບຄູ່ນົວຈະໃຫ້ບາດໜຶ່ງ, ແລະເມັດພັນໂຮເມຣຈະໃຫ້ເອຟາໜຶ່ງ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະວ່າ"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "ຄູ່ນົວ"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ນົວໄຖນາ"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ຈະໃຫ້"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ບາດ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ແລະເມັດພັນ"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "ໂຮເມຣ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ຈະໃຫ້"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ເອຟາ"
+    }
+  ],
+  "timestamp": "2026-09-08T23:15:15.688540439Z",
+  "model": "glm-5.3"
+}

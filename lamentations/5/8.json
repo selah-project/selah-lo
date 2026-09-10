@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ຂ້າຮັບໃຊ້ຄອງພວກເຮົາ, ບໍ່ມີຜູ້ຊ່ວຍຖອນພວກເຮົາຈາກມືຂອງພວກເຂົາ.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "ຂ້າຮັບໃຊ້"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ຄອງ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ພວກເຮົາ"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ຊ່ວຍຖອນ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ບໍ່ມີ"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "ຈາກມືຂອງພວກເຂົາ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:18:13.581119787Z",
+  "model": "glm-5.3"
+}

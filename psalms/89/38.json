@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 89,
+  "translation": "ຄືດວງຈັນມັ່ນຄົງຢູ່ຕະຫຼອດໄປ ແລະຄືພະຍານຊື່ສັດໃນຟ້າ ເຊລາ",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "ຄືດວງຈັນ"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ມັ່ນຄົງ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ຕະຫຼອດໄປ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ແລະພະຍານ"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "ໃນຟ້າ"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "ຊື່ສັດ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ເຊລາ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:52:38.491190327Z",
+  "model": "glm-5.3"
+}

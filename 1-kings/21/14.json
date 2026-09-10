@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ແລະພວກເຂົາໄດ້ສົ່ງມາຫາອີຊະເບລນວ່າ ນາໂບທຂວານ ແລະຕາຍ",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ໄດ້ສົ່ງ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ມາຫາ"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "ອີຊະເບລນ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "ຂວານ"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "ນາໂບທ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ແລະຕາຍ"
+    }
+  ],
+  "timestamp": "2026-09-08T22:37:51.612576191Z",
+  "model": "glm-5.3"
+}

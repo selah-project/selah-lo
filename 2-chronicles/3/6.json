@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ແລະເພິ່ນປະດັບ⟨את⟩ຫຼັງດ້ວຍຫີນລ້າຄ່າເພື່ອຄວາມງາມ ແລະຄຳນັ້ນ ຄຳຂອງປາຣວາຍິມ.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ແລະເພິ່ນປະດັບ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຫຼັງ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ຫຼັງ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ຫີນ"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "ລ້າຄ່າ"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "ເພື່ອຄວາມງາມ"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "ແລະຄຳ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "ປາຣວາຍິມ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:58:47.380209141Z",
+  "model": "glm-5.3"
+}

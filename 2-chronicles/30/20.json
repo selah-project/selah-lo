@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ແລະຢາເວຟັງຕໍ່ຮິຊະກິຢາວ ແລະຮັກອນ⟨את⟩ປະຊາຊົນ.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ແລະຟັງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "ຮິຊະກິຢາວ"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ແລະຮັກອນ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ປະຊາຊົນ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ປະຊາຊົນ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:31:45.415071388Z",
+  "model": "glm-5.3"
+}

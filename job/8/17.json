@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 8:17",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ເໜືອກອງຫີນຮາກຂອງມັນຖືກຮັບມັດ ເຮືອນຫີນມັນຈະເບິ່ງ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "גל",
+      "gloss": "ກອງຫີນ"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "ຮາກຂອງມັນ"
+    },
+    {
+      "surface": "יסבכו",
+      "gloss": "ຖືກຮັບມັດ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ເຮືອນ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ຫີນ"
+    },
+    {
+      "surface": "יחזה",
+      "gloss": "ຈະເບິ່ງ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:08:36.677554043Z",
+  "model": "glm-5.3"
+}

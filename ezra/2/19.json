@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 2:19",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ລູກຫຼານຂອງຮັດຊຸມ ສອງຮ້ອຍຊາວສາມຄົນ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ຮັດຊຸມ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ສອງຮ້ອຍ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ຊາວ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ແລະສາມ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:17:54.616204960Z",
+  "model": "glm-5.3"
+}

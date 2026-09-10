@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ສິງໂຕຜູ້ກ້າ ໃນສັດຮ້າຍ ແລະບໍ່ຫັນຄືນຈາກໜ້າທັງທຸກ.",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "ສິງ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ຜູ້ກ້າ"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "ໃນສັດຮ້າຍ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ຫັນຄືນ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ຈາກໜ້າ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງທຸກ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:19:54.343551574Z",
+  "model": "glm-5.3"
+}

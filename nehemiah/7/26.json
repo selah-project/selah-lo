@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ຜູ້ຊາຍຂອງບິດເລເຮັມ ແລະເນໂຕຟາ ໜຶ່ງຮ້ອຍແປດສິບແລະແປດຄົນ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ຜູ້ຊາຍຂອງ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ບິດ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ເລເຮັມ"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "ແລະເນໂຕຟາ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ໜຶ່ງຮ້ອຍ"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ແປດສິບ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ແລະແປດ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:47:05.807059079Z",
+  "model": "glm-5.3"
+}

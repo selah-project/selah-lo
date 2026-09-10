@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ແລະທຸກເຄື່ອງບູຊາຂອງໂກເຮນ ທັງໝົດ⟨ເປັນ⟩ ບໍ່ຖືກກິນ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ແລະທຸກ"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ເຄື່ອງບູຊາຂອງ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ໂກເຮນ"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨ເປັນ⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ຖືກກິນ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:18:25.301333549Z",
+  "model": "glm-5.3"
+}

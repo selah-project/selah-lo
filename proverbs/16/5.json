@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 16,
+  "translation": "ໃຈອວດຜູ້ສູງທັງທຸກ ⟨ເປັນ⟩ ຄວາມຮັງກຽດຂອງຢາເວ; ມືຕໍ່ມື ເພິ່ນບໍ່ພົ້ນຈາກການລົງໂທດ.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "ຄວາມຮັງກຽດ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງທຸກ"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ອວດຜູ້ສູງ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ໃຈ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ມື"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ຕໍ່ມື"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "ພົ້ນຈາກການລົງໂທດ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:16:10.581304601Z",
+  "model": "glm-5.3"
+}

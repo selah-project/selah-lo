@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 30:24",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ແລະຄາຊີຢາ ຫ້າຮ້ອຍ ຕາມຊີແກນຂອງບ່ອນບູຊາ ແລະນ້ຳມັນມະກອນ ໜຶ່ງຮິນ.",
+  "tokens": [
+    {
+      "surface": "וקדה",
+      "gloss": "ແລະຄາຊີຢາ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ຫ້າ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ຕາມຊີແກນ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ຂອງບ່ອນບູຊາ"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ແລະນ້ຳມັນ"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ມະກອນ"
+    },
+    {
+      "surface": "הין",
+      "gloss": "ຮິນ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:55:31.911391817Z",
+  "model": "glm-5.3"
+}

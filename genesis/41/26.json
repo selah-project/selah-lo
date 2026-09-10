@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 41,
+  "translation": "ເຈັດງົວຕົວທີ່ດີ⟨ເປັນ⟩ເຈັດປີ, ແລະເຈັດຮວງເຂົ້າທີ່ດີ⟨ເປັນ⟩ເຈັດປີ; ຄວາມຝັນນັ້ນໜຶ່ງ.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "ເຈັດ"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "ງົວ"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "ທີ່ດີ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ເຈັດ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ແລະເຈັດ"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "ຮວງເຂົ້າທີ່"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ເຈັດ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ຄວາມຝັນ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ມັນ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:58:52.904688244Z",
+  "model": "glm-5.3"
+}

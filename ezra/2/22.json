@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ຄົນຂອງເນໂຕຟາ ຫ້າສິບຫົກຄົນ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ຄົນຂອງ"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "ເນໂຕຟາ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ຫ້າສິບ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ແລະຫົກ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:13:39.189386618Z",
+  "model": "glm-5.3"
+}

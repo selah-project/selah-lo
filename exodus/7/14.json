@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ແລະຢາເວກ່າວຕໍ່ໂມເຊວ່າ ຫົວໃຈຂອງປຣາໂອໜັກ ເພິ່ນປະຕິເສດທີ່ຈະປ່ອຍປະຊາຊົນໄປ",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ໜັກ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ໃຈ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ປຣາໂອ"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ປະຕິເສດ"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ປ່ອຍໃຫ້ໄປ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ປະຊາຊົນ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:23:40.159627941Z",
+  "model": "glm-5.3"
+}

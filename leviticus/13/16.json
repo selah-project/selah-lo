@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ຫຼືວ່າຜິວຫນັງມີຊີວິດກັບຄືນ ແລະປ່ຽນເປັນຂາວ ລາວຈະມາຫາໂກເຮນ",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ກັບຄືນ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ຜິວຫນັງ"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ມີຊີວິດ"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "ແລະປ່ຽນ"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ເປັນຂາວ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ແລະມາ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ໂກເຮນ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:28:39.928111667Z",
+  "model": "glm-5.3"
+}

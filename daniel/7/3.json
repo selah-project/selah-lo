@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ແລະສີ່ສັດຮ້າຍໃຫຍ່ຫຼາຍໂຕ ຂຶ້ນມາຈາກທະເລ ຕ່າງກັນ ອັນນີ້ຈາກອັນນັ້ນ.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "ແລະສີ່"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "ສັດຮ້າຍ"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "ໃຫຍ່ຫຼາຍ"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "ຂຶ້ນມາ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "ທະເລ"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "ຕ່າງກັນ"
+    },
+    {
+      "surface": "דא",
+      "gloss": "ອັນນີ້"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "דא",
+      "gloss": "ອັນນັ້ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:56:14.772701927Z",
+  "model": "glm-5.3"
+}

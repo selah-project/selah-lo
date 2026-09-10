@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 57,
+  "translation": "ຂ້ອຍຮຽກຫາເອໂລຮິມສູງສຸດ ຫາເອນຜູ້ສໍາເລັດໃຫ້ຂ້ອຍ.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "ຂ້ອຍຮຽກຫາ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ຫາເອໂລຮິມ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ສູງສຸດ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ຫາເອນ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ຜູ້ສໍາເລັດ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ໃຫ້ຂ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:21:25.565059679Z",
+  "model": "glm-5.3"
+}

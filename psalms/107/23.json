@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 107,
+  "translation": "ຜູ້ລົງສູ່ທະເລໃນເຮືອ ຜູ້ເຮັດວຽກຢູ່ໃນນ້ຳຫຼາຍ.",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "ຜູ້ລົງ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ທະເລ"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "ໃນເຮືອ"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ຜູ້ເຮັດ"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ວຽກ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ຢູ່ໃນນ້ຳ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ຫຼາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:58:49.709550050Z",
+  "model": "glm-5.3"
+}

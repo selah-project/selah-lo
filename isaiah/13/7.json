@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ຍ້ອນສະນັ້ນ ມືທັງໜຶ່ງຈະອ່ອນແຮງ ແລະໃຈຂອງມະນຸດທຸກຄົນຈະລະລາຍ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ຍ້ອນ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ສະນັ້ນ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໜຶ່ງ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ມື"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ຈະອ່ອນແຮງ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ແລະທຸກຄົນຂອງ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ໃຈ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ມະນຸດ"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "ຈະລະລາຍ"
+    }
+  ],
+  "timestamp": "2026-09-08T23:18:53.829116346Z",
+  "model": "glm-5.3"
+}

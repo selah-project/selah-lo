@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ເພາະວ່າມີຄຳຫຼາຍຫຼາຍເພີ່ມຄູນອາຍ ສິ່ງໃດເພີ່ມແກ່ມະນຸດ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະວ່າ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ຄຳຫຼາຍ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ຫຼາຍ"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "ເພີ່ມຄູນ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ອາຍ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ສິ່ງໃດ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ເພີ່ມ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ແກ່ມະນຸດ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:27:13.174642613Z",
+  "model": "glm-5.3"
+}

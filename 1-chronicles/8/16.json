@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະມີຄາເອນ ແລະຢິຊປາ ແລະໂຢຄາ ລູກຫຼານຂອງເບຣິຢາ.",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "ແລະມີຄາເອນ"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "ແລະຢິຊປາ"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "ແລະໂຢຄາ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "ເບຣິຢາ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:11:26.598045220Z",
+  "model": "glm-5.3"
+}

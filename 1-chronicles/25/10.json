@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 25:10",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ທີສາມ ແກ່ຊາກູຣ, ລູກຊາຍຂອງເພິ່ນ ແລະອ້າຍນ້ອງຂອງເພິ່ນ ສິບສອງຄົນ.",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "ທີສາມ"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ຊາກູຣ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ລູກຊາຍຂອງເພິ່ນ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ແລະອ້າຍນ້ອງຂອງເພິ່ນ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:35:14.906109788Z",
+  "model": "glm-5.3"
+}

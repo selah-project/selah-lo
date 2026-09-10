@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ແລະຊິນປາຂ້າຮັກພັກຂອງເລອາເກີດລູກຊາຍທີສອງໃຫ້ຢາອາໂຄບ.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ແລະນາງເກີດ"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "ຊິນປາ"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "ຂ້າຮັກພັກຂອງ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ເລອາ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ທີສອງ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ໃຫ້ຢາອາໂຄບ"
+    }
+  ],
+  "timestamp": "2026-09-09T11:27:33.442256640Z",
+  "model": "glm-5.3"
+}

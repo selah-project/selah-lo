@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 18:9",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 18,
+  "translation": "ຄົນຜູ້ຕຶກຄາວໃນວຽກຂອງຕົນ ຄືອ້າຍນ້ອງຂອງຜູ້ທຳລາຍ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ຄືກັນກັບ"
+    },
+    {
+      "surface": "מתרפה",
+      "gloss": "ຜູ້ຕຶກຄາວ"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "ໃນວຽກຂອງຕົນ"
+    },
+    {
+      "surface": "אח",
+      "gloss": "ອ້າຍນ້ອງ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ຂອງຜູ້"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "ທຳລາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:14:04.493438241Z",
+  "model": "glm-5.3"
+}

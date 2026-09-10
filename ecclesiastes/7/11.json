@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ຄວາມສະຫຼາດດີພ້ອມກັບມະຫາຊະສະໜີ ແລະມີປະໂຫຍດແກ່ຜູ້ເບິ່ງດວງຕາເວັນ",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ຄວາມສະຫຼາດ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ພ້ອມກັບ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ມະຫາຊະສະໜີ"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ແລະມີປະໂຫຍດ"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "ແກ່ຜູ້ເບິ່ງ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ດວງຕາເວັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:45:30.582008824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 18,
+  "translation": "ຄຳທີ່ໄດ້ມາຫາເຢເຣມີຢາຈາກ⟨את⟩ຢາເວກ່າວວ່າ:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ໄດ້ມາຫາ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ເຢເຣມີຢາ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ຈາກ⟨את⟩",
+      "marks": "ຢາເວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ກ່າວວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:18:52.492110588Z",
+  "model": "glm-5.3"
+}

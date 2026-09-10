@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ຄົນບໍ່ມີຄ່າ ຄົນຊົ່ວ ຜູ້ຍ່າງດ້ວຍປາກບິດເບືອນ",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ບໍ່ມີຄ່າ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ຊົ່ວ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ຜູ້ຍ່າງ"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "ຄວາມບິດເບືອນ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ປາກ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:31:01.496577888Z",
+  "model": "glm-5.3"
+}

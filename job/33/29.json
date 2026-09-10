@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 33:29",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 33,
+  "translation": "ເບິ່ງແມ ເອນເຮັດທັງພວກນີ້ ສອງຄັ້ງຫຼືສາມຄັ້ງກັບຄົນ",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ເບິ່ງແມ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ພວກນີ້"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "ເຮັດ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເອນ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ຄັ້ງ"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ສາມ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ຄົນ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:42:11.180404847Z",
+  "model": "glm-5.3"
+}

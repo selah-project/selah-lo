@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 44,
+  "translation": "ບໍ່ລະ ເອໂລຮິມຈະກວດສອບສິ່ງນີ້? ດັ່ງວ່າ ເພິ່ນຮູ້ຄວາມລັບຂອງໃຈ.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ບໍ່ລະ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ເອໂລຮິມ"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "ຈະກວດສອບ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ສິ່ງນີ້"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ດັ່ງວ່າ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ຮູ້"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "ຄວາມລັບ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ຂອງໃຈ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:38:37.490286914Z",
+  "model": "glm-5.3"
+}

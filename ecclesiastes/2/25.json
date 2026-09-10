@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ເພາະວ່າໃຜຈະກິນ ແລະໃຜຈະຮີບ ນອກຈາກເຮົາ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະວ່າ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ຈະກິນ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ແລະໃຜ"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "ຈະຮີບ"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ນອກ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ຈາກເຮົາ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:45:30.563714325Z",
+  "model": "glm-5.3"
+}

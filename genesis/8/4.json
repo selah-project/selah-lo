@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ກົມເຮືອໄດ້ພັກໃນເດືອນທີເຈັດ ວັນທີສິບເຈັດຂອງເດືອນ ເທິງພູອາຣາຣາດ.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "ໄດ້ພັກ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ກົມເຮືອ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ໃນເດືອນ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ທີເຈັດ"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "ໃນເຈັດ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ຂອງເດືອນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "ພູ"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "ອາຣາຣາດ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:06:51.315705450Z",
+  "model": "glm-5.3"
+}

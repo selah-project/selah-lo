@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 119,
+  "translation": "ຊອບທຳເຈົ້າຢາເວ ແລະຊື່ສາດການຕັດສິນຂອງເຈົ້າ.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "ຊອບທຳ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ເຈົ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ແລະຊື່ສາດ"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ການຕັດສິນຂອງເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:10:52.214874847Z",
+  "model": "glm-5.3"
+}

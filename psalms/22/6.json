@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 22,
+  "translation": "ຫາເຈົ້າພວກເຂົາຮ້ອງ ແລະລອດ ໃນເຈົ້າພວກເຂົາໄວ້ໃຈ ແລະບໍ່ອາຍ.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "ຫາເຈົ້າ"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "ຮ້ອງ"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "ແລະລອດ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ໃນເຈົ້າ"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ໄວ້ໃຈ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "ອາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:31:28.112636646Z",
+  "model": "glm-5.3"
+}

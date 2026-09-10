@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ແລະເຖິງແມ່ນເພິ່ນມີຊີວິດຢູ່ໜຶ່ງພັນປີສອງເທື່ອກໍບໍ່ໄດ້ເຫັນຄວາມດີ; ທຸກຄົນບໍ່ກ້ຽງໄປຫາບ່ອນດຽວກັນບໍ?",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "ແລະເຖິງແມ່ນ"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ມີຊີວິດຢູ່"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ໜຶ່ງພັນ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ສອງເທື່ອ"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "ແລະຄວາມດີ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ໄດ້ເຫັນ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ບໍ່ກ້ຽງ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ໄປຫາ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ບ່ອນ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ດຽວກັນ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ທຸກຄົນ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ໄປ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:44:19.325227510Z",
+  "model": "glm-5.3"
+}

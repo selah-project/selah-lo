@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "⟨ຖ້າ⟩ເຈົ້າອ່ອນແຮງໃນວັນຄວາມຫຍຸ້ງຍາກ ກຳລັງຂອງເຈົ້າແຄບ.",
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "ເຈົ້າອ່ອນແຮງ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ໃນວັນ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ຄວາມຫຍຸ້ງຍາກ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ແຄບ"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "ກຳລັງຂອງເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:17:32.878985302Z",
+  "model": "glm-5.3"
+}

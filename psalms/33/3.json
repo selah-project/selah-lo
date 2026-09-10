@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 33,
+  "translation": "ຈົ່ງຮ້ອງຕໍ່ເພິ່ນເພງໃໝ່ ຈົ່ງເລ່ນໃຫ້ງາມ ດ້ວຍສຽງອັນດັງ.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ຈົ່ງຮ້ອງ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ຕໍ່ເພິ່ນ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ເພງ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ໃໝ່"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "ຈົ່ງເລ່ນໃຫ້ງາມ"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "ເລ່ນ"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ດ້ວຍສຽງອັນດັງ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:02:38.173541857Z",
+  "model": "glm-5.3"
+}

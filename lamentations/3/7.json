@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ເພິ່ນກຳແພງຮອບຂ້ອຍ ແລະຂ້ອຍບໍ່ອອກ ເພິ່ນເຮັດໂສ້ງຂອງຂ້ອຍໃຫ້ໜັກ.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "ກຳແພງ"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "ຮອບຂ້ອຍ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ຂ້ອຍອອກ"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "ເຮັດໃຫ້ໜັກ"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "ໂສ້ງຂອງຂ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:42:47.310734247Z",
+  "model": "glm-5.3"
+}

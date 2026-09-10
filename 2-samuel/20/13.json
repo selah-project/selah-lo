@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 20:13",
+  "book": "2-samuel",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ເມື່ອລາກເຂົາອອກຈາກຖະໜົນແລ້ວ ທຸກຄົນກໍຜ່ານໄປຕາມໂຢອາບ ເພື່ອໄລ່ຕາມເຊບາ ລູກຊາຍຂອງບິຄຣີ.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "ເມື່ອ"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "ລາກ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "המסלה",
+      "gloss": "ຖະໜົນ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ຜ່ານໄປ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ຕາມ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ໂຢອາບ"
+    },
+    {
+      "surface": "לרדף",
+      "gloss": "ເພື່ອໄລ່"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ຕາມ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ເຊບາ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "ບິຄຣີ"
+    }
+  ],
+  "timestamp": "2026-09-09T15:23:26.285671656Z",
+  "model": "glm-5.3"
+}

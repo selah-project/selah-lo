@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezra 2:46",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ລູກຫຼານຂອງຮາກາບ ລູກຫຼານຂອງຊຳລາຍ ລູກຫຼານຂອງຮານານ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "ຮາກາບ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "שמלי",
+      "gloss": "ຊຳລາຍ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ຮານານ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:19:20.576084879Z",
+  "model": "glm-5.3"
+}

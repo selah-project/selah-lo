@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ແລະໂມເຊໄດ້ກ່າວ⟨את⟩ວັນນັດພົບຂອງຢາເວ ຕໍ່ລູກຫຼານຂອງອິສະຣາເອນ.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ແລະໄດ້ກ່າວ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ວັນນັດພົບຂອງຢາເວ"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "ວັນນັດພົບ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:44:46.933639924Z",
+  "model": "glm-5.3"
+}

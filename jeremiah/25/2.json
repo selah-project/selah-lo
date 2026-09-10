@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 25:2",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ທີ່ເຢຣະມຝາຜູ້ພະຍາກອນເວົ້າຕໍ່ຊາວຢູດາທັງໝົດ ແລະຕໍ່ຜູ້ອາໄສເຢຣູຊາລາມທັງໝົດ ວ່າ",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ເວົ້າ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ເຢຣະມຝາ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ຜູ້ພະຍາກອນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ຊາວ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ຢູດາ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ແລະຕໍ່"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ຜູ້ອາໄສ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ເຢຣູຊາລາມ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:23:42.016228347Z",
+  "model": "glm-5.3"
+}

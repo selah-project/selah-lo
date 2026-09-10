@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະໄດ້ຫັດ ແລະໂມເຊໄດ້ພົ່ນ⟨את⟩ເລືອດເທິງແທ່ນບູຊາອ້ອມຂ້າງ.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "ແລະໄດ້ຫັດ"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ແລະໄດ້ພົ່ນ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເລືອດ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ເລືອດ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ແທ່ນບູຊາ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ອ້ອມຂ້າງ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:25:35.728589886Z",
+  "model": "glm-5.3"
+}

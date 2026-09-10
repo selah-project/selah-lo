@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 92,
+  "translation": "ບົດປະພັນເພງ ສຳລັບວັນຊັບບາດ.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ບົດປະພັນ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ເພງ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ສຳລັບວັນ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ຊັບບາດ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:50:09.458746481Z",
+  "model": "glm-5.3"
+}

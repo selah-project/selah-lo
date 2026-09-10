@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 27,
+  "translation": "ເພິ່ນສ້າງ⟨את⟩ປະຕູສູງຂອງເຮືອນຂອງຢາເວ ແລະຢູ່ໃນກຳແພງຂອງໂອເຟນ ເພິ່ນສ້າງຫຼາຍ.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ສ້າງ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ປະຕູສູງ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ປະຕູ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ເຮືອນ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຂອງຢາເວ"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "ສູງ"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "ແລະຢູ່ໃນກຳແພງ"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "ຂອງໂອເຟນ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ສ້າງ"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ຫຼາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T10:28:59.063855195Z",
+  "model": "glm-5.3"
+}

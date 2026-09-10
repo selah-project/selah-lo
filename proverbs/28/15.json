@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ອິງສະໂຕຄຳຮ້ອນ ແລະໝີຕາມລ່າ, ຜູ້ປົກຄອງຊົ່ວເທິງປະຊາຊົນທຸກຍາກກໍຄືດັ່ງນັ້ນ.",
+  "tokens": [
+    {
+      "surface": "ארי",
+      "gloss": "ອິງສະໂຕ"
+    },
+    {
+      "surface": "נהם",
+      "gloss": "ຄຳຮ້ອນ"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "ແລະໝີ"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "ຕາມລ່າ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ຜູ້ປົກຄອງ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ຊົ່ວ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ປະຊາຊົນ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ທຸກຍາກ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:16:11.482187113Z",
+  "model": "glm-5.3"
+}

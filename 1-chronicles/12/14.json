@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ຢິຣະມີຢາຮູທີສິບມັກບານາຍທີສິບເອັດ.",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "ຢິຣະມີຢາຮູ"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "ທີສິບ"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "ມັກບານາຍ"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ທີສິບ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ເອັດ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:14:19.981787904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 49,
+  "translation": "ຈົ່ງຟັງອັນນີ້ ທຸກຊົນຊາດ, ຈົ່ງນັບຟັງ ທຸກຜູ້ຢູ່ໂລກ",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ຈົ່ງຟັງ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ອັນນີ້"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ຊົນຊາດ"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "ຈົ່ງນັບຟັງ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ຜູ້ຢູ່"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "ໂລກ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:13:45.870220529Z",
+  "model": "glm-5.3"
+}

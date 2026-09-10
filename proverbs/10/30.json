@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ຜູ້ຊອບທຳຕະຫຼອດໄປຈະບໍ່ສັ່ນຄອນ ແລະຄົນຊົ່ວຈະບໍ່ຢູ່ໃນແຜ່ນດິນ.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "ຜູ້ຊອບທຳ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ຕະຫຼອດໄປ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ຈະບໍ່"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ສັ່ນຄອນ"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ແລະຄົນຊົ່ວ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ຈະບໍ່"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ຢູ່"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ໃນແຜ່ນດິນ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:35:37.187938659Z",
+  "model": "glm-5.3"
+}

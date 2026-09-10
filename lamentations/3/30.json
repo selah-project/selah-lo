@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ຈົ່ງຍື່ນແກ້ມໃຫ້ຜູ້ຕີເພິ່ນ ຈົ່ງໃຫ້ເພິ່ນອິ່ມໄປດ້ວຍຄວາມອັບອາຍ",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ຍື່ນໃຫ້"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "ໃຫ້ຜູ້ຕີເພິ່ນ"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "ແກ້ມ"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ອິ່ມໄປດ້ວຍ"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "ຄວາມອັບອາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:23:38.268719198Z",
+  "model": "glm-5.3"
+}

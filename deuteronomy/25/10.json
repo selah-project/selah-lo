@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ແລະຊື່ຂອງເພິ່ນຈະຖືກເອີ້ນໃນອິສະຣາເອນວ່າ: ເຮືອນຂອງຜູ້ຖືກຖອດຮອງ.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "ແລະຈະຖືກເອີ້ນ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ຊື່ຂອງເພິ່ນ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ໃນອິສະຣາເອນ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ເຮືອນ"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "ຂອງຜູ້ຖືກຖອດ"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "ຮອງ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:38:28.932437905Z",
+  "model": "glm-5.3"
+}

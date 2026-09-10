@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 65,
+  "translation": "ຜູ້ຟັງຄຳອະທິຖະ ຫາເຈົ້າ ເນື້ອທັງປວງຈະມາ",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ຜູ້ຟັງ"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ຄຳອະທິຖະ"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "ຫາເຈົ້າ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງປວງ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ເນື້ອ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ຈະມາ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:25:47.615003170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "lo",
+  "chapter": 27,
+  "translation": "ແລະມີການບອກແກ່ຊາອູນວ່າ ດາວິດໜີໄປກາດ ແລະເພິ່ນບໍ່ໄດ້ເພີ່ມຊອກຫາອີກ.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ແລະມີການບອກ"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ແກ່ຊາອູນ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ໜີໄປ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ດາວິດ"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ກາດ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ໄດ້ເພີ່ມ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ອີກ"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "ຊອກຫາ"
+    }
+  ],
+  "timestamp": "2026-09-08T21:42:03.842906697Z",
+  "model": "glm-5.3"
+}

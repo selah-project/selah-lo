@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ໃນວັນນັ້ນຈຳນວນຂອງຜູ້ຖືກຂ້າໃນຊູຊານປາສານມາໜ້າຂອງກະສັດ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ໃນວັນ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ນັ້ນ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ມາ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ຈຳນວນ"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "ຂອງຜູ້ຖືກຂ້າ"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "ໃນຊູຊານ"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "ປາສານ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ໜ້າ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ຂອງກະສັດ"
+    }
+  ],
+  "timestamp": "2026-09-10T01:30:54.352191031Z",
+  "model": "glm-5.3"
+}

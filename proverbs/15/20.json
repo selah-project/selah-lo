@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 15,
+  "translation": "ລູກຊາຍຜູ້ມີປັນຍາເຮັດໃຫ້ພໍ່ດີໃຈ ແລະຄົນໂງ່ເຂັ້ດູຖູກແມ່ຂອງລາວ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ຜູ້ມີປັນຍາ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ເຮັດໃຫ້ດີໃຈ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ພໍ່"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ແລະຄົນໂງ່ເຂັ້ນ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "ດູຖູກ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ແມ່ຂອງລາວ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:13:01.276617801Z",
+  "model": "glm-5.3"
+}

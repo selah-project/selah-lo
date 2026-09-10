@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ແລະໃນເດືອນທຳອິດ ໃນວັນທີສິບສີ່ຂອງເດືອນ ⟨ເປັນ⟩ ປັດສະຈາຂອງຢາເວ.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "ແລະໃນເດືອນ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ທຳອິດ"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ໃນສີ່"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ຂອງເດືອນ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ປັດສະຈາ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ຂອງຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:28:58.869115058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ທີເຈັດແກ່ຮະໂກດ ທີແປດແກ່ອາບິຢາ.",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "ແກ່ຮະໂກດ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ທີເຈັດ"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "ແກ່ອາບິຢາ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ທີແປດ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:42:24.942703078Z",
+  "model": "glm-5.3"
+}

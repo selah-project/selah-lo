@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ທັງໝົດນີ້ປະກອບກັນຢູ່ຫຼຸມຊິດດິມ — ນັ້ນຄືທະເລເກືອ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ທັງນີ້"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "ປະກອບກັນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢູ່"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ຫຼຸມ"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "ຊິດດິມ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ນັ້ນຄື"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ທະເລ"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "ເກືອ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:15:41.015592155Z",
+  "model": "glm-5.3"
+}

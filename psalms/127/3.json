@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 127,
+  "translation": "ເບິ່ງແມລູກຫຼານເປັນມະລຶກຂອງຢາເວ ຜົນຂອງຄັນເປັນລາງວັນ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ເບິ່ງແມ"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ມະລຶກຂອງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ລູກຫຼານ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ລາງວັນ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ຜົນ"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "ຂອງຄັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:04:11.683326579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 29:1",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 29,
+  "translation": "ໃນປີທີສິບ ວັນທີສິບສອງຂອງເດືອນ ຄຳຂອງຢາເວໄດ້ມາຫາຂ້ອຍວ່າ:",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "ໃນປີ"
+    },
+    {
+      "surface": "העשירית",
+      "gloss": "ທີສິບ"
+    },
+    {
+      "surface": "בעשרי",
+      "gloss": "ວັນທີສິບ"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ຂອງເດືອນ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ໄດ້ເປັນມາ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ຫາຂ້ອຍ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T01:34:58.748614277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 56,
+  "translation": "ສັດທຸກໂຕຂອງທົ່ງ ຈົ່ງມາກິນ ສັດທຸກໂຕໃນປ່າ",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "ສັດຂອງທົ່ງ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": ""
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "ຈົ່ງມາ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ກິນ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "ສັດ"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "ໃນປ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T23:48:38.096301484Z",
+  "model": "glm-5.3"
+}

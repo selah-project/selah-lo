@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ແລະອາຊາຣິຢາມີລູກ⟨את⟩ເຊຣາຢາ ແລະເຊຣາຢາມີລູກ⟨את⟩ເຢໂຮຊາດາກ.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "ແລະ ອາຊາຣິຢາ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ມີລູກ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເຊຣາຢາ"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "ເຊຣາຢາ"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "ແລະ ເຊຣາຢາ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ມີລູກ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເຢໂຮຊາດາກ"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "ເຢໂຮຊາດາກ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:08:43.361046463Z",
+  "model": "glm-5.3"
+}

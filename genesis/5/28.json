@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 5:28",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ແລະຫຼເມກມີຊີວິດສອງປີແລະແປດສິບປີແລະຮ້ອຍປີ ແລະເພິ່ນໄດ້ມີລູກຊາຍ",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ມີຊີວິດ"
+    },
+    {
+      "surface": "למך",
+      "gloss": "ຫຼເມກ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ແລະແປດສິບ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ແລະຮ້ອຍ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ແລະເພິ່ນໄດ້ມີລູກຊາຍ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:02:52.107496818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 4:29",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ແລະໃນບິລຮາ ແລະໃນເອັດຊະມ ແລະໃນໂທລາດ.",
+  "tokens": [
+    {
+      "surface": "ובבלהה",
+      "gloss": "ແລະໃນບິລຮາ"
+    },
+    {
+      "surface": "ובעצם",
+      "gloss": "ແລະໃນເອັດຊະມ"
+    },
+    {
+      "surface": "ובתולד",
+      "gloss": "ແລະໃນໂທລາດ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:12:32.956464894Z",
+  "model": "glm-5.3"
+}

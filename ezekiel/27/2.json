@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 27,
+  "translation": "ແລເຈົ້າ ລູກຊາຍຂອງມະນຸດ, ຈົ່ງຍົກບົດໄວ້ຄົນຕາຍຂຶ້ນຕໍ່ໂສນ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ແລເຈົ້າ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ຂອງມະນຸດ"
+    },
+    {
+      "surface": "שא",
+      "gloss": "ຈົ່ງຍົກ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ໂສນ"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ບົດໄວ້ຄົນຕາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T01:33:13.053489620Z",
+  "model": "glm-5.3"
+}

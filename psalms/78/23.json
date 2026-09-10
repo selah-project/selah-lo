@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 78,
+  "translation": "ແລະເພິ່ນສັ່ງເມກຈາກເທິງ ແລະປະຕູຟ້າສະຫວັນໄດ້ເປີດ.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ແລະເພິ່ນສັ່ງ"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ເມກ"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ຈາກເທິງ"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "ແລະປະຕູ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ຟ້າສະຫວັນ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ໄດ້ເປີດ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:35:34.600080488Z",
+  "model": "glm-5.3"
+}

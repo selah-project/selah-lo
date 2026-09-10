@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 25,
+  "translation": "ຈົ່ງວາງຂະໜົມໜ້າຢູ່ເທິງໂຕະ ຢູ່ຕໍ່ໜ້າຂອງເຮົາສະເໝີ",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ຈົ່ງວາງ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຢູ່ເທິງ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ໂຕະ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ຂະໜົມ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ໜ້າ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ຢູ່ຕໍ່ໜ້າຂອງເຮົາ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ສະເໝີ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:53:43.267982772Z",
+  "model": "glm-5.3"
+}

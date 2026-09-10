@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ແສດສຳລັບມ້າ ສາຍຄໍສຳລັບລາ ແລະໄມ້ຕີສຳລັບຫຼັງຂອງຄົນໂງ່.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "ແສດ"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "ສຳລັບມ້າ"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "ສາຍຄໍ"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "ສຳລັບລາ"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "ແລະໄມ້ຕີ"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "ສຳລັບຫຼັງ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ຂອງຄົນໂງ່"
+    }
+  ],
+  "timestamp": "2026-09-09T05:55:25.916089515Z",
+  "model": "glm-5.3"
+}

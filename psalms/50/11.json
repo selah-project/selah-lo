@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 50,
+  "translation": "ຂ້ອຍຮູ້ນົກທັງປວກຂອງພູ ແລະສັດຕົວຂອງທົ່ງນາຢູ່ກັບເຮົາ.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "ຂ້ອຍຮູ້"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງປວກ"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ນົກ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ຂອງພູ"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "ແລະສັດຕົວ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ຂອງທົ່ງນາ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ຢູ່ກັບເຮົາ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:06:24.080807264Z",
+  "model": "glm-5.3"
+}

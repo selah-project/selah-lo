@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ບ່ອນອາມາຣິຢາຮ ບ່ອນອາຊາຣິຢາຮ ບ່ອນເມຣາໂຢດ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ບ່ອນ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ອາມາຣິຢາຮ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ບ່ອນ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ອາຊາຣິຢາຮ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ບ່ອນ"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "ເມຣາໂຢດ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:27:11.592689846Z",
+  "model": "glm-5.3"
+}

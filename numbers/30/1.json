@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 30:1",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ແລະໂມເຊກ່າວຕໍ່ລູກຫຼານຂອງອິສະຣາເອນວ່າ: ຕາມທັງໝົດທີ່ຢາເວບັນຍັດ⟨את⟩ໂມເຊ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະກ່າວ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ຕາມທັງໝົດ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ບັນຍັດ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ໂມເຊ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:09:09.799941372Z",
+  "model": "glm-5.3"
+}

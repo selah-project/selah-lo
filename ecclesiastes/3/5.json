@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ເວລາຂວາງຫີນ ແລະເວລາເກັບຫີນ ເວລາກອດກອດ ແລະເວລາຫ່າງຈາກການກອດກອດ.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ເວລາ"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "ຂວາງ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ຫີນ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ແລະເວລາ"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "ເກັບ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ຫີນ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ເວລາ"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "ກອດກອດ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ແລະເວລາ"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "ຫ່າງຈາກ"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "ການກອດກອດ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:19:09.102994795Z",
+  "model": "glm-5.3"
+}

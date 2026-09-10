@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ແລະທັງໝົດຜູ້ຖືກນັບ ⟨ເປັນ⟩ ຫົກແສນພັນ ແລະສາມພັນ ແລະຫ້າຮ້ອຍ ແລະຫ້າສິບຄົນ",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ແລະເປັນ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "ຜູ້ຖືກນັບ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ຫົກ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ແສນ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ພັນ"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "ແລະສາມ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ພັນ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ແລະຫ້າ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ແລະຫ້າສິບ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:51:29.917449632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 5:4",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ແລະທີ່ສຸດທ້າຍຂອງນາງ ຂົມຂື່ນຄືໄມ້ຂະສ້ຽວ ຄົມຄືດາບສອງຄົມ.",
+  "tokens": [
+    {
+      "surface": "ואחריתה",
+      "gloss": "ແລະທີ່ສຸດທ້າຍຂອງນາງ"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "ຂົມຂື່ນ"
+    },
+    {
+      "surface": "כלענה",
+      "gloss": "ຄືໄມ້ຂະສ້ຽວ"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "ຄົມ"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "ຄືດາບ"
+    },
+    {
+      "surface": "פיות",
+      "gloss": "ສອງຄົມ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:30:22.251453628Z",
+  "model": "glm-5.3"
+}

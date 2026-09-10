@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ຕໍ່ອາຊະນິ ຕະກູນອາຊະນິ ຕໍ່ອາຣິ ຕະກູນອາຣິ",
+  "tokens": [
+    {
+      "surface": "לאזני",
+      "gloss": "ຕໍ່ອາຊະນິ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ຕະກູນ"
+    },
+    {
+      "surface": "האזני",
+      "gloss": "ອາຊະນິ"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "ຕໍ່ອາຣິ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ຕະກູນ"
+    },
+    {
+      "surface": "הערי",
+      "gloss": "ອາຣິ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:25:15.130545529Z",
+  "model": "glm-5.3"
+}

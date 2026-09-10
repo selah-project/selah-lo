@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 98,
+  "translation": "ດ້ວຍແຕນທອງ ແລະສຽງແຕນແກະ ຈົ່ງຮ້ອງຕໍ່ໜ້າຢາເວ ກະສັດ",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "ດ້ວຍແຕນທອງ"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ແລະສຽງ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ແຕນແກະ"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ຈົ່ງຮ້ອງ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ຕໍ່ໜ້າ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:51:57.902274557Z",
+  "model": "glm-5.3"
+}

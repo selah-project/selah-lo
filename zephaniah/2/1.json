@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ຈົ່ງຮວບຮວມຕົວ ຈົ່ງຮວບຮວມ, ໂດຍຊົນຊາດທີ່ບໍ່ຖືກປາຖະໜາ",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "ຈົ່ງຮວບຮວມຕົວ"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "ແລະຈົ່ງຮວບຮວມ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ຊົນຊາດ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "ຖືກປາຖະໜາ"
+    }
+  ],
+  "timestamp": "2026-09-10T00:19:47.582202710Z",
+  "model": "glm-5.3"
+}

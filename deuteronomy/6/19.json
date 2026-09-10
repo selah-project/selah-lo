@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ເພື່ອຂັບໄລ່⟨את⟩ສັດຕູທັງປວກຂອງເຈົ້າ ຈາກໜ້າເຈົ້າ ດັ່ງທີ່ຢາເວໄດ້ກ່າວ.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "ເພື່ອຂັບໄລ່"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ສັດຕູທັງປວກ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງປວກ"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ສັດຕູຂອງເຈົ້າ"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ຈາກໜ້າເຈົ້າ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ດັ່ງທີ່"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ໄດ້ກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:48:18.194648971Z",
+  "model": "glm-5.3"
+}

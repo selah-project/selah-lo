@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 27:9",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 27,
+  "translation": "ເອນຈະຟັງສຽງຮ້ອງຂອງເຂົາຫຼື ເມື່ອຄວາມທຸກຮອດຕົນ?",
+  "tokens": [
+    {
+      "surface": "הצעקתו",
+      "gloss": "ສຽງຮ້ອງຂອງເຂົາ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ຟັງ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເອນ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເມື່ອ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ມາຮອດ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ຮອດຕົນ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ຄວາມທຸກ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:31:48.412542556Z",
+  "model": "glm-5.3"
+}

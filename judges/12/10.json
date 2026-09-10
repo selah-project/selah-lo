@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ແລະອິບສານຕາຍ ແລະຖືກຝັງຢູ່ເບທເລເຮັມ",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ແລະຕາຍ"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "ອິບສານ"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ແລະຖືກຝັງ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ຢູ່ເບທ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ເລເຮັມ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:59:41.403986627Z",
+  "model": "glm-5.3"
+}

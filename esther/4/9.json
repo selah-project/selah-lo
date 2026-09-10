@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ແລະຮາທັກມາ ແລະບອກແກ່ເອສເທີ⟨את⟩ຄຳຂອງມາຣດຄາຍ.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "ແລະມາ"
+    },
+    {
+      "surface": "התך",
+      "gloss": "ຮາທັກ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ແລະບອກ"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "ແກ່ເອສເທີ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຄຳຂອງມາຣດຄາຍ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ມາຣດຄາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:33:31.510347946Z",
+  "model": "glm-5.3"
+}

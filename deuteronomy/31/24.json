@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 31,
+  "translation": "ແລະເປັນມາ ເມື່ອໂມເຊສຳເລັດການຂຽນ⟨את⟩ຄຳຂອງໂທຣານີ້ໃສ່ໜັງສື ຈົນເຖິງຄົບຖ້ວນ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະເປັນມາ"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "ເມື່ອສຳເລັດ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "ຂຽນ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຄຳຂອງໂທຣານີ້"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ຄຳຂອງ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ໂທຣາ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "על",
+      "gloss": "ໃສ່"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ໜັງສື"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ຈົນເຖິງ"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "ຄົບຖ້ວນ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:19:12.070006604Z",
+  "model": "glm-5.3"
+}

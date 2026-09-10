@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 18:18",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 18,
+  "translation": "ການຈົກຢຸດຄວາມຂັດແຍ່ງ ແລະແຍກລະຫວ່າງຄົນເຂັ້ມແຂງ.",
+  "tokens": [
+    {
+      "surface": "מדינים",
+      "gloss": "ຄວາມຂັດແຍ່ງ"
+    },
+    {
+      "surface": "ישבית",
+      "gloss": "ຢຸດ"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "ການຈົກ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ແລະລະຫວ່າງ"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "ຄົນເຂັ້ມແຂງ"
+    },
+    {
+      "surface": "יפריד",
+      "gloss": "ແຍກອອກ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:13:38.566966933Z",
+  "model": "glm-5.3"
+}

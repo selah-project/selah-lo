@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 3:22",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ຢ່າຢ້າພວກມັນ ເພາະວ່າຢາເວ ເອໂລຮິມຂອງພວກເຈົ້າ ເພິ່ນສູ້ຮົບເພື່ອພວກເຈົ້າ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תיראום",
+      "gloss": "ຢ້າພວກມັນ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະວ່າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ເອໂລຮິມຂອງພວກເຈົ້າ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "ສູ້ຮົບ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ເພື່ອພວກເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:42:16.556912775Z",
+  "model": "glm-5.3"
+}

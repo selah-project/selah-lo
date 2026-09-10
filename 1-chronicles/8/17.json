@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະເຊບັດຢາຮ ແລະເມຊຸລາມ ແລະຮິດສະກີ ແລະຮາເບນ",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "ແລະເຊບັດຢາຮ"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "ແລະເມຊຸລາມ"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "ແລະຮິດສະກີ"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "ແລະຮາເບນ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:17:31.260486235Z",
+  "model": "glm-5.3"
+}

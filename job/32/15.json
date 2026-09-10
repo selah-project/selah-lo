@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 32:15",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 32,
+  "translation": "ພວກເຂົາຕົກໃຈ, ບໍ່ໄດ້ຕອບອີກ; ຄຳໄດ້ຫາຍໄປຈາກພວກເຂົາ.",
+  "tokens": [
+    {
+      "surface": "חתו",
+      "gloss": "ຕົກໃຈ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ໄດ້ຕອບ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ອີກ"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "ໄດ້ຫາຍໄປ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ຈາກພວກເຂົາ"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "ຄຳ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:39:33.172995024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 40,
+  "translation": "ແລະເພິ່ນຈັດວາງເທິງມັນແຖວຂອງຂະໜົມ ຕໍ່ໜ້າຢາເວ ຕາມທີ່ຢາເວສັ່ງ⟨את⟩ໂມເຊ.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "ແລະເພິ່ນຈັດວາງ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ເທິງມັນ"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "ແຖວ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ຂະໜົມ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ຕໍ່ໜ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ຕາມທີ່"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ສັ່ງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ໂມເຊ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:12:12.322466672Z",
+  "model": "glm-5.3"
+}

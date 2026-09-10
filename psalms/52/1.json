@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 52,
+  "translation": "ແກ່ຜູ້ຄວບຄຸມ, ບົດສອນຂອງດາວິດ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ແກ່ຜູ້ຄວບຄຸມ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ບົດສອນ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ຂອງດາວິດ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:19:53.793800705Z",
+  "model": "glm-5.3"
+}

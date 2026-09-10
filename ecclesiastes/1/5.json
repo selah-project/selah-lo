@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ແລະດວງຕາເວັນຂຶ້ນ ແລະດວງຕາເວັນລົງ ແລະຮົ່ວໄປຫາບ່ອນຂອງມັນ ເພິ່ນສະຫວ່າງຢູ່ທີ່ນັ້ນ.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "ແລະຂຶ້ນ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ດວງຕາເວັນ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ແລະລົງ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ດວງຕາເວັນ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ແລະໄປຫາ"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ບ່ອນຂອງມັນ"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "ຮົ່ວ"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "ສະຫວ່າງ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ຢູ່ທີ່ນັ້ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:45:18.628960335Z",
+  "model": "glm-5.3"
+}

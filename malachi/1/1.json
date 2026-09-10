@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ພາລະຂອງຄຳຢາເວຕໍ່ອິສະຣາເອນ ດ້ວຍມືຂອງມາລາກີ.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ພາລະ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ດ້ວຍມື"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "ມາລາກີ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:30:34.523169916Z",
+  "model": "glm-5.3"
+}

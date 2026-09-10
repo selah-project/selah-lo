@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 8:25",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະຢິດເປດຢາຮ ແລະເປນົວເອນ ເປັນລູກຊາຍຂອງຊາຊັກ.",
+  "tokens": [
+    {
+      "surface": "ויפדיה",
+      "gloss": "ແລະຢິດເປດຢາຮ"
+    },
+    {
+      "surface": "ופניאל",
+      "gloss": "ແລະເປນົວເອນ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "ຊາຊັກ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:18:34.975892520Z",
+  "model": "glm-5.3"
+}

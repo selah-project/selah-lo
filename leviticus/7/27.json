@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ທຸກຄົນຜູ້ທີ່ກິນເລືອດປະເພດໃດກໍຕາມ ຄົນນັ້ນຈະຖືກຕັດອອກຈາກຊາວຊົນຂອງຕົນ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ຜູ້ທີ່"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ກິນ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ເລືອດ"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "ແລະຖືກຕັດອອກ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ນັ້ນ"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "ຈາກຊາວຊົນຂອງຕົນ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:49:03.621258920Z",
+  "model": "glm-5.3"
+}

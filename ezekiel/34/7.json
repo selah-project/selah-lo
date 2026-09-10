@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 34,
+  "translation": "ດັ່ງນັ້ນຄູແກະຈົ່ງຟັງ⟨את⟩ຄຳຂອງຢາເວ.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ດັ່ງນັ້ນ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ຄູແກະ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ຈົ່ງຟັງ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຄຳ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T01:42:45.002514047Z",
+  "model": "glm-5.3"
+}

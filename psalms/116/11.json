@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 116,
+  "translation": "ຂ້ອຍເວົ້າໃນຄວາມຮີບດ່ວນວ່າ ຄົນທັງປວກເປັນຄົນໂກຫກ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ຂ້ອຍ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ຂ້ອຍເວົ້າ"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "ໃນຄວາມຮີບດ່ວນ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງປວກ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ເປັນຄົນໂກຫກ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:05:01.146602182Z",
+  "model": "glm-5.3"
+}

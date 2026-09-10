@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 10:16",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ບູນີ ອັດກັດ ເບບາຍ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ບູນີ"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "ອັດກັດ"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "ເບບາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:53:28.913794507Z",
+  "model": "glm-5.3"
+}

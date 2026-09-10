@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 29:20",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 29,
+  "translation": "ແລະໃນວັນທີສາມ ງົວ 11 ໂຕ ແກະຜູ້ 2 ໂຕ ແກະອ່ອນລູກຂອງປີ 14 ໂຕ ບໍ່ມີຕຳຫຼິດ.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ແລະໃນວັນ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ທີສາມ"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ງົວ"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ສິບເອັດ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ແກະຜູ້"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ແກະອ່ອນ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ສີ່"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "ບໍ່ມີຕຳຫຼິດ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:30:03.891498337Z",
+  "model": "glm-5.3"
+}

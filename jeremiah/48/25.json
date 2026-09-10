@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 48:25",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 48,
+  "translation": "ເຂົ້າຂອງມົວບຖືກຕັດອອກ ແລະແຂນຂອງເພິ່ນຫັກ ຄຳພູດຂອງຢາເວ.",
+  "tokens": [
+    {
+      "surface": "נגדעה",
+      "gloss": "ຖືກຕັດອອກ"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "ເຂົ້າ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ມົວບ"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ແລະແຂນຂອງເພິ່ນ"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "ຫັກ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ຄຳພູດ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T17:28:29.906925350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ແລະຜົນປະໂຫຍດຂອງແຜ່ນດິນ⟨ເປັນ⟩ຂອງທຸກສິ່ງ; ກະສັດມັນຕໍ່ທົ່ງນາທີ່ຖືກເຮັດວຽກ.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "ແລະຜົນປະໂຫຍດ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ຂອງແຜ່ນດິນ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ຂອງທຸກສິ່ງ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ມັນ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "ຕໍ່ທົ່ງນາ"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "ຖືກເຮັດວຽກ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:27:35.574929987Z",
+  "model": "glm-5.3"
+}

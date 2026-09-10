@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ແລະຄິນຸບອ້າຍນ້ອງຂອງຊູຄາໄດ້ກຳເນີດ⟨את⟩ມິຮຣເພິ່ນເປັນພໍ່ຂອງເອຊະທອນ",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "ແລະຄິນຸບ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ອ້າຍນ້ອງຂອງ"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "ຊູຄາ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ໄດ້ກຳເນີດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ມິຮຣ"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "ມິຮຣ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ພໍ່ຂອງ"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "ເອຊະທອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:33:08.522509274Z",
+  "model": "glm-5.3"
+}

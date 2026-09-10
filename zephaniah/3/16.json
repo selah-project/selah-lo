@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ໃນວັນນັ້ນຈະກ່າວຕໍ່ເຢຣູຊາລາຢິມວ່າ ຢ່າຢ້າກ ຊີໂອນ ຢ່າໃຫ້ມືຂອງເຈົ້າໜຽວ",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ໃນວັນ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ນັ້ນ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ຈະກ່າວ"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "ຕໍ່ເຢຣູຊາລາຢິມ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "ຢ້າກ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ຊີໂອນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "ໃຫ້ໜຽວ"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ມືຂອງເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:04:42.102072967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ຂ້ອຍໄດ້ພົ່ນຕຽງຂອງຂ້ອຍດ້ວຍໂມຣ ອາຮາລິມ ແລະກິນາໂມນ.",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "ຂ້ອຍໄດ້ພົ່ນ"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "ຕຽງຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "מר",
+      "gloss": "ໂມຣ"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "ອາຮາລິມ"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "ແລະກິນາໂມນ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:33:23.936796386Z",
+  "model": "glm-5.3"
+}

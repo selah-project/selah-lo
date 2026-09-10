@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 98,
+  "translation": "ຈົ່ງຄືນ ທະເລ ແລະຄວາມເຕັມຂອງມັນ ໂລກ ແລະຜູ້ອາໄສໃນມັນ",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "ຈົ່ງຄືນ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ທະເລ"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ແລະຄວາມເຕັມຂອງມັນ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ໂລກ"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ແລະຜູ້ອາໄສ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ໃນມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:51:57.902450852Z",
+  "model": "glm-5.3"
+}

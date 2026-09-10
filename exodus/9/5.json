@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ແລະຢາເວໄດ້ກຳນັດເວລາ ກ່າວວ່າ: „ມື້ອື່ນ ຢາເວຈະທຳສິ່ງນີ້ ໃນແຜ່ນດິນ.“",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ໄດ້ກຳນັດ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ເວລານັດ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ກ່າວວ່າ"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ມື້ອື່ນ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ຈະທຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ສິ່ງ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ໃນແຜ່ນດິນ"
+    }
+  ],
+  "timestamp": "2026-09-09T11:50:49.618181246Z",
+  "model": "glm-5.3"
+}

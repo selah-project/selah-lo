@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ດີກວ່າທີ່ເຈົ້າບໍ່ຖວາຍຄຳໝັ້ນ ຫຼາຍກວ່າການຖວາຍແລ້ວບໍ່ປະຕິບັດ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ດີກວ່າ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ເຈົ້າຖວາຍຄຳໝັ້ນ"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "ຫຼາຍກວ່າການຖວາຍ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "ປະຕິບັດ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:24:22.568086565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ຄວາມແຕກແທນຄວາມແຕກ ຕາແທນຕາ ຟັນແທນຟັນ ດັ່ງທີ່ເພິ່ນໃຫ້ຄວາມພິກຂະພົມໃຫ້ມະນຸດ ດັ່ງນັ້ນຈະຖືກໃຫ້ໃນເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "ຄວາມແຕກ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ແທນ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ຄວາມແຕກ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ຕາ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ແທນ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ຕາ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ຟັນ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ແທນ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ຟັນ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ດັ່ງທີ່"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ເພິ່ນໃຫ້"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ຄວາມພິກຂະພົມ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ໃຫ້ມະນຸດ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ດັ່ງນັ້ນ"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "ຈະຖືກໃຫ້"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ໃນເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:44:34.581217070Z",
+  "model": "glm-5.3"
+}

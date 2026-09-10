@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ຊັບສົມບັດຈາກອາຍຈະຫຼຸດລົງ ແລະຜູ້ສະສົມໂດຍມືຈະເພີ່ມພູນ.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ຊັບສົມບັດ"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "ຈາກອາຍ"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "ຈະຫຼຸດລົງ"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "ແລະຜູ້ສະສົມ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ໂດຍ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ມື"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ຈະເພີ່ມພູນ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:36:11.871612262Z",
+  "model": "glm-5.3"
+}

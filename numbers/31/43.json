@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 31:43",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 31,
+  "translation": "ເຄິ່ງຂອງຊຸມຊົນຈາກຝູງສັດ ແມ່ນສາມແສນໜຶ່ງ ແລະສາມໝື່ນເຈັດພັນ ຫ້າຮ້ອຍໂຕ",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ແລະເປັນ"
+    },
+    {
+      "surface": "מחצת",
+      "gloss": "ເຄິ່ງຂອງ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ຊຸມຊົນ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ຝູງສັດ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ສາມ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ແສນ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ແລະສາມສິບ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ໝື່ນ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ເຈັດ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ພັນ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ແລະຫ້າ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:32:24.559904375Z",
+  "model": "glm-5.3"
+}

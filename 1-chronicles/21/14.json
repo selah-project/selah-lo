@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 21:14",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ແລະຢາເວໃຫ້ໂຣກລະບາດໃນອິສະຣາເອນ ແລະຕົກຈາກອິສະຣາເອນ ເຈັດສິບພັນຄົນ.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ແລະໃຫ້"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ໂຣກລະບາດ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ໃນອິສະຣາເອນ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ແລະຕົກ"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ຈາກອິສະຣາເອນ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ເຈັດສິບ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ພັນ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:42:41.872992891Z",
+  "model": "glm-5.3"
+}

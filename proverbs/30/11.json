@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ມີຊົ່ວຄົນລຸ້ນໜຶ່ງສາບານພໍ່ຂອງມັນ ແລະ⟨את⟩ແມ່ຂອງມັນບໍ່ອວຍພອນ.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ຊົ່ວຄົນລຸ້ນ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ພໍ່ຂອງມັນ"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "ສາບານ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ແມ່ຂອງມັນ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ແມ່ຂອງມັນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ອວຍພອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:20:07.730803733Z",
+  "model": "glm-5.3"
+}

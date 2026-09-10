@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 55,
+  "translation": "ແກ່ຜູ້ຄວບຄຸມ ດ້ວຍເຄື່ອງສາຍ ບົດສອນ ຂອງດາວິດ",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ແກ່ຜູ້ຄວບຄຸມ"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ດ້ວຍເຄື່ອງສາຍ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ບົດສອນ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ຂອງດາວິດ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:19:26.037195535Z",
+  "model": "glm-5.3"
+}

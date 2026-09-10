@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 35:2",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 35,
+  "translation": "ລູກຂອງມະນຸດ ຈົ່ງຕັ້ງໜ້າຂອງເຈົ້າຕໍ່ພູຊີເອຣ ແລະຈົ່ງພະຍາກອນຕໍ່ມັນ",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ລູກ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ມະນຸດ"
+    },
+    {
+      "surface": "שים",
+      "gloss": "ຈົ່ງຕັ້ງ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ໜ້າຂອງເຈົ້າ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ພູ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ຊີເອຣ"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "ແລະຈົ່ງພະຍາກອນ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ຕໍ່ມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T01:46:06.272849379Z",
+  "model": "glm-5.3"
+}

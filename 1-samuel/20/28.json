@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 20:28",
+  "book": "1-samuel",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ແລະໂຢນາທານຕອບ⟨את⟩ຊາອູນວ່າ: ດາວິດຂໍ ຂໍຫຼາຍຄັ້ງຈາກຂ້ອຍໃຫ້ໄປເບັດເລເຮັມ.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ຕອບ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ໂຢນາທານ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຊາອູນ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ຊາອູນ"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "ຂໍ"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "ຂໍ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ດາວິດ"
+    },
+    {
+      "surface": "מעמדי",
+      "gloss": "ຈາກຂ້ອຍ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ໃຫ້ໄປ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ເບັດ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ເລເຮັມ"
+    }
+  ],
+  "timestamp": "2026-09-08T21:33:41.380688998Z",
+  "model": "glm-5.3"
+}

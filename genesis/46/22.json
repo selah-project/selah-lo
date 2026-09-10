@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 46,
+  "translation": "ເຫຼົ່ານີ້ຄືລູກຊາຍຂອງຣາເຮນຜູ້ທີ່ເກີດແກ່ຢາອາໂຄບທັງໝົດສິບສີ່ຄົນ.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ເຫຼົ່ານີ້"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ຣາເຮນ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ຜູ້ທີ່"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ເກີດ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ແກ່ຢາອາໂຄບ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ສິບສີ່"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບສີ່"
+    }
+  ],
+  "timestamp": "2026-09-09T21:37:19.125749743Z",
+  "model": "glm-5.3"
+}

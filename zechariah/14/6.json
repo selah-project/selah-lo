@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 14:6",
+  "book": "zechariah",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ແລະຈະເປັນໃນວັນນັ້ນ ຈະບໍ່ມີແສງສະຫວ່າງ ອັນລ້ຳຄ່າຈະຫົດຕົວລົງ",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ແລະຈະເປັນ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ໃນວັນ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ນັ້ນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ຈະມີ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ແສງສະຫວ່າງ"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "ອັນລ້ຳຄ່າ"
+    },
+    {
+      "surface": "יקפאון",
+      "gloss": "ຈະຫົດຕົວລົງ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:01:19.523425398Z",
+  "model": "glm-5.3"
+}

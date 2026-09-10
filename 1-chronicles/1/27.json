@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 1:27",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ອັບຣາມ — ເພິ່ນຄືອັບຣາຮາມ.",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "ອັບຣາມ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ອັບຣາຮາມ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:01:14.510598906Z",
+  "model": "glm-5.3"
+}

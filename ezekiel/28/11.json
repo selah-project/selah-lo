@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 28:11",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 28,
+  "translation": "ແລະຄຳຂອງຢາເວມາຫາຂ້ອຍ ເວົ້າວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະມີ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳຂອງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ມາຫາຂ້ອຍ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ເວົ້າວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T17:47:13.651501499Z",
+  "model": "glm-5.3"
+}

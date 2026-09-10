@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ຄຳຂອງຢາເວທີ່ໄດ້ມາຫາໂຢເອນ (ໂຢເອນ) ລູກຊາຍຂອງເປທູເອນ (ເພທູເອນ).",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ໄດ້ມາ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "ໂຢເອນ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "ເປທູເອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T02:24:12.909281548Z",
+  "model": "glm-5.3"
+}

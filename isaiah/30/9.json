@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 30:9",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ເພາະປະຊາຊົນເປັນປະຊາຊົນກະບົດ ລູກຫຼານຕິດກາ ລູກຫຼານທີ່ບໍ່ຍອມຟັງໂທຣາຂອງຢາເວ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ປະຊາຊົນ"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "ກະບົດ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເປັນ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ລູກຫຼານ"
+    },
+    {
+      "surface": "כחשים",
+      "gloss": "ຕິດກາ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ລູກຫຼານ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "ຍອມ"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "ຟັງ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ໂທຣາ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-08T23:31:24.557159488Z",
+  "model": "glm-5.3"
+}

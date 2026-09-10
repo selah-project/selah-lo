@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ອາບິເມເລກກ່າວກັບອັບຣາຮາມວ່າ: ເຈົ້າໄດ້ເຫັນຫຍັງ ຈົນໄດ້ເຮັດ⟨את⟩ສິ່ງນີ້?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ກ່າວ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ອາບິເມເລກ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ອັບຣາຮາມ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ຫຍັງ"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ເຈົ້າໄດ້ເຫັນ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ຈົນ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ໄດ້ເຮັດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ສິ່ງນີ້"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ສິ່ງ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ນີ້"
+    }
+  ],
+  "timestamp": "2026-09-09T11:09:17.733918421Z",
+  "model": "glm-5.3"
+}

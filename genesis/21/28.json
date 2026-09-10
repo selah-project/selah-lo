@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ອັບຣາຮາມໄດ້ວາງ ⟨את⟩ ເຈັດໂຕ ແມ່ແກະຂອງຝູງແກະ ຕ່າງຫາກ.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "ໄດ້ວາງ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ອັບຣາຮາມ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເຈັດແມ່ແກະຂອງຝູງແກະ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ເຈັດ"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "ແມ່ແກະ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ຂອງຝູງແກະ"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "ຕ່າງຫາກ"
+    }
+  ],
+  "timestamp": "2026-09-09T11:14:18.056387286Z",
+  "model": "glm-5.3"
+}

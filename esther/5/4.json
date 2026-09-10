@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 5:4",
+  "book": "esther",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ແລະເອດສເຣນກ່າວວ່າ: „ຖ້າມັນດີແກ່ກະສັດ ຂໍໃຫ້ກະສັດແລະຮາມານມາມື້ນີ້ຫາງານທີ່ຂ້ອຍໄດ້ກຽມໄວ້ແກ່ເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ກ່າວ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ເອດສເຣນ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ຖ້າ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ແກ່"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ມາ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ຮາມານ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ມື້ນີ້"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "ງານ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ໄດ້ກຽມ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ແກ່ເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:38:31.541687757Z",
+  "model": "glm-5.3"
+}

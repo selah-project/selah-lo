@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 7:12",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ບາງເທື່ອຢູ່ນອກ ບາງເທື່ອຢູ່ຕາມຖະໜົນ ແລະໃກ້ທຸກມຸມ ນາງຊອນຮໍ່າ.",
+  "tokens": [
+    {
+      "surface": "פעם",
+      "gloss": "ບາງເທື່ອ"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ຢູ່ນອກ"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "ບາງເທື່ອ"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "ຢູ່ຕາມຖະໜົນ"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "ແລະໃກ້"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ມຸມ"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "ນາງຊອນຮໍ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:31:50.410922540Z",
+  "model": "glm-5.3"
+}

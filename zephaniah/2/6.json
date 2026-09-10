@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 2:6",
+  "book": "zephaniah",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະຈະເປັນ ແຄມຝັ່ງທະເລ ບ່ອນພັກທົ່ງຫຍ້າຂອງຄອນແກະ ແລະຄອກຂອງແກະ.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ແລະຈະເປັນ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ແຄມຝັ່ງ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ທະເລ"
+    },
+    {
+      "surface": "נות",
+      "gloss": "ບ່ອນພັກ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ທົ່ງຫຍ້າ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ຂອງຄອນແກະ"
+    },
+    {
+      "surface": "וגדרות",
+      "gloss": "ແລະຄອກ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ແກະ"
+    }
+  ],
+  "timestamp": "2026-09-09T03:10:12.399163627Z",
+  "model": "glm-5.3"
+}

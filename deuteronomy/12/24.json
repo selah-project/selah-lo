@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ເຈົ້າຈົ່ງຢ່າກິນມັນ ເທນັ້ນແຜ່ນດິນ ດັ່ງນ້ຳ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ຈົ່ງຢ່າ"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ກິນມັນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທນັ້ນ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ແຜ່ນດິນ"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ເຈົ້າຈະເທມັນ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ດັ່ງນ້ຳ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:55:34.761367146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 67,
+  "translation": "ຊົນຊາດຂອບໃຈເຈົ້າ ເອໂລຮິມ ຊົນຊາດຂອບໃຈເຈົ້າ ທັງຫຼາຍ.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "ຂອບໃຈ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ຊົນຊາດ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ເອໂລຮິມ"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "ຂອບໃຈ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ຊົນຊາດ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ທັງຫຼາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:44:57.291757893Z",
+  "model": "glm-5.3"
+}

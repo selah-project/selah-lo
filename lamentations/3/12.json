@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ເພິ່ນຂຶ້ນສາຍຄັດຂອງເພິ່ນ ແລະຕັ້ງຂ້ອຍເປັນເປົ້າໝາຍ ຄືລູກສອນ.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ຂຶ້ນສາຍ"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "ຄັດຂອງເພິ່ນ"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "ແລະຕັ້ງຂ້ອຍ"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "ເປັນເປົ້າໝາຍ"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ລູກສອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:42:21.942318552Z",
+  "model": "glm-5.3"
+}

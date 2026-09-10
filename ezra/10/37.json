@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ມາທັນຢາຮ ມາທານັຍ ແລະຢາຊາວ",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "ມາທັນຢາຮ"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "ມາທານັຍ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ແລະຢາຊາວ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:29:07.858595519Z",
+  "model": "glm-5.3"
+}

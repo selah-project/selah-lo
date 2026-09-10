@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ຂອງກາດເອນິຍາຊາບລູກຂອງເດອູເອນ",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "ຂອງກາດ"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ເອນິຍາຊາບ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "ເດອູເອນ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:50:55.325614861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ຈົ່ງເບິ່ງ⟨את⟩ວຽກຂອງເອໂລຮິມ ດັວນີ້ໃຜສາມາດທຳ⟨את⟩ສິ່ງທີ່ບິດເບືອນນັ້ນໃຫ້ຕັ້ງ",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ຈົ່ງເບິ່ງ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ວຽກ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ວຽກ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ເອໂລຮິມ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ດັວນີ້"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ສາມາດ"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "ທຳໃຫ້ຕັ້ງ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ສິ່ງທີ່ບິດເບືອນນັ້ນ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ສິ່ງທີ່"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "ບິດເບືອນນັ້ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:25:49.135629310Z",
+  "model": "glm-5.3"
+}

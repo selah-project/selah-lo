@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 5:30",
+  "book": "daniel",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ໃນຄືນນັ້ນເບລຊາດຊາກະສັດຂອງຄັສດີຖືກຂ້າ.",
+  "tokens": [
+    {
+      "surface": "בה",
+      "gloss": "ໃນ"
+    },
+    {
+      "surface": "בליליא",
+      "gloss": "ຄືນນັ້ນ"
+    },
+    {
+      "surface": "קטיל",
+      "gloss": "ຖືກຂ້າ"
+    },
+    {
+      "surface": "בלאשצר",
+      "gloss": "ເບລຊາດຊາ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ກະສັດຂອງ"
+    },
+    {
+      "surface": "כשדיא",
+      "gloss": "ຄັສດີ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:54:28.900661508Z",
+  "model": "glm-5.3"
+}

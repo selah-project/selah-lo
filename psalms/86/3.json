@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 86,
+  "translation": "ຈົ່ງເມດຕາຕໍ່ຂ້ອຍ ອາໂດນາຍ ຍ້ອນຂ້ອຍຮ້ອງຫາເຈົ້າ ທັງໝົດມື້.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "ຈົ່ງເມດຕາຕໍ່ຂ້ອຍ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ອາໂດນາຍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ຍ້ອນ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ຫາເຈົ້າ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ຂ້ອຍຮ້ອງ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ມື້"
+    }
+  ],
+  "timestamp": "2026-09-09T04:45:29.682165322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 43:8",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 43,
+  "translation": "ແລະຄຳຂອງຢາເວມາຫາເຢຣມິຢາຢູ່ຕາຮະຟານເຣດວ່າ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະໄດ້ເກີດມີ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳຂອງ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ມາຫາ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ເຢຣມິຢາ"
+    },
+    {
+      "surface": "בתחפנחס",
+      "gloss": "ຢູ່ຕາຮະຟານເຣດ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:43:55.442878038Z",
+  "model": "glm-5.3"
+}

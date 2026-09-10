@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະເພິ່ນໄດ້ສົ່ງ⟨את⟩ນກ ມັນອອກ ອອກແລະກັບ ຈົນວ່ານ້ຳແຫ້ງຈາກເທິງແຜ່ນດິນໂລກ",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ໄດ້ສົ່ງ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ນກ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ນກ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ແລະອອກ"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "ອອກ"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "ແລະກັບ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ຈົນວ່າ"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "ແຫ້ງ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ຈາກເທິງ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ແຜ່ນດິນໂລກ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:06:31.065647830Z",
+  "model": "glm-5.3"
+}

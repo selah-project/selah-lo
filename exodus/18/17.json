@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 18,
+  "translation": "ແລະພໍ່ລູກສະນີຂອງໂມເຊກ່າວກັບເພິ່ນວ່າ ຄວາມທີ່ເຈົ້າເຮັດບໍ່ແມ່ນສິ່ງດີ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະເພິ່ນກ່າວ"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ພໍ່ລູກສະນີ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ຂອງໂມເຊ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ກັບເພິ່ນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ຄວາມ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ເຈົ້າ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ເຮັດ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:41:53.704953846Z",
+  "model": "glm-5.3"
+}

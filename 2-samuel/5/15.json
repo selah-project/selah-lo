@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 5:15",
+  "book": "2-samuel",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ອີບາຣ ເອລິຊູ ເນເຟັກ ແລະຢາຟີອາ.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "ອີບາຣ"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "ເອລິຊູ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "ເນເຟັກ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "ຢາຟີອາ"
+    }
+  ],
+  "timestamp": "2026-09-08T21:49:01.899242713Z",
+  "model": "glm-5.3"
+}

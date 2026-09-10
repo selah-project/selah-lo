@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 24,
+  "translation": "ທີສິບເອັດແກ່ເອັລຢາຊິບ ທີສິບສອງແກ່ຢາຄິມ.",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "ແກ່ເອັລຢາຊິບ"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ເອັດ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "ແກ່ຢາຄິມ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:42:24.943032793Z",
+  "model": "glm-5.3"
+}

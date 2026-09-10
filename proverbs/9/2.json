@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ຊົ່ວສັດຂອງນາງ ປະສົມເຫຼົ້າຂອງນາງ ນຳກັນນັ້ນກໍຈັດວາງໂຕະຂອງນາງ.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "ຊົ່ວ"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "ສັດຂອງນາງ"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ປະສົມ"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "ເຫຼົ້າຂອງນາງ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ນຳກັນນັ້ນ"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "ຈັດວາງ"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "ໂຕະຂອງນາງ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:10:57.177450859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 40:35",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 40,
+  "translation": "ແລະເພິ່ນນຳຂ້ອຍມາຫາປະຕູທິດເໜືອ ແລະໄດ້ວັດຕາມມາດນີ້",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "ແລະເພິ່ນນຳຂ້ອຍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ມາຫາ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ປະຕູ"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "ທິດເໜືອ"
+    },
+    {
+      "surface": "ומדד",
+      "gloss": "ແລະໄດ້ວັດ"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "ຕາມມາດ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ນີ້"
+    }
+  ],
+  "timestamp": "2026-09-09T01:56:21.281087048Z",
+  "model": "glm-5.3"
+}

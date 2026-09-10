@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ເຮົາເປັນເອໂລຮິມທີ່ໃກ້ບໍ ຢາເວຖືກກ່າວ ແລະບໍ່ເປັນເອໂລຮິມທີ່ໄກບໍ",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "ເອໂລຮິມຂອງ"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ທີ່ໃກ້"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ເຮົາເປັນ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ຖືກກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ເອໂລຮິມຂອງ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ທີ່ໄກ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:21:19.310912354Z",
+  "model": "glm-5.3"
+}

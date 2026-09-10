@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ສ່ວນລູກຊາຍຂອງໂກຣາຮ ບໍ່ໄດ້ຕາຍ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ແລະລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ໂກຣາຮ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ໄດ້ຕາຍ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:26:07.645618875Z",
+  "model": "glm-5.3"
+}

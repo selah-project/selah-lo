@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ກວາງ ແລະກະເຊນ ແລະກວາງນ້ອຍ ແລະແຝດປ່າ ແລະປີກາກ ແລະງົວປ່າ ແລະແຝດພູ",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "ກວາງ"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "ແລະກະເຊນ"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "ແລະກວາງນ້ອຍ"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "ແລະແຝດປ່າ"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "ແລະປີກາກ"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "ແລະງົວປ່າ"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "ແລະແຝດພູ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:59:51.609302649Z",
+  "model": "glm-5.3"
+}

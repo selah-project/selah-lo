@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 129,
+  "translation": "ຈົ່ງເປັນຄືຫຍ້າຢູ່ຫຼັງຊາງ ທີ່ຫ້າງໄປກ່ອນຈະງູຂຶ້ນ.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ຈົ່ງເປັນ"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "ຄືຫຍ້າ"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "ຢູ່ຫຼັງຊາງ"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "ກ່ອນຈະ"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "ງູຂຶ້ນ"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "ຫ້າງໄປ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:13:09.786428671Z",
+  "model": "glm-5.3"
+}

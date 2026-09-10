@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 12:18",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ຂອງບິນກາ ຊາມມູອາ; ຂອງເຊມາຢາ ເຢໂຮນາທານ.",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "ຂອງບິນກາ"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "ຊາມມູອາ"
+    },
+    {
+      "surface": "לשמעיה",
+      "gloss": "ຂອງເຊມາຢາ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ເຢໂຮນາທານ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:05:52.715786285Z",
+  "model": "glm-5.3"
+}

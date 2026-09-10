@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 32,
+  "translation": "ເພາະຊົນຊາດສູນຫາຍຄຳປຶກສາແມ່ນພວກມັນ ແລະບໍ່ມີຄວາມເຂົ້າໃຈຢູ່ໃນພວກມັນ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ຊົນຊາດ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ສູນຫາຍ"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "ຄຳປຶກສາ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ພວກມັນແມ່ນ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ແລະບໍ່ມີ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ຢູ່ໃນພວກມັນ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ຄວາມເຂົ້າໃຈ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:17:11.967459677Z",
+  "model": "glm-5.3"
+}

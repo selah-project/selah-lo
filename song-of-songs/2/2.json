@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 2:2",
+  "book": "song-of-songs",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ຄືດອກຝ້າຍທ່າມກາງຫຍິ້ມ ຄືນັ້ນຄູ່ຮັກຂອງຂ້ອຍທ່າມກາງຍິງສາວທັງຫຼາຍ.",
+  "tokens": [
+    {
+      "surface": "כשושנה",
+      "gloss": "ຄືດອກຝ້າຍ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ທ່າມກາງ"
+    },
+    {
+      "surface": "החוחים",
+      "gloss": "ຫຍິ້ມ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ຄືນັ້ນ"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "ຄູ່ຮັກຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ທ່າມກາງ"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "ຍິງສາວທັງຫຼາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:56:03.726969010Z",
+  "model": "glm-5.3"
+}

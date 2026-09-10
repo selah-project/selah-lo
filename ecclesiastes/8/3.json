@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ຢ່າຕື່ນເຕັ້ນໄປຈາກໜ້າຂອງເພິ່ນ ຢ່າຢູ່ກັບວຽກຊົ່ວ ເພາະວ່າເພິ່ນເຮັດທຸກສິ່ງທີ່ເພິ່ນພໍໃຈ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "ຕື່ນເຕັ້ນ"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ຈາກໜ້າຂອງເພິ່ນ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ໄປ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ຢູ່ກັບ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ວຽກ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ຊົ່ວ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະວ່າ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກສິ່ງ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "ເພິ່ນພໍໃຈ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ເພິ່ນເຮັດ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:27:41.521430785Z",
+  "model": "glm-5.3"
+}

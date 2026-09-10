@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 16,
+  "translation": "ຄຳພະຍາກອນຢູ່ຮິດຂອງກະສັດ ໃນຄຳຕັດສິນປາກຂອງເພິ່ນບໍ່ລະເມີດ",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "ຄຳພະຍາກອນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຢູ່"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ຮິດ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ຂອງກະສັດ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ໃນຄຳຕັດສິນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "ລະເມີດ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ປາກຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:41:44.295036967Z",
+  "model": "glm-5.3"
+}

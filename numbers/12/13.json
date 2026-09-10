@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 12:13",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ໂມເຊຮ້ອງຕໍ່ຢາເວວ່າ ເອນເຖີດ ຈົ່ງປິ່ນປົວນາງເຖີດ",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ຮ້ອງ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເອນ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ເຖີດ"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "ປິ່ນປົວ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ເຖີດ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ນາງ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:12:06.828579113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 30:27",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ຈິກິ່ງບໍ່ມີກະສັດ ແຕ່ມັນອອກເປັນແຖວທັງສາມຮ້ອຍໂຕ",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ບໍ່ມີ"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "ໃຫ້ຈິກິ່ງ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ແຕ່ມັນອອກ"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "ເປັນແຖວ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ທັງສາມຮ້ອຍໂຕ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:19:48.112269476Z",
+  "model": "glm-5.3"
+}

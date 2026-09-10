@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 31,
+  "translation": "ຄຳຂອງລາເມູເອນ ກະສັດ, ພາລະທີ່ແມ່ຂອງເພິ່ນສອນເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ຄຳຂອງ"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "ລາເມູເອນ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ພາລະ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "ສອນເພິ່ນ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ແມ່ຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:02:36.373206678Z",
+  "model": "glm-5.3"
+}

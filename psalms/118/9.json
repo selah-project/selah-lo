@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 118,
+  "translation": "ດີກວ່າທີ່ໄພລຽງພຶງໃນຢາເວ ກວ່າເຊື່ອຖືໃນເຈົ້ານາຍ",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "ໄພລຽງພຶງ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ໃນຢາເວ"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "ກວ່າເຊື່ອຖື"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "ໃນເຈົ້ານາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:04:52.608129500Z",
+  "model": "glm-5.3"
+}

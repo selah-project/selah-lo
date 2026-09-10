@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ແລະນ້ຳຄອບຄຸມເທິງແຜ່ນດິນຫ້າສິບແລະໜຶ່ງຮ້ອຍວັນ.",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "ແລະຄອບຄຸມ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ແຜ່ນດິນ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ຫ້າສິບ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ແລະໜຶ່ງຮ້ອຍ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ວັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:26:55.550433923Z",
+  "model": "glm-5.3"
+}

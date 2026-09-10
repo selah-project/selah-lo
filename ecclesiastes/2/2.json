@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ຕໍ່ການຫົວຂ້ອຍເວົ້າວ່າ ມັນບ້າ ແລະຕໍ່ຄວາມຊົມນາ ສິ່ງໃດນີ້ມັນເຮັດ?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "ຕໍ່ການຫົວ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ຂ້ອຍເວົ້າ"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "ມັນບ້າ"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "ແລະຕໍ່ຄວາມຊົມນາ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ສິ່ງໃດ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ມັນເຮັດ"
+    }
+  ],
+  "timestamp": "2026-09-10T01:15:36.184625537Z",
+  "model": "glm-5.3"
+}

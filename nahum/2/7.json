@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 2:7",
+  "book": "nahum",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ປະຕູຂອງແມ່ນ້ຳຖືກເປີດ, ແລະວິຫານລະລາຍ.",
+  "tokens": [
+    {
+      "surface": "שערי",
+      "gloss": "ປະຕູ"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "ຂອງແມ່ນ້ຳ"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "ຖືກເປີດ"
+    },
+    {
+      "surface": "וההיכל",
+      "gloss": "ແລະວິຫານ"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "ລະລາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T02:55:18.336722843Z",
+  "model": "glm-5.3"
+}

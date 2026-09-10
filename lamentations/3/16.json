@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ແລະເພິ່ນບົ່ງແຂ້ວຂອງຂ້ອຍດ້ວຍກ້ອນກາກເພິ່ນຂີ່ຂ້ອຍລົງໃນເຖົ່າ.",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "ແລະເພິ່ນບົ່ງ"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "ດ້ວຍກ້ອນກາກ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ແຂ້ວຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "ເພິ່ນຂີ່ຂ້ອຍລົງ"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "ໃນເຖົ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:42:38.006156974Z",
+  "model": "glm-5.3"
+}

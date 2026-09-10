@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະຮູບປອມທັງຫຼາຍຈະລົບລຶບຢ່າງສົມບູນ.",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "ແລະຮູບປອມທັງຫຼາຍ"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ຢ່າງສົມບູນ"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "ຈະລົບລຶບ"
+    }
+  ],
+  "timestamp": "2026-09-08T23:10:50.098630992Z",
+  "model": "glm-5.3"
+}

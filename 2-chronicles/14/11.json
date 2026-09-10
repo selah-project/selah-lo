@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ແລະຢາເວຕີ⟨את⟩ຄົນກູດຕໍ່ໜ້າອາຊາ ແລະຕໍ່ໜ້າຢູດາ ແລະຄົນກູດໜີ",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "ແລະຕີ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຄົນກູດ"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "ຄົນກູດ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ຕໍ່ໜ້າ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ອາຊາ"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ແລະຕໍ່ໜ້າ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ຢູດາ"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ແລະໜີ"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "ຄົນກູດ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:25:17.258787134Z",
+  "model": "glm-5.3"
+}

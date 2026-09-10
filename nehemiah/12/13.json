@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 12:13",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ຂອງເອຣາ ເມຊູລາມ; ຂອງອາມາຣິຢາ ເຢໂຮຄານັນ.",
+  "tokens": [
+    {
+      "surface": "לעזרא",
+      "gloss": "ຂອງເອຣາ"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "ເມຊູລາມ"
+    },
+    {
+      "surface": "לאמריה",
+      "gloss": "ຂອງອາມາຣິຢາ"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "ເຢໂຮຄານັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:54:59.872286705Z",
+  "model": "glm-5.3"
+}

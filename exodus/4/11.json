@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 4:11",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ແລະຢາເວກ່າວຕໍ່ເພິ່ນວ່າ: ໃຜໃສ່ປາກໃຫ້ຄົນ ຫຼືໃຜໃສ່ຄົນໃບ້ ຫຼືຄົນໜວດ ຫຼືຄົນເຫັນ ຫຼືຄົນຕາບອດ ຫຼືບໍ່ແມ່ນເຮົາ ຢາເວ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະເພິ່ນກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ຕໍ່ເພິ່ນ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ໃສ່"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ປາກ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ໃຫ້ຄົນ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ໃຜ"
+    },
+    {
+      "surface": "ישום",
+      "gloss": "ໃສ່"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ຄົນໃບ້"
+    },
+    {
+      "surface": "או",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ຄົນໜວດ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "ຄົນເຫັນ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ຫຼື"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ຄົນຕາບອດ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ຫຼືບໍ່ແມ່ນ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ເຮົາ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:24:01.431464387Z",
+  "model": "glm-5.3"
+}

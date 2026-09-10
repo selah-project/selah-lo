@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ແລະອາຮາສກ່າວວ່າ ຂ້ອຍບໍ່ຈະຖາມ ແລະຂ້ອຍບໍ່ຈະທົດສອບ⟨את⟩ຢາເວ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະກ່າວ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ອາຮາສ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "ຂ້ອຍຈະຖາມ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "ຂ້ອຍຈະທົດສອບ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຢາເວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-10T00:06:51.408563353Z",
+  "model": "glm-5.3"
+}

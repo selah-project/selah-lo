@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 9:14",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ແລະນາງນັ່ງຢູ່ປະຕູຂອງເຮືອນນາງ ເທິງບ່ອນນັ່ງຢູ່ບ່ອນສູງຂອງເມືອງ.",
+  "tokens": [
+    {
+      "surface": "וישבה",
+      "gloss": "ແລະນາງນັ່ງ"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "ຢູ່ປະຕູ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ຂອງເຮືອນນາງ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ບ່ອນນັ່ງ"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "ບ່ອນສູງ"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "ຂອງເມືອງ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:33:32.604441266Z",
+  "model": "glm-5.3"
+}

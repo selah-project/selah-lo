@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 8:17",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ໃນເວລານັ້ນເຊໂລໂມໄປຫາເອັດຊິໂອນເກເບີ ແລະຫາເອໂລດ ຢູ່ໃກ້ຝັ່ງທະເລ ໃນແຜ່ນດິນຂອງເອດໂມ",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ໃນເວລານັ້ນ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ໄປ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ເຊໂລໂມ"
+    },
+    {
+      "surface": "לעציון",
+      "gloss": "ຫາເອັດຊິໂອນ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ເກເບີ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ແລະຫາ"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "ເອໂລດ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຢູ່ໃກ້"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ຝັ່ງ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ທະເລ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ໃນແຜ່ນດິນ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ຂອງເອດໂມ"
+    }
+  ],
+  "timestamp": "2026-09-10T02:00:28.009778250Z",
+  "model": "glm-5.3"
+}

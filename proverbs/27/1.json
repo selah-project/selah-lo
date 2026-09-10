@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 27,
+  "translation": "ຢ່າອວດໃນມື້ມື້ອື່ນ ຍ້ອນເຈົ້າບໍ່ຮູ້ວ່າມື້ຈະນຳຫຍັງອອກມາ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ອວດ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ໃນມື້"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ມື້ອື່ນ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ຍ້ອນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ຮູ້"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ຈະນຳອອກມາ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ມື້"
+    }
+  ],
+  "timestamp": "2026-09-09T05:57:36.704057645Z",
+  "model": "glm-5.3"
+}

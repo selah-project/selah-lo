@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 107,
+  "translation": "ເພາະເພິ່ນໄດ້ທຳລາຍປະຕູທອງ ແລະໄດ້ຕັດຄົມເຫຼັກຂາດ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ໄດ້ທຳລາຍ"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ປະຕູ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ທອງ"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "ແລະຄົມ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ເຫຼັກ"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "ໄດ້ຕັດ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:58:25.285519909Z",
+  "model": "glm-5.3"
+}

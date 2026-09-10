@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ເພາະໃນຄວາມຫຼາຍຂອງຄວາມຝັນ ແລະອາຍ ແລະຄໍາຫຼາຍ; ເພາະເຈົ້າຈົ່ງຢ້ານ⟨את⟩ເອໂລຮິມ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ໃນຄວາມຫຼາຍ"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "ຄວາມຝັນ"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "ແລະອາຍ"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ແລະຄໍາ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ຫຼາຍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເອໂລຮິມ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ເອໂລຮິມ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ຈົ່ງຢ້ານ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:27:35.574587418Z",
+  "model": "glm-5.3"
+}

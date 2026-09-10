@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 33,
+  "translation": "ແລະຢາເວເວົ້າກັບມະນັຊເຊ ແລະກັບຊາວຂອງເພິ່ນ ແຕ່ພວກເຂົາບໍ່ຟັງ.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ແລະເວົ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ກັບ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ມະນັຊເຊ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ແລະກັບ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ຊາວຂອງເພິ່ນ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແຕ່ບໍ່"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "ຟັງ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:31:40.315744781Z",
+  "model": "glm-5.3"
+}

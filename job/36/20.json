@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 36:20",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 36,
+  "translation": "ຢ່າປາຖະໜາກາງຄືນ ໃຫ້ປະຊາຊົນຂຶ້ນແທນພວກເຂົາ",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תשאף",
+      "gloss": "ປາຖະໜາ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ກາງຄືນ"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "ໃຫ້ຂຶ້ນ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ປະຊາຊົນ"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "ແທນພວກເຂົາ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:45:08.472514149Z",
+  "model": "glm-5.3"
+}

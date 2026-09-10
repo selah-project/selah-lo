@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ແລະຊາຍນ້ອຍ ຊາຍນ້ອຍ ນັບຖື ໄດ້ໄປ ຣາໂມດ ກິລະອາດ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ແລະໄດ້ໄປ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ຊາຍນ້ອຍ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ຊາຍນ້ອຍ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ນັບຖື"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "ຣາໂມດ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ກິລະອາດ"
+    }
+  ],
+  "timestamp": "2026-09-08T22:51:09.118948894Z",
+  "model": "glm-5.3"
+}

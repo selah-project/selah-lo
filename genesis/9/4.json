@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ພຽງແຕ່ຊີ້ນ ໃນຊີວິດຂອງມັນ ເລືອດຂອງມັນ ພວກເຈົ້າຈະບໍ່ກິນ.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ພຽງແຕ່"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ຊີ້ນ"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ໃນຊີວິດຂອງມັນ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ເລືອດຂອງມັນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ພວກເຈົ້າຈະກິນ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:05:49.761478299Z",
+  "model": "glm-5.3"
+}

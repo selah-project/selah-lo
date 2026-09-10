@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 15:22",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 15,
+  "translation": "ເພິ່ນບໍ່ເຊື່ອວ່າຈະກັບຈາກຄວາມມືດ ແລະດາບລໍຖ້າເພິ່ນ",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "ເພິ່ນເຊື່ອ"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ວ່າຈະກັບ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ຄວາມມືດ"
+    },
+    {
+      "surface": "וצפו",
+      "gloss": "ແລະລໍຖ້າ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ສູ່"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ດາບ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:21:13.254787516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ລູກຫຼານຂອງເອສັນ ບິນຮານ ຊາອະວານ ຢາການ ລູກຫຼານຂອງດິໂຊນ ອູດ ແລະອາຣານ",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "ເອສັນ"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "ບິນຮານ"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "ຊາອະວານ"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "ຢາການ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "ດິໂຊນ"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ອູດ"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "ແລະອາຣານ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:09:36.409446263Z",
+  "model": "glm-5.3"
+}

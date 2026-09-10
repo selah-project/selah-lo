@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 21:25",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ແລະດາວິດໄດ້ໃຫ້ແກ່ອາຣະນັນ ເພື່ອບ່ອນນັ້ນ ຊິກນຄຳ ໂດຍໜັກ ຫົກຮ້ອຍ.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ແລະໄດ້ໃຫ້"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ດາວິດ"
+    },
+    {
+      "surface": "לארנן",
+      "gloss": "ແກ່ອາຣະນັນ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ເພື່ອບ່ອນ"
+    },
+    {
+      "surface": "שקלי",
+      "gloss": "ຊິກນ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "ໂດຍໜັກ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ຫົກ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:36:08.854405884Z",
+  "model": "glm-5.3"
+}

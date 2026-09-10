@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ຜູ້ປິດຫູຂອງຕົນຈາກສຽງຮ້ອງຂອງຄົນທຸກຍາກ ຕົນກໍຈະຮ້ອງ ແລະຈະບໍ່ຖືກຕອບ.",
+  "tokens": [
+    {
+      "surface": "אטם",
+      "gloss": "ປິດ"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ຫູຂອງຕົນ"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "ຈາກສຽງຮ້ອງ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ຂອງຄົນທຸກຍາກ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ກໍ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ຕົນ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ຈະຮ້ອງ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ຖືກຕອບ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:15:58.215812700Z",
+  "model": "glm-5.3"
+}

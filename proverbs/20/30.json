@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 20:30",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ຮອຍຟົກຂອງບາດຊັກລ້າງຄວາມຊົ່ວ ແລະການຕີເຖິງຫ້ອງລຶກລັບຂອງທ້ອງ.",
+  "tokens": [
+    {
+      "surface": "חברות",
+      "gloss": "ຮອຍຟົກ"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "ຂອງບາດ"
+    },
+    {
+      "surface": "תמריק",
+      "gloss": "ຊັກລ້າງ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ຄວາມຊົ່ວ"
+    },
+    {
+      "surface": "ומכות",
+      "gloss": "ແລະການຕີ"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "ຫ້ອງລຶກລັບຂອງ"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "ທ້ອງ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:45:31.921641598Z",
+  "model": "glm-5.3"
+}

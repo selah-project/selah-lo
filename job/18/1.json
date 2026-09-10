@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 18:1",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 18,
+  "translation": "ແລະບິນດັດຮູຊິໄດ້ຕອບແລະໄດ້ກ່າວວ່າ",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ແລະໄດ້ຕອບ"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "ບິນດັດ"
+    },
+    {
+      "surface": "השחי",
+      "gloss": "ຮູຊິ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະໄດ້ກ່າວວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:17:30.522197394Z",
+  "model": "glm-5.3"
+}

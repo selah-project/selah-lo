@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 21,
+  "translation": "ກາຍເປັນຄວາມຊົ່ວໃນຕາຂອງເອໂລຮິມ ເພາະຄຳນີ້ ແລະເພິ່ນຕີ⟨את⟩ອິສະຣາເອນ.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ກາຍເປັນຄວາມຊົ່ວ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ໃນຕາຂອງ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ເອໂລຮິມ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ແລະເພິ່ນຕີ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ອິສະຣາເອນ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ອິສະຣາເອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:16:22.821316903Z",
+  "model": "glm-5.3"
+}

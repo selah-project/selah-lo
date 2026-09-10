@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 29,
+  "translation": "ແລະສ່ວນສິບ ສ່ວນສິບແກ່ແກະນ້ອຍໜຶ່ງໂຕ ແກ່ແກະນ້ອຍສິບສີ່ໂຕ.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "ແລະສ່ວນສິບ"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "ສ່ວນສິບ"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "ແກ່ແກະນ້ອຍ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "ແກ່ສີ່"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ແກະນ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:29:41.051304687Z",
+  "model": "glm-5.3"
+}

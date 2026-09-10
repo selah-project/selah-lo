@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ໂມເຊຟັງ ແລະມັນດີໃນຕາຂອງເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ແລະຟັງ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "ແລະດີ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ໃນຕາຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:24:35.972945880Z",
+  "model": "glm-5.3"
+}

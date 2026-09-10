@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ແລະລູກຊາຍຂອງໂລຕານ: ໂຮຣິ ແລະໂຮມາມ; ທິມນາ ⟨ເປັນ⟩ ນິດສະຫຼີຂອງໂລຕານ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ແລະລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "ໂລຕານ"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "ໂຮຣິ"
+    },
+    {
+      "surface": "והומם",
+      "gloss": "ແລະໂຮມາມ"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "ແລະນິດສະຫຼີຂອງ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "ໂລຕານ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ທິມນາ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:01:09.296398685Z",
+  "model": "glm-5.3"
+}

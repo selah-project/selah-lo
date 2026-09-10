@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 22,
+  "translation": "ຢ່າຜູກມິດກັບ⟨את⟩ເຈົ້າຂອງຄວາມໂກດແລະ⟨את⟩ຄົນມີຄວາມຮຸນໃຈບໍ່ໄປຫາ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "ຜູກມິດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ເຈົ້າຂອງຄວາມໂກດ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ເຈົ້າຂອງ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ຄວາມໂກດ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຄົນ"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "ຄວາມຮຸນໃຈ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ໄປຫາ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:50:43.518930807Z",
+  "model": "glm-5.3"
+}

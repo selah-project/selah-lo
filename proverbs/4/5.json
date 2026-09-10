@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ຈົ່ງເອົາຄວາມສະຫຼາດ ຈົ່ງເອົາຄວາມເຂົ້າໃຈ, ຢ່າລືມ ແລະຢ່າອອກຈາກຄຳພູດຂອງປາກຂອງຂ້ອຍ",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "ເອົາ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ຄວາມສະຫຼາດ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ເອົາ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ຄວາມເຂົ້າໃຈ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ລືມ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ແລະຢ່າ"
+    },
+    {
+      "surface": "תט",
+      "gloss": "ອອກຈາກ"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "ຄຳພູດຂອງ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ປາກຂອງຂ້ອຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:28:06.444565681Z",
+  "model": "glm-5.3"
+}

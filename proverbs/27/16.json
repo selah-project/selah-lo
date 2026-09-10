@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 27:16",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 27,
+  "translation": "ຜູ້ປິດນາງປິດລົມ ແລະນ້ຳມັນຂອງມືຂວາຂອງເພິ່ນຮຽກອອກ.",
+  "tokens": [
+    {
+      "surface": "צפניה",
+      "gloss": "ປິດນາງ"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "ປິດ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ລົມ"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ແລະນ້ຳມັນ"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ຂອງມືຂວາຂອງເພິ່ນ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ຮຽກອອກ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:16:07.668252776Z",
+  "model": "glm-5.3"
+}

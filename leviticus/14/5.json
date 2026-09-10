@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ໂກເຮນສັ່ງໃຫ້ຂ້າ⟨את⟩ນົກໂຕໜຶ່ງ ໃນພາຊະນະດິນ ເທິງນ້ຳມີຊີວິດ.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ສັ່ງ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ໂກເຮນ"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ຂ້າ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ນົກໂຕໜຶ່ງ"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "ນົກ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ໃນ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ພາຊະນະ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ດິນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ມີຊີວິດ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:29:45.636863512Z",
+  "model": "glm-5.3"
+}

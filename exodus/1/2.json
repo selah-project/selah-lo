@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ຣີອູເບັນ ຊິເມອນ ເລວີ ແລະຢູດາ.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "ຣີອູເບັນ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ຊິເມອນ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ເລວີ"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ແລະຢູດາ"
+    }
+  ],
+  "timestamp": "2026-09-09T11:47:07.668861987Z",
+  "model": "glm-5.3"
+}

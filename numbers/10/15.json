@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ແລະໜ້າກອງທັບຂອງເຜົ່າລູກຫຼານຢິຊາສະການ ແມ່ນ ເນທາເນນ ລູກຂອງຊູອາ.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ແລະໜ້າ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ກອງທັບ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ເຜົ່າ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ຢິຊາສະການ"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "ເນທາເນນ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "ຊູອາ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:04:52.556151562Z",
+  "model": "glm-5.3"
+}

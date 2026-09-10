@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 3:7",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ເບິ່ງແມ ຄືນນັ້ນ ຈົ່ງເປັນໂດດດ່ຽວ ຢ່າໃຫ້ສຽງຊົມຊື່ນມາໃນມັນ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ເບິ່ງແມ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ຄືນ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ນັ້ນ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ຈົ່ງເປັນ"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "ໂດດດ່ຽວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ມາ"
+    },
+    {
+      "surface": "רננה",
+      "gloss": "ສຽງຊົມຊື່ນ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ໃນມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:22:06.008589120Z",
+  "model": "glm-5.3"
+}

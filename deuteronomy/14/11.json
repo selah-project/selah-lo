@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ນົກສະອາດທຸກຊະນິດ ພວກເຈົ້າຈະກິນ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ນົກ"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "ສະອາດ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ພວກເຈົ້າຈະກິນ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:54:37.504023264Z",
+  "model": "glm-5.3"
+}

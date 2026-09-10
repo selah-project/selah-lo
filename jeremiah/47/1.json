@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 47,
+  "translation": "ຄຳຂອງຢາເວທີ່ໄດ້ມາຫາຢິຣມິຢາຮວຜູ້ປະກາດ ຕໍ່ພວກຟາລິສະຕິມ ກ່ອນຟາໂຣຕີ⟨את⟩ອາຊາ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ໄດ້ມາ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຫາ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ຢິຣມິຢາຮວ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ຜູ້ປະກາດ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ພວກຟາລິສະຕິມ"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ກ່ອນ"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ຕີ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ຟາໂຣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ອາຊາ"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ອາຊາ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:45:28.055079672Z",
+  "model": "glm-5.3"
+}

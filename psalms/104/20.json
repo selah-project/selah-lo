@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 104,
+  "translation": "ເຈົ້າວາງຄວາມມືດແລະກາຍເປັນກາງຄືນ ໃນນັ້ນສັດປ່າທັງພວກຄຶບຫາ.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "ເຈົ້າວາງ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ຄວາມມືດ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະກາຍເປັນ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ກາງຄືນ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ໃນນັ້ນ"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "ຄຶບຫາ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງພວກ"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "ສັດ"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ປ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:54:33.184674008Z",
+  "model": "glm-5.3"
+}

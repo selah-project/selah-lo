@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ໂອ້ເມືອງຂອງເລືອດທັງໝົດຄວາມລວົກລວຍເຕັມດ້ວຍການປີ້ນຍຶດ ເຫື່ນບໍ່ຫາຍໄປ.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ໂອ້"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ເມືອງ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ຂອງເລືອດ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "ຄວາມລວົກລວຍ"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ການປີ້ນຍຶດ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ເຕັມ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "ຫາຍໄປ"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ເຫື່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T02:58:33.517722348Z",
+  "model": "glm-5.3"
+}

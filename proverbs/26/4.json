@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ຢ່າຕອບຄົນໂງ່ຕາມຄວາມໂງ່ຂອງເພິ່ນ ວ່າກ່ອນເຈົ້າເອງຈະຄືກັບເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תען",
+      "gloss": "ຕອບ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ຄົນໂງ່"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "ຕາມຄວາມໂງ່ຂອງເພິ່ນ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ວ່າກ່ອນ"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "ເຈົ້າຈະຄື"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ກັບເພິ່ນ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ເຖິງແມ່ນ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ເຈົ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:55:25.916275499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 55,
+  "translation": "ຂ້ອຍຈະຮີບການໜີໃຫ້ຂ້ອຍ ຈາກລົມພັດ ຈາກພາຍຸ",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "ຂ້ອຍຈະຮີບ"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "ການໜີ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ໃຫ້ຂ້ອຍ"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "ຈາກລົມ"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "ພັດ"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "ຈາກພາຍຸ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:17:45.694141777Z",
+  "model": "glm-5.3"
+}

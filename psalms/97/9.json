@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 97,
+  "translation": "ເພາະເຈົ້າ ຢາເວ ສູງສຸດ ເໜືອແຜ່ນດິນໂລກທັງໝົດ ສູງຂຶ້ນຫຼາຍ ເໜືອພະທັງຫຼາຍທັງໝົດ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ເຈົ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ສູງສຸດ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ແຜ່ນດິນໂລກ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ຫຼາຍ"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "ສູງຂຶ້ນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເໜືອ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ພະທັງຫຼາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:51:59.486250014Z",
+  "model": "glm-5.3"
+}

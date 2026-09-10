@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "lo",
+  "chapter": 4,
+  "translation": "ນ້ຳພຸຂອງສວນ ບ່ອຍນ້ຳທີ່ມີຊີວິດ ແລະກະແສໄຫຼຈາກເລບານອນ.",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "ນ້ຳພຸ"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "ຂອງສວນ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ບ່ອຍນ້ຳ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ທີ່ມີຊີວິດ"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "ແລະກະແສໄຫຼ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ເລບານອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:38:45.662479807Z",
+  "model": "glm-5.3"
+}

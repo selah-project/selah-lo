@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 30:5",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ທຸກຄຳຂອງເອໂລອາລົ້ມຮີບສະອາດ, ເພິ່ນເປັນໂລ່ແກ່ຜູ້ທີ່ລີ້ໄພໃນເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ຄຳຂອງ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ເອໂລອາ"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "ລົ້ມຮີບສະອາດ"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ໂລ່"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ເພິ່ນ"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "ແກ່ຜູ້ທີ່ລີ້ໄພ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ໃນເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:19:15.097659648Z",
+  "model": "glm-5.3"
+}

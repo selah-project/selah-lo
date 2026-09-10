@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 29:26",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 29,
+  "translation": "ຫຼາຍຄົນຊອກຫາໜ້າຂອງຜູ້ປົກຄອງ ແລະຄຳຕັດສິນຂອງຄົນມາຈາກຢາເວ",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "ຫຼາຍຄົນ"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "ຊອກຫາ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ໜ້າຂອງ"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ຜູ້ປົກຄອງ"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ແລະຈາກຢາເວ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ຄຳຕັດສິນ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ຂອງຄົນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:19:25.846055955Z",
+  "model": "glm-5.3"
+}

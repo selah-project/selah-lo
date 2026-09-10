@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ແລະຖ້າມັນບໍ່ສະຫຼະບົດກັບເຈົ້າ ແລະມັນເຮັດສົງຄາມກັບເຈົ້າ ເຈົ້າຈະປົກມັນ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ແລະຖ້າ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "ສະຫຼະບົດ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ກັບເຈົ້າ"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "ແລະມັນເຮັດ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ກັບເຈົ້າ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ສົງຄາມ"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "ເຈົ້າຈະປົກ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ມັນ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:00:59.196482161Z",
+  "model": "glm-5.3"
+}

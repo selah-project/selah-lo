@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 60,
+  "translation": "ແກ່ຜູ້ຄວບຄຸມ, ບົນຊູຊັນຢີດູດ, ບົດກະວີຂອງດາວິດ, ເພື່ອສອນ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ແກ່ຜູ້ຄວບຄຸມ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ບົນ"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "ຊູຊັນ"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ຢີດູດ"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "ບົດກະວີ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ຂອງດາວິດ"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "ເພື່ອສອນ"
+    }
+  ],
+  "timestamp": "2026-09-09T18:43:26.500109383Z",
+  "model": "glm-5.3"
+}

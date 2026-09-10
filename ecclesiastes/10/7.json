@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ຂ້ອຍໄດ້ເຫັນຂ້າຮັບໃຊ້ຂີ່ມ້າ, ແລະນາຍຄົນຍ່າງຄືຂ້າຮັບໃຊ້ຢູ່ເທິງແຜ່ນດິນ.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ຂ້ອຍໄດ້ເຫັນ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ຂ້າຮັບໃຊ້"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ມ້າ"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "ແລະນາຍຄົນ"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ຍ່າງ"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "ຄືຂ້າຮັບໃຊ້"
+    },
+    {
+      "surface": "על",
+      "gloss": "ເທິງ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ແຜ່ນດິນ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:26:08.792948646Z",
+  "model": "glm-5.3"
+}

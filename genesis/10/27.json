@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ແລະ⟨את⟩ຮາໂດຣາມແລະ⟨את⟩ອູຊານແລະ⟨את⟩ດິກລາ",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ຮາໂດຣາມ"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "ຮາໂດຣາມ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ອູຊານ"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "ອູຊານ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ⟨את⟩",
+      "marks": "ດິກລາ"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "ດິກລາ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:09:54.044784940Z",
+  "model": "glm-5.3"
+}

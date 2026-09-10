@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 15:10",
+  "book": "1-samuel",
+  "lang": "lo",
+  "chapter": 15,
+  "translation": "ແລະຄໍາຂອງຢາເວມາຫາຊາມູເອນວ່າ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ຄໍາ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ມາຫາ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ຊາມູເອນ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-09T14:43:01.135881505Z",
+  "model": "glm-5.3"
+}

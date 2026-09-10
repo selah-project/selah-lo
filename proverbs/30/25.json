@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 30,
+  "translation": "ຈັນທູນເປັນຊົນທີ່ບໍ່ແຂງແຮງ ແຕ່ໄດ້ຕຽມອາຫານຂອງມັນໄວ້ໃນລະດູແລ້ງ.",
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "ຈັນທູນ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ຊົນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ແຂງແຮງ"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "ແຕ່ໄດ້ຕຽມ"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "ໃນລະດູແລ້ງ"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "ອາຫານຂອງມັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:20:00.806379246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 146,
+  "translation": "ຈົ່ງສັນລະເສນຢາ ຈົ່ງສັນລະເສນຕົວຂອງຂ້ອຍ ⟨את⟩ ຢາເວ.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ຈົ່ງສັນລະເສນ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ຢາ"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "ຈົ່ງສັນລະເສນ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ຕົວຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ຢາເວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:05:18.570666396Z",
+  "model": "glm-5.3"
+}

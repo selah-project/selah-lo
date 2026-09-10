@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ຄຳຂອງພວກສະຫຼາດ ຖືກຟັງໃນຄວາມງຽບ ກວ່າສຽງຮ້ອນຂອງຜູ້ປົກຄອງ ໃນພວກໂງ່.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ຂອງພວກສະຫຼາດ"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "ໃນຄວາມງຽບ"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "ຖືກຟັງ"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "ກວ່າສຽງຮ້ອນຂອງ"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ຜູ້ປົກຄອງ"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "ໃນພວກໂງ່"
+    }
+  ],
+  "timestamp": "2026-09-09T07:23:24.538007006Z",
+  "model": "glm-5.3"
+}

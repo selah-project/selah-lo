@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 16:26",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 16,
+  "translation": "ຄົນອອກແຮງອອກແຮງເພື່ອຕົນເອງ ຍ້ອນປາກຂອງເພິ່ນບັງຄັບໃສ່ເພິ່ນ.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "ຄົນອອກແຮງ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ອອກແຮງ"
+    },
+    {
+      "surface": "עמלה",
+      "gloss": "ອອກແຮງ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ເພື່ອຕົນເອງ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ຍ້ອນ"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "ບັງຄັບ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ໃສ່ເພິ່ນ"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ປາກຂອງເພິ່ນ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:14:46.468074773Z",
+  "model": "glm-5.3"
+}

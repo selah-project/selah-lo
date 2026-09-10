@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 40:37",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 40,
+  "translation": "ແລະຖ້າເມກບໍ່ຂຶ້ນ ພວກເຂົາກໍບໍ່ເດີນທາງ ຈົນຮອດມື້ທີ່ມັນຂຶ້ນ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ແລະຖ້າ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ຂຶ້ນ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ເມກ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "ເດີນທາງ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ຈົນຮອດ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ມື້"
+    },
+    {
+      "surface": "העלתו",
+      "gloss": "ການຂຶ້ນຂອງມັນ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:11:12.640267006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ຢ່າບອກໃນກາດ ຢ່າຍິ່ມ ຂ້ອຍກະລຸນາຕີ້ນຕົນໃນຝຸ່ນໃນບີດ-ເລ-ອັບຣາຮາ.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "ໃນກາດ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "ບອກ"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "ຍິ່ມ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "ຍິ່ມ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ໃນບີດ"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "-ເລ-ອັບຣາຮາ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ຝຸ່ນ"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "ຂ້ອຍກະລຸນາຕີ້ນຕົນ"
+    }
+  ],
+  "timestamp": "2026-09-09T02:48:06.422520447Z",
+  "model": "glm-5.3"
+}

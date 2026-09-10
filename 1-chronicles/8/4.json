@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 8:4",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະອາບິຊູອາ ແລະນາອາມານ ແລະອາໂຮາ.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "ແລະອາບິຊູອາ"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "ແລະນາອາມານ"
+    },
+    {
+      "surface": "ואחוח",
+      "gloss": "ແລະອາໂຮາ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:19:40.609273311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ແລະບໍ່ມີນ້ຳແກ່ຊຸມຊົນ ແລະພວກເຂົາໄດ້ຊຸມກັນຕໍ່ໂມເຊ ແລະຕໍ່ອາຮາໂຣນ",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ແລະບໍ່"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ມີ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ນ້ຳ"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "ແກ່ຊຸມຊົນ"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "ແລະພວກເຂົາໄດ້ຊຸມກັນ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຕໍ່"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ໂມເຊ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ແລະຕໍ່"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ອາຮາໂຣນ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:20:42.287966027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 32,
+  "translation": "ແລະ⟨את⟩ອັດຕະໂຣດ-ໂຊຟານ ແລະ⟨את⟩ຢາອະເຊຣ ແລະໂຢັກບະຮາ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ອັດຕະໂຣດ"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ອັດຕະໂຣດ"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "ໂຊຟານ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ແລະ ⟨את⟩",
+      "marks": "ຢາອະເຊຣ"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "ຢາອະເຊຣ"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "ແລະໂຢັກບະຮາ"
+    }
+  ],
+  "timestamp": "2026-09-09T13:13:09.123728239Z",
+  "model": "glm-5.3"
+}

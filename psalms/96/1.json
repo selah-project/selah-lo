@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 96,
+  "translation": "ຈົ່ງຮ້ອງເພງຕໍ່ຢາເວ ຈົ່ງຮ້ອງຕໍ່ຢາເວ ທັງທຸກແຜ່ນດິນໂລກ",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ຈົ່ງຮ້ອງເພງ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ຕໍ່ຢາເວ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ເພງ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ໃໝ່"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ຈົ່ງຮ້ອງເພງ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ຕໍ່ຢາເວ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງທຸກ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ແຜ່ນດິນໂລກ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:48:55.611887783Z",
+  "model": "glm-5.3"
+}

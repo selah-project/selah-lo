@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 10:28",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ມັລລຸກ ຮາຣິນ ບາອານາ",
+  "tokens": [
+    {
+      "surface": "מַלּוּךְ",
+      "gloss": "ມັລລຸກ"
+    },
+    {
+      "surface": "חָרִם",
+      "gloss": "ຮາຣິນ"
+    },
+    {
+      "surface": "בַּעֲנָה",
+      "gloss": "ບາອານາ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:51:57.808938007Z",
+  "model": "glm-5.3"
+}

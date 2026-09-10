@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 20,
+  "translation": "ແລະເອໂລຮິມເວົ້າ⟨את⟩ທຸກຄຳເຫຼົ່ານີ້ວ່າ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ແລະເວົ້າ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ເອໂລຮິມ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ທຸກຄຳເຫຼົ່ານີ້"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ຄຳ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ເຫຼົ່ານີ້"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ວ່າ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:42:11.493897080Z",
+  "model": "glm-5.3"
+}

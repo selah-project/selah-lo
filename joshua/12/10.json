@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ກະສັດເຢຣູຊາລາມ ໜຶ່ງ; ກະສັດເຮບຣອນ ໜຶ່ງ.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ເຢຣູຊາລາມ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ເຮບຣອນ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    }
+  ],
+  "timestamp": "2026-09-08T20:32:17.592058523Z",
+  "model": "glm-5.3"
+}

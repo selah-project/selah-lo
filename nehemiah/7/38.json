@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 7:38",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ລູກຫຼານຂອງເຊນາອາ: ສາມພັນເກົ້າຮ້ອຍແລະສາມສິບຄົນ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "ເຊນາອາ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ສາມ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ພັນ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ເກົ້າ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ແລະສາມສິບ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:47:17.552087342Z",
+  "model": "glm-5.3"
+}

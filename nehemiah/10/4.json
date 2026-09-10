@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 10:4",
+  "book": "nehemiah",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ປັດຊູຣ ອາມາຣາຢາ ມັລຄີຢາ.",
+  "tokens": [
+    {
+      "surface": "פשחור",
+      "gloss": "ປັດຊູຣ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ອາມາຣາຢາ"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "ມັລຄີຢາ"
+    }
+  ],
+  "timestamp": "2026-09-09T20:06:40.922057841Z",
+  "model": "glm-5.3"
+}

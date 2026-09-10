@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 35:9",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 35,
+  "translation": "ແລະຫີນຊໍຮຳ ແລະຫີນປະກອບ ສຳລັບເອໂຟດ ແລະຫ້າງນົມ.",
+  "tokens": [
+    {
+      "surface": "ואבני",
+      "gloss": "ແລະຫີນ"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "ຊໍຮຳ"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ແລະຫີນ"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "ປະກອບ"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "ສຳລັບເອໂຟດ"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "ແລະຫ້າງນົມ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:18:24.560564747Z",
+  "model": "glm-5.3"
+}

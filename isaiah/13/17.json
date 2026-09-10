@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "lo",
+  "chapter": 13,
+  "translation": "ເບິ່ງແມ ຂ້ອຍປຸກລົງໃສ່ພວກເຂົາ⟨את⟩ມາດີ ຜູ້ທີ່ບໍ່ຖືເງິນ ແລະບໍ່ຍິນດີໃນຄຳ",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "ເບິ່ງແມຂ້ອຍ"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ປຸກ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ລົງໃສ່ພວກເຂົາ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ມາດີ"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ມາດີ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ຜູ້ທີ່"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ເງິນ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ຖື"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ແລະຄຳ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "ຍິນດີ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ໃນມັນ"
+    }
+  ],
+  "timestamp": "2026-09-08T23:19:43.256976350Z",
+  "model": "glm-5.3"
+}

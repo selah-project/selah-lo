@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ແລະທຸກວັນຂອງເຊັດ ຄືສິບສອງປີ ແລະເກົ້າຮ້ອຍປີ ແລ້ວເພິ່ນຕາຍ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ແລະມີ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງທຸກ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ວັນຂອງ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ເຊັດ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ສິບ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ແລະເກົ້າ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ແລ້ວເພິ່ນຕາຍ"
+    }
+  ],
+  "timestamp": "2026-09-08T15:58:41.763464329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 2:8",
+  "book": "daniel",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ກະສັດຕອບແລະກ່າວວ່າ: ດ້ວຍຄວາມແນ່ນອນເຮົາຮູ້ວ່າພວກເຈົ້າຊື້ເວລາ, ເພາະວ່າພວກເຈົ້າເຫັນວ່າຄຳຄົງທີ່ຈາກເຮົາ.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "ຕອບ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ກະສັດ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ແລະກ່າວ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ດ້ວຍ"
+    },
+    {
+      "surface": "יציב",
+      "gloss": "ຄວາມແນ່ນອນ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ຮູ້"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ເຮົາ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "ເວລາ"
+    },
+    {
+      "surface": "אנתון",
+      "gloss": "ພວກເຈົ້າ"
+    },
+    {
+      "surface": "זבנין",
+      "gloss": "ຊື້"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ທັງ"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "חזיתון",
+      "gloss": "ພວກເຈົ້າເຫັນ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ວ່າ"
+    },
+    {
+      "surface": "אזדא",
+      "gloss": "ຄົງທີ່"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "מלתא",
+      "gloss": "ຄຳ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:26:09.293702574Z",
+  "model": "glm-5.3"
+}

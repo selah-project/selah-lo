@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ແລະເພິ່ນຮຽກຊື່ຂອງບ່ອນນັ້ນວ່າຕາເບຣາຮາ ເພາະໄຟຂອງຢາເວໄໝ້ໃນພວກເຂົາ.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ແລະເພິ່ນຮຽກ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ຊື່"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ຂອງບ່ອນ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ນັ້ນ"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "ຕາເບຣາຮາ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "ໄໝ້"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ໃນພວກເຂົາ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ໄຟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    }
+  ],
+  "timestamp": "2026-09-09T12:59:44.890322532Z",
+  "model": "glm-5.3"
+}

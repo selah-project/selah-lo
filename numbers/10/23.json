@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 10:23",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 10,
+  "translation": "ແລະເທິງກອງທັບຂອງຊົນພັນລູກຫຼານຂອງມະນັດຊາ ກຳມະລິເອນລູກຂອງເປດາຊູຣ.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ແລະເທິງ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ກອງທັບ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ຊົນພັນ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ມະນັດຊາ"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "ກຳມະລິເອນ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "ເປດາ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ຊູຣ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:52:14.804696214Z",
+  "model": "glm-5.3"
+}

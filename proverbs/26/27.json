@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 26:27",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 26,
+  "translation": "ຜູ້ຂຸດຂຸມຈະຕົກລົງໄປໃນຂຸມນັ້ນ ແລະຜູ້ກິ້ນຫີນ ຫີນຈະກັບຄືນມາຫາເພິ່ນ",
+  "tokens": [
+    {
+      "surface": "כרה",
+      "gloss": "ຂຸດ"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ຂຸມ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ໃນຂຸມນັ້ນ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ຈະຕົກ"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "ແລະກິ້ນ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ຫີນ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ຫາເພິ່ນ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ຈະກັບຄືນ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:55:47.982176331Z",
+  "model": "glm-5.3"
+}

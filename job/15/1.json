@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 15:1",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 15,
+  "translation": "ແລະເອລິຟາສຄົນເທມານຕອບແລະກ່າວ",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ແລະຕອບ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ເອລິຟາສ"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "ຄົນເທມານ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະກ່າວ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:27:31.691046575Z",
+  "model": "glm-5.3"
+}

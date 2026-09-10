@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ແລະຂ້າວສາລີແລະໂອດບໍ່ຖືກຕີຍ້ອນວ່າພວກມັນຍັງອ່ອນ.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "ແລະຂ້າວສາລີ"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "ແລະໂອດ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ບໍ່"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "ຖືກຕີ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ຍ້ອນວ່າ"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "ຍັງອ່ອນ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ພວກມັນ"
+    }
+  ],
+  "timestamp": "2026-09-08T17:26:47.063143315Z",
+  "model": "glm-5.3"
+}

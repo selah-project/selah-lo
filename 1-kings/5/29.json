@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 5:29",
+  "book": "1-kings",
+  "lang": "lo",
+  "chapter": 5,
+  "translation": "ແລະມີແກ່ເຊໂລໂມເຈັດສິບໝື່ນໂຕຄົນຍົກສິນ ແລະແປດໝື່ນໂຕຄົນຕັດຫີນໃນພູ",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ແລະມີ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ແກ່ເຊໂລໂມ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ເຈັດສິບ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ໝື່ນ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ຍົກ"
+    },
+    {
+      "surface": "סבל",
+      "gloss": "ສິນ"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ແລະແປດ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ໝື່ນ"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "ຕັດ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ໃນພູ"
+    }
+  ],
+  "timestamp": "2026-09-09T15:30:48.250366427Z",
+  "model": "glm-5.3"
+}

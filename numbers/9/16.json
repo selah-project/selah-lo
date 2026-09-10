@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 9:16",
+  "book": "numbers",
+  "lang": "lo",
+  "chapter": 9,
+  "translation": "ດັ່ງນັ້ນຈະເປັນຕະຫຼອດ ເມກຈະກວມມັນ ແລະຮູບຂອງໄຟກາງຄືນ.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ດັ່ງນັ້ນ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ຈະເປັນ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ຕະຫຼອດ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ເມກ"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "ຈະກວມມັນ"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "ແລະຮູບຂອງ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ໄຟ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ກາງຄືນ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:07:12.431476047Z",
+  "model": "glm-5.3"
+}

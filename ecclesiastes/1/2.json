@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ອາຍ, ອາຍທັງຫຼາຍ, ໂກເຮເລັດເວົ້າ, ອາຍ, ອາຍທັງຫຼາຍ, ທັງໝົດອາຍ.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "ອາຍ"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ອາຍທັງຫຼາຍ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ເວົ້າ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ໂກເຮເລັດ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ອາຍ"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ອາຍທັງຫຼາຍ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ທັງໝົດ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ອາຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:23:32.733519125Z",
+  "model": "glm-5.3"
+}

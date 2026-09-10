@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 22,
+  "translation": "ຈົ່ງຢ່າຫ່າງຈາກຂ້ອຍ ເພາະຄວາມທຸກໃກ້ຢູ່ ເພາະບໍ່ມີຜູ້ຊ່ວຍ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ຈົ່ງຢ່າ"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ຫ່າງ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ຈາກຂ້ອຍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ຄວາມທຸກ"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "ໃກ້ຢູ່"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ເພາະ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ບໍ່ມີ"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "ຜູ້ຊ່ວຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T23:04:02.053787642Z",
+  "model": "glm-5.3"
+}

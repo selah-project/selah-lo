@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 109,
+  "translation": "ລູກຂອງເພິ່ນຈະຂາດພໍ່ ແລະເມຍຂອງເພິ່ນເປັນໝ້ຍ.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ຈະເປັນ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ລູກຂອງເພິ່ນ"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "ຂາດພໍ່"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ແລະເມຍຂອງເພິ່ນ"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "ໝ້ຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:01:28.726926722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 39,
+  "translation": "ແກ່ຜູ້ຄວບຄຸມ ແກ່ເຢດິຖູນ ບົດຂັດສາຍ ຂອງດາວິດ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ແກ່ຜູ້ຄວບຄຸມ"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "ແກ່ເຢດິຖູນ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ບົດຂັດສາຍ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ຂອງດາວິດ"
+    }
+  ],
+  "timestamp": "2026-09-09T04:08:33.200017541Z",
+  "model": "glm-5.3"
+}

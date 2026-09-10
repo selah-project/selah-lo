@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 23:34",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 23,
+  "translation": "ແລະເຈົ້າ⟨ເປັນ⟩ຄືຜູ້ນອນຢູ່ກາງທະເລ ແລະຄືຜູ້ນອນຢູ່ເທິງເສົາ.",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "ແລະເຈົ້າ⟨ເປັນ⟩"
+    },
+    {
+      "surface": "כשכב",
+      "gloss": "ຄືຜູ້ນອນ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ຢູ່ກາງ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ທະເລ"
+    },
+    {
+      "surface": "וכשכב",
+      "gloss": "ແລະຄືຜູ້ນອນ"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "ຢູ່ເທິງ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ເສົາ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:17:27.760605716Z",
+  "model": "glm-5.3"
+}

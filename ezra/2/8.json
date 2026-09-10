@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ລູກຫຼານຂອງຊາຕູອ ເກົ້າຮ້ອຍ ແລະສີ່ສິບ ແລະຫ້າ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຫຼານຂອງ"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "ຊາຕູອ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ເກົ້າ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ແລະສີ່ສິບ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ແລະຫ້າ"
+    }
+  ],
+  "timestamp": "2026-09-09T08:17:05.120971933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 6:30",
+  "book": "1-chronicles",
+  "lang": "lo",
+  "chapter": 6,
+  "translation": "ລູກຂອງຮະຊັບຢາ ລູກຂອງອາມັສຢາ ລູກຂອງຮິລະກິຢາ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ຮະຊັບຢາ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "ອາມັສຢາ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ລູກຂອງ"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "ຮິລະກິຢາ"
+    }
+  ],
+  "timestamp": "2026-09-09T09:16:07.119224499Z",
+  "model": "glm-5.3"
+}

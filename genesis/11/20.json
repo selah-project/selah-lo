@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 11,
+  "translation": "ແລະຣູໄດ້ມີຊີວິດສອງແລະສາມສິບປີແລະໄດ້ກຳເນິດ⟨את⟩ສຣູກ.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ໄດ້ມີຊີວິດ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "ຣູ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ສອງ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ແລະສາມສິບ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ປີ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ແລະໄດ້ກຳເນິດ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ສຣູກ"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "ສຣູກ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:11:25.669431856Z",
+  "model": "glm-5.3"
+}

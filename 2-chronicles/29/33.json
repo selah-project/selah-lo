@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "lo",
+  "chapter": 29,
+  "translation": "ແລະສິ່ງທີ່ຖືກແຍກໄວ້ບໍລິສຸດ ຄືງົວຫົກຮ້ອຍໂຕ ແລະແກະສາມພັນໂຕ.",
+  "tokens": [
+    {
+      "surface": "והקדשים",
+      "gloss": "ແລະສິ່ງທີ່ຖືກແຍກໄວ້ບໍລິສຸດ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ງົວ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ຫົກ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ຮ້ອຍ"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ແລະແກະ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ສາມ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ພັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T10:39:30.984253061Z",
+  "model": "glm-5.3"
+}

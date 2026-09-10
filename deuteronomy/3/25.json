@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ຂໍຂ້ອຍຂ້າມເຖີດ ແລະຂ້ອຍເຫັນ⟨את⟩ແຜ່ນດິນດີຝ່າຍຢາຣະດານ ພູດີນີ້ ແລະຫຼະບານນອນ.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "ຂໍຂ້ອຍຂ້າມ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ເຖີດ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ແລະຂ້ອຍເຫັນ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ແຜ່ນດິນ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ແຜ່ນດິນ"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ທີ່"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ຝ່າຍ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ຢາຣະດານ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ພູ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ດີ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "ແລະຫຼະບານນອນ"
+    }
+  ],
+  "timestamp": "2026-09-08T19:45:12.299505588Z",
+  "model": "glm-5.3"
+}

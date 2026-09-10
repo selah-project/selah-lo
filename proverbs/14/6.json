@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 14:6",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ຜູ້ຫູນຊອກຫາຄວາມປັນຍາແລະບໍ່ມີ ແລະຄວາມຮູ້ງ່າຍແກ່ຜູ້ມີສະຕິ",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "ຊອກຫາ"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "ຜູ້ຫູນ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ຄວາມປັນຍາ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ແລະບໍ່ມີ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ແລະຄວາມຮູ້"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "ແກ່ຜູ້ມີສະຕິ"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "ງ່າຍ"
+    }
+  ],
+  "timestamp": "2026-09-09T19:12:51.713629195Z",
+  "model": "glm-5.3"
+}

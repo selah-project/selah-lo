@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 15:11",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 15,
+  "translation": "ເຊໂອນແລະອາບັດໂດນຢູ່ໜ້າຢາເວ ຍິ່ງກວ່ານັ້ນຫົວໃຈຂອງລູກຫຼານຂອງມະນຸດ.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "ເຊໂອນ"
+    },
+    {
+      "surface": "ואבדון",
+      "gloss": "ແລະອາບັດໂດນ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ຢູ່ໜ້າ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ຍິ່ງ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ກວ່ານັ້ນ"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "ຫົວໃຈ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ຂອງລູກຫຼານ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ຂອງມະນຸດ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:41:04.605756250Z",
+  "model": "glm-5.3"
+}

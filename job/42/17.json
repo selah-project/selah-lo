@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "lo",
+  "chapter": 42,
+  "translation": "ແລະໂຢເຊັບຕາຍ ເປັນຄົນແກ່ ເຕັມດ້ວຍວັນອາຍຸ",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ແລະຕາຍ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ໂຢເຊັບ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ແກ່"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ເຕັມ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ວັນ"
+    }
+  ],
+  "timestamp": "2026-09-09T06:51:41.770134493Z",
+  "model": "glm-5.3"
+}

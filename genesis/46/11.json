@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 46,
+  "translation": "ແລະລູກຊາຍຂອງລີວີ: ເກເຣຊົນ ໂກຮາດ ແລະເມຣາຣີ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ແລະລູກຊາຍຂອງ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ລີວີ"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ເກເຣຊົນ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ໂກຮາດ"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "ແລະເມຣາຣີ"
+    }
+  ],
+  "timestamp": "2026-09-09T21:37:09.765860061Z",
+  "model": "glm-5.3"
+}

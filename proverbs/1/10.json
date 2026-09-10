@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "lo",
+  "chapter": 1,
+  "translation": "ລູກຂອງຂ້ອຍ ຖ້າຄົນຜິດບາບລໍ້າລວນເຈົ້າ ຢ່າຍິນຍອມ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ລູກຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ຖ້າ"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "ລໍ້າລວນ"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ຄົນຜິດບາບ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ຍິນຍອມ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:25:08.011890843Z",
+  "model": "glm-5.3"
+}

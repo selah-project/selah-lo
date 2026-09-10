@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 12:21",
+  "book": "joshua",
+  "lang": "lo",
+  "chapter": 12,
+  "translation": "ກະສັດຂອງຕາອານັກໜຶ່ງອົງ ກະສັດຂອງເມກິດໂດໜຶ່ງອົງ",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດຂອງ"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "ຕາອານັກ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ກະສັດຂອງ"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "ເມກິດໂດ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ໜຶ່ງ"
+    }
+  ],
+  "timestamp": "2026-09-09T22:02:29.532726771Z",
+  "model": "glm-5.3"
+}

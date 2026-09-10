@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "lo",
+  "chapter": 148,
+  "translation": "ພູ ແລະພູນ້ອຍທັງຫຼາຍ ຕົ້ນໄມ້ມີໝາກ ແລະຕົ້ນສີດຄານທັງຫຼາຍ",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "ພູ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ແລະທັງຫຼາຍ"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ພູນ້ອຍ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ຕົ້ນໄມ້"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ໝາກ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ແລະທັງຫຼາຍ"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ຕົ້ນສີດຄານ"
+    }
+  ],
+  "timestamp": "2026-09-09T05:22:17.808991411Z",
+  "model": "glm-5.3"
+}

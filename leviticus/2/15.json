@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "lo",
+  "chapter": 2,
+  "translation": "ແລະຈົ່ງໃສ່ນ້ຳມັນເທິງມັນ ແລະຈົ່ງວາງຢາໄມເທິງມັນ; ມັນເປັນເຄື່ອງບູຊາ.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ແລະຈົ່ງໃສ່"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ເທິງມັນ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ນ້ຳມັນ"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ແລະຈົ່ງວາງ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ເທິງມັນ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ຢາໄມ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ເຄື່ອງບູຊາ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ມັນເປັນ"
+    }
+  ],
+  "timestamp": "2026-09-08T18:14:12.422272553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "lo",
+  "chapter": 7,
+  "translation": "ທຸກມືຈະອ່ອນລົງ ແລະທຸກເຂົ່າຈະໄຫຼຄືນ້ຳ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ທຸກ"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "ມື"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ຈະອ່ອນລົງ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ແລະທຸກ"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "ເຂົ່າ"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "ຈະໄຫຼຄື"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ນ້ຳ"
+    }
+  ],
+  "timestamp": "2026-09-09T01:01:19.546784488Z",
+  "model": "glm-5.3"
+}

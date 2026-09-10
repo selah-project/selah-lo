@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "lo",
+  "chapter": 8,
+  "translation": "ແລະເພິ່ນລໍຖ້າອີກເຈັດວັນອື່ນ ແລະເພິ່ນເພີ່ມສົ່ງ⟨את⟩ນົກຂົວຈາກເຮືອ.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ແລະເພິ່ນລໍຖ້າ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ອີກ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ເຈັດ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ວັນ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ອື່ນ"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ແລະເພິ່ນເພີ່ມ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ສົ່ງ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ນົກຂົວ"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ນົກຂົວ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ຈາກ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ເຮືອ"
+    }
+  ],
+  "timestamp": "2026-09-08T16:04:14.118709853Z",
+  "model": "glm-5.3"
+}

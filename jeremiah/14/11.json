@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "lo",
+  "chapter": 14,
+  "translation": "ແລະຢາເວກ່າວກັບຂ້ອຍວ່າ: ຢ່າອົບພະຍົບແທນຊົນຊາດນີ້ເພື່ອຄວາມດີ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ແລະກ່າວ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ຢາເວ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ກັບຂ້ອຍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ຢ່າ"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "ອົບພະຍົບ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ແທນ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ຊົນຊາດ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ນີ້"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "ເພື່ອຄວາມດີ"
+    }
+  ],
+  "timestamp": "2026-09-09T00:12:10.410764156Z",
+  "model": "glm-5.3"
+}

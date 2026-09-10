@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "lo",
+  "chapter": 3,
+  "translation": "ຂ້ອຍຫັນສິ່ງນີ້ຄືນເຖິງໃຈຂອງຂ້ອຍ ຍ້ອນສະນັ້ນຂ້ອຍຫວັງ.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ສິ່ງນີ້"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ຂ້ອຍຫັນຄືນ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ເຖິງ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ໃຈຂອງຂ້ອຍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ຍ້ອນ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ສະນັ້ນ"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "ຂ້ອຍຫວັງ"
+    }
+  ],
+  "timestamp": "2026-09-09T07:08:46.646293662Z",
+  "model": "glm-5.3"
+}
