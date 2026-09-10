@@ -1,0 +1,118 @@
+#:rendering{:label "ພາສາລາວ",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305507},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared
+             [:role :open-questions :rendering/adjudication]},
+            :role :served,
+            :produced {:from "2026-09-08", :to "2026-09-10"},
+            :id "lo.v1",
+            :catalog {:ui "resources/i18n/ui/lo.edn"},
+            :license "CC BY-SA 4.0 (The Selah Lao Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 23213},
+             :tiers {"glm-5.2" 23210, "glm-5.3" 3},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/lo.md",
+             :rails-commit "4f2cc18c",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אל" "ເອນ",
+              "אלהים" "ເອໂລຮິມ",
+              "אלוה" "ເອໂລອາ",
+              "ב" "ວ",
+              "ג" "ກ",
+              "ד" "ດ",
+              "ה" "ຮ",
+              "ו" "ວ",
+              "ז" "ຊ",
+              "ח" "ຮ",
+              "ט" "ຕ",
+              "י" "ຢ",
+              "יה" "ຢາ",
+              "יהוה" "ຢາເວ",
+              "כ" "ຂ",
+              "ל" "ລ",
+              "מ" "ມ",
+              "נ" "ນ",
+              "ס" "ສ",
+              "פ" "ຟ",
+              "צ" "ສ",
+              "צבאות" "ເສວາໂອດ",
+              "ק" "ກ",
+              "ר" "ຣ",
+              "שדי" "ຊັດດາຍ",
+              "ת" "ທ"},
+             :open-questions
+             ["flag 4 — ພຣະອົງ second-person posture (58 hits incl human referents)"
+              "flag 6 — ⟨את⟩ spacing: 10,251 flush / 1,624 spaced"
+              "paren-shadow posture (301/203 distinct; first-use-only vs 33× ປະໂລຫິດ; multi-spelled shadows)"
+              "pointed-vs-unpointed Hebrew surfaces uniformity"
+              "empty glosses 67 · ellipsis glosses 396"
+              "Tekoa class-B lanes 5-11 (lo-tekoa-report.md lane 14)"]},
+            :status :live,
+            :adjudication
+            {:chair 67,
+             :first :kra-dai-and-first-no-space-script,
+             :polarity :lao-home,
+             :seal
+             {:et-flow 11866,
+              :verses 23213,
+              :aleph-tav [],
+              :et-row 11866,
+              :yhwh-name-seat [6819 6819],
+              :spine-vs-en [23213 23213],
+              :elohim-glosses 2363,
+              :yahweh-glosses 6986,
+              :erasure [0 0 0 0]},
+             :tekoa
+             {:class-a-applied 486,
+              :class-b-filed 11,
+              :report
+              "data/experiments/lo-seating/lo-tekoa-report.md"},
+             :cruxes
+             ["scriptio continua — token counts from token row + OSHB only; no \\b near Lao anywhere"
+              "ໆ banned, reduplication written FULL — 190 over 24 enumerated units"
+              "the +0x8C0 arithmetic — Hebrew leaked INTO the Lao block; 653 surfaces restored against the en floor (incl יהוה at 1 Sam 28:6 and את at Judg 3:24)"
+              "Dan 3:12 FOURTEENTH — יתהון bare pronoun ພວກເຂົາ per siblings"
+              "Buddhist floor held: ນະລົກ/ນິບພານ/ອະນິຈຈັງ zero; הבל → ອາຍ; ເຊໂອນ 53 / ຊາອູນ 397"
+              "wat/kamma/thaen leaks cured at seating; ຈົ່ງສະຫວັດດີ ('Hello, Yahwe') at ברוך → ຈົ່ງສັນລະເສີນ; החשן was ສະຫວັດນິລະມາດ → ໂຄເຊນ"
+              "every :json-error was the ceiling never the model — 24-32k, temp 0.55 twice, glm-5.3 twice"]},
+            :version "v1",
+            :lineage
+            {:git
+             {:repo "selah-project/selah-lo",
+              :ref "v1-final",
+              :commit "89ccea15",
+              :tags ["v1-final"],
+              :branches ["main"]},
+             :parents []},
+            :lang :lo}
